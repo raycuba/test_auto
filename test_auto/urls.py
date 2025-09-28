@@ -19,8 +19,13 @@ from django.urls import path
 from django.urls import include
 
 from test_auto.apps.main.urls import urlpatterns as main_urls
+from test_auto.apps.tests.urls import urlpatterns as test_urls
+from test_auto.apps.examenes.urls import urlpatterns as examenes_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include(main_urls))
+    path('', include('test_auto.apps.main.urls', namespace='home')),
+    path('tests/', include('test_auto.apps.tests.urls', namespace='tests')),
+    path('examenes/', include('test_auto.apps.examenes.urls', namespace='examenes')),
 ]
+

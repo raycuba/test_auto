@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def list(request):
-    return HttpResponse("Lista de tests")
+    return HttpResponse("Lista de exámenes")
