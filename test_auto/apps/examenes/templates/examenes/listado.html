@@ -19,7 +19,7 @@
 
         {% for examen in examenes %}
         <div class="col-12 col-md-3">
-            <a href="{% url 'examenes:pregunta_view' examen.name 0 %}" class="btn btn-primary menu-button">{{ examen.name }}</a>
+            <a href="{% url 'examenes:pregunta_view' examen.name 1 %}" class="btn btn-primary menu-button">{{ examen.name }}</a>
         </div>
         {% endfor %}
     </div>

@@ -1,6 +1,6 @@
 {% extends "base/base.html" %}
 {% load static%}
-{% block title %}Pregunta {{ numero|add:1 }} - {{ examen }}{% endblock %}
+{% block title %}Pregunta {{ numero }} - {{ examen }}{% endblock %}
 
 {% block content %}
 <style>
@@ -14,35 +14,46 @@
 </style>
 
 <div class="container">
-    <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ numero|add:1 }} de {{ total }}</h2>
 
     <div class="row">
-        <div class="row">
-            <div class="col-md-8">
-                <h4>{{ pregunta.pregunta }}</h4>
+        <div class="col-md-8">
+        </div>
+        <div class="col-md-2 text-md-end">
+            <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
+        </div>
+        <div class="col-md-2 text-md-end">
+            <a href="{% url 'examenes:clean_respuestas' examen=examen %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
+        </div>
+    </div>
 
-                <div id="respuestas">
-                    {% for clave, texto in pregunta.respuestas.items %}
-                        <button class="btn btn-outline-secondary respuesta-btn text-start" data-clave="{{ clave }}">{{ texto }}</button>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="col-md-4 text-md-end">
-                {% if pregunta.imagen %}
-                <img src="{% static 'examenes/' %}{{ examen }}/{{ pregunta.imagen }}" class="img-fluid my-3" alt="Imagen relacionada">
-                {% endif %}
+    <div class="row">
+        <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ numero }} de {{ total }}</h2>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <h4>{{ pregunta.pregunta }}</h4>
+
+            <div id="respuestas">
+                {% for clave, texto in pregunta.respuestas.items %}
+                    <button class="btn btn-outline-secondary respuesta-btn text-start" data-clave="{{ clave }}">{{ texto }}</button>
+                {% endfor %}
             </div>
         </div>
-
+        <div class="col-md-4 text-md-end">
+            {% if pregunta.imagen %}
+            <img src="{% static 'examenes/' %}{{ examen }}/{{ pregunta.imagen }}" class="img-fluid my-3" alt="Imagen relacionada">
+            {% endif %}
+        </div>
     </div>
 
     <div class="d-flex justify-content-between mt-4">
-        {% if numero > 0 %}
+        {% if numero > 1 %}
             <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:-1 %}" class="btn btn-secondary">Anterior</a>
         {% else %}
             <span></span>
         {% endif %}
-        {% if numero < total|add:-1 %}
+        {% if numero < total %}
             <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:1 %}" class="btn btn-primary">Próxima</a>
         {% endif %}
     </div>
@@ -52,7 +63,8 @@
     const botones = document.querySelectorAll('.respuesta-btn');
     const correcta = "{{ pregunta.respuestaCorrecta }}";
     const examen = "{{ examen }}";
-    const pregunta = "{{ numero|add:1 }}";
+    const pregunta = "{{ numero }}";
+    const preselected = "{{ preselected|default:'0' }}";
 
     botones.forEach(btn => {
         btn.addEventListener('click', () => {
@@ -88,6 +100,11 @@
                 console.log("Respuesta registrada:", data);
             });
         });
+
+        // Activar automáticamente si coincide con preselected
+        if (btn.getAttribute('data-clave') === preselected) {
+            btn.click();
+        }
     });
 </script>
 {% endblock %}
