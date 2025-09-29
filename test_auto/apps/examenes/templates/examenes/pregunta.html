@@ -1,16 +1,17 @@
 {% extends "base/base.html" %}
 {% load static%}
-{% block title %}Pregunta {{ numero }} - {{ examen }}{% endblock %}
+{% block title %}Preguntas - Auto Escuela{% endblock %}
 
 {% block content %}
 <style>
     .respuesta-btn {
+        color: #000 !important;
         display: block;
         margin: 10px 0;
         font-size: 1.2rem;
     }
-    .correcta { background-color: #d4edda !important; }
-    .incorrecta { background-color: #f8d7da !important; }
+    .correcta { color: white !important; background-color: #009222ff !important; }
+    .incorrecta { color: white !important; background-color: #a3000eff !important; }
 </style>
 
 <div class="container">

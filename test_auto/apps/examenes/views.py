@@ -11,21 +11,20 @@ from django.shortcuts import redirect
 
 # Create your views here.
 
-def list(request):
-    
-    # listar los archivos JSON en el directorio especificado JSONS_DATA_PATH / examenes ordenados por nombre
-    examenes_dir = JSONS_DATA_PATH / "examenes"
-    examenes_files = sorted(examenes_dir.glob("*.json"), key=lambda f: f.name)
-    
-    # quitar la extensión .json de los nombres de los archivos
-    examenes_files = [f.with_suffix('') for f in examenes_files]
-
-    return render(request, 'examenes/listado.html', {'examenes': examenes_files})
-
-
-def pregunta_view(request, examen, numero):
-    print(f"Ver Pregunta. Examen: {examen}, Pregunta: {numero}")
-    
+def load_preguntas(examen) -> list:
+    """
+    Carga las preguntas de un examen desde un archivo JSON.
+    Salida: 
+    - Lista de preguntas (diccionarios)
+    Cada pregunta es un diccionario con las claves:
+    - numero: int
+    - pregunta: str
+    - opciones: list de str
+    - correcta: int (índice de la opción correcta)
+    - practica: bool (opcional)
+    - imagen: str (nombre del archivo de imagen asociado a la pregunta)
+    Si el archivo no existe, lanza Http404
+    """
     ruta = JSONS_DATA_PATH / "examenes" / f"{examen}.json"
     if not ruta.exists():
         raise Http404("Examen no encontrado")
@@ -34,10 +33,66 @@ def pregunta_view(request, examen, numero):
         preguntas = json.load(f)
         
     # Añadir a cada pregunta un campo imagen con el numero de la pregunta
-    preguntas = [{**p, "imagen": f"{i+1}.png"} for i, p in enumerate(preguntas)]
+    for pregunta in preguntas:
+        pregunta["imagen"] = f"{pregunta['numeroPregunta']}.png"
         
     # quitar los jsons que no tengan la clave "practica"= true
     preguntas = [p for p in preguntas if p.get("practica", False)]
+    
+    return preguntas
+
+
+def list(request):
+    # listar los archivos JSON en el directorio especificado JSONS_DATA_PATH / examenes ordenados por nombre
+    examenes_dir = JSONS_DATA_PATH / "examenes"
+    examenes_files = sorted(examenes_dir.glob("*.json"), key=lambda f: f.name)
+    
+    # quitar la extensión .json de los nombres de los archivos
+    examenes_files = [f.with_suffix('') for f in examenes_files]
+    
+    # Crear una lista con los nombres de los examenes, un campo desaprobado si tienen mas de 3 respuestas incorrectas
+    examenes = []
+    for examen_file in examenes_files:
+        examen = {
+            "name": examen_file.name,
+        }
+        
+        # obtener las preguntas del examen de los json
+        preguntas = load_preguntas(examen_file)
+        cant_preguntas = len(preguntas)
+        
+        # obtener las respuestas del examen de la base de datos
+        respuestas = RespuestaExamen.objects.filter(examen=examen_file.name)
+        cant_respuestas = respuestas.count()
+    
+        incorrectas = 0
+        index = 0
+        for pregunta in preguntas:
+            respuesta = respuestas.filter(pregunta_numero=index).only("respuesta_seleccionada").first()
+            if respuesta and respuesta.respuesta_seleccionada != str(pregunta["respuestaCorrecta"]):
+                incorrectas += 1
+                
+            index += 1
+        
+        if cant_respuestas == 0:
+            examen['estado'] = 'sin_hacer'
+        elif cant_respuestas < cant_preguntas:
+            examen['estado'] = 'incompleto'
+        else:
+            if incorrectas > 3:
+                examen['estado'] = 'desaprobado'
+            else:
+                examen['estado'] = 'aprobado'
+                
+        examenes.append(examen)
+
+    return render(request, 'examenes/listado.html', {'examenes': examenes})
+
+
+def pregunta_view(request, examen, numero):
+    print(f"Ver Pregunta. Examen: {examen}, Pregunta: {numero}")
+    
+    preguntas = load_preguntas(examen)
     
     # Verificar en la base de datos si hay una respuesta guardada para este examen y pregunta
     # Si existe, preseleccionar la respuesta guardada
