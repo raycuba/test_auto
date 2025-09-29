@@ -10,4 +10,5 @@ urlpatterns = [
     path('pregunta_view/<str:examen>/<int:numero>/', views.pregunta_view, name='pregunta_view'),
     path('respuesta/', views.registrar_respuesta, name='registrar_respuesta'),
     path('clean_respuestas/<str:examen>/', views.clean_respuestas, name='clean_respuestas'),
+    path('resultado/<str:examen>/', views.resultado_view, name='resultado_view'),
 ]

@@ -17,12 +17,12 @@ def load_preguntas(examen) -> list:
     Salida: 
     - Lista de preguntas (diccionarios)
     Cada pregunta es un diccionario con las claves:
-    - numero: int
+    - numeroPregunta: int
     - pregunta: str
-    - opciones: list de str
-    - correcta: int (índice de la opción correcta)
+    - respuestas: list de dict { numero: str, texto: str }
+    - respuestaCorrecta: int (índice de la opción correcta)
     - practica: bool (opcional)
-    - imagen: str (nombre del archivo de imagen asociado a la pregunta)
+    - imagen: str = (nombre del archivo de imagen asociado a la pregunta).png
     Si el archivo no existe, lanza Http404
     """
     ruta = JSONS_DATA_PATH / "examenes" / f"{examen}.json"
@@ -62,17 +62,14 @@ def list(request):
         cant_preguntas = len(preguntas)
         
         # obtener las respuestas del examen de la base de datos
-        respuestas = RespuestaExamen.objects.filter(examen=examen_file.name)
-        cant_respuestas = respuestas.count()
-    
+        respuestasExamen = RespuestaExamen.objects.filter(examen=examen_file.name)
+        cant_respuestas = respuestasExamen.count()
+
         incorrectas = 0
-        index = 0
         for pregunta in preguntas:
-            respuesta = respuestas.filter(pregunta_numero=index).only("respuesta_seleccionada").first()
-            if respuesta and respuesta.respuesta_seleccionada != str(pregunta["respuestaCorrecta"]):
+            respuesta = respuestasExamen.filter(pregunta_numero=pregunta["numeroPregunta"]).only("respuesta_seleccionada").first()
+            if respuesta and str(respuesta.respuesta_seleccionada) != str(pregunta["respuestaCorrecta"]):
                 incorrectas += 1
-                
-            index += 1
         
         if cant_respuestas == 0:
             examen['estado'] = 'sin_hacer'
@@ -93,6 +90,10 @@ def pregunta_view(request, examen, numero):
     print(f"Ver Pregunta. Examen: {examen}, Pregunta: {numero}")
     
     preguntas = load_preguntas(examen)
+    total_preguntas = len(preguntas)
+    
+    respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+    cant_respuestas = respuestasExamen.count()
     
     # Verificar en la base de datos si hay una respuesta guardada para este examen y pregunta
     # Si existe, preseleccionar la respuesta guardada
@@ -103,21 +104,43 @@ def pregunta_view(request, examen, numero):
         preselected = respuesta.respuesta_seleccionada
     except RespuestaExamen.DoesNotExist:
         preselected = 0
+        
+    numeroPreguntaAnterior = None
+    numeroPreguntaSiguiente = None
 
     try:
-        pregunta = preguntas[numero-1]  # Restar 1 para índice basado en 0
+        if numero == -1:
+            pregunta = preguntas[0]  # Primera pregunta
+        else:
+            #buscar la pregunta con numeroPregunta == numero
+            pregunta = next(p for p in preguntas if p["numeroPregunta"] == numero)
+            
+        #deteriminar el índice de la pregunta en la lista
+        indice = preguntas.index(pregunta)
+
+        numeroPreguntaAnterior = preguntas[indice - 1]['numeroPregunta'] if indice > 0 else None
+        numeroPreguntaSiguiente = preguntas[indice + 1]['numeroPregunta'] if indice < len(preguntas) - 1 else None
+
     except IndexError:
         raise Http404("Pregunta no disponible")
     
-    print(pregunta)
-    print(preselected)
+    if numeroPreguntaSiguiente is None:
+        completado = total_preguntas == cant_respuestas
+    else:
+        completado = False
 
     contexto = {
         "pregunta": pregunta,
         "numero": numero,
+        "indice": indice,
         "total": len(preguntas),
         "examen": examen,
         "preselected": preselected,
+        "numeroPreguntaAnterior": numeroPreguntaAnterior,
+        "numeroPreguntaSiguiente": numeroPreguntaSiguiente,
+        "total_preguntas": total_preguntas,
+        "cant_respuestas": cant_respuestas,
+        "completado": completado,
     }
     return render(request, "examenes/pregunta.html", contexto)
 
@@ -144,8 +167,16 @@ def registrar_respuesta(request):
                 respuesta_seleccionada=seleccionada
             )
             respuesta.save()
+            
+        preguntas = load_preguntas(examen)
+        total_preguntas = len(preguntas)
+        
+        respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+        cant_respuestas = respuestasExamen.count()
+        
+        completado = total_preguntas == cant_respuestas
 
-        return JsonResponse({"status": "ok", "examen": examen, "pregunta": pregunta, "seleccionada": seleccionada})
+        return JsonResponse({"status": "ok", "examen": examen, "pregunta": pregunta, "seleccionada": seleccionada, "completado": completado})
     return JsonResponse({"error": "Método no permitido"}, status=405)
 
 def clean_respuestas(request, examen):
@@ -160,4 +191,37 @@ def clean_respuestas(request, examen):
     return redirect('examenes:pregunta_view', examen=examen, numero=1) # Redirigir a la pregunta 1 del examen "test"
 
 
+def resultado_view(request, examen):
+    """
+    Muestra el resultado del examen.
+    """
+    preguntas = load_preguntas(examen)
+    total_preguntas = len(preguntas)
+    
+    respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+    cant_respuestas = respuestasExamen.count()
+    
+    correctas = 0
+    incorrectas = 0
+    for pregunta in preguntas:
+        respuesta = respuestasExamen.filter(pregunta_numero=pregunta["numeroPregunta"]).only("respuesta_seleccionada").first()
 
+        if respuesta:
+            if str(respuesta.respuesta_seleccionada) == str(pregunta["respuestaCorrecta"]):
+                correctas += 1
+            else:
+                incorrectas += 1
+    
+    aprobada = incorrectas <= 3 and cant_respuestas == total_preguntas
+    
+    contexto = {
+        "examen": examen,
+        "total_preguntas": total_preguntas,
+        "cant_respuestas": cant_respuestas,
+        "correctas": correctas,
+        "incorrectas": incorrectas,
+        "aprobada": aprobada,
+    }
+    print(f"contexto: {contexto}")
+    
+    return render(request, "examenes/resultado.html", contexto)

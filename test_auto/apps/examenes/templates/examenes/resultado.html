@@ -1,0 +1,59 @@
+{% extends "base/base.html" %}
+{% block title %}Resultado del Examen {{ examen }}{% endblock %}
+
+{% block content %}
+<style>
+    .resultado-box {
+        padding: 2rem;
+        border-radius: 1rem;
+        color: #fff;
+        text-align: center;
+    }
+    .bg-aprobado { background-color: #28a745; }     /* verde */
+    .bg-reprobado { background-color: #dc3545; }     /* rojo */
+    .bg-parcial   { background-color: #ffc107; }     /* amarillo */
+</style>
+
+{% comment %}
+    Determinar clase según estado de aprobación
+{% endcomment %}
+
+<div class="container mt-5">
+
+    <div class="row">
+        <div class="col-md-10">
+        </div>
+        <div class="col-md-2 text-md-end">
+            <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
+        </div>
+    </div>
+
+</div>
+
+<div class="container mt-5">
+    <div class="resultado-box 
+        {% if aprobada %}
+            bg-aprobado
+        {% elif cant_respuestas < total_preguntas %}
+            bg-parcial
+        {% else %}
+            bg-reprobado
+        {% endif %}
+    ">
+        <h2 class="mb-4">Resultado del Examen: {{ examen }}</h2>
+        <p><strong>Total de preguntas:</strong> {{ total_preguntas }}</p>
+        <p><strong>Respondidas correctamente:</strong> {{ correctas }}</p>
+        <p><strong>Fallos:</strong> {{ incorrectas }}</p>
+        <hr class="my-4">
+        <h4>
+            {% if aprobada %}
+                ¡Examen aprobado! Excelente trabajo.
+            {% elif cant_respuestas >= total_preguntas|divisibleby:2 %}
+                Aún no aprobado, pero vas por buen camino.
+            {% else %}
+                Necesitas repasar más. ¡Ánimo!
+            {% endif %}
+        </h4>
+    </div>
+</div>
+{% endblock %}

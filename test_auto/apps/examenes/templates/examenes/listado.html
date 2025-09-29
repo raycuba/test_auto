@@ -9,6 +9,9 @@
         height: 100px;
         font-size: 1.8rem;
     }
+    .bg-aprobado { background-color: #28a745; }     /* verde */
+    .bg-reprobado { background-color: #dc3545; }     /* rojo */
+    .bg-parcial   { background-color: #ffc107; }     /* amarillo */
 </style>
 
 <div class="container">
@@ -21,11 +24,11 @@
         <div class="col-12 col-md-3">
             <a href="{% url 'examenes:pregunta_view' examen.name 1 %}" class="btn 
                 {% if examen.estado == 'aprobado' %}
-                    btn-primary
+                    btn-primary bg-aprobado 
                 {% elif examen.estado == 'desaprobado' %}
-                    btn-danger
+                    btn-danger bg-reprobado
                 {% elif examen.estado == 'incompleto' %}
-                    btn-warning
+                    btn-warning bg-parcial
                 {% else %}
                     btn-secondary
                 {% endif %} 

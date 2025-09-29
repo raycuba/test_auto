@@ -28,7 +28,7 @@
     </div>
 
     <div class="row">
-        <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ numero }} de {{ total }}</h2>
+        <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ indice|add:1 }} de {{ total }}</h2>
     </div>
 
     <div class="row">
@@ -49,13 +49,17 @@
     </div>
 
     <div class="d-flex justify-content-between mt-4">
-        {% if numero > 1 %}
-            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:-1 %}" class="btn btn-secondary">Anterior</a>
+        {% if numeroPreguntaAnterior != None %}
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaAnterior %}" class="btn btn-secondary">Anterior</a>
         {% else %}
             <span></span>
         {% endif %}
-        {% if numero < total %}
-            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:1 %}" class="btn btn-primary">Próxima</a>
+        {% if numeroPreguntaSiguiente != None %}
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaSiguiente %}" class="btn btn-primary">Próxima</a>
+        {% elif completado %}
+            <a href="{% url 'examenes:resultado_view' examen=examen %}" class="btn btn-success">Resultados</a>
+        {% else %}
+            <a href="{% url 'examenes:resultado_view' examen=examen %}" class="btn btn-success d-none">Resultados</a>
         {% endif %}
     </div>
 </div>
@@ -99,6 +103,10 @@
             .then(response => response.json())
             .then(data => {
                 console.log("Respuesta registrada:", data);
+                if (data.completado) {
+                    const resultadoBtn = document.querySelector('a.btn.btn-success.d-none');
+                    resultadoBtn.classList.remove('d-none');
+                }
             });
         });
 
