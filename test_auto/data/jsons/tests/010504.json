@@ -1,0 +1,57 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Dos vehículos del mismo tipo se encuentran en un estrechamiento y no se sabe cuál tiene preferencia, ¿cuál de ellos tiene prioridad?",
+        "respuestas": {
+            "1": "El vehículo que tenga mayor anchura o longitud.",
+            "2": "El vehículo que tenga que dar marcha atrás una menor distancia.",
+            "3": "El vehículo que tenga que dar marcha atrás mayor distancia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En un puente que disponga de un ancho de calzada inferior a 6 metros, ¿qué vehículos tienen prohibido cruzarse?",
+        "respuestas": {
+            "1": "Los vehículos articulados.",
+            "2": "Los vehículos prioritarios en servicio urgente.",
+            "3": "Los vehículos que necesitan una autorización especial para circular."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si en un tramo de gran pendiente se encuentran dos vehículos en una zona estrecha donde no pueden cruzarse, ¿qué vehículo tendrá preferencia de paso, como norma general?",
+        "respuestas": {
+            "1": "El que tenga mayor masa máxima autorizada.",
+            "2": "El que circula en sentido descendente.",
+            "3": "El que circula en sentido ascendente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En los estrechamientos en tramos de gran pendiente, si no hay señalización expresa al efecto, tendrá la preferencia de paso el vehículo que circule en sentido...",
+        "respuestas": {
+            "1": "descendente, salvo si pudiera llegar antes a un apartadero.",
+            "2": "ascendente, salvo si pudiera llegar antes a un apartadero.",
+            "3": "ascendente, en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Como norma general, en un tramo de vía estrecho de gran pendiente debe ceder el paso...",
+        "respuestas": {
+            "1": "el vehículo que sube.",
+            "2": "el vehículo que baja.",
+            "3": "el vehículo más ligero."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si toma analgésicos narcóticos para tratar algún dolor intenso, lo más aconsejable es...",
+        "respuestas": {
+            "1": "conducir con normalidad, ya que no tienen efectos secundarios.",
+            "2": "conducir solo de noche, ya que sus efectos secundarios son menores.",
+            "3": "no conducir mientras dure el tratamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En una calzada con nieve, ¿el uso brusco o inadecuado de los frenos puede ser causa de derrape?",
+        "respuestas": {
+            "1": "Sí, si se frena bruscamente, los neumáticos pueden perder la adherencia sobre el pavimento.",
+            "2": "No, si las ruedas están perfectamente alineadas y equilibradas.",
+            "3": "No, si los neumáticos tienen la presión de inflado recomendada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Debe saber que el número 112 de servicios de emergencia...",
+        "respuestas": {
+            "1": "es un servicio de tarifa reducida y se necesita cobertura en el teléfono móvil para acceder a él.",
+            "2": "es gratuito y en algunos casos se puede acceder a él sin cobertura en el teléfono móvil.",
+            "3": "en algunas Comunidades Autónomas es gratuito y en otras de pago."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En una vía urbana, ¿está permitido parar en una intersección?",
+        "respuestas": {
+            "1": "Sí, siempre que no dificulte el giro a otros vehículos.",
+            "2": "Sí, en todo caso.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Parque nacional.",
+            "2": "Peligro, coto de caza.",
+            "3": "Peligro, paso frecuentado por animales en libertad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta intersección, ¿qué vehículos están obligados a detenerse?",
+        "respuestas": {
+            "1": "Todos.",
+            "2": "El rojo y el azul.",
+            "3": "El verde y el rojo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "El paso a los vehículos de menos de 2 metros de ancho, incluida la carga.",
+            "2": "El paso a todos los vehículos cuando su carga sobresalga por los laterales.",
+            "3": "El paso a los vehículos de más de 2 metros de ancho, incluida la carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Es importante cumplir con los límites inferiores de velocidad?",
+        "respuestas": {
+            "1": "Sí, para evitar causar accidentes.",
+            "2": "No, ya que los límites inferiores son sólo orientativos.",
+            "3": "Sí, pero sólo para no ser sancionado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En esta vía se ha habilitado un carril adicional. ¿Circula correctamente el turismo amarillo?",
+        "respuestas": {
+            "1": "Sí, siempre que no supere los 80 km/h.",
+            "2": "No, porque circula invadiendo el arcén.",
+            "3": "No, porque no lleva encendida, al menos, la luz de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Qué puede verse afectado si cambia el carenado de una motocicleta?",
+        "respuestas": {
+            "1": "La visibilidad del vehículo.",
+            "2": "La estética, exclusivamente.",
+            "3": "La aerodinámica y el consumo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Como norma general, ¿dónde está prohibido adelantar?",
+        "respuestas": {
+            "1": "En las vías de menos de 6 metros de anchura.",
+            "2": "En las vías de un carril para cada sentido.",
+            "3": "En los pasos para peatones y cerca de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En detenciones de más de 60 segundos, es importante...",
+        "respuestas": {
+            "1": "apagar el motor para disminuir la contaminación.",
+            "2": "conectar la señal de emergencia.",
+            "3": "encender todas las luces."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "obliga a desviarse a la derecha.",
+            "2": "obliga a seguir de frente.",
+            "3": "informa de que el carril de la derecha se desvía hacia ese mismo lado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Un turismo, ¿qué documentos debe llevar?",
+        "respuestas": {
+            "1": "El permiso de conducción y la licencia de conducción.",
+            "2": "El recibo del impuesto de circulación y certificado de garantía.",
+            "3": "El permiso de circulación, la tarjeta de inspección técnica y el recibo del seguro obligatorio."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Circulando por esta vía y a la vista de la señal, ¿tiene prioridad de paso?",
+        "respuestas": {
+            "1": "En un paso estrecho siempre tiene prioridad el vehículo que entra el primero.",
+            "2": "Sí.",
+            "3": "No, la señal indica prioridad de paso en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "La señal...",
+        "respuestas": {
+            "1": "indica la proximidad de un tramo con tráfico denso.",
+            "2": "indica la proximidad de un peligro distinto de los advertidos por otras señales.",
+            "3": "reitera la información dada por otra señal de peligro anterior."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si debido a una avería, un turismo circula a velocidad anormalmente reducida, sin interrumpir la circulación, ¿por dónde debe circular?",
+        "respuestas": {
+            "1": "Por el arcén, obligatoriamente.",
+            "2": "No podrá seguir circulando, en ningún caso.",
+            "3": "Por la parte derecha de la calzada sin invadir el arcén."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Enciende el intermitente izquierdo para cambiar de carril. ¿Cuándo debe apagarlo?",
+        "respuestas": {
+            "1": "Cuando ya he cambiado de carril.",
+            "2": "Al recorrer 200 metros por el nuevo carril.",
+            "3": "Cuando vuelva al carril derecho."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En esta carretera, ¿está permitido circular por el centro de la calzada?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal alguna que lo prohíba.",
+            "2": "No, porque se debe circular por la derecha.",
+            "3": "Sí, porque no vienen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "De las siguientes circunstancias, ¿cuál favorece la aparición de la fatiga?",
+        "respuestas": {
+            "1": "Circular por una vía con el firme en buen estado.",
+            "2": "Conducir con buen tiempo por una carretera sin apenas tráfico.",
+            "3": "Un mal diseño del asiento o del cuadro de mandos del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Si conducimos de noche para evitar los atascos debemos tener en cuenta que...",
+        "respuestas": {
+            "1": "el sueño o la somnolencia al volante aparecen con mayor facilidad.",
+            "2": "no es necesario descansar en trayectos largos, ya que durante la noche no aparece la fatiga.",
+            "3": "la oscuridad impide la aparición del sueño, pero favorece la aparición de la fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En ciertos casos, ¿por qué es aconsejable poner a los heridos en posición lateral de seguridad o de defensa?",
+        "respuestas": {
+            "1": "Para que recuperen el conocimiento.",
+            "2": "Para evitar que se asfixie.",
+            "3": "Para mejorar la circulación de la sangre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En un túnel, ¿qué distancia de seguridad mínima debe mantener el conductor de un turismo con el vehículo de delante si no pretende adelantar?",
+        "respuestas": {
+            "1": "100 metros o un intervalo de 4 segundos.",
+            "2": "50 metros o un intervalo de 3 segundos.",
+            "3": "200 metros o un intervalo de 10 segundos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán inmovilizar un vehículo cuando...",
+        "respuestas": {
+            "1": "su conductor no disponga del permiso de circulación original.",
+            "2": "su conductor sea sancionado dos veces en el mismo día.",
+            "3": "supere los niveles de gases, humos y ruidos permitidos reglamentariamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una vía interurbana insuficientemente iluminada, un turismo circula a menos de 40 km/h, ¿puede circular utilizando solo la luz de posición y la de corto alcance?",
+        "respuestas": {
+            "1": "Sí, aunque puede encender la de largo alcance si no deslumbra a otros usuarios.",
+            "2": "No, es obligatorio que circule con la luz de largo alcance encendida.",
+            "3": "Solo cuando circule por una travesía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En esta vía, ¿qué distancia es obligatorio dejar con el vehículo que circula delante, al que no se pretende adelantar?",
+        "respuestas": {
+            "1": "La distancia de seguridad solamente.",
+            "2": "La distancia de seguridad y la que permita a los demás adelantar.",
+            "3": "50 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Está permitido circular con las puertas abiertas para aumentar la capacidad de carga del vehículo?",
+        "respuestas": {
+            "1": "Solo si la carga es indivisible y la puerta está bien sujeta.",
+            "2": "Sí, está permitido circular con la puerta del maletero abierta.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Cuando una señal vertical contradice a una señal de balizamiento fijo prevalece la señal...",
+        "respuestas": {
+            "1": "vertical.",
+            "2": "más restrictiva.",
+            "3": "de balizamiento fijo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Una cuadrícula de marcas blancas y rojas prohíbe...",
+        "respuestas": {
+            "1": "solamente la parada.",
+            "2": "solamente el estacionamiento.",
+            "3": "la parada, el estacionamiento o la utilización con otros fines."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Durante la conducción, ¿está permitido arrojar la colilla de un cigarro a la vía o en sus inmediaciones?",
+        "respuestas": {
+            "1": "No, porque puede provocar un incendio o poner en peligro a otros usuarios.",
+            "2": "Solo si se circula por una vía urbana.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

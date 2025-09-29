@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando llueve, ¿hay que prestar especial atención a alguna zona de la vía en particular?",
+        "respuestas": {
+            "1": "No, puesto que circular con lluvia es muy peligroso en todas partes.",
+            "2": "Sí, a los badenes y a las zonas en las que se pueden producir charcos.",
+            "3": "No, únicamente hay que prestar atención cuando hay niños en las proximidades."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que el itinerario que sigue de frente tiene prioridad.",
+            "2": "Que el itinerario que sigue el ramal de la derecha tiene prioridad.",
+            "3": "Que el itinerario que sigue el ramal de la izquierda tiene prioridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Cuándo podrá utilizarse la luz antiniebla delantera?",
+        "respuestas": {
+            "1": "Siempre que se circula de noche.",
+            "2": "Cuando existan condiciones ambientales que disminuyan sensiblemente la visibilidad.",
+            "3": "Entre la puesta y la salida del sol en travesías insuficientemente iluminadas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los agentes de la autoridad encargados de la vigilancia del tráfico, ¿cuándo podrán proceder a la inmovilización de una motocicleta?",
+        "respuestas": {
+            "1": "Cuando su conductor no lleve puesto el casco de protección.",
+            "2": "Siempre que su conductor sea menor de 18 años.",
+            "3": "Cuando la carga sobresalga por su parte trasera más de 0,1 metros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Cuál de las siguientes circunstancias hace que aumente el consumo de combustible?",
+        "respuestas": {
+            "1": "Circular con unos neumáticos que carezcan de dibujo.",
+            "2": "Circular con las ventanillas del vehículo subidas.",
+            "3": "Circular con el vehículo muy cargado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Un turismo que circula entre la puesta y la salida del sol, ¿debe llevar iluminadas las placas de matrícula?",
+        "respuestas": {
+            "1": "Sólo la placa delantera.",
+            "2": "Sí, tanto la placa delantera como la trasera.",
+            "3": "Sólo la placa trasera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El navegador GPS, ¿puede ser peligroso para la conducción?",
+        "respuestas": {
+            "1": "Sí, cuando nos lleva por una ruta distinta a la habitual.",
+            "2": "No, es de gran ayuda a la conducción.",
+            "3": "Sí, cuando produce distracciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En calzadas con doble sentido de circulación, y dos carriles, sin delimitar por marcas viales. ¿Por dónde se debe de circular?",
+        "respuestas": {
+            "1": "Por el carril derecho.",
+            "2": "Por el centro de la calzada.",
+            "3": "Por cualquiera de los dos carriles si no vienen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, salvo que la ayuda ya esté organizada.",
+            "3": "Sólo si lo solicita algún herido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La conducción preventiva permite...",
+        "respuestas": {
+            "1": "ahorrar combustible.",
+            "2": "evitar totalmente los atropellos.",
+            "3": "reaccionar con tiempo suficiente para evitar riesgos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La velocidad del vehículo se puede reducir...",
+        "respuestas": {
+            "1": "sólo con el motor.",
+            "2": "con los frenos y con el motor.",
+            "3": "sólo con los frenos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Conforme a los datos de accidentalidad, ¿en qué tipo de vehículo fallece un mayor número de conductores en accidentes de tráfico?",
+        "respuestas": {
+            "1": "Furgoneta.",
+            "2": "Turismo.",
+            "3": "Motocicleta."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Para conducir de forma segura, el conductor debe...",
+        "respuestas": {
+            "1": "utilizar cascos o auriculares cuando hable por teléfono mientras circula.",
+            "2": "utilizar preferentemente el carril izquierdo de circulación.",
+            "3": "centrar toda su atención en la tarea de la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Con un herido en accidente. ¿Qué debe hacer primero?",
+        "respuestas": {
+            "1": "Comprobar la respiración, el pulso y si está consciente.",
+            "2": "Llevarlo al hospital en mi vehículo para que lo vean.",
+            "3": "Darle alguna bebida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En un vehículo de más de 5 metros, destinado al transporte de mercancías, una carga de longitud indivisible puede sobresalir...",
+        "respuestas": {
+            "1": "3 metros por la parte anterior y 2 por la posterior.",
+            "2": "2 metros por la parte anterior y 3 por la posterior.",
+            "3": "el 15% de la longitud del vehículo por delante y por detrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Se considera que una parada o estacionamiento obstaculiza gravemente la circulación cuando...",
+        "respuestas": {
+            "1": "se obstaculiza la utilización normal de los pasos rebajados para disminuidos físicos.",
+            "2": "se realiza en una vía pública calificada de atención preferente.",
+            "3": "se efectúa en doble fila."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si circula por una autopista con un camión de 3.000 kg de MMA, ¿que distancia es obligatorio dejar con el vehículo que va delante si no pretende adelantar?",
+        "respuestas": {
+            "1": "50 metros.",
+            "2": "La que permita detenerse, en caso de frenado brusco, sin colisionar con él.",
+            "3": "100 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué debe hacer el conductor del vehículo amarillo?",
+        "respuestas": {
+            "1": "Detenerse, para que se incorpore el turismo azul.",
+            "2": "Facilitar, en la medida de lo posible, la incorporación del turismo azul.",
+            "3": "Ceder el paso al turismo azul, pero sin detenerse."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si entra en una curva a la izquierda a velocidad excesiva, la fuerza centrífuga, ¿puede afectar a la trayectoria del vehículo?",
+        "respuestas": {
+            "1": "Sí, se desplazará hacia la izquierda de la calzada.",
+            "2": "Sí, se desplazará hacia la derecha de calzada.",
+            "3": "No, la fuerza centrífuga no afecta a la trayectoria del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En un paso para peatones, ¿está permitido estacionar o hacer una parada?",
+        "respuestas": {
+            "1": "Estacionar no está permitido, pero hacer una parada sí.",
+            "2": "No está permitido ni estacionar ni parar.",
+            "3": "Está permitido hacer una parada de hasta 2 minutos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Uno de los principales motivos de mortalidad en las carreteras se debe a una distracción del conductor. ¿Qué tipo de accidente se da principalmente con ella?",
+        "respuestas": {
+            "1": "La colisión entre cinco o más vehículos.",
+            "2": "La salida de la vía.",
+            "3": "El atropello a personas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "De los siguientes factores, ¿cuál reduce la duración del neumático?",
+        "respuestas": {
+            "1": "Las altas temperaturas.",
+            "2": "Circular con frecuencia por vías urbanas.",
+            "3": "Cambiar de marcha de forma innecesaria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Se pueden arrojar o dejar sobre la vía objetos que puedan entorpecer la libre circulación, la parada o el estacionamiento?",
+        "respuestas": {
+            "1": "Solo si no se deteriora la vía o sus instalaciones.",
+            "2": "Sí.",
+            "3": "No, está prohibido"
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Estas marcas viales azules indican...",
+        "respuestas": {
+            "1": "que está prohibido estacionar.",
+            "2": "la zona en que se permite estacionar, al igual que las marcas blancas.",
+            "3": "que en ciertos periodos del día, la duración del estacionamiento está limitada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La señal indica que el carril derecho...",
+        "respuestas": {
+            "1": "es obligatorio para bicicletas, pudiendo ser utilizado por otros usuarios.",
+            "2": "es obligatorio para los vehículos de dos ruedas.",
+            "3": "sólo pueden utilizarlo las bicicletas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Los paneles de mensaje variable, ¿pueden utilizarse para dar instrucciones de obligado cumplimiento?",
+        "respuestas": {
+            "1": "No, sólo pueden usarse para advertir de posibles peligros.",
+            "2": "No, son meramente informativos.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Sopla viento lateral con mucha fuerza, ¿qué debe hacer para vencer su resistencia?",
+        "respuestas": {
+            "1": "Aumentar la velocidad y tirar del volante a favor del viento.",
+            "2": "Adaptar la velocidad y seleccionar una marcha adecuada.",
+            "3": "Abrir las ventanillas para mejorar la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué debe hacer al ver que el autobús pretende incorporase a la circulación?",
+        "respuestas": {
+            "1": "Continuar normalmente, porque no tienen prioridad.",
+            "2": "Adoptar precauciones, porque tienen absoluta prioridad de paso.",
+            "3": "Facilitar la maniobra del autobús, llegando a detenerse, si fuera preciso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El freno de píe, ¿sobre qué ruedas actúa?",
+        "respuestas": {
+            "1": "Las cuatro ruedas.",
+            "2": "Las ruedas motrices.",
+            "3": "Las ruedas delanteras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La señal afecta a...",
+        "respuestas": {
+            "1": "todos los vehículos cuya masa máxima en carga supere la indicada.",
+            "2": "los vehículos de transporte de mercancías, exclusivamente.",
+            "3": "los vehículos automóviles, exclusivamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

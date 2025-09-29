@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si hay dos señales de distinto tipo con indicaciones que parezcan estar en contradicción, ¿cuál prevalece?",
+        "respuestas": {
+            "1": "La señal menos restrictiva.",
+            "2": "La señal más restrictiva.",
+            "3": "La prioritaria, según el orden de prioridad entre señales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "A la vista de esta señal, ¿están prohibidas las señales acústicas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, salvo para evitar un posible accidente.",
+            "3": "Sí, aunque se permite su utilización en las aglomeraciones de tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Entre otras precauciones, ¿qué debemos hacer para evitar el riesgo que supone conducir bajo la lluvia?",
+        "respuestas": {
+            "1": "Aumentar la distancia de seguridad para evitar los alcances por falta de adherencia.",
+            "2": "Reducir la presión de los neumáticos para mejorar la adherencia.",
+            "3": "Reducir la distancia de seguridad y encender la luz de cruce para hacerse ver."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Por obras en la calzada se habilita un carril para la circulación en sentido contrario al habitual, ¿qué vehículos pueden utilizarlo?",
+        "respuestas": {
+            "1": "Turismos sin remolque, vehículos mixtos adaptables y motocicletas.",
+            "2": "Únicamente turismos sin remolque y motocicletas.",
+            "3": "Todos los vehículos que estén autorizados a circular por la vía en obras, salvo prohibición expresa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Medida desde la parte del cuerpo más cercana, ¿cuál es la distancia ideal a la que debe colocarse del volante para, en caso de accidente, evitar el impacto directo del airbag?",
+        "respuestas": {
+            "1": "Inferior a 10 centímetros.",
+            "2": "Unos 25 centímetros.",
+            "3": "Unos 5 centímetros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Al aumentar la velocidad...",
+        "respuestas": {
+            "1": "aumenta la distancia de reacción.",
+            "2": "disminuye el tiempo de reacción.",
+            "3": "aumenta la capacidad de reacción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "A la vista de esta señal, ¿debe facilitar la incorporación de los vehículos que se incorporen por la derecha?",
+        "respuestas": {
+            "1": "Sí, en la medida de lo posible.",
+            "2": "No, nunca, ya que le otorga la prioridad.",
+            "3": "Sólo si se trata de vehículos de transporte colectivo de viajeros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En una calzada de doble sentido de circulación en la que no están delimitados los carriles, está obligado a circular por...",
+        "respuestas": {
+            "1": "el eje imaginario de la calzada.",
+            "2": "el lugar de la calzada que crea más seguro.",
+            "3": "la derecha, lo más cerca posible del borde de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En un carril de aceleración, ¿dónde debe detenerse de tener que ceder el paso?",
+        "respuestas": {
+            "1": "Al principio del carril.",
+            "2": "Justo antes de entrar en la vía.",
+            "3": "Donde tenga que ceder el paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Respecto al uso del teléfono móvil, es recomendable...",
+        "respuestas": {
+            "1": "prestar especial atención a los peatones que circulan hablando por el teléfono móvil.",
+            "2": "marcar el número rápidamente, para no perder trayectoria.",
+            "3": "no detener el vehículo si la conversación va a durar menos de un minuto."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Cuál es una de las infracciones que más cometen los conductores con mayor riesgo para los peatones?",
+        "respuestas": {
+            "1": "No respetar una señal de STOP o de ceda el paso.",
+            "2": "Estacionar sobre la acera obligando al peatón a invadir la calzada.",
+            "3": "Circular en posición paralela con un vehículo de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La distancia de detención es el espacio que recorre el vehículo desde que el conductor...",
+        "respuestas": {
+            "1": "percibe un peligro hasta que se detiene el vehículo.",
+            "2": "pisa el pedal de freno hasta que se detiene el vehículo.",
+            "3": "percibe un peligro hasta que pisa el pedal de freno."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El conductor de una motocicleta, que lleva un pasajero en el asiento trasero, ¿está obligado a utilizar el casco de protección?",
+        "respuestas": {
+            "1": "Sí, pero no será responsable si el pasajero no lo utiliza.",
+            "2": "No, pero será responsable si el pasajero no lo utiliza.",
+            "3": "Sí, y será responsable si el pasajero no lo utiliza."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En una carretera con un carril para cada sentido, un camión está adelantando y no permite ver la parte delantera de la vía. ¿Puede situarse detrás del camión para adelantar?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si el vehículo adelantado es otro camión."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿A qué se dedica el vehículo que lleva esta señal?",
+        "respuestas": {
+            "1": "Solamente al rescate de vehículos accidentados o averiados.",
+            "2": "Principalmente al transporte de vehículos accidentados o averiados.",
+            "3": "Principalmente al rescate y transporte de vehículos accidentados o averiados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Uno de los efectos del estrés es...",
+        "respuestas": {
+            "1": "el incremento de la capacidad de concentración.",
+            "2": "un comportamiento más prudente.",
+            "3": "la aparición de fatiga al volante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "bifurcación hacia la derecha en calzada de tres carriles.",
+            "2": "bifurcación hacia la izquierda en calzada de tres carriles.",
+            "3": "proximidad de salida de la autovía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si por una emergencia queda inmovilizado en un túnel, deberá...",
+        "respuestas": {
+            "1": "apagar todas las luces si el túnel está iluminado y solicitar auxilio a través del teléfono móvil.",
+            "2": "dejar el vehículo cerrado y salir del túnel cuanto antes.",
+            "3": "apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Puede realizar un cambio de sentido en un lugar donde esté prohibido adelantar?",
+        "respuestas": {
+            "1": "Sí, cuando la circulación en sentido contrario lo permita.",
+            "2": "No, salvo que el cambio de sentido esté expresamente autorizado.",
+            "3": "Sí, excepto entre la puesta y la salida de sol, porque disminuye la visibilidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué efectos puede producir en el conductor el consumo de éxtasis?",
+        "respuestas": {
+            "1": "Aumento de la capacidad de concentración.",
+            "2": "Episodios de depresión o ansiedad.",
+            "3": "Disminución del tiempo de reacción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En vías divididas en tres calzadas, la central podrá estar destinada a la circulación en...",
+        "respuestas": {
+            "1": "los dos sentidos o en sentido único, según disponga la señalización.",
+            "2": "sentido único, en cualquier caso.",
+            "3": "los dos sentidos, siempre."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Al estacionar un vehículo provisto de caja de cambios manual en una pendiente descendente, ¿qué velocidad dejará colocada?",
+        "respuestas": {
+            "1": "La primera velocidad.",
+            "2": "La marcha atrás.",
+            "3": "Punto muerto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "De los siguientes sistemas de seguridad pasiva, ¿cuál tiene como finalidad evitar o reducir el riesgo de lesiones en el cuello en caso de colisión?",
+        "respuestas": {
+            "1": "Los frenos ABS.",
+            "2": "El reposacabezas.",
+            "3": "El cinturón de seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En caso de caída de la carga en la calzada, el conductor deberá...",
+        "respuestas": {
+            "1": "proseguir la marcha y avisar del accidente a las autoridades pertinentes.",
+            "2": "retirarla lo antes posible y adoptar entre tanto las medidas necesarias para avisar al resto de usuarios y para que no se dificulte la circulación.",
+            "3": "cortar la circulación en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La carga transportada en un vehículo, debe estar dispuesta de forma que...",
+        "respuestas": {
+            "1": "ocupe el mínimo espacio posible.",
+            "2": "no oculte los dispositivos de alumbrado o de señalización luminosa.",
+            "3": "no oculte los dispositivos de señalización, aunque puede ocultar la señalización luminosa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si un cuadriciclo ligero tiene instalados cinturones de seguridad, ¿es obligatorio ponerse el casco?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pero únicamente fuera de poblado.",
+            "3": "Sí, pero únicamente en vías urbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En la intersección de una vía pavimentada con otra sin pavimentar, ¿qué vehículos tienen preferencia de paso?",
+        "respuestas": {
+            "1": "Los que se aproximen por la derecha.",
+            "2": "Los que circulen por la vía pavimentada.",
+            "3": "Los que circulen por la vía más ancha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Cuando se padece una enfermedad, ¿qué hay que hacer para reducir el riesgo de sufrir un accidente?",
+        "respuestas": {
+            "1": "Aumentar las dosis de los medicamentos.",
+            "2": "Abandonar el tratamiento sin consultar al médico.",
+            "3": "Evitar conducir durante una crisis o en la fase aguda de la enfermedad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Cuando hay niebla y un turismo no tiene luz especial de niebla, ¿qué luces debe encender?",
+        "respuestas": {
+            "1": "Las luces largas solamente.",
+            "2": "Luces de posición solamente.",
+            "3": "Luces cortas y las de posición."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "Aumentar la velocidad en las zonas urbanas mal iluminadas o sin iluminar.",
+            "2": "Circular a velocidad moderada, sobre todo en ciudad.",
+            "3": "Circular sin reducir la velocidad al aproximarse a los pasos para peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

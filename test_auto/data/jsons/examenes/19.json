@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué documentos relativos al vehículo debe llevar consigo un conductor de una motocicleta?",
+        "respuestas": {
+            "1": "La tarjeta de inspección técnica y el permiso de circulación.",
+            "2": "La tarjeta de inspección técnica, solamente.",
+            "3": "El permiso de circulación, solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En función de su nivel de emisiones y combustible empleado, se clasifican en la categoría 0 emisiones...",
+        "respuestas": {
+            "1": "los vehículos eléctricos de batería.",
+            "2": "los vehículos con motor de combustión interna.",
+            "3": "los vehículos propulsados por gas licuado del petróleo (GLP)."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Transporta en su turismo una carga que sobresale por la parte trasera, ¿debe señalizarla si circula de día?",
+        "respuestas": {
+            "1": "Sólo se señalizará de noche o con condiciones meteorológicas adversas.",
+            "2": "Sí, con un panel colocado en el extremo posterior de la carga.",
+            "3": "No; en los turismos no es obligatorio señalizar la carga durante el día."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Para realizar un estilo de conducción eficiente, ¿cómo se ha de acelerar inmediatamente después de cambiar de marcha?",
+        "respuestas": {
+            "1": "De forma ágil y progresiva, sin pisar a fondo el pedal del acelerador.",
+            "2": "Pisando y levantando el pie del pedal del acelerador para que engrane bien la marcha.",
+            "3": "Pisando a fondo el pedal del acelerador para conseguir una rápida aceleración."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Para realizar un mantenimiento preventivo del vehículo de forma adecuada, lo más aconsejable es:",
+        "respuestas": {
+            "1": "Seguir las indicaciones del fabricante y pasar las inspecciones técnicas.",
+            "2": "Sustituir solo las piezas rotas y dejar las que estén desgastadas hasta que se rompan.",
+            "3": "Llevar el vehículo al taller una vez al año, con independencia de los kilómetros recorridos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿En qué tipo de vías se producen más accidentes con víctimas mortales?",
+        "respuestas": {
+            "1": "En las vías interurbanas.",
+            "2": "En las autopistas dentro de poblado.",
+            "3": "En las travesías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Esta señal situada sobre un carril de un puesto de peaje indica que en él...",
+        "respuestas": {
+            "1": "es obligatorio el pago del peaje mediante el sistema de peaje dinámico o telepeaje.",
+            "2": "sólo se puede abonar el peaje mediante tarjeta.",
+            "3": "se puede pagar mediante el sistema de peaje dinámico o telepeaje."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El tiempo de absorción del alcohol, ¿varía en función de la bebida consumida?",
+        "respuestas": {
+            "1": "No, la absorción se realiza a un ritmo fijo, con independencia de la bebida consumida.",
+            "2": "Sí, se absorbe más rápidamente el alcohol de las bebidas fermentadas.",
+            "3": "Sí, se absorbe más rápidamente el alcohol de las bebidas destiladas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "El vehículo verde quiere incorporarse a la calzada por la que circula el vehículo rojo; ¿quién tiene preferencia?",
+        "respuestas": {
+            "1": "El vehículo verde.",
+            "2": "El vehículo que circula a mayor velocidad.",
+            "3": "El vehículo rojo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En el semáforo está encendida la luz roja y la flecha verde. ¿Puede continuar de frente?",
+        "respuestas": {
+            "1": "Sí, pero debo pasar por el carril izquierdo.",
+            "2": "Sí.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Si un conductor presenta síntomas evidentes de estar bajo los efectos del alcohol, pero el resultado de la prueba es negativo, ¿qué harán los agentes de tráfico?",
+        "respuestas": {
+            "1": "Están obligados a dejarle continuar su marcha.",
+            "2": "Realizarán una segunda prueba para una mayor garantía.",
+            "3": "Inmovilizarán el vehículo y le impondrán una sanción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Una buena práctica para evitar accidentes es...",
+        "respuestas": {
+            "1": "procurar que los demás conductores puedan anticiparse a las maniobras, haciéndose ver y entender de forma adecuada.",
+            "2": "circular siempre muy despacio para anticiparse a todas las situaciones de riesgo.",
+            "3": "señalizar con antelación sólo las maniobras que puedan ser peligrosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En esta intersección, ¿qué turismo pasará primero?",
+        "respuestas": {
+            "1": "El azul.",
+            "2": "El rojo.",
+            "3": "El amarillo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Está prohibido realizar un cambio de sentido...",
+        "respuestas": {
+            "1": "donde haya que atravesar una marca longitudinal.",
+            "2": "en los tramos de vía afectados por la señal “túnel\".",
+            "3": "en los tramos de vía en los que no esté prohibido adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La reanimación de un accidentado, ¿cuánto tiempo debe durar?",
+        "respuestas": {
+            "1": "5 minutos como máximo.",
+            "2": "Si después de 2 minutos no ha recuperado es mejor dejarlo.",
+            "3": "Hasta que se recupere o llegue la ayuda médica."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En una carretera con doble sentido de circulación, no hay señales ni marcas viales que prohíban cambiar de sentido. ¿Cuándo está permitido cambiar de sentido?",
+        "respuestas": {
+            "1": "Cuando quiera, porque siempre está permitido.",
+            "2": "Cuando no se ponga en peligro a otros usuarios.",
+            "3": "Nunca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si mantiene una velocidad superior a 40 km/h, no podrá circular con la luz larga encendida...",
+        "respuestas": {
+            "1": "en autopistas insuficientemente iluminadas.",
+            "2": "en los pasos inferiores insuficientemente iluminados.",
+            "3": "cuando exista posibilidad de deslumbrar a otros usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si un vehículo le está adelantando y la maniobra va a generar una situación de peligro, ¿qué debe hacer usted, como norma general?",
+        "respuestas": {
+            "1": "Aumentar la velocidad para impedir el adelantamiento.",
+            "2": "Mantener la velocidad, el problema solo afecta al vehículo que adelanta.",
+            "3": "Disminuir la velocidad para facilitar el adelantamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En vías urbanas, los conductores deben ser muy prudentes, ya que la mayor parte de los atropellos a personas mayores se deben a que...",
+        "respuestas": {
+            "1": "no cumplen las normas de circulación cuando caminan por las aceras.",
+            "2": "no utilizan los pasos para peatones para cruzar la calle.",
+            "3": "no obedecen las señales de los agentes de tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Circula a 70 km/h, ¿por qué carril es obligatorio circular?",
+        "respuestas": {
+            "1": "Por el que mejor convenga a mi destino.",
+            "2": "Por el del centro.",
+            "3": "Por el de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Los accidentes causados por una distracción son más frecuentes en...",
+        "respuestas": {
+            "1": "jóvenes entre 18-25 años y los mayores de 70 años.",
+            "2": "noveles.",
+            "3": "mayores de 65 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Planificar un viaje antes de iniciarlo es una conducta...",
+        "respuestas": {
+            "1": "preventiva de seguridad vial.",
+            "2": "contraria a la seguridad vial.",
+            "3": "que no influye en la seguridad vial."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Durante el día, utilizará la luz de corto alcance o de cruce de su turismo cuando circule...",
+        "respuestas": {
+            "1": "por un carril reservado para autobuses.",
+            "2": "por un carril habilitado en sentido contrario al habitual.",
+            "3": "por un carril para vehículos con alta ocupación (VAO)."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un camión de 3.500 kilogramos de MMA, ¿puede llevar como repuesto una rueda de uso temporal?",
+        "respuestas": {
+            "1": "No, es obligatorio que lleve una rueda completa.",
+            "2": "No, porque únicamente los turismos pueden llevar como repuesto este tipo de ruedas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Puede instalar en su turismo vidrios tintados o coloreados no homologados?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Solo si la visibilidad no disminuye sensiblemente.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En caso de estar implicado en un accidente, ¿debe detenerse para ayudar a restablecer la seguridad de la circulación?",
+        "respuestas": {
+            "1": "No, esta tarea corresponde a la policia de tráfico.",
+            "2": "Sí, en la medida de lo posible.",
+            "3": "Solo si hay fallecidos o heridos graves."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si va a estacionar un turismo en llano y el conductor se aleja, entre otras medidas, debe...",
+        "respuestas": {
+            "1": "tomar las precauciones necesarias para impedir su uso sin autorización.",
+            "2": "colocar calzos o bien apoyar las ruedas en la acera.",
+            "3": "colocar siempre en la caja de cambios la posición de estacionamiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Si un conductor da positivo en las pruebas de detección de estupefacientes, ¿se podrán repetir las pruebas a efectos de contraste?",
+        "respuestas": {
+            "1": "Sí, a petición del conductor o por orden del juez.",
+            "2": "No.",
+            "3": "Solo si el conductor ha consumido varias sustancias diferentes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿De qué advierte la señal luminosa de color amarillo auto, visible desde todas las direcciones, que lleva el tractor agrícola en su parte superior?",
+        "respuestas": {
+            "1": "De que circula en servicio urgente.",
+            "2": "De que no puede circular a una velocidad superior a 30 km/h.",
+            "3": "De su presencia en la vía o en sus inmediaciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "un carril reservado exclusivamente a la circulación de autobuses.",
+            "2": "un carril reservado a la circulación de autobuses y taxis.",
+            "3": "el lugar reservado para parada de autobuses."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

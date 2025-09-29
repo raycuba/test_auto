@@ -6,5 +6,6 @@ from . import views
 app_name = "examenes"
 
 urlpatterns = [
-    path('', views.list, name='list')
+    path('', views.list, name='list'),
+    path('pregunta_view/<str:examen>/<int:numero>/', views.pregunta_view, name='pregunta_view'),
 ]

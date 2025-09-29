@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En las maniobras que impliquen un desplazamiento lateral, ¿cuándo se debe apagar la luz indicadora de dirección?",
+        "respuestas": {
+            "1": "Unos 50 metros después de que el vehículo haya adoptado su nueva trayectoria.",
+            "2": "Tan pronto como el vehículo comience el desplazamiento lateral.",
+            "3": "Tan pronto como el vehículo haya adoptado su nueva trayectoria."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Un desplazamiento lateral, ¿cómo puede señalizarse?",
+        "respuestas": {
+            "1": "Con las luces indicadoras de dirección o, en su defecto, con el brazo.",
+            "2": "Con el brazo, preferentemente.",
+            "3": "Siempre con las luces indicadoras de dirección."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Es obligatorio advertir las maniobras?",
+        "respuestas": {
+            "1": "Únicamente con señales ópticas.",
+            "2": "No, pero sí recomendable.",
+            "3": "Sí, con señales luminosas y en su defecto con el brazo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Como norma general, los intermitentes se utilizarán para...",
+        "respuestas": {
+            "1": "advertir de la presencia del vehículo en los cruces sin preferencia de paso.",
+            "2": "señalizar ciertas maniobras, como el cambio de carril.",
+            "3": "advertir que se va a reducir la velocidad de forma considerable."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Circula por una vía en la que solo hay peatones, ¿debe advertir la maniobra de girar a la derecha?",
+        "respuestas": {
+            "1": "Sí, las maniobras deben advertirse a todos los usuarios.",
+            "2": "No, las maniobras solo deben advertirse a otros vehículos.",
+            "3": "Solo si existe riesgo de que los peatones crucen la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Está permitido advertir con el brazo que va a efectuar una maniobra?",
+        "respuestas": {
+            "1": "No, porque no se deben sacar los brazos fuera del turismo.",
+            "2": "No, debe advertir también con los intermitentes.",
+            "3": "Sí, en defecto de señalización luminosa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Va a girar a la derecha y lo señaliza con el indicador luminoso correspondiente, ¿hasta cuándo debe mantenerlo encendido?",
+        "respuestas": {
+            "1": "Hasta que finalice la maniobra.",
+            "2": "Hasta que tenga la seguridad de que el que me sigue ha visto la indicación.",
+            "3": "El menor tiempo posible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Debe señalizar toda maniobra que suponga...",
+        "respuestas": {
+            "1": "desplazamiento lateral, únicamente.",
+            "2": "desplazamiento lateral, marcha atrás, inmovilización o frenar la marcha.",
+            "3": "desplazamiento lateral o inmovilizar el vehículo, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Las señales realizadas con el brazo para advertir las maniobras...",
+        "respuestas": {
+            "1": "son válidas siempre que se efectúen correctamente y sean visibles por los demás usuarios.",
+            "2": "solamente son válidas cuando se realizan en vía urbana.",
+            "3": "no son válidas en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Quiere girar a la derecha. ¿Cómo debe avisar a los demás conductores?",
+        "respuestas": {
+            "1": "Con el brazo o con el claxon.",
+            "2": "Con las luces o con el claxon.",
+            "3": "Con el intermitente o con el brazo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Cuándo debe iniciar las advertencias para realizar una maniobra?",
+        "respuestas": {
+            "1": "Con antelación suficiente al inicio de la maniobra.",
+            "2": "Una vez iniciada la maniobra.",
+            "3": "Justo antes de iniciar la maniobra."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Circulando fuera de poblado, como norma general, ¿qué señalización deberá utilizar para advertir su propósito de adelantar?",
+        "respuestas": {
+            "1": "Únicamente la señalización acústica de sonido no estridente.",
+            "2": "Únicamente la señalización óptica, utilizando de forma intermitente el alumbrado de corto o de largo alcance.",
+            "3": "La señalización óptica y en su defecto el brazo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si va a efectuar un giro en una intersección, ¿cómo debe avisar a los demás conductores?",
+        "respuestas": {
+            "1": "Con las luces o con el claxon.",
+            "2": "Con las luces de los intermitentes o con el brazo.",
+            "3": "Con el brazo o con el claxon."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El conductor de una motocicleta que va a girar a la izquierda, ¿cómo debe señalizar la maniobra, si para ello emplea el brazo izquierdo?",
+        "respuestas": {
+            "1": "Con el brazo extendido horizontalmente y la palma de la mano hacia arriba.",
+            "2": "Con el brazo extendido horizontalmente y la palma de la mano hacia atrás.",
+            "3": "Con el brazo extendido horizontalmente y la palma de la mano hacia abajo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Si el intermitente del vehículo no funciona, ¿cómo indicará que va a girar a la izquierda?",
+        "respuestas": {
+            "1": "Doblando el brazo izquierdo hacia arriba, con la palma de la mano extendida.",
+            "2": "Con el brazo izquierdo en posición horizontal y la palma de la mano extendida hacia abajo.",
+            "3": "Extendiendo el brazo izquierdo horizontalmente, con la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El conductor del vehículo de la fotografía está indicando que va a...",
+        "respuestas": {
+            "1": "frenar.",
+            "2": "desplazarse hacia la izquierda.",
+            "3": "desplazarse hacia la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El conductor del ciclomotor que circula delante, ¿qué indica?",
+        "respuestas": {
+            "1": "Que va a circular marcha atrás.",
+            "2": "Que va a inmovilizar el vehículo.",
+            "3": "Que va a girar a la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El conductor con el brazo extendido está indicando que va a...",
+        "respuestas": {
+            "1": "girar hacia la izquierda.",
+            "2": "girar hacia la derecha.",
+            "3": "frenar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Qué está indicando este conductor?",
+        "respuestas": {
+            "1": "Que va a girar a la izquierda.",
+            "2": "Que va a girar a la derecha.",
+            "3": "Que va a seguir de frente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Cómo advertirá a los demás conductores su intención de detener el vehículo en el lado derecho de la calzada?",
+        "respuestas": {
+            "1": "Encendiendo las luces de emergencia.",
+            "2": "Doblando el brazo hacia arriba con la palma de la mano hacia atrás.",
+            "3": "Encendiendo el intermitente derecho."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Cuando la luz de marcha atrás esté averiada, ¿cómo debe indicar que va a dar marcha atrás?",
+        "respuestas": {
+            "1": "Advirtiéndolo con el claxon.",
+            "2": "Moviendo el brazo de arriba abajo.",
+            "3": "Con el brazo extendido y la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Además de la señalización luminosa correspondiente, la marcha hacia atrás está permitido señalizarla con el brazo...",
+        "respuestas": {
+            "1": "moviéndolo de arriba abajo.",
+            "2": "doblado hacia arriba, con la mano extendida.",
+            "3": "extendido horizontalmente con la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué está indicando este conductor con el brazo?",
+        "respuestas": {
+            "1": "Que va a empezar a circular.",
+            "2": "Que va a girar a la izquierda.",
+            "3": "Que va a circular marcha atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Debido a una retención de circulación tiene que reducir, de modo considerable, la velocidad de su vehículo. ¿Debe advertir, siempre que sea posible, a los vehículos que circulan detrás?",
+        "respuestas": {
+            "1": "Sí, con el empleo de la luz de emergencia.",
+            "2": "Sí, con el empleo reiterado de las luces de frenado o moviendo el brazo alternativamente de arriba a abajo.",
+            "3": "No, está prohibido hacer advertencias, ya que pueden crear confusión."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Deberán emplearse señales acústicas...",
+        "respuestas": {
+            "1": "de sonido no estridente.",
+            "2": "de cualquier sonido.",
+            "3": "de sonido muy agudo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Las señales acústicas, ¿se pueden utilizar para evitar un posible accidente?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, en cualquier tipo de vía.",
+            "3": "Sí, pero sólo en vías estrechas con muchas curvas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En un poblado, ¿está permitido usar las advertencias acústicas?",
+        "respuestas": {
+            "1": "Sí, exclusivamente para evitar un accidente.",
+            "2": "No.",
+            "3": "Sí, para evitar un accidente o avisar a los demás usuarios de que se realiza un servicio de urgencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Las advertencias acústicas se pueden utilizar...",
+        "respuestas": {
+            "1": "para advertir el propósito de adelantar únicamente dentro de poblado.",
+            "2": "en vías anchas con pocas curvas.",
+            "3": "en vías estrechas con muchas curvas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿En cuál de los siguientes casos el conductor de un vehículo no prioritario podrá emplear las señales acústicas fuera de poblado?",
+        "respuestas": {
+            "1": "Cuando el tráfico sea muy denso o existan retenciones.",
+            "2": "En vías estrechas cuando exista un badén en la calzada.",
+            "3": "Para advertir a otro conductor el propósito de adelantarlo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Un semáforo cambia de rojo a verde. ¿Está permitido emplear el claxon para advertir a otro conductor que ya se puede pasar?",
+        "respuestas": {
+            "1": "Sí, cuando se trate de una vía interurbana.",
+            "2": "Sí, cuando se trate de una vía urbana.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

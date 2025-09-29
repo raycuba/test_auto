@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Cómo se puede evitar el atropello a peatones?",
+        "respuestas": {
+            "1": "Haciéndoles exageradas y estridentes señales acústicas.",
+            "2": "Invitándoles con señas a que crucen la calzada.",
+            "3": "Extremando la precaución al aproximarse a un autobús parado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si su vehículo está estacionado en batería, ¿le está permitido circular marcha atrás para incorporarse a la circulación?",
+        "respuestas": {
+            "1": "Sí, hasta 25 metros.",
+            "2": "Sí, siempre que no invada un cruce de vías.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Un niño menor de 12 años y con una estatura de 125 centímetros, ¿puede viajar en el asiento delantero de un turismo sin un dispositivo de retención homologado?",
+        "respuestas": {
+            "1": "Sí, siempre que lleve el cinturón abrochado.",
+            "2": "Sólo si todos los asientos traseros están ya ocupados por menores.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los sistemas de seguridad activa incluyen...",
+        "respuestas": {
+            "1": "frenos, neumáticos, carrocería, airbags y cinturones de seguridad.",
+            "2": "alumbrado, neumáticos, frenos, suspensión y dirección.",
+            "3": "chasis, carrocería, cinturones de seguridad, airbags, reposacabezas y casco."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si desea conocer la fecha de matriculación de un vehículo, consultará...",
+        "respuestas": {
+            "1": "el distintivo de la ITV del vehículo.",
+            "2": "el permiso de conducción.",
+            "3": "el permiso de circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Los conductores afectados por insomnio o somnolencia...",
+        "respuestas": {
+            "1": "ejecutan los movimientos de forma automática y son más peligrosos.",
+            "2": "reaccionan más rápido ante un imprevisto.",
+            "3": "conducen durante más tiempo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si tiene que realizar un viaje largo en un día en que las temperaturas son bastante elevadas, ¿qué es conveniente hacer para mejorar la seguridad?",
+        "respuestas": {
+            "1": "Viajar en las horas centrales del día ya que las temperaturas son más suaves.",
+            "2": "Descansar con cierta frecuencia para evitar la aparición de la fatiga y la somnolencia.",
+            "3": "Circular con las ventanillas abiertas para que el aire refrigere el interior del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Circular con una tasa de alcoholemia inferior a la permitida, ¿influye en la posibilidad de tener un accidente?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Depende del tipo de alcohol ingerido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Está permitido colocar adhesivos en el parabrisas de un turismo?",
+        "respuestas": {
+            "1": "Sí, siempre que permitan la visibilidad diáfana del conductor sobre toda la vía.",
+            "2": "No, está prohibido.",
+            "3": "Solo si han sido previamente homologados."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿En qué situaciones utilizará el alumbrado por el día?",
+        "respuestas": {
+            "1": "Cuando conduzca una motocicleta en cualquier tipo de vía y los vehículos que circulen por carriles habilitados en sentido contrario.",
+            "2": "Conduciendo una motocicleta o un ciclomotor sólo cuando las condiciones meteorológicas disminuyan la visibilidad.",
+            "3": "Las motocicletas y los vehículos que circulen por una vía con un carril en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Cuál es la velocidad máxima a la que está permitido circular por esta carretera convencional con un pick-up?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Encender el intermitente, ¿da preferencia siempre para hacer maniobras?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque he avisado.",
+            "3": "Sí, pero debo hacer la maniobra rápidamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En este tramo de carretera, ¿está permitido hacer un cambio de sentido?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Como norma general, las bicicletas, ¿pueden circular en posición paralela en columna de a dos?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo en autovías y siempre que no invadan la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Como norma general, los vehículos prioritarios que circulen en servicio urgente advertirán su presencia...",
+        "respuestas": {
+            "1": "con la utilización simultánea de la señal de emergencia y la señal acústica.",
+            "2": "mediante la utilización simultánea de la señal luminosa y la señal acústica.",
+            "3": "solamente con la señal acústica."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Los airbags, entre otras funciones, protegen de...",
+        "respuestas": {
+            "1": "lesiones abdominales.",
+            "2": "el efecto submarino.",
+            "3": "lesiones cervicales y de impactos contra elementos del interior del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que comienza un carril para vehículos lentos.",
+            "2": "Que la calzada va a pasar de uno a dos carriles en el mismo sentido de la circulación.",
+            "3": "Un carril de salida inmediata hacia la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué actuación debe evitar el conductor para tener una actitud responsable con el medio ambiente y no contribuir al aumento de la contaminación?",
+        "respuestas": {
+            "1": "Cambiar el tubo de escape tan pronto como se deteriore.",
+            "2": "Utilizar las técnicas propias de la conducción eficiente.",
+            "3": "Lavar el vehículo en una vía pública en lugar de en un túnel de lavado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Las flechas de selección de carril...",
+        "respuestas": {
+            "1": "aconsejan seguir las direcciones indicadas por las flechas.",
+            "2": "obligan a seguir la dirección o las direcciones indicadas, pero si la señalización lo permite autorizan el cambio de carril.",
+            "3": "obligan a seguir las direcciones indicadas por las flechas, prohibiendo siempre el cambio de carril."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Hay hielo en la calzada. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Acelerar para salir rápidamente.",
+            "2": "Circular con la primera marcha, que es la más corta.",
+            "3": "Conducir con cuidado, frenar y acelerar con cuidado sólo cuando sea necesario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "zona reservada a peatones.",
+            "2": "peligro por la proximidad de una zona frecuentada por peatones.",
+            "3": "peligro por la proximidad de un paso de peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿De cuántos puntos dispone un conductor novel?",
+        "respuestas": {
+            "1": "De 12 puntos.",
+            "2": "De 14 puntos.",
+            "3": "De 8 puntos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un semáforo cuadrado o de carril afecta...",
+        "respuestas": {
+            "1": "a los vehículos que circulan por la calzada sobre la que está situado.",
+            "2": "a los vehículos que circulan por el carril sobre el que está situado.",
+            "3": "sólo a los turismos que circulan por el carril sobre el que está situado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué sistemas de seguridad pueden perder eficacia si no se lleva abrochado el cinturón de seguridad?",
+        "respuestas": {
+            "1": "La suspensión y los amortiguadores.",
+            "2": "Los airbag y los reposacabezas.",
+            "3": "Los frenos y el ABS."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En general, un conductor con sueño...",
+        "respuestas": {
+            "1": "percibe mejor el entorno del tráfico.",
+            "2": "tarda menos tiempo en reaccionar ante una situación imprevista.",
+            "3": "tarda más en procesar la información que le llega del entorno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Todo conductor está obligado a...",
+        "respuestas": {
+            "1": "circular a una velocidad igual o superior a la mínima permitida.",
+            "2": "no causar peligro ni entorpecer o molestar a otros usuarios.",
+            "3": "no adelantar en vías de doble sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si el conductor de un turismo circula tocando el claxon de forma intermitente y con la luz de emergencia encendida, ¿debe cederle el paso?",
+        "respuestas": {
+            "1": "Sí, pero respetando las normas de circulación.",
+            "2": "No, ya que no se trata de un vehículo prioritario.",
+            "3": "Sólo si uno de sus ocupantes va agitando un pañuelo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Un peatón, ¿puede circular por el arcén de su derecha en una vía fuera de poblado?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Solo cuando esté justificado por razones de mayor seguridad.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Este panel con esta señal prohíbe...",
+        "respuestas": {
+            "1": "el giro a la derecha a todos los vehículos.",
+            "2": "el giro a la derecha a vehículos con remolque.",
+            "3": "la circulación de vehículos con remolque"
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En un paso para peatones, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "No, ni siquiera en sus proximidades.",
+            "2": "No, pero sí en sus proximidades.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

@@ -1,0 +1,71 @@
+{% extends "base/base.html" %}
+{% load static%}
+{% block title %}Pregunta {{ numero|add:1 }} - {{ examen }}{% endblock %}
+
+{% block content %}
+<style>
+    .respuesta-btn {
+        display: block;
+        margin: 10px 0;
+        font-size: 1.2rem;
+    }
+    .correcta { background-color: #d4edda !important; }
+    .incorrecta { background-color: #f8d7da !important; }
+</style>
+
+<div class="container">
+    <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ numero|add:1 }} de {{ total }}</h2>
+
+    <div class="row">
+        <div class="row">
+            <div class="col-md-8">
+                <h4>{{ pregunta.pregunta }}</h4>
+
+                <div id="respuestas">
+                    {% for clave, texto in pregunta.respuestas.items %}
+                        <button class="btn btn-outline-secondary respuesta-btn text-start" data-clave="{{ clave }}">{{ texto }}</button>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-md-4 text-md-end">
+                <img src="{% static 'examenes/' %}{{ examen }}/{{ numero|add:1 }}.png" class="img-fluid my-3" alt="Imagen relacionada">
+            </div>
+        </div>
+
+    </div>
+
+    <div class="d-flex justify-content-between mt-4">
+        {% if numero > 0 %}
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:-1 %}" class="btn btn-secondary">Anterior</a>
+        {% else %}
+            <span></span>
+        {% endif %}
+        {% if numero < total|add:-1 %}
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numero|add:1 %}" class="btn btn-primary">Próxima</a>
+        {% endif %}
+    </div>
+</div>
+
+<script>
+    const botones = document.querySelectorAll('.respuesta-btn');
+    const correcta = "{{ pregunta.respuestaCorrecta }}";
+
+    botones.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const seleccionada = btn.getAttribute('data-clave');
+            botones.forEach(b => b.disabled = true);
+
+            if (seleccionada === correcta) {
+                btn.classList.add('correcta');
+            } else {
+                btn.classList.add('incorrecta');
+                botones.forEach(b => {
+                    if (b.getAttribute('data-clave') === correcta) {
+                        b.classList.add('correcta');
+                    }
+                });
+            }
+        });
+    });
+</script>
+{% endblock %}

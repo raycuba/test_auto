@@ -1,0 +1,222 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Como norma general, ¿está prohibido adelantar en los pasos a nivel o en sus proximidades?",
+        "respuestas": {
+            "1": "En los pasos a nivel sí, pero no en sus proximidades.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Como norma general, ¿dónde está prohibido adelantar?",
+        "respuestas": {
+            "1": "En las vías de menos de 6 metros de anchura.",
+            "2": "En las vías de un carril para cada sentido.",
+            "3": "En los pasos para peatones y cerca de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En los pasos para peatones y en sus proximidades, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "Sí, a velocidad reducida para poder detener el vehículo en caso de peligro de atropello.",
+            "2": "Sí, siempre que no haya peatones cruzando.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Siempre que se haga a velocidad tan reducida que permita detenerse en caso de peligro de atropello, en los pasos para peatones señalizados se podrá adelantar a...",
+        "respuestas": {
+            "1": "vehículos de dos ruedas que no impidan la visibilidad lateral, únicamente.",
+            "2": "todo tipo de vehículos.",
+            "3": "ciclos y ciclomotores, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Está prohibido adelantar en...",
+        "respuestas": {
+            "1": "las glorietas.",
+            "2": "las intersecciones con vías para ciclistas.",
+            "3": "todas las intersecciones aunque la señalización lo permita."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Cuándo está prohibido adelantar en los túneles?",
+        "respuestas": {
+            "1": "Cuando el túnel no está iluminado.",
+            "2": "Cuando solo existe un carril para cada sentido.",
+            "3": "Cuando existe más de un carril para cada sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El conductor de un vehículo podrá adelantar en un túnel cuando...",
+        "respuestas": {
+            "1": "exista más de un carril en el sentido contrario de su marcha.",
+            "2": "exista más de un carril en su sentido de circulación.",
+            "3": "exista un carril para cada sentido, siempre que el túnel esté bien iluminado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Dentro de un túnel con más de un carril para cada sentido de circulación, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "Sí, cuando no haya señales que lo prohíban.",
+            "2": "No, está prohibido.",
+            "3": "Sí, pero solo dentro de poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En las glorietas, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "No, son intersecciones.",
+            "2": "Sí.",
+            "3": "Solo en las que se encuentran en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En esta intersección, ¿se puede adelantar?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, pero sólo a un vehículo de dos ruedas.",
+            "3": "Sí, si las circunstancias del tráfico lo permiten."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Está permitido adelantar en una glorieta?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sí, pero solo por el carril derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Como excepción a la norma general, está permitido adelantar en una intersección cuando...",
+        "respuestas": {
+            "1": "el adelantamiento tenga que efectuarse por el carril izquierdo.",
+            "2": "exista visibilidad suficiente.",
+            "3": "la calzada goza de prioridad en la intersección y hay una señal que lo indique."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En esta vía de doble sentido, el vehículo rojo, ¿adelanta correctamente?",
+        "respuestas": {
+            "1": "Sí, porque la calzada por la que circula tiene prioridad en la intersección.",
+            "2": "No, porque la calzada no tiene prioridad en la intersección.",
+            "3": "Solo si el vehículo azul ha indicado su intención de girar a la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En esta vía de doble sentido el vehículo de recogida de residuos se ha parado; ¿está permitido rebasarlo?",
+        "respuestas": {
+            "1": "Sí, siempre que la maniobra se pueda realizar sin riesgo.",
+            "2": "No, ya que para ello hay que ocupar totalmente el carril del sentido contrario.",
+            "3": "No porque lo prohíben las marcas viales longitudinales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En esta vía de doble sentido, un vehículo está detenido por avería. ¿Puede atravesar la línea continua para sobrepasarlo?",
+        "respuestas": {
+            "1": "Sí, pero solamente cuando no exista peligro.",
+            "2": "No, porque está prohibido adelantar.",
+            "3": "Solo si un agente de tráfico u otra persona autorizada dirige el tráfico."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Es correcto este adelantamiento?",
+        "respuestas": {
+            "1": "Sí, porque el turismo ocupa parte del sentido contrario y deja más de 1,50 metros de separación con el ciclista.",
+            "2": "No, porque el turismo invade el carril contrario.",
+            "3": "No, porque en una vía sin arcén está prohibido adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Para adelantar al grupo de ciclistas, el vehículo rebasa la línea continua y ocupa el carril destinado a la circulación en sentido contrario; ¿es correcto su comportamiento?",
+        "respuestas": {
+            "1": "Sí, y debe guardar una separación lateral de, al menos, 1,5 metros.",
+            "2": "Solo es correcto si no existe una señal vertical que prohíba adelantar.",
+            "3": "No, porque en este tramo de vía está prohibido el adelantamiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si se puede hacer la maniobra sin riesgo, ¿está permitido adelantar a los ciclistas de la imagen?",
+        "respuestas": {
+            "1": "Sólo está permitido si no se ocupa el carril reservado al sentido contrario.",
+            "2": "No, ya que lo prohíbe la línea continua.",
+            "3": "Sí, aunque tenga que ocupar el carril reservado al sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Cuando por la velocidad a la que circulen puedan ser adelantados sin riesgo y aunque la línea sea continua, un turismo podrá invadir el sentido contrario para adelantar a...",
+        "respuestas": {
+            "1": "motocicletas.",
+            "2": "bicicletas.",
+            "3": "vehículos pesados que circulan lentamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Para rebasar un obstáculo, ¿puede desplazarse al carril contiguo?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, siempre que no esté ocupado dicho carril.",
+            "3": "Sí, esté o no ocupado el otro carril."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

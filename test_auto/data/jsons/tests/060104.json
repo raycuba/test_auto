@@ -1,0 +1,112 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Como norma general, ¿cuántos puntos de su saldo, como máximo, podrá perder un conductor por acumulación de infracciones en un solo día?",
+        "respuestas": {
+            "1": "8 puntos.",
+            "2": "No hay límite, el número total de puntos que correspondan a las infracciones cometidas.",
+            "3": "10 puntos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Al conductor de una motocicleta, ¿le está permitido utilizar el teléfono móvil mientras conduce manteniéndolo ajustado entre la cabeza y el casco?",
+        "respuestas": {
+            "1": "No; es una infracción grave que supone la pérdida de 3 puntos.",
+            "2": "Sí, mientras no utilice las manos para sujetar el teléfono.",
+            "3": "No, es un delito contra la seguridad vial contemplado en el Código Penal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Puede perder puntos de su saldo si conduce un turismo con un menor, de 1,20 metros de estatura, con el sistema de retención infantil sin abrochar o mal abrochado?",
+        "respuestas": {
+            "1": "Sí, es una infracción que supone la pérdida de 4 puntos del saldo del conductor.",
+            "2": "Sí, es una infracción que supone la pérdida de 2 puntos del saldo del conductor.",
+            "3": "No; aunque es una infracción, no supone la pérdida de puntos para el conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Puede perder puntos de su saldo si circula con una motocicleta sin llevar el casco de protección correctamente abrochado?",
+        "respuestas": {
+            "1": "No; es una infracción que no conlleva la pérdida de puntos.",
+            "2": "Sí; es una infracción que supone la pérdida de 4 puntos.",
+            "3": "Sí; es una infracción que supone la pérdida de 6 puntos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Está permitido conducir un vehículo mientras utiliza, sujetándolo con la mano, un teléfono móvil?",
+        "respuestas": {
+            "1": "Sí, siempre que se utilice el altavoz del teléfono.",
+            "2": "No, es una infracción grave que supone la pérdida de 6 puntos.",
+            "3": "Sí, siempre que quede una mano libre para manejar los mandos del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Arrojar un cigarro por la ventanilla de un turismo, ¿es una infracción?",
+        "respuestas": {
+            "1": "Sí, y además conlleva la pérdida de puntos.",
+            "2": "Sí, pero no conlleva la pérdida de puntos.",
+            "3": "No es una infracción, pero no se debe hacer."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Cuántos puntos de su permiso perderá un conductor sancionado en firme en vía administrativa por conducir con una tasa de alcohol superior a la reglamentariamente establecida?",
+        "respuestas": {
+            "1": "Entre 2 y 4 puntos, en función de la tasa de alcoholemia.",
+            "2": "Entre 4 y 6 puntos, en función de la tasa de alcoholemia.",
+            "3": "6 puntos, en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Quién es el responsable de las infracciones cometidas durante la conducción?",
+        "respuestas": {
+            "1": "Siempre el titular del vehículo.",
+            "2": "El autor del hecho en que consista la infracción.",
+            "3": "El tomador del seguro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Como norma general, ¿quién es el responsable por las infracciones cometidas sobre las normas de circulación?",
+        "respuestas": {
+            "1": "El conductor del vehículo, en todo caso.",
+            "2": "El autor de la infracción y si fuese menor, responderán también los padres o tutores.",
+            "3": "El titular del vehículo y el conductor, de forma solidaria."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Quién es responsable de las infracciones relativas a la documentación y el estado del vehículo?",
+        "respuestas": {
+            "1": "El conductor en el momento en el que se detecta la infracción.",
+            "2": "El titular del vehículo.",
+            "3": "El tomador del seguro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

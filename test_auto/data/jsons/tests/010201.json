@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Cuál es la parte de la vía destinada a la circulación de turismos?",
+        "respuestas": {
+            "1": "La mediana.",
+            "2": "La calzada.",
+            "3": "El arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Un cambio de rasante es:",
+        "respuestas": {
+            "1": "Un tramo de vía donde hay un cambio de dirección.",
+            "2": "Un tramo de vía donde no se ve el ancho total de la calzada.",
+            "3": "Un lugar en el que se encuentran dos tramos de vía de distinta inclinación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Como norma general, ¿cómo se denomina el tramo de carretera que discurre por poblado?",
+        "respuestas": {
+            "1": "Autovía.",
+            "2": "Carretera convencional.",
+            "3": "Travesía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los peatones, ¿pueden circular por una vía ciclista que se encuentra debidamente señalizada sobre la acera?",
+        "respuestas": {
+            "1": "Sí, ya que la acera es una zona peatonal.",
+            "2": "No; es una vía reservada para conductores de ciclos.",
+            "3": "Solo para cruzarla, incluso en lugares que no esté señalizado para ello."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Salvo que exista señal que lo prohíba, por los arcenes de las autovías se permite circular...",
+        "respuestas": {
+            "1": "a peatones.",
+            "2": "a vehículos de tracción animal.",
+            "3": "a conductores de bicicletas mayores de 14 años."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Por qué tipo de vías tienen prohibida la circulación los ciclomotores?",
+        "respuestas": {
+            "1": "Por todas las vías situadas fuera de poblado.",
+            "2": "Por las autopistas y autovías.",
+            "3": "Por las carreteras convencionales sin arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los conductores de bicicletas, ¿pueden circular por los arcenes de las autopistas?",
+        "respuestas": {
+            "1": "Sí, cuando sean mayores de 14 años.",
+            "2": "Sí, siempre.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Se prohíbe circular por autopistas a los...",
+        "respuestas": {
+            "1": "vehículos que no sean capaces de alcanzar en llano 60 km/h.",
+            "2": "vehículos con remolque.",
+            "3": "vehículos que transporten mercancías peligrosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Por autopistas y autovías...",
+        "respuestas": {
+            "1": "queda prohibido circular con vehículos de tracción animal.",
+            "2": "queda prohibido circular con turismos con remolque.",
+            "3": "pueden circular ciclomotores."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una curva de reducida visibilidad, se debe...",
+        "respuestas": {
+            "1": "frenar en toda la curva.",
+            "2": "circular lo más cerca posible del borde derecho de la calzada.",
+            "3": "pisar el embrague en toda la curva."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En esta situación de aglomeración, ¿podrá circular por el arcén?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, si tiene prisa.",
+            "3": "Sí, para descongestionar el tráfico."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En esta carretera, ¿está permitido circular por el centro de la calzada?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal alguna que lo prohíba.",
+            "2": "No, porque se debe circular por la derecha.",
+            "3": "Sí, porque no vienen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En una calzada de doble sentido de circulación en la que no están delimitados los carriles, está obligado a circular por...",
+        "respuestas": {
+            "1": "el eje imaginario de la calzada.",
+            "2": "el lugar de la calzada que crea más seguro.",
+            "3": "la derecha, lo más cerca posible del borde de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En una curva de visibilidad reducida, ¿por dónde debe circular?",
+        "respuestas": {
+            "1": "Por el carril derecho, pasando lo más cerca posible del eje de la vía.",
+            "2": "Dejando completamente libre la mitad de la calzada que corresponda al sentido contrario.",
+            "3": "Ocupando parte del sentido contrario, para ser visible con más facilidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Como norma general, y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, los vehículos circularán por...",
+        "respuestas": {
+            "1": "el centro de la calzada, por ser más seguro.",
+            "2": "la derecha y lo más cerca posible del centro de la calzada.",
+            "3": "la derecha y lo más cerca posible del borde de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si conduce una motocicleta, ¿qué separación lateral debe mantener al cruzarse con otro vehículo?",
+        "respuestas": {
+            "1": "La necesaria para realizar el cruce con seguridad.",
+            "2": "Una distancia máxima de 1,50 metros en poblado.",
+            "3": "Una distancia menor de 1,50 metros fuera de poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Fuera de poblado, deben circular por la calzada y no por el arcén todos los automóviles y...",
+        "respuestas": {
+            "1": "todos los vehículos especiales.",
+            "2": "los vehículos especiales con MMA superior a 3.500 kilogramos.",
+            "3": "los vehículos especiales con MMA no superior a 3.500 kilogramos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Se debe mantener una separación lateral adecuada...",
+        "respuestas": {
+            "1": "sólo al cruzarse con otros usuarios.",
+            "2": "sólo al adelantar a los vehículos que circulen delante.",
+            "3": "siempre, tanto al adelantar como al cruzarse con otros usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Por dónde se debe circular en un cambio de rasante de reducida visibilidad?",
+        "respuestas": {
+            "1": "Por donde más convenga a mi destino.",
+            "2": "Por la izquierda, aunque se invada parte del centro de la calzada.",
+            "3": "Dejando completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En esta vía, ¿es correcto circular por el centro de la calzada?",
+        "respuestas": {
+            "1": "No, se circulará por la derecha de la calzada, lo más cerca posible del borde derecho.",
+            "2": "Sí, porque no hay marcas que delimiten los carriles.",
+            "3": "Sí, porque la calzada es muy estrecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "El conductor de una motocicleta, ¿puede circular en el mismo carril que la otra motocicleta que está circulando en paralelo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, en columna de a dos orillándose todo lo posible al borde derecho de la vía.",
+            "3": "Solo para adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En una vía urbana con un carril en cada sentido, deberá circular...",
+        "respuestas": {
+            "1": "lo más cerca posible del borde derecho de la calzada.",
+            "2": "por la zona que mejor convenga.",
+            "3": "por el centro de la calzada, en tramos rectos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En calzadas con doble sentido de circulación, y dos carriles, sin delimitar por marcas viales. ¿Por dónde se debe de circular?",
+        "respuestas": {
+            "1": "Por el carril derecho.",
+            "2": "Por el centro de la calzada.",
+            "3": "Por cualquiera de los dos carriles si no vienen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una carretera de tres carriles de circulación y doble sentido, ¿para qué se utiliza el carril central?",
+        "respuestas": {
+            "1": "Como un carril de sentido contrario a la circulación.",
+            "2": "Para realizar adelantamientos y giros a la izquierda.",
+            "3": "Para la circulación en cualquier sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Por qué carril deberá circular en una calzada con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas?",
+        "respuestas": {
+            "1": "Por el de la derecha o el central, pudiendo utilizar el situado más a la izquierda para adelantar.",
+            "2": "Por el de la derecha, y en ningún caso por el situado más a la izquierda.",
+            "3": "Por el de la derecha, pudiendo utilizar el central o el situado más a la izquierda para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿se podrá circular por el situado más a la izquierda?",
+        "respuestas": {
+            "1": "Sí, cuando no se aproxime otro vehículo.",
+            "2": "No.",
+            "3": "Sólo para girar a la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En una vía de doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿qué carril se utilizará para girar a la izquierda?",
+        "respuestas": {
+            "1": "El carril central.",
+            "2": "El carril derecho.",
+            "3": "El carril izquierdo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En autopistas y autovías, como norma general, ¿es obligatorio circular por el carril derecho?",
+        "respuestas": {
+            "1": "No, porque disponen de más de un carril para cada sentido.",
+            "2": "En las autopistas sí, en las autovías, no.",
+            "3": "Sí, en ambas vías."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si no obstaculiza la marcha de otro vehículo que le sigue, ¿actúa correctamente?",
+        "respuestas": {
+            "1": "Sí, porque deja libre el carril izquierdo para los adelantamientos.",
+            "2": "Sí.",
+            "3": "No, debe circular por el carril de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En esta vía de dos carriles en el mismo sentido, al vehículo de la imagen, como norma general, ¿le está permitido mantenerse en el carril de la izquierda una vez finalizado el adelantamiento?",
+        "respuestas": {
+            "1": "Sí, porque la vía no está saturada.",
+            "2": "Solo si no entorpece la marcha de otros vehículos.",
+            "3": "No, debe circular por el carril de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

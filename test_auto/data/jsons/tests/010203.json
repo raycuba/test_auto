@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta vía, fuera de poblado, tiene un carril reservado para vehículos de mantenimiento de la vía. Este carril, ¿se considera uno más en relación con el cómputo de carriles?",
+        "respuestas": {
+            "1": "Sí, ya que está sujeto a las mismas normas de circulación.",
+            "2": "No, al estar reservado para determinados vehículos.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "No se tienen en cuenta, a efectos de la normal utilización, los carriles...",
+        "respuestas": {
+            "1": "reservados a ciertas maniobras.",
+            "2": "reversibles.",
+            "3": "especiales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En esta vía si su vehículo puede superar los 70 km/h, ¿por qué carril debe circular?",
+        "respuestas": {
+            "1": "Por el carril derecho, si las circunstancias lo permiten.",
+            "2": "Por el carril en el que haya menos vehículos.",
+            "3": "Por el carril central, el derecho está reservado para los vehículos que no puedan superar dicha velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En la vía que se observa en la fotografía, ¿qué carril debe utilizar para circular, como norma general?",
+        "respuestas": {
+            "1": "Cualquiera de los carriles de mi sentido de la marcha.",
+            "2": "El carril situado más a la derecha.",
+            "3": "El carril central, siempre que mi velocidad sea igual o superior a la indicada en la señal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Puede circular un turismo por un carril BUS señalizado con línea longitudinal continua?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando el carril está en vía urbana.",
+            "3": "Sí, para girar a la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Puede circular con su motocicleta por un carril bus señalizado con línea longitudinal continua?",
+        "respuestas": {
+            "1": "Solo para adelantar y durante el recorrido indispensable.",
+            "2": "Sí, cuando la circulación sea muy densa.",
+            "3": "No, con carácter general."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Está permitido que un turismo utilice un tramo de carril reservado para autobuses, delimitado por línea discontinua?",
+        "respuestas": {
+            "1": "Sí, para realizar alguna maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+            "2": "Sí, pero sólo para cambiar de dirección a la derecha.",
+            "3": "No, siempre está prohibido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Puede utilizar el carril bus para adelantar a otro vehículo?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sólo si la línea blanca que lo delimita es discontinua.",
+            "3": "Sí, si no circula ningún autobús por el carril."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "La habilitación de uno o varios carriles para la circulación VAO, ¿será siempre temporal y con horario fijo?",
+        "respuestas": {
+            "1": "No, podrá ser permanente y con un horario en función de las necesidades de la circulación.",
+            "2": "Sí, siempre estará habilitado a primera hora de la mañana hasta primera hora de la tarde.",
+            "3": "Sí, por razones de seguridad vial o fluidez de la circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Si los paneles de mensaje variable indican que los turismos con distintivo ambiental B pueden circular por un carril VAO, ¿qué ocupación mínima debe tener el vehículo?",
+        "respuestas": {
+            "1": "Dos ocupantes, incluido el conductor.",
+            "2": "Un ocupante.",
+            "3": "Dos ocupantes, sin incluir al conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un turismo con el distintivo ambiental de la imagen, clasificado como ECO, ¿está autorizado a circular por el carril VAO si su único ocupante es el conductor?",
+        "respuestas": {
+            "1": "No, salvo que por sus paneles de mensaje variable se autorice su acceso.",
+            "2": "Sí, aunque no lleve el distintivo adhesivo en el parabrisas.",
+            "3": "Sí, siempre que lleve el distintivo adhesivo en el parabrisas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Cuáles de los siguientes vehículos podrán circular por un carril de alta ocupación (VAO) aunque solo esté ocupado por su conductor?",
+        "respuestas": {
+            "1": "Los que lleven la señal V-15.",
+            "2": "Los turismos que arrastren un remolque ligero.",
+            "3": "Los cuadriciclos ligeros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Un turismo con el distintivo ambiental de la imagen, clasificado como C, ¿está autorizado a circular por un carril VAO si su único ocupante es el conductor?",
+        "respuestas": {
+            "1": "Sí, siempre que lleve el distintivo adhesivo en el parabrisas.",
+            "2": "No, salvo que por los paneles de mensaje variable se autorice su acceso.",
+            "3": "Sí, aunque no lleve el distintivo adhesivo en el parabrisas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Por un carril para vehículos de alta ocupación (VAO), ¿le está permitido circular a un vehículo mixto adaptable?",
+        "respuestas": {
+            "1": "Sólo si el vehículo lleva la señal de persona con movilidad reducida.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Está permitido que las motocicletas circulen por un carril VAO?",
+        "respuestas": {
+            "1": "No, porque las motocicletas no se consideran vehículos de alta ocupación.",
+            "2": "No, porque por estos carriles solo pueden circular autobuses y turismos.",
+            "3": "Sí, las motocicletas y turismos pueden utilizar este carril."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Un vehículo mixto en el que sólo viaja el conductor, ¿puede, en algún caso, circular por un carril para VAO?",
+        "respuestas": {
+            "1": "No, porque debe estar ocupado por el número mínimo de personas que se fije.",
+            "2": "Sí, si el vehículo ostenta la señal de persona con movilidad reducida.",
+            "3": "Sí, si el conductor es novel."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Cuando sólo lo ocupe su conductor, ¿puede un turismo circular por un carril para VAO?",
+        "respuestas": {
+            "1": "Sí, siempre que sea un vehículo no prioritario en servicio de urgencia.",
+            "2": "Sí, si el vehículo lleva la señal de persona con movilidad reducida.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Por el carril para vehículos de alta ocupación (VAO), ¿puede circular un turismo con remolque?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando el remolque sea ligero.",
+            "3": "Sí, cuando lo ocupan el numero de personas exigido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Con qué distintivo medio ambiental puede circular un conductor por el carril VAO?",
+        "respuestas": {
+            "1": "ECO, en todo caso.",
+            "2": "0 emisiones.",
+            "3": "Señal V-26."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Un turismo con el distintivo ambiental de la imagen, clasificado como “0” emisiones, ¿está autorizado a circular por el carril habilitado para vehículos de alta ocupación (VAO)?",
+        "respuestas": {
+            "1": "Sí, aunque vaya solo el conductor.",
+            "2": "Sí, siempre que esté ocupado por al menos dos personas, incluido el conductor.",
+            "3": "No, salvo que por los paneles de mensaje variable se autorice su acceso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Para qué sirve el carril de aceleración?",
+        "respuestas": {
+            "1": "Para incorporarse lentamente a la vía.",
+            "2": "Para incorporarse a la vía a una velocidad adecuada a las circunstancias de la circulación.",
+            "3": "Para alcanzar 120 km/h antes de incorporarse a la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El carril reversible está abierto. ¿Puede atravesar la línea doble discontinua de la izquierda para adelantar?",
+        "respuestas": {
+            "1": "Sí, porque la línea es discontinua.",
+            "2": "No.",
+            "3": "Sí, porque el carril de la izquierda está libre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un furgón, ¿puede utilizar un carril reversible?",
+        "respuestas": {
+            "1": "Sólo cuando su masa máxima autorizada no sea superior a 3.500 Kilogramos.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
+        "respuestas": {
+            "1": "Utilizarlo sólo para adelantar a una velocidad máxima de 80 kilómetros por hora.",
+            "2": "No circular por él porque la circulación está prohibida.",
+            "3": "Entre otras normas, si la circulación está regulada por semáforos de carril, obedecer sus indicaciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El conductor del turismo amarillo...",
+        "respuestas": {
+            "1": "circula por un carril reversible.",
+            "2": "no puede utilizar el carril por el que circula.",
+            "3": "debe llevar al menos dos ocupantes para utilizar el carril por el que circula."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En un carril reversible, los conductores deberán...",
+        "respuestas": {
+            "1": "utilizar la luz de posición y circular como mínimo a 60 km/h y como máximo a 80 km/h.",
+            "2": "utilizar, al menos, el alumbrado de cruce, tanto de día como de noche.",
+            "3": "circular como mínimo a 60 km/h y como máximo a 80 km/h y utilizar la luz de cruce durante la noche."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Circula por un carril delimitado por marcas longitudinales dobles discontinuas en vía urbana, ¿qué precauciones debe adoptar?",
+        "respuestas": {
+            "1": "Encender la luz de cruce o corto alcance, tanto de día como de noche, y no invadir el carril situado más a la izquierda.",
+            "2": "Encender la señal de emergencia, además de la luz de cruce, tanto de día como de noche.",
+            "3": "Circular como mínimo a 60 km/h y como máximo a 80 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "De acuerdo con la señalización, ¿es correcto utilizar el alumbrado del vehículo?",
+        "respuestas": {
+            "1": "Sí, al menos, la luz de cruce porque el vehículo circula por un carril reversible.",
+            "2": "No, porque es de día y las condiciones meteorológicas son favorables.",
+            "3": "Sí, porque circula en sentido contrario al habitual."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En esta vía se ha habilitado un carril adicional. ¿Circula correctamente el turismo amarillo?",
+        "respuestas": {
+            "1": "Sí, siempre que no supere los 80 km/h.",
+            "2": "No, porque circula invadiendo el arcén.",
+            "3": "No, porque no lleva encendida, al menos, la luz de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Los conos de la fotografía indican que se ha habilitado...",
+        "respuestas": {
+            "1": "un carril reversible.",
+            "2": "un carril VAO.",
+            "3": "un carril adicional circunstancial."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Los principios de la conducción preventiva son...",
+        "respuestas": {
+            "1": "velocidad, desconfianza y espacio.",
+            "2": "visión, anticipación y espacio.",
+            "3": "aceleración, anticipación y desconfianza."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "A partir de la señal de la fotografía, ¿qué distancia de seguridad es obligatorio mantener, como mínimo, con una motocicleta?",
+        "respuestas": {
+            "1": "La que permita al vehículo que circula detrás adelantar con seguridad.",
+            "2": "50 metros.",
+            "3": "La que, en caso de que esta frene bruscamente, permita detenerse sin colisionar con ella."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Tras tomar un medicamento, ¿qué debe tenerse en cuenta antes de conducir?",
+        "respuestas": {
+            "1": "Nada, si ha sido recetado por un médico.",
+            "2": "Que no esté caducado en más de 6 meses, principalmente.",
+            "3": "Que puede alterar el estado físico o mental, y conviene consultar sus efectos con el médico."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En una vía de dos carriles para el mismo sentido, si tras realizar un adelantamiento va a seguir adelantando, ¿puede continuar circulando por el carril izquierdo?",
+        "respuestas": {
+            "1": "No, es obligatorio volver al carril derecho.",
+            "2": "Sólo si no molesta indebidamente a los vehículos que circulen por detrás a mayor velocidad.",
+            "3": "Sí, en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En vías interurbanas, ¿cuál es el tipo de accidente con víctimas más frecuente en el que se ven implicadas las furgonetas?",
+        "respuestas": {
+            "1": "Colisión frontal.",
+            "2": "Salida de la vía.",
+            "3": "Colisión trasera y múltiple."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Paso a nivel sin barreras.",
+            "2": "Una vía cortada al tráfico.",
+            "3": "Paso a nivel con barreras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Ante un paso para peatones señalizado con marca vial solamente, ¿cuándo hay que detenerse?",
+        "respuestas": {
+            "1": "Siempre que un peatón esté atravesándolo o demuestre su intención de hacerlo.",
+            "2": "Cuando el peatón ya está atravesándolo, pero no cuando sólo demuestra su intención de hacerlo.",
+            "3": "Sólo cuando lo indique un Agente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular una autocaravana de 3.000 kg de MMA por una autopista?",
+        "respuestas": {
+            "1": "80 km/h.",
+            "2": "60 km/h.",
+            "3": "50 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Debido a una avería, un vehículo obstaculiza la circulación en una autovía; ¿qué debe hacer su conductor?",
+        "respuestas": {
+            "1": "Sacarlo de la calzada, cumpliendo las normas de estacionamiento siempre que sea posible.",
+            "2": "Dejarlo en la mediana, porque siempre es el sitio más seguro.",
+            "3": "Remolcarlo con cualquier otro vehículo hasta un lugar seguro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Al adelantar a un turismo, ¿qué separación lateral debe respetar?",
+        "respuestas": {
+            "1": "Una distancia de 1,5 metros como mínimo.",
+            "2": "Una distancia proporcional a la velocidad y al tipo de calzada.",
+            "3": "Una distancia proporcional a la anchura del turismo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Hay que revisar periódicamente el estado de las pastillas y los discos de freno?",
+        "respuestas": {
+            "1": "El estado de las pastillas sí, los discos no se estropean.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Conduce su turismo en una autopista dentro de poblado, ¿qué carril utilizará normalmente?",
+        "respuestas": {
+            "1": "El carril por el que haya menos vehículos.",
+            "2": "El de la derecha, pudiendo utilizar el resto cuando las circunstancias del tráfico lo aconsejen.",
+            "3": "El carril de la derecha, pudiendo utilizar el resto sólo para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Con el vehículo en movimiento, ¿puede el conductor poner en marcha un navegador GPS?",
+        "respuestas": {
+            "1": "No, ya que es incompatible con la obligatoria atención a la conducción.",
+            "2": "Sí, ya que no supone ningún peligro.",
+            "3": "Sí, mientras que no entorpezca el manejo del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si un conductor se encuentra esta señal, debe saber que en la próxima intersección...",
+        "respuestas": {
+            "1": "tiene prioridad sobre los vehículos que se acerquen tanto por la derecha como por la izquierda.",
+            "2": "se aplica la regla general de prioridad de paso.",
+            "3": "debe ceder el paso a los vehículos que se acerquen tanto por la derecha como por la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Puede deslumbrar con la luz de largo alcance a los vehículos que circulan delante por su mismo carril?",
+        "respuestas": {
+            "1": "No, sólo se deslumbra a los que encuentre de frente.",
+            "2": "Sí, por el reflejo de la calzada.",
+            "3": "Sí, a través de los espejos retrovisores, por lo que debe cambiar a la luz de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "Cruce con prioridad de la derecha.",
+            "2": "Intersección con prioridad sobre incorporación por la derecha.",
+            "3": "Intersección donde se debe ceder el paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciones de tráfico ofrecen más dificultades a las personas mayores?",
+        "respuestas": {
+            "1": "Los giros a la izquierda, especialmente en vías urbanas.",
+            "2": "Los estacionamientos, sobre todo cuando se realizan a la derecha de la calzada.",
+            "3": "Las situaciones complejas, como incorporarse a una vía en la que se circula a alta velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En un vehículo con airbag frontal, si un menor viaja excepcionalmente en el asiento del copiloto con un sistema de retención infantil, es obligatorio que...",
+        "respuestas": {
+            "1": "el sistema de retención esté orientado hacia atrás y el airbag desactivado.",
+            "2": "el sistema de retención esté orientado hacia delante y el airbag desactivado.",
+            "3": "el sistema de retención esté orientado hacia atrás y el airbag conectado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Para pagar en un puesto de peaje, debe pasar...",
+        "respuestas": {
+            "1": "por el carril que indica la flecha verde.",
+            "2": "por cualquier carril, indistintamente.",
+            "3": "por el carril que indica el aspa roja."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En general, los conductores que sufren un trastorno depresivo...",
+        "respuestas": {
+            "1": "reaccionan con mayor rapidez ante una situación imprevista.",
+            "2": "se distraen con mayor facilidad.",
+            "3": "son menos sensibles a la somnolencia y a la fatiga."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La luz antiniebla trasera deberá utilizarse siempre que...",
+        "respuestas": {
+            "1": "circule por un túnel.",
+            "2": "circule por un puerto de montaña.",
+            "3": "circule con fuerte nevada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Cuándo es recomendable cambiar los neumáticos?",
+        "respuestas": {
+            "1": "5 años después de la fecha de fabricación.",
+            "2": "Cada 5.000 kilómetros.",
+            "3": "Cuando la profundidad de su dibujo sea inferior a 2,6 milímetros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En caso de llevarlo, ¿dónde se colocará el distintivo ambiental en un turismo?",
+        "respuestas": {
+            "1": "En el ángulo superior izquierdo del parabrisas.",
+            "2": "En el ángulo inferior derecho del parabrisas.",
+            "3": "En el ángulo superior derecho del parabrisas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En un paso a nivel está permitido pasar cuando...",
+        "respuestas": {
+            "1": "la barrera está en movimiento.",
+            "2": "el semáforo que regula el paso está en rojo y la barrera levantada.",
+            "3": "la barrera está completamente levantada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Cuando circulen a una velocidad que no supere los 40 km/h, los conductores de vehículos especiales obligados a llevar la señal luminosa V-2, la encenderán...",
+        "respuestas": {
+            "1": "tanto de día como de noche.",
+            "2": "sólo durante el día.",
+            "3": "sólo durante la noche."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En un túnel, esta señal indica...",
+        "respuestas": {
+            "1": "la dirección y distancia a una salida de emergencia.",
+            "2": "la situación de un teléfono de emergencia.",
+            "3": "la situación de una salida de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En cuanto a los sistemas de ayuda a la conducción (ADAS), ¿cuál es la función del registrador de datos de incidencias o EDR?",
+        "respuestas": {
+            "1": "Evaluar si el conductor está en condiciones de conducir un vehículo automatizado.",
+            "2": "Registrar y almacenar información para poder conocer las causas de un siniestro.",
+            "3": "Analizar los sistemas del vehículo para evaluar el estado de alerta del conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Factores variables como la cantidad y la calidad del sueño, el consumo de medicamentos sedantes o la monotonía en la conducción, ¿afectan por igual a todos los conductores?",
+        "respuestas": {
+            "1": "Sólo a los conductores que circulan principalmente de noche.",
+            "2": "No, el mismo factor puede afectar de manera distinta a dos personas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El lunes a las 9 de la mañana, a partir del lugar donde se encuentra situada esta señal...",
+        "respuestas": {
+            "1": "está prohibido parar y estacionar.",
+            "2": "se puede parar, pero no estacionar.",
+            "3": "sólo se puede estacionar para dejar un paquete."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Tendrán prioridad de paso sobre los vehículos los peatones que...",
+        "respuestas": {
+            "1": "circulen por la calzada.",
+            "2": "bajen de un autobús en una parada señalizada y están entre el autobús y la zona peatonal más próxima.",
+            "3": "circulen por una vía dentro de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Entrada prohibida a todos los vehículos, salvo ciclomotores.",
+            "2": "Entrada prohibida a toda clase de vehículos.",
+            "3": "Calle cortada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Puede entrar en esta calle?",
+        "respuestas": {
+            "1": "No, porque la señal me lo prohíbe.",
+            "2": "No, porque circulan vehículos en sentido contrario.",
+            "3": "Sí, pero respetando la prioridad de los vehículos que circulan en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Esta señal, ¿qué prohíbe?",
+        "respuestas": {
+            "1": "La entrada a vehículos de motor.",
+            "2": "La entrada a toda clase de vehículos.",
+            "3": "El estacionamiento a turismos y motocicletas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que no se debe circular por el carril así señalizado.",
+            "2": "Que se debe cambiar de carril.",
+            "3": "Que la entrada está prohibida a vehículos de motor, excepto motocicletas de dos ruedas sin sidecar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Le está permitido circular con un ciclomotor por una vía a cuya entrada se encuentra esta señal?",
+        "respuestas": {
+            "1": "No, prohíbe el paso a ciclos y ciclomotores.",
+            "2": "No, prohíbe el paso a todos los vehículos de dos ruedas con motor.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Entrada prohibida a motocicletas.",
+            "2": "Entrada prohibida a vehículos de dos ruedas.",
+            "3": "Entrada prohibida a ciclomotores."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si circula con un turismo, ¿le afecta esta señal?",
+        "respuestas": {
+            "1": "No; prohíbe la entrada a ciclomotores y a vehículos para personas de movilidad reducida.",
+            "2": "Sí.",
+            "3": "No; prohíbe la entrada a motocicletas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Esta señal prohíbe la entrada a:",
+        "respuestas": {
+            "1": "Ciclos.",
+            "2": "Ciclomotores.",
+            "3": "Cualquier vehículo de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "indica que está prohibido el acceso a todos los vehículos y especialmente a los ciclos.",
+            "2": "indica que está prohibido el acceso a los ciclos.",
+            "3": "permite la circulación de ciclos pero no de los automóviles."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Esta señal prohíbe la entrada a...",
+        "respuestas": {
+            "1": "ciclomotores.",
+            "2": "bicicletas.",
+            "3": "vehículos de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "entrada prohibida a todo tipo de vehículos.",
+            "2": "entrada destinada solamente a los vehículos de transporte de mercancías.",
+            "3": "entrada prohibida a vehículos destinados al transporte de mercancías tales como camiones y furgones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿A qué vehículos prohíbe la entrada esta señal?",
+        "respuestas": {
+            "1": "A camiones y autobuses de menos de 3.500 kilogramos de MMA.",
+            "2": "A camiones y furgones dedicados al transporte de mercancías.",
+            "3": "A todos los vehículos de más de 3.500 kilogramos de MMA."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señal prohíbe el acceso a vehículos destinados al transporte de mercancías, entendiendo como tales...",
+        "respuestas": {
+            "1": "los camiones y furgones dependiendo de su masa.",
+            "2": "los camiones y furgones independientemente de su masa.",
+            "3": "los camiones, exclusivamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal?",
+        "respuestas": {
+            "1": "A los de más de 3.500 kg de MMA sólo cuando llevan carga.",
+            "2": "A los de menos de 3.500 kg de MMA.",
+            "3": "A los de más de 3.500 kg de MMA con carga o sin carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Esta señal:",
+        "respuestas": {
+            "1": "Permite el acceso a los vehículos de más de 5,5 toneladas dedicados al transporte de mercancías, cuando circulan vacíos.",
+            "2": "Prohíbe el acceso a los vehículos destinados al transporte de mercancías de más de 5,5 toneladas de MMA.",
+            "3": "Prohíbe el acceso a todo tipo de vehículo con más de 5,5 toneladas de MMA."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Conduce un turismo con un remolque de un solo eje, ¿le afecta esta señal?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque lleva un remolque de un eje.",
+            "3": "No, salvo que la MMA. del remolque supere la cifra indicada en la señal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Esta señal, ¿prohíbe la entrada a los camiones?",
+        "respuestas": {
+            "1": "Sí, en cualquier caso.",
+            "2": "No.",
+            "3": "Sólo si la masa máxima del camión no supera las 2 toneladas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Circula con un turismo con remolque, ¿puede entrar en una vía con esta señal?",
+        "respuestas": {
+            "1": "Sí, cuando el remolque tenga un solo eje.",
+            "2": "No, con ningún vehículo que arrastre un remolque.",
+            "3": "Sí, con cualquier conjunto de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Permite la entrada a los vehículos que transporten mercancías peligrosas.",
+            "2": "Prohíbe la entrada a los vehículos que transporten mercancías peligrosas.",
+            "3": "Prohíbe le entrada a toda clases de camiones cisterna."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Esta señal, ¿prohíbe la entrada a los vehículos que transportan mercancías peligrosas?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Si, pero solamente si la masa máxima del vehículo supera las toneladas"
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Calzada obligatoria para vehículos que transporten mercancías explosivas.",
+            "2": "Entrada prohibida a vehículos que transporten mercancías explosivas o inflamables.",
+            "3": "Entrada prohibida a vehículos que transporten mercancías peligrosas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Esta señal prohíbe la entrada a los vehículos que transporten...",
+        "respuestas": {
+            "1": "cisternas.",
+            "2": "mercancías peligrosas.",
+            "3": "más de mil litros de productos capaces de contaminar el agua."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué significa esta señal?",
+        "respuestas": {
+            "1": "Prohibida la entrada a todos los varones.",
+            "2": "Prohibida la entrada a los peatones.",
+            "3": "Prohibida la entrada a los menores de 18 años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal prohíbe:",
+        "respuestas": {
+            "1": "La entrada a animales de montura.",
+            "2": "Las carreras ecuestres.",
+            "3": "La circulación de vehículos a motor por ser una vía exclusiva para animales de montura."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En este puesto de peaje, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Pasar sin detenerse porque no hay barrera.",
+            "2": "Pasar sin detenerse porque la flecha está verde.",
+            "3": "Detenerse en el puesto de control porque lo indica la señal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que se acaba la autopista.",
+            "2": "Que hay una gasolinera.",
+            "3": "Que es obligatorio detenerse antes de pasar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "La señal afecta a...",
+        "respuestas": {
+            "1": "todos los vehículos cuya masa máxima en carga supere la indicada.",
+            "2": "los vehículos de transporte de mercancías, exclusivamente.",
+            "3": "los vehículos automóviles, exclusivamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Esta señal prohíbe el paso a los vehículos...",
+        "respuestas": {
+            "1": "cuya altura máxima excluida la carga supere la indicada.",
+            "2": "cuya anchura máxima excluida la carga supere la indicada.",
+            "3": "cuyo peso total sobre algún eje supere al indicado en toneladas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Esta señal, ¿a qué vehículos prohíbe el paso?",
+        "respuestas": {
+            "1": "Solamente a los automóviles cuya longitud supere los 10 metros.",
+            "2": "Sólo a los camiones cuya longitud, incluida la carga, supere la indicada en la señal.",
+            "3": "A los vehículos o conjuntos de vehículos cuya longitud máxima, incluida la carga, supere la indicada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "El paso a los vehículos de menos de 2 metros de ancho, incluida la carga.",
+            "2": "El paso a todos los vehículos cuando su carga sobresalga por los laterales.",
+            "3": "El paso a los vehículos de más de 2 metros de ancho, incluida la carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

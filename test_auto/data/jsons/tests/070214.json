@@ -1,0 +1,123 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si en un control de alcoholemia el conductor supera la tasa máxima permitida, los agentes...",
+        "respuestas": {
+            "1": "trasladarán al conductor a un centro médico para realizar un análisis de sangre.",
+            "2": "realizarán una segunda prueba pasado un tiempo mínimo de 10 minutos.",
+            "3": "precintarán el vehículo y llevarán al conductor ante la autoridad judicial."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si el resultado de una prueba de detección de alcoholemia es negativo, los agentes de tráfico, ¿pueden someter al conductor a una segunda prueba de alcoholemia?",
+        "respuestas": {
+            "1": "Sí, si el conductor muestra síntomas evidentes de estar bajo la influencia del alcohol.",
+            "2": "Solo si el conductor está involucrado en un accidente de tráfico.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si en una primera prueba de alcoholemia no supera los límites máximos permitidos, los agentes...",
+        "respuestas": {
+            "1": "no le pueden impedir continuar su marcha, en ningún caso.",
+            "2": "le pueden imponer una sanción, si presenta síntomas de haber consumido alcohol.",
+            "3": "realizarán una segunda prueba, si presenta síntomas de estar bajo la influencia de bebidas alcohólicas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los agentes de tráfico inmovilizan un vehículo porque el resultado de las pruebas de alcoholemia realizadas a su conductor es positivo. ¿Cuándo se dejará sin efecto dicha inmovilización?",
+        "respuestas": {
+            "1": "Cuando el agente de tráfico entregue al conductor el boletín de denuncia.",
+            "2": "Cuando desaparezca la causa que motivó la inmovilización.",
+            "3": "Cuando el conductor pague la multa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si un conductor se niega a realizar las pruebas de detección alcohólica, los agentes de tráfico, ¿pueden inmovilizar su vehículo?",
+        "respuestas": {
+            "1": "Sí, y además está cometiendo un delito.",
+            "2": "Solo si presenta síntomas evidentes de haber consumido alcohol.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Los Agentes podrán inmovilizar un vehículo siempre que su conductor...",
+        "respuestas": {
+            "1": "se niegue a efectuar la prueba de alcoholemia.",
+            "2": "realice la prueba de alcoholemia con resultado negativo.",
+            "3": "tenga una tasa de alcohol de 0,15 miligramos por litro en aire espirado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si el resultado de las pruebas de alcoholemia es positivo, el Agente podrá inmovilizar inmediatamente el vehículo, a no ser que...",
+        "respuestas": {
+            "1": "el conductor pague al momento la multa impuesta.",
+            "2": "otra persona debidamente habilitada pueda conducirlo.",
+            "3": "viajen niños menores de edad o ancianos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Un conductor que tenga un resultado positivo en una prueba de detección de alcoholemia...",
+        "respuestas": {
+            "1": "pierde 2 puntos de su permiso de conducir.",
+            "2": "pierde entre 4 y 6 puntos de su permiso de conducir.",
+            "3": "solo puede ser sancionado con una multa de hasta 600 euros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Un conductor, ¿puede ser condenado a penas de prisión por conducir bajo los efectos del alcohol?",
+        "respuestas": {
+            "1": "No, el consumo de alcohol no está regulado en el Código Penal.",
+            "2": "Solo si el conductor es el responsable de un accidente con víctimas mortales.",
+            "3": "Sí, conducir bajo los efectos del alcohol puede ser un delito contra la seguridad vial."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Conducir un vehículo a motor o ciclomotor cuando se ha declarado la pérdida de vigencia del permiso o licencia de conducción por la pérdida total de los puntos asignados legalmente, ¿podrá ser castigado con pena de prisión?",
+        "respuestas": {
+            "1": "No, únicamente se impondrá una sanción administrativa.",
+            "2": "Sí, por un período de 3 a 6 meses.",
+            "3": "Sí, por un período de 12 a 24 meses, además de realizar trabajos en beneficio de la comunidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Los conductores, ¿están obligados a realizar las pruebas para la detección de drogas tóxicas, cuando sean requeridos para ello por la policía de tráfico?",
+        "respuestas": {
+            "1": "Sólo cuando el conductor está implicado en un accidente.",
+            "2": "Sí; negarse a realizarlas es un delito incluido en el Código Penal.",
+            "3": "No; solo son obligatorias las pruebas para comprobar la tasa de alcoholemia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

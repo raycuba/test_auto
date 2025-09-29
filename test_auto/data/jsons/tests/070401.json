@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si conduciendo una motocicleta no puede evitar un bache que se encuentra en la calzada, ¿cuál de los siguientes comportamientos es el más idóneo?",
+        "respuestas": {
+            "1": "Reducir la velocidad y mantener vertical la motocicleta al pasar sobre el bache.",
+            "2": "Ponerse de pie sobre los reposapiés laterales y aumentar la velocidad.",
+            "3": "Aumentar la velocidad y desembragar al pasar sobre el bache."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si entra en una curva a la izquierda a velocidad excesiva, la fuerza centrífuga, ¿puede afectar a la trayectoria del vehículo?",
+        "respuestas": {
+            "1": "Sí, se desplazará hacia la izquierda de la calzada.",
+            "2": "Sí, se desplazará hacia la derecha de calzada.",
+            "3": "No, la fuerza centrífuga no afecta a la trayectoria del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una curva, ¿qué debe hacer el conductor para contrarrestar la tendencia del vehículo a salirse de la calzada debido a la fuerza centrífuga?",
+        "respuestas": {
+            "1": "Reducir la velocidad antes de la curva y acelerar suavemente al salir.",
+            "2": "Pisar el freno mientras toma la curva.",
+            "3": "Acelerar a la entrada de la curva."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si realiza con su motocicleta un giro muy cerrado a una velocidad lenta, ¿qué precaución debe tener?",
+        "respuestas": {
+            "1": "No frenar con el freno delantero porque la rueda puede bloquearse y producirse una caída.",
+            "2": "A esa velocidad tan lenta no es necesario tomar ninguna precaución.",
+            "3": "Debe compensar el efecto giroscópico con el peso del cuerpo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al tomar una curva, nota que su vehículo no gira tanto como debería porque los neumáticos delanteros han perdido cierta adherencia, ¿qué es lo primero que debe hacer?",
+        "respuestas": {
+            "1": "Aumentar el ángulo de viraje para conseguir un mayor agarre.",
+            "2": "Soltar el pedal del acelerador, y no tocar el pedal del freno, para conseguir más adherencia y tomar la curva.",
+            "3": "Pisar el pedal de freno con fuerza y corregir la trayectoria."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta curva, ¿cómo debe circular?",
+        "respuestas": {
+            "1": "Entro en la curva y después reduzco la velocidad.",
+            "2": "Adapto la velocidad antes de entrar en la curva.",
+            "3": "Aumento la velocidad antes de entrar en la curva."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En esta curva pisa el freno muy fuerte. ¿Hay peligro?",
+        "respuestas": {
+            "1": "Sí, porque el vehículo puede derrapar.",
+            "2": "No, porque el vehículo frena mejor.",
+            "3": "Sí, porque puede reventar alguna rueda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cómo se debe actuar cuando las ruedas traseras derrapen?",
+        "respuestas": {
+            "1": "Girar el volante hacia el lado contrario.",
+            "2": "Agarrar el volante fuerte y no girarlo.",
+            "3": "Girar el volante hacia el mismo lado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Respecto a los factores que explican la accidentalidad, ¿cómo se puede disminuir la influencia del riesgo asociado a la vía y su entorno?",
+        "respuestas": {
+            "1": "Circulando de noche, porque con menos tráfico es poco probable que aparezca la fatiga.",
+            "2": "Circulando por carreteras convencionales, ya que son más seguras que las autovías.",
+            "3": "Adecuando la velocidad a las condiciones de la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Si va a realizar un viaje, ¿es importante elegir la hora de salida?",
+        "respuestas": {
+            "1": "No, no es necesario.",
+            "2": "Sí, entre otras razones para evitar que el sol deslumbre.",
+            "3": "Sí, con el fin de realizar el viaje sin tener que hacer descansos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Sopla viento lateral con mucha fuerza, ¿qué debe hacer para vencer su resistencia?",
+        "respuestas": {
+            "1": "Aumentar la velocidad y tirar del volante a favor del viento.",
+            "2": "Adaptar la velocidad y seleccionar una marcha adecuada.",
+            "3": "Abrir las ventanillas para mejorar la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Cuando el viento sopla con fuerza por el lado derecho, ¿qué debe tener en cuenta el conductor al adelantar a un camión de grandes dimensiones?",
+        "respuestas": {
+            "1": "Que el viento frenará su vehículo y no podrá finalizar la maniobra.",
+            "2": "Que su vehículo se verá impulsado hacia el camión al llegar a su altura.",
+            "3": "Que al llegar a la altura del camión debe girar la dirección hacia la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El viento por la derecha en los adelantamientos a vehículos grandes, ¿por qué es peligroso?",
+        "respuestas": {
+            "1": "Porque no me deja ver la calzada.",
+            "2": "Porque frena mi vehículo y no me deja adelantar.",
+            "3": "Porque puedo perder el control del vehículo y salirme de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si sopla un fuerte viento lateral de la izquierda, los conductores de turismos deberán...",
+        "respuestas": {
+            "1": "sujetar el volante, con firmeza pero sin rigidez, hacia la derecha.",
+            "2": "sujetar el volante, con firmeza pero sin rigidez, hacia la izquierda.",
+            "3": "circular por el arcén lentamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿En qué situación el viento implica mayor peligro para la conducción de una motocicleta?",
+        "respuestas": {
+            "1": "Cuando sopla de frente.",
+            "2": "Cuando sopla de costado y a ráfagas.",
+            "3": "Cuando sopla por detrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En los días de mucho viento, ¿cómo es recomendable llevar las ventanillas del vehículo?",
+        "respuestas": {
+            "1": "Cerradas, para evitar que entre polvo o algún objeto inesperado.",
+            "2": "A medio abrir, para mejorar la aerodinámica.",
+            "3": "Abiertas, para ventilar mejor el habitáculo del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué vehículos pueden ser más afectados por el viento lateral?",
+        "respuestas": {
+            "1": "Los camiones.",
+            "2": "Los turismos.",
+            "3": "Las motocicletas y los ciclomotores."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Cuando se aprecia fuerte viento lateral...",
+        "respuestas": {
+            "1": "se deberá reducir la velocidad y corregir las ligeras desviaciones de la dirección.",
+            "2": "se deberá aumentar la velocidad para compensar la fuerza del viento.",
+            "3": "disminuye el riesgo, ya que el viento evita que el vehículo se desvíe de su trayectoria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Fuera de poblado, una autocaravana va a adelantar a un vehículo pesado. ¿Puede producirse una situación de riesgo cuando circulen en paralelo si sopla fuerte viento lateral por la izquierda?",
+        "respuestas": {
+            "1": "No, si ambos vehículos tienen el mismo volumen y peso.",
+            "2": "Sí, porque se produciría un empuje brusco de los dos vehículos hacia la izquierda.",
+            "3": "Sí, puede producirse el efecto pantalla y aproximarse de forma brusca al vehículo pesado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Para adelantar a este vehículo...",
+        "respuestas": {
+            "1": "no deben tomarse precauciones especiales.",
+            "2": "es obligatorio esperar a un tramo en el que la calzada esté seca.",
+            "3": "debe tenerse especial cuidado, pues las salpicaduras pueden impedir la visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Para circular con seguridad los días de lluvia, es recomendable que los conductores:",
+        "respuestas": {
+            "1": "Frenen de forma brusca para evitar que se bloqueen las ruedas.",
+            "2": "Circulen con las ventanillas bajadas para que no se forme vaho en el parabrisas.",
+            "3": "Que lleven bien limpias todas las superficies que permitan ver y ser vistos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En caso de lluvia se debe circular con precaución porque...",
+        "respuestas": {
+            "1": "se reduce la visibilidad.",
+            "2": "se reduce la distancia de frenado.",
+            "3": "aumentará la adherencia de los neumáticos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si conduciendo le sorprende una lluvia torrencial...",
+        "respuestas": {
+            "1": "debe estacionar en un lugar permitido y seguro, manteniendo encendidas las luces de posición.",
+            "2": "debe parar en todo caso, aunque sea en la calzada.",
+            "3": "debe acelerar para pasar la tormenta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En caso de circular con lluvia intensa, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Ninguna si no vienen vehículos en sentido contrario.",
+            "2": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "3": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Si llueve y la calzada está húmeda, en los pasos para peatones los conductores de motocicletas procurarán...",
+        "respuestas": {
+            "1": "no circular por la zona pintada, porque puede ser muy deslizante.",
+            "2": "circular por la zona pintada, porque tiene mayor agarre.",
+            "3": "aumentar la velocidad, para circular con mayor seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Es importante mantener limpio el cristal de los faros ya que la suciedad...",
+        "respuestas": {
+            "1": "modifica la dirección de los rayos luminosos provocando deslumbramientos.",
+            "2": "provoca la corrosión del cristal disminuyendo la estanqueidad.",
+            "3": "elimina la superficie rugosa que forman los prismas de la superficie exterior."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si prevé que puede llover, ¿qué es conveniente revisar?",
+        "respuestas": {
+            "1": "El estado de los neumáticos y los limpiaparabrisas.",
+            "2": "El líquido de frenos y la presión de los neumáticos.",
+            "3": "Nada, no es necesario realizar ninguna revisión."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En caso de lluvia, ¿es conveniente aumentar la distancia de seguridad con el vehículo que circula delante?",
+        "respuestas": {
+            "1": "No, no es ni necesario ni conveniente.",
+            "2": "Sí, porque disminuye la adherencia.",
+            "3": "Solo cuando se circula por vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En caso de lluvia, ¿es aconsejable aumentar la distancia de seguridad con el vehículo que circula delante?",
+        "respuestas": {
+            "1": "Sí, porque la distancia de frenado aumenta.",
+            "2": "No, porque la distancia de frenado disminuye.",
+            "3": "Solo en vías rápidas, pero no en vías urbanas ni en carreteras convencionales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Circulando en moto, si la carretera se encuentra mojada, ¿cómo se debe tomar una curva?",
+        "respuestas": {
+            "1": "Con un ángulo de giro más cerrado que si estuviera seca, disminuyendo la inclinación.",
+            "2": "Con un ángulo de giro más abierto que si estuviera seca e inclinándome más.",
+            "3": "Tratando de no inclinar demasiado la motocicleta y abriendo el ángulo de giro, si fuera posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

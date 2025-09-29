@@ -1,0 +1,46 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando tenga que bajar del vehículo para descargar el equipaje, ¿debe apagar el motor?",
+        "respuestas": {
+            "1": "Solo es obligatorio si el vehículo está correctamente estacionado.",
+            "2": "Sí, y además se debe desconectar el sistema de arranque.",
+            "3": "No, es suficiente con dejar accionado el freno de mano."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Al estacionar un vehículo con remolque en una pendiente ascendente, si no dispone de calzos, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Utilizar como calzos elementos naturales, como piedras o maderos.",
+            "2": "Es suficiente que deje engranada la marcha atrás o la primera velocidad.",
+            "3": "Apoyar una de las ruedas delanteras en el bordillo, orientada hacia el centro de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si su vehículo está provisto de caja de cambios manual, en una calle con pendiente ascendente, ¿cómo debe estacionar?",
+        "respuestas": {
+            "1": "Basta con poner el freno de estacionamiento.",
+            "2": "Poniendo el freno de estacionamiento y la primera velocidad.",
+            "3": "Poniendo el freno de estacionamiento y la marcha atrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Al estacionar un vehículo con caja de cambios manual en una pendiente descendente, ¿qué precauciones debe adoptar?",
+        "respuestas": {
+            "1": "Parar el motor, poner el freno de estacionamiento y dejar colocada la 1ª marcha.",
+            "2": "Parar el motor, poner el freno de estacionamiento y dejar colocada la marcha atrás.",
+            "3": "Parar el motor, poner el freno de estacionamiento y dejar puesta una marcha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

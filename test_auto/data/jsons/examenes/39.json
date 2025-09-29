@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué es el ABS?",
+        "respuestas": {
+            "1": "Sistema de control de seguridad.",
+            "2": "Sistema de frenado antibloqueo.",
+            "3": "Sistema de cierre centralizado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué vehículo de dos ruedas conducen la mayoría de los jóvenes entre 18 y 24 años implicados en accidentes de tráfico con víctimas?",
+        "respuestas": {
+            "1": "Una motocicleta.",
+            "2": "Un ciclomotor.",
+            "3": "Una bicicleta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué deben hacer quienes creen un obstáculo o peligro sobre la vía hasta que lo hagan desaparecer?",
+        "respuestas": {
+            "1": "Nada, serán los servicios de emergencia los que tomen medidas.",
+            "2": "Señalizarlo para que sea advertido por los demás usuarios.",
+            "3": "Atravesar el vehículo en la calzada para evitar la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Hasta el 1 de enero del 2026, en una calzada de sentido único y en caso de no disponer del dispositivo luminoso V-16, ¿cómo debe colocar los triángulos de preseñalización de peligro?",
+        "respuestas": {
+            "1": "Dos por detrás del vehículo separados por 50 metros.",
+            "2": "Uno por detrás del vehículo a 50 metros como mínimo.",
+            "3": "Uno por delante y otro por detrás del vehículo a 50 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En una travesía de dos carriles para cada sentido de la marcha, ¿puede circular por el carril izquierdo de su sentido para girar a la izquierda?",
+        "respuestas": {
+            "1": "No, porque en la travesía se debe circular siempre por la derecha.",
+            "2": "Sí, porque en las travesías se circula igual que en las vías urbanas.",
+            "3": "Solo si se va a adelantar, ya que la travesía es una vía interurbana."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si la carga que transporta en su vehículo cae sobre la calzada, ¿debe señalizar su situación hasta que la retire de la vía?",
+        "respuestas": {
+            "1": "Sí, con el dispositivo de preseñalización de peligro.",
+            "2": "Solo si cae sobre algún carril, pero no si cae sobre el arcén.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando las indicaciones de un semáforo y una señal de balizamiento se contradicen prevalece...",
+        "respuestas": {
+            "1": "el semáforo.",
+            "2": "la señal más restrictiva.",
+            "3": "la señal de balizamiento, por orden de prioridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cómo se denomina el filtro que tiene la función de limpiar las impurezas del aire que se mezcla con el carburante?",
+        "respuestas": {
+            "1": "Filtro de aire.",
+            "2": "Filtro de combustible.",
+            "3": "Filtro de partículas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En una cuesta abajo, ¿es aconsejable circular con la palanca de cambios en punto muerto para ahorrar carburante?",
+        "respuestas": {
+            "1": "Sí, porque circulando en punto muerto el motor no consume.",
+            "2": "No, porque se puede romper el motor por la falta de tracción.",
+            "3": "No, porque hay más posibilidades de perder el control del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En caso de accidente, ¿puede perder eficacia el cinturón de seguridad si las cintas no están bien estiradas?",
+        "respuestas": {
+            "1": "Sí, y puede provocar lesiones aunque esté abrochado.",
+            "2": "No pierde eficacia, pero es aconsejable sustituirlo.",
+            "3": "No pierde eficacia, pero resulta incómodo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La probabilidad de sufrir un accidente de tráfico...",
+        "respuestas": {
+            "1": "puede reducirse evitando los factores de riesgo.",
+            "2": "sólo depende de la capacidad del conductor.",
+            "3": "es siempre independiente del conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En un accidente, ¿cómo se conoce el desplazamiento del cuerpo por debajo de la cinta abdominal del cinturón de seguridad provocado por un mal uso del mismo?",
+        "respuestas": {
+            "1": "Efecto mariposa.",
+            "2": "Efecto látigo.",
+            "3": "Efecto submarino."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si conduce esta motocicleta con sidecar, los pasajeros que lleve en el mismo, ¿están obligados a llevar casco?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sólo cuando circule fuera de poblado.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Un peatón que empuja un carrito, ¿por dónde puede circular?",
+        "respuestas": {
+            "1": "Por la zona peatonal, o por el arcén o la calzada si pudiera obstaculizar el paso.",
+            "2": "Sólo por la zona peatonal.",
+            "3": "Sólo por la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El turismo amarillo sale de una gasolinera para incorporarse a la circulación; en caso necesario, ¿cuándo tiene que ceder el paso?",
+        "respuestas": {
+            "1": "Cuando se incorpore por la izquierda.",
+            "2": "Cuando se incorpore por la derecha.",
+            "3": "Siempre que se incorpore, ya sea por la derecha o por la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En este paso para peatones, si no funciona el semáforo, ¿es obligatorio parar y ceder el paso a los peatones que intenten cruzarlo?",
+        "respuestas": {
+            "1": "No, porque los vehículos tienen prioridad de paso.",
+            "2": "Sólo si quien intenta cruzar es una fila de escolares.",
+            "3": "Sí, porque los peatones tienen prioridad de paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulen de noche?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, si llevan puestas prendas reflectantes.",
+            "3": "Solo cuando circulen por vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Para evitar el atropello de peatones, los conductores deben...",
+        "respuestas": {
+            "1": "indicarles que pueden pasar con la mano o haciendo señales con las luces.",
+            "2": "prestar especial atención a los peatones que utilizan el móvil, porque pueden ir distraídos.",
+            "3": "avisarles con el claxon de su presencia, aún cuando utilicen los pasos para peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Qué vehículos deben obedecer al semaforo situado a la izquierda?",
+        "respuestas": {
+            "1": "Los que continuen de frente o giren a la izquierda.",
+            "2": "Los que continuen de frente únicamente.",
+            "3": "Los que giren a la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Con carácter general, en el borde izquierdo de una calzada, ¿se puede parar?",
+        "respuestas": {
+            "1": "Sí, siempre que no se obstaculice la circulación.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, en vías urbanas de sentido único."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En una autovía, el límite de velocidad para una motocicleta es de...",
+        "respuestas": {
+            "1": "120 km/h, pudiéndose superar en 20 km/h para adelantar.",
+            "2": "120 km/h.",
+            "3": "100 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "De los siguientes, ¿cuál es un síntoma característico de la aparición de la fatiga en el conductor?",
+        "respuestas": {
+            "1": "Movimientos más rápidos, precisos y eficaces.",
+            "2": "Conducción más automática y menos activa.",
+            "3": "Disminuye el número de parpadeos y son de menor duración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Las personas provistas de un certificado médico adecuado, ¿pueden estar exentas de utilizar el casco?",
+        "respuestas": {
+            "1": "Únicamente en vías urbanas y travesías.",
+            "2": "Sí, en todas las vías, si así lo indica el certificado.",
+            "3": "Sí, en vías de poblado, pero no en vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Prohíbe circular a los camiones de más de 3.500 kg de MMA.",
+            "2": "Obliga a circular, únicamente, a los camiones y furgones de más de 3.500 kg de MMA.",
+            "3": "Obliga a circular a todo tipo de camiones y furgones, independientemente de su MMA."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Qué le indica la señal?",
+        "respuestas": {
+            "1": "Prohíbe el paso y me informa del sentido de la circulación, no pudiendo atravesar la línea que forman los conos.",
+            "2": "Prohíbe el paso y me informa del sentido de la circulación pudiendo atravesar la línea que forman los conos si quiero adelantar.",
+            "3": "Me indica un peligro y me informa del sentido de la circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "La depresión puede producir en la conducción...",
+        "respuestas": {
+            "1": "una percepción más eficiente.",
+            "2": "mayor capacidad de reacción.",
+            "3": "un aumento de las distracciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si observa que cuando circula en línea recta el vehículo se desvía hacia un lado, puede ser debido a...",
+        "respuestas": {
+            "1": "A no mantener girado el volante al máximo durante las maniobras.",
+            "2": "Un bajo nivel del líquido de frenos.",
+            "3": "Una presión distinta en los neumáticos de un mismo eje."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Durante el día, con niebla densa o lluvia intensa, ¿se puede circular con la luz de largo alcance encendida?",
+        "respuestas": {
+            "1": "No, solo puede encenderse la luz de corto alcance.",
+            "2": "Sólo si la calzada tiene una anchura inferior a 6,50 metros.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Entre los costes por daños materiales causados por los accidentes de tráfico se encuentran los daños producidos...",
+        "respuestas": {
+            "1": "en vehículos, únicamente.",
+            "2": "a los pasajeros de los vehículos.",
+            "3": "en los vehículos, la vía y el medio ambiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Quién es el responsable de las infracciones cometidas durante la conducción?",
+        "respuestas": {
+            "1": "Siempre el titular del vehículo.",
+            "2": "El autor del hecho en que consista la infracción.",
+            "3": "El tomador del seguro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que un carril se desvía hacia la calzada contraria por obras.",
+            "2": "Que la vía pasa de uno a dos carriles de circulación por obras.",
+            "3": "Que dos carriles se desvían hacia la calzada contraria por obras."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Las señales de obras...",
+        "respuestas": {
+            "1": "tienen el mismo significado que las usadas en tramos sin obras.",
+            "2": "establecen para los tramos de obras una reducción de la velocidad máxima en 10 km/h.",
+            "3": "tienen distinto símbolo y tamaño que las usadas en tramos sin obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿De qué color son las marcas viales que señalizan tramos de obras?",
+        "respuestas": {
+            "1": "Amarillo.",
+            "2": "Blanco.",
+            "3": "Naranja."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Es obligatorio obedecer esta señal con fondo amarillo?",
+        "respuestas": {
+            "1": "Sí, haya o no obreros trabajando.",
+            "2": "No.",
+            "3": "Sí, pero sólo cuando haya obreros trabajando."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "La velocidad máxima a la que se puede circular por esta travesía.",
+            "2": "La velocidad máxima a la que se debe circular por esta vía que está en obras.",
+            "3": "La velocidad máxima para los vehículos de obras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Estas marcas viales y señales amarillas, ¿que indican?",
+        "respuestas": {
+            "1": "Que es un carril abierto en sentido contrario al habitual.",
+            "2": "Que es una zona de obras.",
+            "3": "Que cambia el tipo de vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Esta señal, ¿que indica?",
+        "respuestas": {
+            "1": "Que hay una salida obligatoria a la derecha.",
+            "2": "Que se termina el carril izquierdo y que hay obras.",
+            "3": "Que hay un carril para circulación lenta."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Cuando el fondo de las señales de orientación es amarillo, indica que se circula por...",
+        "respuestas": {
+            "1": "un tramo de vía especialmente peligroso.",
+            "2": "un tramo de vía en obras.",
+            "3": "una vía para automóviles."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En esta situación, ¿qué marcas viales debe seguir?",
+        "respuestas": {
+            "1": "Las de color amarillo, ya que se trata de una zona de obras.",
+            "2": "Ninguna, ya que el trazado viene marcado por las señales de balizamiento, y las marcas nos son obligatorias.",
+            "3": "Las de color blanco."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Un ciclomotor ocupado por dos personas, ¿puede utilizar normalmente un carril VAO?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque van dos personas.",
+            "3": "Sí, si circula por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Se considera peatón a la persona...",
+        "respuestas": {
+            "1": "que, sin ser conductor, transita a pie por las vías públicas.",
+            "2": "que circula con una bicicleta.",
+            "3": "a cuyo cargo está un animal o animales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Tomando las debidas precauciones, ¿por dónde podrá circular una persona que empuje con las manos una bicicleta cuando su tránsito por la acera sea un estorbo para los demás peatones?",
+        "respuestas": {
+            "1": "Por el arcén o por la calzada.",
+            "2": "Por la calzada, pero en ningún caso por el arcén.",
+            "3": "Por el arcén, pero en ningún caso por la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una persona en silla de ruedas, ¿puede circular por una carretera?",
+        "respuestas": {
+            "1": "Sí, por el arcén si es transitable y, si no lo es, por la calzada.",
+            "2": "Sí, pero sólo si existe acera o zona peatonal.",
+            "3": "No, no puede circular."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Un peatón que empuja un carrito, ¿por dónde puede circular?",
+        "respuestas": {
+            "1": "Por la zona peatonal, o por el arcén o la calzada si pudiera obstaculizar el paso.",
+            "2": "Sólo por la zona peatonal.",
+            "3": "Sólo por la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Por dónde debe circular un peatón que transita por el arcén de una vía fuera de poblado?",
+        "respuestas": {
+            "1": "Sobre la línea blanca que separa la calzada del arcén.",
+            "2": "Lo más cerca posible del borde exterior del arcén.",
+            "3": "Lo más cerca posible de la línea blanca que separa la calzada del arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si no existe espacio reservado para peatones, las personas que van en silla de ruedas, ¿podrán desplazarse por el arcén?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Solo en vías urbanas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En una carretera convencional, ¿está permitido que un peatón circule por la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando arrastra un vehículo.",
+            "3": "Sí, cuando no existe arcén o no es transitable."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Cuando no exista zona peatonal o ésta no sea practicable, los peatones, ¿pueden circular por el arcén?",
+        "respuestas": {
+            "1": "No, deben circular por la calzada.",
+            "2": "Sólo en vías urbanas; fuera de poblado no podrán circular.",
+            "3": "Sí, o en su defecto, por la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una vía fuera de poblado en la que no exista zona peatonal ni arcén practicable, ¿está permitido que un peatón circule por la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, siempre que tome las debidas precauciones.",
+            "3": "Solo si arrastra un vehículo de reducidas dimensiones que no sea de motor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un peatón, ¿puede circular por el arcén de su derecha en una vía fuera de poblado?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Solo cuando esté justificado por razones de mayor seguridad.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Fuera de poblado, deberán circular siempre por su derecha...",
+        "respuestas": {
+            "1": "todo grupo de peatones dirigido por una persona.",
+            "2": "los peatones, pero en poblado.",
+            "3": "todos los peatones."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, ¿qué peatones deben circular por su derecha y obedecer las señales dirigidas a los conductores?",
+        "respuestas": {
+            "1": "Los que conduzcan un rebaño de animales.",
+            "2": "Los que empujen o arrastren una motocicleta de dos ruedas.",
+            "3": "Los discapacitados que se desplacen en silla de ruedas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Una persona en silla de ruedas, ¿debe obedecer las señales de los Agentes y semáforos cuando circula por el arcén de una vía fuera de poblado?",
+        "respuestas": {
+            "1": "Solo obedecerá las señales de los agentes, pero no las de los semáforos.",
+            "2": "No, no está obligado porque es un peatón.",
+            "3": "Sí, siempre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En vía urbana, las personas que circulan por la calzada o por el arcén empujando un ciclomotor de dos ruedas, ¿por qué lado están obligados a circular?",
+        "respuestas": {
+            "1": "por su derecha.",
+            "2": "por su izquierda.",
+            "3": "indistintamente por su derecha o por su izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si en poblado no hay zonas peatonales, ¿por dónde deben circular los peatones?",
+        "respuestas": {
+            "1": "Siempre por su derecha.",
+            "2": "Siempre por su izquierda.",
+            "3": "Por la derecha o por la izquierda, dependiendo de las circunstancias."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Fuera de poblado, los peatones circularán siempre por la derecha...",
+        "respuestas": {
+            "1": "cuando la velocidad máxima permitida de la vía supere los 70 km/h.",
+            "2": "cuando circulen por una vía con un arcén de anchura inferior a 1,50 metros.",
+            "3": "cuando empujen un ciclo o un ciclomotor de dos ruedas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Fuera de poblado, cuando no exista zona peatonal, ¿por qué lado de la calzada, como norma general, están obligados a circular los peatones?",
+        "respuestas": {
+            "1": "Por su izquierda.",
+            "2": "Por su derecha.",
+            "3": "Por su derecha o por su izquierda, es indiferente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Como norma general, fuera de poblado, ¿por qué lado de la vía deberán circular los peatones?",
+        "respuestas": {
+            "1": "Por su izquierda.",
+            "2": "Si existe arcén, indistintamente por su derecha o por su izquierda.",
+            "3": "Por su derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, a los peatones, ¿les está permitido circular por su derecha?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, los peatones siempre circularán por su derecha en este tipo de vías.",
+            "3": "Solo excepcionalmente si existen razones de mayor seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En un paso de peatones señalizado, que no esté regulado por agente ni semáforo, los peatones sólo deben penetrar en la calzada cuando...",
+        "respuestas": {
+            "1": "la distancia y velocidad de los vehículos permita hacerlo con seguridad.",
+            "2": "no exista ningún vehículo cerca del paso.",
+            "3": "los conductores indique con movimientos del brazo que pueden cruzar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si no existe paso señalizado, ¿cómo deben cruzar la calzada los peatones?",
+        "respuestas": {
+            "1": "Cruzando en diagonal para tener mayor visibilidad.",
+            "2": "Siguiendo las indicaciones de los conductores.",
+            "3": "Perpendicularmente al eje de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Los peatones, ¿cómo irán de un extremo a otro en una glorieta cuando no exista paso para peatones?",
+        "respuestas": {
+            "1": "Rodeando el borde interior de la isleta central.",
+            "2": "Atravesando la glorieta por el centro de la calzada.",
+            "3": "Rodeando la glorieta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si no existe paso señalizado, ¿cómo deben cruzar la calzada los peatones?",
+        "respuestas": {
+            "1": "Caminando perpendicularmente al eje de la calzada.",
+            "2": "En diagonal, para ver y ser vistos mejor por los conductores.",
+            "3": "Parándose sobre las líneas de separación de carriles, aunque no sea necesario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Como norma general, la circulación de peatones está prohibida...",
+        "respuestas": {
+            "1": "en autovías, pero no en autopistas.",
+            "2": "en autopistas y en autovías.",
+            "3": "en autopistas, pero no en autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En la explanada de peaje de una autopista, ¿está permitido recoger a una persona que hace autostop?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si no existe riesgo para otros usuarios de la vía.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "A los peatones que utilicen monopatines o patines en ningún caso les está permitido...",
+        "respuestas": {
+            "1": "ser arrastrados por otros vehículos.",
+            "2": "circular por el arcén de una travesía.",
+            "3": "circular a paso de persona por las aceras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué debe llevar todo peatón que transite de noche por el arcén de una vía fuera de poblado?",
+        "respuestas": {
+            "1": "Un catadióptrico amarillo que pueda verse a una distancia mínima de 50 metros.",
+            "2": "Un teléfono móvil.",
+            "3": "Un elemento luminoso o reflectante que sea visible a una distancia mínima de 150 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Un peatón que circule de noche por el arcén o por la calzada de una vía fuera de poblado, ¿debe llevar algún elemento que le permita ser visto?",
+        "respuestas": {
+            "1": "Sí, debe llevar un elemento luminoso o retrorreflectante homologado.",
+            "2": "No, no es obligatorio.",
+            "3": "Solo si circula por la calzada, pero no cuando lo haga por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Los peatones que circulen por el arcén en vías fuera de poblado, ¿cuándo deberán utilizar un elemento luminoso o reflectante homologado?",
+        "respuestas": {
+            "1": "Cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad.",
+            "2": "Cuando el arcén tenga una anchura inferior a 1,5 metros, tanto de día como de noche.",
+            "3": "Siempre que circulen por el arcén, tanto de día como de noche."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

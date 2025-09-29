@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Una furgoneta con una antigüedad de más de 10 años, ¿con qué frecuencia debe pasar la inspección técnica periódica?",
+        "respuestas": {
+            "1": "Bienal.",
+            "2": "Cada cuatro años.",
+            "3": "Semestral."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué debe llevar todo peatón que transite de noche por el arcén de una vía fuera de poblado?",
+        "respuestas": {
+            "1": "Un catadióptrico amarillo que pueda verse a una distancia mínima de 50 metros.",
+            "2": "Un teléfono móvil.",
+            "3": "Un elemento luminoso o reflectante que sea visible a una distancia mínima de 150 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Cuáles son los daños no cubiertos por el seguro obligatorio al causante de un accidente?",
+        "respuestas": {
+            "1": "Los daños personales que sufra el conductor responsable.",
+            "2": "Los daños personales que sufran los ocupantes del vehículo causante del accidente.",
+            "3": "Los daños que se produzcan en el vehículo contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una furgoneta de MMA inferior a 3.500 kg, tiene cuatro años de antigüedad; ¿cuándo debe pasar su próxima inspección técnica periódica (ITV)?",
+        "respuestas": {
+            "1": "En dos años.",
+            "2": "Al año siguiente.",
+            "3": "En seis meses."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si se coloca la cinta abdominal del cinturón de seguridad por encima del abdomen...",
+        "respuestas": {
+            "1": "puede provocar graves lesiones internas durante un accidente.",
+            "2": "el cinturón de seguridad funciona con eficacia.",
+            "3": "la conducción es más cómoda y segura."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Durante el día y con tiempo soleado, deberá llevar encendida la luz de corto alcance cuando...",
+        "respuestas": {
+            "1": "circule a una velocidad inferior a 40 km/h.",
+            "2": "circule en tramos de vías estrechas con muchas curvas.",
+            "3": "circule por un carril reversible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si un vehículo no prioritario efectúa un servicio de los normalmente reservados a los prioritarios y así lo advierte su conductor con señales acústicas y luminosas, los demás conductores...",
+        "respuestas": {
+            "1": "le facilitarán el paso, llegando a detenerse si fuera preciso.",
+            "2": "no están obligados a facilitarle el paso, al no tratarse de un vehículo prioritario.",
+            "3": "se apartaran a la derecha, pero en ningún caso detendrán sus vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Para circular con seguridad los días de lluvia, es recomendable que los conductores:",
+        "respuestas": {
+            "1": "Frenen de forma brusca para evitar que se bloqueen las ruedas.",
+            "2": "Circulen con las ventanillas bajadas para que no se forme vaho en el parabrisas.",
+            "3": "Que lleven bien limpias todas las superficies que permitan ver y ser vistos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada podrá estacionar su turismo, si no existe señalización que lo prohíba?",
+        "respuestas": {
+            "1": "En ambos lados, en todo caso.",
+            "2": "En el lado derecho en el sentido de mi marcha.",
+            "3": "En ambos lados, pero sólo cuando no obstaculice la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Qué se debe hacer con el aceite usado del vehículo?",
+        "respuestas": {
+            "1": "Entregarlo en un contenedor de recuperación de aceite.",
+            "2": "Tirarlo en tierra.",
+            "3": "Tirarlo en una alcantarilla o desagüe."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En esta vía de doble sentido, ¿es correcto adelantar por la derecha al tranvía que circula por el centro de la calzada?",
+        "respuestas": {
+            "1": "No, se debe adelantar por el lado izquierdo.",
+            "2": "Sí.",
+            "3": "Solo cuando el tranvía se detenga en una parada señalizada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La habilitación de uno o varios carriles para la circulación VAO, ¿será siempre temporal y con horario fijo?",
+        "respuestas": {
+            "1": "No, podrá ser permanente y con un horario en función de las necesidades de la circulación.",
+            "2": "Sí, siempre estará habilitado a primera hora de la mañana hasta primera hora de la tarde.",
+            "3": "Sí, por razones de seguridad vial o fluidez de la circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El seguro obligatorio de un vehículo, ¿cubre los daños ocasionados en el mismo cuando su conductor sea el responsable de un accidente?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solamente si existen daños personales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En caso de avería del alumbrado, ¿puede circular por la noche con un alumbrado de intensidad inferior?",
+        "respuestas": {
+            "1": "Sí, manteniendo una velocidad que permita detener el vehículo dentro de la zona iluminada.",
+            "2": "Sí, puede continuar hasta el taller más próximo.",
+            "3": "No, no podrá continuar el viaje."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Con hielo o nieve, es aconsejable circular...",
+        "respuestas": {
+            "1": "utilizando la relación de marchas más baja posible.",
+            "2": "utilizando la relación de marchas más alta posible.",
+            "3": "frenando a fondo en las curvas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Existe algún dispositivo de seguridad pasiva en el vehículo que pueda sustituir al cinturón de seguridad?",
+        "respuestas": {
+            "1": "No, aunque otros lo complementan en caso de accidente.",
+            "2": "Sí, el airbag del conductor.",
+            "3": "Sí, los asientos ergonómicos que se adaptan a la forma del cuerpo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El viento por la derecha en los adelantamientos a vehículos grandes, ¿por qué es peligroso?",
+        "respuestas": {
+            "1": "Porque no me deja ver la calzada.",
+            "2": "Porque frena mi vehículo y no me deja adelantar.",
+            "3": "Porque puedo perder el control del vehículo y salirme de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En una vía con varios carriles para el mismo sentido de la circulación, las indicaciones de las señales, ¿se aplican a toda la anchura de la calzada?",
+        "respuestas": {
+            "1": "Sí, todas las señales se aplican a toda la anchura de la calzada.",
+            "2": "No, sólo afectarán al carril más próximo a la señalización.",
+            "3": "Sí, como regla general, aunque su aplicación podrá limitarse a uno o más carriles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En una calle cortada, donde no es posible circular hacia delante, pero sí cambiar de sentido, ¿está permitido circular marcha atrás?",
+        "respuestas": {
+            "1": "Sí, pero sin invadir un cruce de vías.",
+            "2": "Sí, si no recorre más de 15 metros.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En esta vía de doble sentido el vehículo de recogida de residuos se ha parado; ¿está permitido rebasarlo?",
+        "respuestas": {
+            "1": "Sí, siempre que la maniobra se pueda realizar sin riesgo.",
+            "2": "No, ya que para ello hay que ocupar totalmente el carril del sentido contrario.",
+            "3": "No porque lo prohíben las marcas viales longitudinales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿De qué peligro nos advierte esta señal?",
+        "respuestas": {
+            "1": "Pavimento deslizante.",
+            "2": "Escalón lateral.",
+            "3": "Obstrucción en la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El agente, con toques de silbato cortos y frecuentes, ordena...",
+        "respuestas": {
+            "1": "acelerar para evitar los atascos.",
+            "2": "reanudar la marcha.",
+            "3": "detenerse."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Conducir un turismo que arrastra un remolque ligero, con un permiso de la clase B, ¿está permitido?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, pero solo si la masa máxima autorizada del conjunto no supera los 3.500 kilogramos.",
+            "3": "Sí, en cualquier caso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Al entrar en un túnel suficientemente iluminado fuera de poblado, ¿qué alumbrado debe encender?",
+        "respuestas": {
+            "1": "Solamente el alumbrado de posición.",
+            "2": "El alumbrado de posición y la luz antiniebla delantera.",
+            "3": "El alumbrado de posición y el de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En las intersecciones y sus proximidades, si se dificulta el giro a otros vehículos, está prohibido...",
+        "respuestas": {
+            "1": "estacionar, solamente.",
+            "2": "parar y estacionar.",
+            "3": "parar, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si circula de noche por una vía urbana, ¿qué alumbrado debe utilizar?",
+        "respuestas": {
+            "1": "Sólo el de posición.",
+            "2": "El de posición y el de largo alcance.",
+            "3": "El de posición y el de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En un estacionamiento con limitación horaria, como norma general, ¿está permitido estacionar sin colocar el distintivo que lo autoriza?",
+        "respuestas": {
+            "1": "No, además, se podrá ordenar la inmovilización del vehículo.",
+            "2": "No, aunque no se puede inmovilizar ni retirar el vehículo.",
+            "3": "Sí, mientras permanezca un ocupante en el interior del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En una parada de autobús señalizada, ¿qué está prohibido?",
+        "respuestas": {
+            "1": "Parar y estacionar.",
+            "2": "Adelantar en sus proximidades.",
+            "3": "Circular invadiéndola."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En el semáforo se enciende la luz amarilla fija. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Ceder el paso y después pasar.",
+            "2": "Pasar antes de que se encienda la luz roja.",
+            "3": "Detenerme antes del semáforo, cuando pueda hacerlo sin peligro."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Uno de los efectos que pueden producir los ansiolíticos es...",
+        "respuestas": {
+            "1": "la disminución de la sensibilidad al deslumbramiento.",
+            "2": "la aparición de periodos de somnolencia.",
+            "3": "el aumento de la agudeza visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

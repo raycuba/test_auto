@@ -1,0 +1,255 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Se considera conductor a la persona...",
+        "respuestas": {
+            "1": "que conduce a pie un ciclo o ciclomotor de dos ruedas.",
+            "2": "que maneja el volante de un vehículo cuando circula en prácticas.",
+            "3": "que maneja el mecanismo de dirección o va al mando de un vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Vehículo es todo aparato...",
+        "respuestas": {
+            "1": "apto para circular por las vías públicas.",
+            "2": "que está en la vía pública.",
+            "3": "que sólo tiene un motor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Un automóvil es un vehículo de motor que sirve normalmente...",
+        "respuestas": {
+            "1": "para transportar personas o cosas o ambas a la vez, o para la tracción de otros vehículos con ese fin.",
+            "2": "para realizar obras o servicios determinados.",
+            "3": "para realizar trabajos agrícolas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Ciclo es el vehículo de...",
+        "respuestas": {
+            "1": "dos ruedas accionado con un motor.",
+            "2": "dos o más ruedas accionado con un motor o con pedales.",
+            "3": "dos ruedas por lo menos, accionado por su conductor mediante pedales o manivelas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Son remolques ligeros aquellos cuya MMA...",
+        "respuestas": {
+            "1": "es igual a 750 kg.",
+            "2": "supera los 750 kg.",
+            "3": "no supera los 750 kg."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué es un cuadriciclo ligero?",
+        "respuestas": {
+            "1": "Un automóvil de cuatro ruedas cuya masa en vacío es inferior o igual a 400 kg.",
+            "2": "Un vehículo de motor de cuatro ruedas con una cilindrada no superior a 50 centímetros cúbicos.",
+            "3": "Un vehículo de cuatro ruedas cuya masa en vacío es inferior a 350 kg, con velocidad no superior a 45 km/h y un motor de cilindrada inferior o igual a 50 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Un ciclomotor es un vehículo de dos o más ruedas con una velocidad máxima no superior a 45 kilómetros por hora y un motor de combustión interna de cilindrada...",
+        "respuestas": {
+            "1": "superior a 50 e inferior a 125 centímetros cúbicos.",
+            "2": "no superior a 50 centímetros cúbicos.",
+            "3": "superior a 50 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Desde el punto de vista de la circulación, ¿es el ciclomotor un vehículo a motor?",
+        "respuestas": {
+            "1": "Sí, porque necesitan un motor para su funcionamiento.",
+            "2": "Sí, porque se trata de un vehículo autopropulsado.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Está permitido circular con un Vehículo de Movilidad Personal (VMP) que dispone de un sillín?",
+        "respuestas": {
+            "1": "Sólo si el VMP está equipado con un sistema de autoequilibrado.",
+            "2": "Únicamente en zonas peatonales.",
+            "3": "No, está prohibido si el VMP tiene un sillín."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Qué tipo de motor deben llevar los vehículos de movilidad personal?",
+        "respuestas": {
+            "1": "Eléctrico o híbrido.",
+            "2": "Eléctrico únicamente.",
+            "3": "Eléctrico, híbrido o de combustión, indistintamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Los vehículos de movilidad personal para transporte de personas, ¿deben llevar catadióptricos?",
+        "respuestas": {
+            "1": "Sí, y sustituirán al alumbrado en condiciones de baja visibilidad.",
+            "2": "Sí, llevarán catadióptricos en la parte delantera, en la trasera y en los laterales.",
+            "3": "No, es un elemento opcional."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Los vehículos de movilidad personal (VMP), ¿deben disponer de un sistema de frenado que permita desacelerar el vehículo hasta su total detención?",
+        "respuestas": {
+            "1": "No; el sistema de frenado es un elemento opcional en los VMP.",
+            "2": "No; solo es obligatorio para los VMP para transporte de mercancías.",
+            "3": "Sí; todos los VMP deberán disponer de dos frenos independientes."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Un vehículo de dos ruedas que, por construcción desarrolla una velocidad máxima superior a 45 kilómetros por hora, es...",
+        "respuestas": {
+            "1": "una motocicleta.",
+            "2": "un ciclomotor.",
+            "3": "una bicicleta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Un vehículo de dos ruedas provisto de un motor de combustión interna podrá ser catalogado como motocicleta siempre que...",
+        "respuestas": {
+            "1": "su cilindrada sea superior a 50 centímetros cúbicos.",
+            "2": "pueda alcanzar una velocidad máxima superior a 40 km/h.",
+            "3": "disponga de al menos dos plazas, incluida la del conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Un vehículo de dos ruedas sin sidecar, con un motor de combustión interna superior a 50 centímetros cúbicos, se considera...",
+        "respuestas": {
+            "1": "un ciclomotor o un cuadriciclo.",
+            "2": "una motocicleta.",
+            "3": "un ciclomotor de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Se define como motocicleta al automóvil...",
+        "respuestas": {
+            "1": "de dos o tres ruedas con una cilindrada inferior a 50 centímetros cúbicos.",
+            "2": "de dos ruedas con un motor de cilindrada superior a 50 centímetros cúbicos, y/o con una velocidad máxima superior a 45 km/h.",
+            "3": "con una cilindrada superior a 125 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Desde el punto de vista de la circulación, ¿es una motocicleta un automóvil?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, porque los automóviles son los turismos.",
+            "3": "Sólo las de cilindrada igual o superior a 125 cc."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El vehículo derivado de turismo está destinado...",
+        "respuestas": {
+            "1": "a transporte de personas.",
+            "2": "a servicios o a transporte exclusivo de mercancías.",
+            "3": "a transporte, simultáneo o no, de personas y mercancías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Un automóvil construido para el transporte de mercancías cuya cabina está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor es...",
+        "respuestas": {
+            "1": "una furgoneta.",
+            "2": "un camión.",
+            "3": "un tractocamión."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Cuál es el número máximo de plazas autorizadas, incluida la del conductor, que puede tener una furgoneta para poder circular?",
+        "respuestas": {
+            "1": "9 plazas.",
+            "2": "3 plazas.",
+            "3": "5 plazas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Un vehículo cuya masa máxima no supera los 3.500 kilogramos, en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único, es un:",
+        "respuestas": {
+            "1": "Pick-up.",
+            "2": "Vehículo mixto.",
+            "3": "Furgón o furgoneta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Un vehículo destinado al alquiler sin conductor que se dedica a un uso concatenado e intensivo por un número indeterminado de usuarios dentro de una zona de servicios delimitada. ¿Debe estar disponible, en cualquier momento, para ser utilizado?",
+        "respuestas": {
+            "1": "Sí, y solicitar su servicio mediante el empleo de aplicaciones móviles.",
+            "2": "Sí, dentro de un horario.",
+            "3": "Sí, los fines de semana con conductor y entre semana sin conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué requisitos, entre otros, debe cumplir un turismo para estar clasificado como “vehículo de uso compartido” y poder llevar el distintivo de la imagen?",
+        "respuestas": {
+            "1": "Se debe alquilar sin conductor, de forma intensiva a un número indeterminado de usuarios.",
+            "2": "Se debe poder alquilar con conductor a través de aplicaciones móviles.",
+            "3": "Se debe poder alquilar con conductor los días laborables y sin conductor los festivos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

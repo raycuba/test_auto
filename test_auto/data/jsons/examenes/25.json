@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Cuándo está prohibido adelantar en los túneles?",
+        "respuestas": {
+            "1": "Cuando el túnel no está iluminado.",
+            "2": "Cuando solo existe un carril para cada sentido.",
+            "3": "Cuando existe más de un carril para cada sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué debe hacer un conductor que queda detenido en una intersección regulada por semáforos y está obstaculizando la circulación?",
+        "respuestas": {
+            "1": "Salir lo antes posible sin entorpecer la marcha de los demás usuarios.",
+            "2": "Tocará el claxon para advertir a los demás conductores que deben cederle el paso.",
+            "3": "Debido a su situación tendrá prioridad de paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Conforme a la situación de la imagen, ¿qué alumbrado debe llevar encendido?",
+        "respuestas": {
+            "1": "Las luces de posición y las de corto alcance.",
+            "2": "Las luces de posición y las de largo alcance.",
+            "3": "Las luces de posición solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los conductores que sufren un trastorno depresivo, ¿son más propensos, en general, a sufrir trastornos de sueño y a fatigarse con rapidez?",
+        "respuestas": {
+            "1": "Sí, por lo que se debe evitar conducir de noche.",
+            "2": "Sí, sufren trastornos de sueño, pero la depresión hace que tarde más en aparecer la fatiga.",
+            "3": "No, la depresión no produce somnolencia ni fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al adelantar a ciclistas en ascensos prolongados, ¿es aconsejable aumentar la separación lateral por encima de la mínima establecida por la norma?",
+        "respuestas": {
+            "1": "No; de hecho, es aconsejable reducir la separación lateral al mínimo posible.",
+            "2": "Sí, pero solo en vías con más de un carril para cada sentido de la circulación.",
+            "3": "Sí, ya que debido al esfuerzo su trayectoria puede ser oscilante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El inflado correcto de los neumáticos es...",
+        "respuestas": {
+            "1": "el recomendado por el fabricante en cada caso.",
+            "2": "el superior al recomendado en un 10%.",
+            "3": "el adecuado a los amortiguadores que lleve el coche."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "La señalización vertical prevalece sobre...",
+        "respuestas": {
+            "1": "los semáforos.",
+            "2": "la señalización horizontal.",
+            "3": "las señales de balizamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cómo hay que colocarse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Muy ajustado, aunque apriete un poco, para que sujete mejor.",
+            "2": "Flojo y con holgura, para poder llegar a todo el habitáculo del vehículo.",
+            "3": "Ajustado al cuerpo, ni muy apretado ni flojo, y sin que esté retorcido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Cómo se debe regular adecuadamente la altura del apoyacabezas?",
+        "respuestas": {
+            "1": "El borde debe quedar situado entre el límite inferior de la cabeza y la altura de los ojos.",
+            "2": "En función de la comodidad del conductor.",
+            "3": "El borde debe quedar situado entre el límite superior de la cabeza y la altura de los ojos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Qué es un cuadriciclo ligero?",
+        "respuestas": {
+            "1": "Un automóvil de cuatro ruedas cuya masa en vacío es inferior o igual a 400 kg.",
+            "2": "Un vehículo de motor de cuatro ruedas con una cilindrada no superior a 50 centímetros cúbicos.",
+            "3": "Un vehículo de cuatro ruedas cuya masa en vacío es inferior a 350 kg, con velocidad no superior a 45 km/h y un motor de cilindrada inferior o igual a 50 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué vehículos deberán circular por el arcén si no existe una zona específica para ellos o no dispone la vía de una parte acondicionada para poder circular por ella?",
+        "respuestas": {
+            "1": "Los vehículos para personas de movilidad reducida.",
+            "2": "Los turismos con remolque.",
+            "3": "Cualquier vehículo cuando el tráfico sea denso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Es necesario revisar con frecuencia el nivel del líquido de frenos?",
+        "respuestas": {
+            "1": "Sí, aunque no es necesario sustituirlo.",
+            "2": "No, ya que no se gasta con el uso.",
+            "3": "Sí, y sustituirlo en los plazos indicados por el fabricante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Fuera de poblado, ¿cómo puede advertir su intención de adelantar?",
+        "respuestas": {
+            "1": "Con señales ópticas y acústicas.",
+            "2": "Con señales acústicas, exclusivamente.",
+            "3": "Con luces de corto o de largo alcance, únicamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En los vehículos comerciales y pesados, ¿es obligatorio colocar la señal de advertencia de peligro de ángulos muertos para advertir del riesgo a los usuarios vulnerables?",
+        "respuestas": {
+            "1": "No; es obligatoria para los vehículos pesados, pero es voluntaria para los comerciales.",
+            "2": "Sí; es obligatoria su colocación para poder circular.",
+            "3": "No; es una señal que se colocará de forma voluntaria en algunos de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué le indican estas señales?",
+        "respuestas": {
+            "1": "Que está prohibida la circulación de camiones de más de 3,5 toneladas de MMA.",
+            "2": "Que los camiones deben circular a 50 km/h.",
+            "3": "Que a partir de la señal rigen las normas de zona urbana y que está prohibida la circulación de camiones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué puede hacer para evitar el aquaplaning?",
+        "respuestas": {
+            "1": "Circular con unos neumáticos inflados adecuadamente y una suficiente profundidad en el dibujo de la banda de rodadura.",
+            "2": "Acelerar para pasar cuanto antes sobre el agua embalsada.",
+            "3": "No conducir por los surcos que van dejando los vehículos que van delante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Esta señal obliga a todo conductor a...",
+        "respuestas": {
+            "1": "detener su vehículo y ceder el paso a los vehículos de la vía a la que se aproxime.",
+            "2": "ceder el paso a los vehículos de la vía a la que se aproxime.",
+            "3": "ceder el paso únicamente a los vehículos que se aproximen por su derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Este conjunto de marcas blancas pintadas en la calzada...",
+        "respuestas": {
+            "1": "indica un paso para peatones.",
+            "2": "obliga al vehículo a detenerse siempre.",
+            "3": "indica que ningún conductor puede entrar con su vehículo o animal en esta zona."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "El vehículo de la fotografía tiene encendida únicamente la señalización luminosa, ¿tiene prioridad de paso?",
+        "respuestas": {
+            "1": "Sí, porque está en una vía urbana.",
+            "2": "No, porque no lleva la señalización óptica y acústica simultáneamente.",
+            "3": "Sí, siempre que la omisión de la señal acústica no entrañe peligro alguno para los demás usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Cuando exista nieve en la calzada, ¿cómo se debe circular por una pendiente ascendente?",
+        "respuestas": {
+            "1": "Lentamente y a velocidad sostenida para evitar que patinen las ruedas motrices.",
+            "2": "A velocidad elevada, porque si el vehículo se detiene será difícil reanudar la marcha.",
+            "3": "Con la relación de marchas más corta posible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Esta señal, ¿prohíbe proseguir la marcha si no dispone de cadenas para nieve?",
+        "respuestas": {
+            "1": "Sí, en cualquier caso.",
+            "2": "Sí, a no ser que disponga de otros dispositivos autorizados, igual de eficaces.",
+            "3": "No, ya que esta señal sólo recomienda la utilización de cadenas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Un vehículo de tres ruedas, ¿puede arrastrar un remolque?",
+        "respuestas": {
+            "1": "No, nunca.",
+            "2": "Sólo remolques cuya masa máxima autorizada no supere los 50 kilos.",
+            "3": "Sí, cumpliendo determinadas condiciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "La velocidad máxima que se aconseja no sobrepasar, aunque las circunstancias meteorológicas sean favorables.",
+            "2": "La velocidad mínima a la que debemos circular.",
+            "3": "La velocidad máxima a la que podemos circular."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El vehículo estacionado le dificulta la visibilidad, ¿puede no detenerse antes de la línea transversal de detención y hacerlo un poco después de la misma?",
+        "respuestas": {
+            "1": "No, debo detenerme primero antes de la línea de detención.",
+            "2": "Sí, puedo detenerme directamente en un lugar desde el que hay visibilidad.",
+            "3": "No, y puedo cruzar sin detenerme si no circulan vehículos en la vía transversal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En esta intersección, ¿se puede adelantar?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, pero sólo a un vehículo de dos ruedas.",
+            "3": "Sí, si las circunstancias del tráfico lo permiten."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Está permitido circular sobre una marca longitudinal discontinua si circula por una calzada con carriles de menos de 3 metros de anchura?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "No, nunca.",
+            "3": "Sí, siempre que sea necesario y la seguridad de la circulación lo permita."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Durante un viaje comprueba que la presión de los neumáticos, estando calientes, es superior a la recomendada; ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Quitar aire de los neumáticos.",
+            "2": "Nada, porque el aire está caliente lo que aumenta la presión.",
+            "3": "Echar agua a los neumáticos para que se enfríen y evitar un reventón."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Un conjunto de vehículos de más de 7 metros de longitud que circula por una vía con tres carriles para el mismo sentido, ¿qué carriles puede utilizar, además del derecho?",
+        "respuestas": {
+            "1": "El inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen.",
+            "2": "Ninguno, sólo puede circular por el carril de la derecha.",
+            "3": "Cualquier carril."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En general, un conductor fatigado...",
+        "respuestas": {
+            "1": "tiene un sentimiento de euforia.",
+            "2": "sufre un agarrotamiento muscular, ya que los músculos no están relajados.",
+            "3": "presta más atención al tráfico y a su entorno, captando mejor las señales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "De las siguientes situaciones, ¿cuál favorece la fatiga en el conductor?",
+        "respuestas": {
+            "1": "Circular por una vía con el firme en buen estado.",
+            "2": "Conducir de noche con una iluminación deficiente.",
+            "3": "Mantener adecuadamente ventilado el interior del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

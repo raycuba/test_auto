@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Se denomina tiempo de reacción, al tiempo que transcurre desde que el conductor...",
+        "respuestas": {
+            "1": "pisa el pedal de freno hasta que se detiene el vehículo.",
+            "2": "percibe un peligro hasta que se detiene el vehículo.",
+            "3": "percibe un peligro hasta que actúa sobre los mandos del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿A qué se denomina distancia de reacción?",
+        "respuestas": {
+            "1": "A la distancia recorrida desde que se ve un peligro hasta que se actúa sobre los mandos del vehículo.",
+            "2": "A la distancia recorrida desde que se comienza a frenar hasta que se detiene el vehículo.",
+            "3": "A la distancia que debe dejarse entre dos vehículos cuando van circulando uno detrás del otro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "La distancia de reacción...",
+        "respuestas": {
+            "1": "es siempre la misma para todos los conductores.",
+            "2": "depende únicamente del estado psicofísico del conductor.",
+            "3": "depende, entre otros factores, de la velocidad a la que se circule."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "La distancia de reacción es:",
+        "respuestas": {
+            "1": "La distancia que recorre el vehículo desde que empieza a frenar hasta que se detiene.",
+            "2": "La distancia que debe guardarse con el vehículo que va delante.",
+            "3": "La distancia que recorre el vehículo durante el tiempo de reacción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al aumentar la velocidad...",
+        "respuestas": {
+            "1": "aumenta la distancia de reacción.",
+            "2": "disminuye el tiempo de reacción.",
+            "3": "aumenta la capacidad de reacción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Cómo se llama la distancia que recorre un vehículo desde que el conductor percibe un estímulo hasta que se responde al mismo?",
+        "respuestas": {
+            "1": "Distancia de frenado.",
+            "2": "Distancia de detención.",
+            "3": "Distancia de reacción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "La velocidad a la que se circula, ¿influye en la distancia de reacción?",
+        "respuestas": {
+            "1": "Sí; a mayor velocidad, mayor es la distancia de reacción",
+            "2": "Sí; a mayor velocidad, menor es la distancia de reacción.",
+            "3": "No; la distancia de reacción es siempre la misma."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Como norma general, el consumo de alcohol, ¿influye en la distancia de reacción?",
+        "respuestas": {
+            "1": "No, sólo influye en la distancia de frenado.",
+            "2": "Sí, porque afecta al tiempo de reacción.",
+            "3": "Sólo si la tasa de alcohol supera a la máxima permitida para poder conducir."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Tras ingerir medicamentos tranquilizantes, el tiempo de reacción...",
+        "respuestas": {
+            "1": "no varía.",
+            "2": "aumenta.",
+            "3": "disminuye."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En la conducción de vehículos, lo normal es que a medida que aumenta la fatiga en el conductor...",
+        "respuestas": {
+            "1": "disminuye la distancia de frenado.",
+            "2": "aumenta también el tiempo de reacción.",
+            "3": "disminuye el tiempo de reacción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un estado psicofísico inadecuado puede aumentar el tiempo de reacción, como si conducimos...",
+        "respuestas": {
+            "1": "usando gafas graduadas.",
+            "2": "después de una comida ligera.",
+            "3": "después de una fuerte discusión."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El sueño y la fatiga, ¿cómo influyen en la conducción?",
+        "respuestas": {
+            "1": "Disminuyen el tiempo de reacción.",
+            "2": "Aumentan la capacidad de reacción.",
+            "3": "Aumentan la distancia de reacción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Los fármacos hipnóticos hacen que...",
+        "respuestas": {
+            "1": "disminuya el tiempo de reacción.",
+            "2": "aumente el tiempo de reacción.",
+            "3": "aumente el campo visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El consumo de alcohol, ¿afecta al tiempo que tarda en reaccionar el conductor ante una situación de emergencia?",
+        "respuestas": {
+            "1": "Sí; el tiempo de reacción aumenta.",
+            "2": "Sí; el tiempo de reacción disminuye.",
+            "3": "No; el consumo de alcohol no afecta al tiempo de reacción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Si lleva a un pasajero en una motocicleta, debe tener en cuenta...",
+        "respuestas": {
+            "1": "la distancia de frenado aumenta.",
+            "2": "la distancia de frenado disminuye.",
+            "3": "la conducción debe ser más rápida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Una velocidad inadecuada, junto con unas malas condiciones del vehículo y de la vía, ¿pueden aumentar la distancia de frenado?",
+        "respuestas": {
+            "1": "No, sólo influye el mal estado del conductor.",
+            "2": "No, únicamente influye la velocidad a la que se circule.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Las condiciones meteorológicas, ¿influyen en la distancia de frenado?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "No, sólo depende de la velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Circula con su motocicleta sobre la calzada mojada de la imagen; en caso de frenada, esta situación provocará...",
+        "respuestas": {
+            "1": "una disminución de la distancia de reacción.",
+            "2": "que no aumente la distancia de detención.",
+            "3": "un aumento de la distancia de frenado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "La distancia de frenado de un vehículo cargado es...",
+        "respuestas": {
+            "1": "menor que cuando circula sin carga.",
+            "2": "igual que cuando circula sin carga.",
+            "3": "mayor que cuando circula sin carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La distancia de frenado está determinada por...",
+        "respuestas": {
+            "1": "un único factor, la velocidad a la que se circula.",
+            "2": "varios factores, como la velocidad, el estado de la vía o el del vehículo.",
+            "3": "un único factor, el estado del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La distancia de frenado es la distancia que recorre el vehículo desde que...",
+        "respuestas": {
+            "1": "se percibe el peligro hasta que se pisa el freno.",
+            "2": "se pisa el pedal del freno hasta que el vehículo se detiene.",
+            "3": "se percibe el peligro hasta que el vehículo se detiene."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué puede aumentar la distancia de frenado?",
+        "respuestas": {
+            "1": "La velocidad a la que se circule, únicamente.",
+            "2": "El radio de giro del volante y la capacidad del maletero.",
+            "3": "La presencia de nieve o hielo en la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "La distancia de frenado es...",
+        "respuestas": {
+            "1": "el espacio recorrido desde que el conductor acciona el freno hasta que el vehículo se detiene.",
+            "2": "el espacio recorrido desde que el conductor ve el obstáculo hasta que acciona el freno.",
+            "3": "el espacio recorrido desde que el conductor ve el obstáculo hasta que detiene el vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El estado de los neumáticos, ¿influye en la distancia de frenado?",
+        "respuestas": {
+            "1": "Solo influye cuando la profundidad del dibujo es inferior a 1,6 milímetros.",
+            "2": "No; la distancia de frenado depende solo del estado de los frenos.",
+            "3": "Sí; los neumáticos en buen estado se agarran mejor al suelo y el vehículo frena mejor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La distancia de frenado es el espacio recorrido desde que el conductor...",
+        "respuestas": {
+            "1": "ve el obstáculo hasta que se detiene el vehículo.",
+            "2": "ve el obstáculo hasta que acciona el freno.",
+            "3": "acciona el freno hasta que el vehículo se detiene."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "De las siguientes circunstancias, ¿cuál aumenta la distancia de frenado?",
+        "respuestas": {
+            "1": "Una buena adherencia de los neumáticos al suelo.",
+            "2": "La mayor masa del vehículo; cuanto mayor es la masa mayor es la distancia de frenado.",
+            "3": "Pisar al mismo tiempo los pedales de freno y embrague."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En caso de lluvia intensa, ¿es recomendable aumentar la distancia de seguridad y reducir la velocidad?",
+        "respuestas": {
+            "1": "Sí, ya que la adherencia es menor y, por consiguiente, la distancia de frenado aumenta.",
+            "2": "Sí, mejora el agarre de los neumáticos, pero no es recomendable reducir la velocidad.",
+            "3": "No, al reducir la velocidad mayor es la proporción de agua en el asfalto."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿En qué caso es mayor la distancia de detención?",
+        "respuestas": {
+            "1": "Cuando sopla el viento lateral.",
+            "2": "Cuando la calzada está mojada.",
+            "3": "Cuando la calzada está seca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿De qué depende la distancia de detención?",
+        "respuestas": {
+            "1": "De la velocidad, solamente.",
+            "2": "Del tipo de vehículo, solamente.",
+            "3": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La distancia de detención es el espacio que recorre el vehículo desde que el conductor...",
+        "respuestas": {
+            "1": "percibe un peligro hasta que se detiene el vehículo.",
+            "2": "pisa el pedal de freno hasta que se detiene el vehículo.",
+            "3": "percibe un peligro hasta que pisa el pedal de freno."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

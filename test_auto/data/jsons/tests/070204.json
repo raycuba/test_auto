@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Circular por una vía con el pavimento en mal estado, ¿puede favorecer la aparición de la fatiga?",
+        "respuestas": {
+            "1": "Sí, porque la conducción es más incómoda.",
+            "2": "No, porque la conducción es más entretenida.",
+            "3": "Sólo si el conductor es novel o poco experimentado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "De los siguientes factores, ¿cuál favorece la aparición de la fatiga al volante?",
+        "respuestas": {
+            "1": "Conducir un vehículo con defectos en la dirección o en la suspensión.",
+            "2": "Conducir un vehículo con un cuadro de mandos bien diseñado.",
+            "3": "Circular a una velocidad adecuada por una vía en buen estado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "De las siguientes circunstancias, ¿cuál favorece la aparición de la fatiga?",
+        "respuestas": {
+            "1": "Circular por una vía con el firme en buen estado.",
+            "2": "Conducir con buen tiempo por una carretera sin apenas tráfico.",
+            "3": "Un mal diseño del asiento o del cuadro de mandos del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "De las siguientes situaciones, ¿cuál favorece la fatiga en el conductor?",
+        "respuestas": {
+            "1": "Circular por una vía con el firme en buen estado.",
+            "2": "Conducir de noche con una iluminación deficiente.",
+            "3": "Mantener adecuadamente ventilado el interior del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Factores como una alta temperatura, o la mala ventilación del interior del vehículo...",
+        "respuestas": {
+            "1": "no alteran el estado psicofísico del conductor.",
+            "2": "retrasan la aparición de la fatiga.",
+            "3": "favorecen la aparición de la fatiga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Es recomendable realizar un mantenimiento frecuente del sistema de alumbrado del vehículo?",
+        "respuestas": {
+            "1": "Sí, porque circular con una iluminación deficiente incrementa la fatiga visual del conductor y el riesgo de accidente.",
+            "2": "Sí, por lo que es obligatorio realizar revisiones mensuales.",
+            "3": "No, solamente cuando tenga que someterse a la inspección técnica reglamentaria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Para prevenir la aparición de la fatiga es recomendable...",
+        "respuestas": {
+            "1": "mantener en el interior del vehículo una temperatura de entre 20 y 23 grados.",
+            "2": "circular con las ventanillas abiertas y mantener una temperatura de unos 30 grados.",
+            "3": "circular por una vía poco conocida en un día de nieve o lluvía intensa."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿En qué momento del día se producen los accidentes en los que el sueño o la somnolencia aparecen como factor de riesgo?",
+        "respuestas": {
+            "1": "Siempre durante la noche, entre medianoche y las tres de la madrugada.",
+            "2": "La mayoría durante la noche, pero también se producen durante el día.",
+            "3": "Siempre durante la noche, antes de que amanezca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Los riesgos de la somnolencia durante la conducción aparecen...",
+        "respuestas": {
+            "1": "solo durante la noche.",
+            "2": "a partir del momento en que el conductor se queda dormido.",
+            "3": "mucho antes de que el conductor llegue a quedarse dormido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Es posible sufrir un accidente de tráfico debido al sueño sin que el conductor se haya quedado totalmente dormido?",
+        "respuestas": {
+            "1": "Sí, pero sólo durante la noche debido a la falta de luz.",
+            "2": "No.",
+            "3": "Sí, los primeros síntomas de la somnolencia ya afectan a la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Conducir con sueño o con fatiga, ¿es peligroso para la seguridad vial?",
+        "respuestas": {
+            "1": "Sí; aumenta el riesgo de sufrir un accidente.",
+            "2": "No; los conductores con sueño o fatigados son más prudentes.",
+            "3": "Solo si no se consumen bebidas energéticas o estimulantes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Es peligroso conducir con sueño porque...",
+        "respuestas": {
+            "1": "se circula más despacio.",
+            "2": "disminuye la capacidad de reacción.",
+            "3": "el viaje dura más."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Los conductores afectados por insomnio o somnolencia...",
+        "respuestas": {
+            "1": "ejecutan los movimientos de forma automática y son más peligrosos.",
+            "2": "reaccionan más rápido ante un imprevisto.",
+            "3": "conducen durante más tiempo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En general, un conductor con sueño...",
+        "respuestas": {
+            "1": "percibe mejor el entorno del tráfico.",
+            "2": "tarda menos tiempo en reaccionar ante una situación imprevista.",
+            "3": "tarda más en procesar la información que le llega del entorno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En general, conducir con sueño...",
+        "respuestas": {
+            "1": "favorece la aparición de la fatiga ocular.",
+            "2": "ayuda a tomar decisiones rápidas y acertadas en situaciones peligrosas.",
+            "3": "reduce el tiempo de reacción ante una situación de peligro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Un conductor con sueño...",
+        "respuestas": {
+            "1": "percibe mejor las señales y es más difícil que se distraiga.",
+            "2": "tarda más tiempo en tomar decisiones y comete más errores.",
+            "3": "tarda menos tiempo en reaccionar ante una situación imprevista."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En general, un conductor con sueño...",
+        "respuestas": {
+            "1": "asume un mayor nivel de riesgo al volante.",
+            "2": "tarda menos en reaccionar ante una situación imprevista.",
+            "3": "experimenta una menor sensación de fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En general, los conductores con somnolencia...",
+        "respuestas": {
+            "1": "reaccionan más rápido ante un imprevisto.",
+            "2": "no es bueno que descansen cuando realicen trayectos largos.",
+            "3": "se distraen con mayor frecuencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Bajo los efectos del sueño los movimientos del conductor...",
+        "respuestas": {
+            "1": "tienden a ser menos automáticos.",
+            "2": "son más lentos y menos precisos.",
+            "3": "son más rápidos pero menos precisos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué es un microsueño?",
+        "respuestas": {
+            "1": "Un periodo de unos segundos durante el cual el conductor sueña mientras está conduciendo.",
+            "2": "Un periodo de unos segundos durante el cual el conductor queda ligeramente dormido sin darse cuenta.",
+            "3": "Un periodo corto de descanso que el conductor realiza cuando siente fatiga."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Las alteraciones del sueño, ¿pueden afectar al estado del conductor?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pueden provocar estados de nerviosismo y agresividad.",
+            "3": "Sí, incrementan los niveles de atención."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Factores variables como la cantidad y la calidad del sueño, el consumo de medicamentos sedantes o la monotonía en la conducción, ¿afectan por igual a todos los conductores?",
+        "respuestas": {
+            "1": "Sólo a los conductores que circulan principalmente de noche.",
+            "2": "No, el mismo factor puede afectar de manera distinta a dos personas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En general, el sueño aparece con mayor frecuencia...",
+        "respuestas": {
+            "1": "durante la madrugada y en las primeras horas de la tarde.",
+            "2": "en las primeras horas de la mañana y al final de la tarde.",
+            "3": "durante las horas centrales de la mañana y en las primeras horas de la tarde."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si durante la conducción aparecen los síntomas del sueño, ¿resulta útil el consumo de sustancias estimulantes como el café para vencerlo?",
+        "respuestas": {
+            "1": "Sí, para combatir el sueño es mejor tomar un café que parar a dormir un rato.",
+            "2": "Sí, puede resultar útil a corto plazo, pero lo mejor es parar y dormir un rato.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "De las siguientes situaciones de tráfico, ¿cuál favorece la aparición de la somnolencia en la conducción?",
+        "respuestas": {
+            "1": "Las situaciones monótonas, como conducir por una autovía sin tráfico durante muchos kilómetros.",
+            "2": "La conducción por vías en las que se producen cambios frecuentes en el entorno.",
+            "3": "La conducción en zona urbana, cuando el tráfico es denso pero la circulación fluida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En general, cambiar con frecuencia las horas de sueño o despertarse varias veces mientras se duerme, son circunstancias que...",
+        "respuestas": {
+            "1": "impiden la aparición de la somnolencia o de la fatiga durante la conducción.",
+            "2": "facilitan la concentración del conductor en vías monótonas.",
+            "3": "favorecen la aparición de la somnolencia al volante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El consumo de sustancias estimulantes como el café, ¿resulta útil para vencer el sueño?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, pueden resultar útiles porque ayudan a mantener la atención del conductor a largo plazo.",
+            "3": "Sí, pueden resultar útiles a corto plazo pero cuando pasan sus efectos se puede producir un efecto rebote."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En general, ¿en qué tipo de vías suelen producirse más accidentes por fatiga o somnolencia?",
+        "respuestas": {
+            "1": "En carretera con muchas curvas.",
+            "2": "En vías urbanas.",
+            "3": "En autopistas y autovías."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El alcohol, ¿cómo afecta a la conducción?",
+        "respuestas": {
+            "1": "Puede reducir el tiempo de reacción.",
+            "2": "Puede retrasar la aparición del sueño.",
+            "3": "Puede favorecer la aparición del sueño."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Es aconsejable evitar las comidas copiosas si se va a conducir un vehículo ya que, en general, suelen producir...",
+        "respuestas": {
+            "1": "rigidez muscular.",
+            "2": "nerviosismo.",
+            "3": "somnolencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

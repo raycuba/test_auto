@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El freno de mano, ¿para qué sirve?",
+        "respuestas": {
+            "1": "Para dejar inmovilizado el vehículo cuando estaciono.",
+            "2": "Para frenar el vehículo cuando circulo cuesta abajo.",
+            "3": "Para frenar el vehículo en ciudad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Durante el día, las motocicletas están obligadas a llevar encendida la luz de cruce...",
+        "respuestas": {
+            "1": "cuando circulen por cualquier tipo de vía.",
+            "2": "cuando circulen por vías interurbanas, solamente.",
+            "3": "cuando las condiciones climatológicas sean adversas, solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Con un herido con parada respiratoria, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Darle masaje.",
+            "2": "Hacerle la respiración artificial.",
+            "3": "Colocarle en posición de defensa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si en una vía existe una línea longitudinal continua adosada a otra discontinua...",
+        "respuestas": {
+            "1": "ningún vehículo que circule por la vía podrá atravesar ninguna de las dos líneas.",
+            "2": "el carril que tiene más cercana la línea discontinua es reversible.",
+            "3": "debemos tener en cuenta solo la línea más cercana al carril por el que circulamos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Está permitido circular marcha atrás para estacionar?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, la distancia indispensable, aunque sobrepase los 15 metros.",
+            "3": "Sí, 15 metros como máximo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta zona cebreada, ¿pueden los conductores circular o pararse sobre ella?",
+        "respuestas": {
+            "1": "No, no pueden circular ni pararse sobre ella.",
+            "2": "Pararse si pueden, pero circular está prohibido.",
+            "3": "Sí, todos los conductores pueden tanto pararse como circular sobre ella."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Cuál es la velocidad máxima a la que podrá circula un turismo ante el nivel amarillo de circulación con nieve?",
+        "respuestas": {
+            "1": "A 40 km/h.",
+            "2": "A 50 km/h.",
+            "3": "A 60 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Cuando se padece una depresión, antes de ponerse al volante es aconsejable...",
+        "respuestas": {
+            "1": "consultar a un especialista.",
+            "2": "consumir alguna bebida alcohólica para tranquilizarse.",
+            "3": "tomar tranquilizantes durante algunos días."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Al realizar un desplazamiento lateral, las luces indicadoras de dirección se deben utilizar...",
+        "respuestas": {
+            "1": "sólo para indicar la maniobra.",
+            "2": "sólo si el conductor lo cree necesario.",
+            "3": "con antelación suficiente a la iniciación de la maniobra, y durante su realización."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Respecto a los sistemas de seguridad pasiva, ¿qué relación existe entre el airbag y el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Son sistemas incompatibles; con el cinturón puesto se debe desconectar el airbag.",
+            "2": "Son sistemas complementarios, no se puede sustituir uno por otro.",
+            "3": "El airbag es un sistema de seguridad que sustituye al cinturón."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En las motocicletas, la postura del conductor ha de ser...",
+        "respuestas": {
+            "1": "un poco forzada, para evitar relajamientos.",
+            "2": "suelta y no forzada, sin encorvar el cuerpo más de lo necesario.",
+            "3": "lo más aerodinámica posible, encorvando el cuerpo cuanto más mejor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Los conductores de motocicletas, ¿pueden utilizar cascos o auriculares conectados a un teléfono móvil mientras conducen?",
+        "respuestas": {
+            "1": "Sí, porque no tienen que emplear las manos.",
+            "2": "Solo cuando circulen en poblado.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En un tramo con edificios de acceso inmediato a la vía, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Ninguna si no vienen vehículos en sentido contrario.",
+            "2": "Moderar la velocidad y si fuera preciso, detener el vehículo.",
+            "3": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Esta señal indica la situación de un lugar donde se puede...",
+        "respuestas": {
+            "1": "estacionar el vehículo cuando está averiado.",
+            "2": "realizar una parada para descansar.",
+            "3": "apartar el vehículo en un túnel para dejar libre el paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Se puede estacionar un vehículo delante del vado de un garaje correctamente señalizado?",
+        "respuestas": {
+            "1": "Solo si se dejan las luces de emergencia.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué comportamiento debe evitar como conductor para disminuir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "Utilizar gafas de sol, para evitar deslumbramientos al amanecer y al atardecer.",
+            "2": "Estacionar sobre la acera.",
+            "3": "Reducir la velocidad al adelantar a un autobús del que están bajando pasajeros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Dentro de poblado, ¿se pueden utilizar los alumbrados de corto o largo alcance alternativamente a intervalos muy cortos?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, para evitar un posible accidente.",
+            "3": "Dentro de poblado en ningún caso; fuera de poblado sí está permitido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Para qué sirve el sistema de suspensión?",
+        "respuestas": {
+            "1": "Para amortiguar las vibraciones y mantener la estabilidad del vehículo.",
+            "2": "Para mover las ruedas.",
+            "3": "Para no patinar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Para auxiliar a un herido en accidente de circulación. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Pedir ayuda y controlar su respiración.",
+            "2": "Pedir ayuda cuando sea necesaria y sentar al herido.",
+            "3": "Pedir ayuda y dar al herido una bebida para animarle."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Cómo se denomina a los daños a los vehículos y a su carga, a la vía y a su entorno y al medio ambiente que se producen a consecuencia de un accidente de tráfico?",
+        "respuestas": {
+            "1": "Daños materiales.",
+            "2": "Costes administrativos.",
+            "3": "Costes humanos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Esta señalización, le indica la distancia...",
+        "respuestas": {
+            "1": "al lugar donde tiene que ceder el paso en la próxima intersección.",
+            "2": "a la próxima intersección regulada por una señal de ceda el paso.",
+            "3": "a la que se encuentra la señal de detención obligatoria de la próxima intersección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En esta calzada de sentido único y tres carriles, ¿está bien situado el vehículo para realizar un cambio de dirección a la izquierda?",
+        "respuestas": {
+            "1": "Sí, si no circulan otros vehículos.",
+            "2": "No, porque debe colocarse en el carril izquierdo.",
+            "3": "Sí, porque no hay flechas en el pavimento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Puede la postura del asiento influir en la eficacia del cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, no es recomendable inclinar el asiento demasiado hacia atrás.",
+            "2": "No, mientras que el cinturón esté totalmente ceñido.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Le está permitido circular con un ciclomotor por una vía a cuya entrada se encuentra esta señal?",
+        "respuestas": {
+            "1": "No, prohíbe el paso a ciclos y ciclomotores.",
+            "2": "No, prohíbe el paso a todos los vehículos de dos ruedas con motor.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Esta carretera tiene más de 6 m de ancho. ¿Es correcto circular por encima de las líneas que separan los carriles?",
+        "respuestas": {
+            "1": "Sí, porque hay dos carriles.",
+            "2": "No, porque debo circular dentro de mi carril.",
+            "3": "Sí, cuando no vienen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Circulando por autovía, un vehículo destinado al transporte de mercancías peligrosas sufre una avería; a un turismo, ¿le está permitido remolcarlo?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, mientras no lo remolque más de 10 kilómetros.",
+            "3": "Solo hasta el lugar más próximo donde no entorpezca la circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Los carriles reversibles están delimitados por marcas longitudinales...",
+        "respuestas": {
+            "1": "dobles discontinuas a ambos lados.",
+            "2": "discontinuas simples a ambos lados.",
+            "3": "discontinuas con una separación sensiblemente más corta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "El ciclista de la fotografía, ¿circula correctamente?",
+        "respuestas": {
+            "1": "Sí, pues sólo cuando le adelanta un vehículo debe circular junto al borde derecho de la calzada.",
+            "2": "Sí, pues lo hace junto al borde derecho de la calzada.",
+            "3": "No, pues lo debería de hacer por el arcén, aunque éste no sea transitable."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En un estrechamiento sin señales de prioridad se encuentran un turismo que arrastra un remolque y un autobús, sin que se sepa cual entró primero, ¿qué vehículo tiene preferencia?",
+        "respuestas": {
+            "1": "El autobús.",
+            "2": "El turismo que arrastra el remolque.",
+            "3": "El que tenga que dar marcha atrás más distancia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cuándo deben sustituirse las lámparas de un automóvil?",
+        "respuestas": {
+            "1": "Solamente en caso de rotura.",
+            "2": "En cuanto disminuya su intensidad luminosa.",
+            "3": "Siempre antes de pasar la inspección técnica del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

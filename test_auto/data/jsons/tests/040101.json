@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El sistema de alumbrado de los vehículos...",
+        "respuestas": {
+            "1": "únicamente sirve para ver bien de noche.",
+            "2": "sirve para que el conductor vea bien la carretera y sea visto por los demás.",
+            "3": "hay que retrasar lo más posible su puesta en funcionamiento, para ahorrar energía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Cuando las luces de su vehículo apuntan demasiado bajo...",
+        "respuestas": {
+            "1": "se mejora la iluminación de la vía a larga distancia.",
+            "2": "se puede deslumbrar a los conductores de otros vehículos.",
+            "3": "se acorta la iluminación a larga distancia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Se considera que una vía está insuficientemente iluminada cuando...",
+        "respuestas": {
+            "1": "la vía no permita ver con claridad.",
+            "2": "con vista normal no se puede leer una placa de matrícula a 10 metros o distinguir un vehículo pintado de oscuro a 50 metros.",
+            "3": "no pueda distinguir la placa de matrícula de otro vehículo a 50 metros"
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Qué indica la luz de posición de un vehículo?",
+        "respuestas": {
+            "1": "Que el vehículo está circulando.",
+            "2": "El lugar que ocupa el vehículo en la calzada y su anchura.",
+            "3": "Que el vehículo está parado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si de noche deja su vehículo inmovilizado en el arcén de esta vía, ¿qué alumbrado debe dejar encendido?",
+        "respuestas": {
+            "1": "La luz de corto alcance.",
+            "2": "La luz de posición.",
+            "3": "La luz de estacionamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En vías urbanas que no sean travesías, ¿es obligatorio que los vehículos estacionados tengan encendido el alumbrado de posición?",
+        "respuestas": {
+            "1": "Sí, cuando la vía sólo tiene un carril de circulación.",
+            "2": "Sí, cuando la vía forma intersección con una travesía",
+            "3": "No, cuando la iluminación permita distinguirlos a una distancia suficiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
+        "respuestas": {
+            "1": "Las luces de posición, que podrá sustituir por las de estacionamiento.",
+            "2": "Ninguno, ya que es un estacionamiento dentro de poblado.",
+            "3": "Las luces de largo alcance y las luces de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Estaciona en el arcén de una travesía insuficientemente iluminada, ¿qué luces debe dejar encendidas?",
+        "respuestas": {
+            "1": "Ninguna.",
+            "2": "Las luces de posición o las de estacionamiento.",
+            "3": "Las luces de corto alcance y las de emergencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulen de noche?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, si llevan puestas prendas reflectantes.",
+            "3": "Solo cuando circulen por vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Al estacionar un vehículo en una vía urbana suficientemente iluminada, ¿qué alumbrado dejará encendido?",
+        "respuestas": {
+            "1": "El alumbrado de posición o el de estacionamiento, si se trata de una travesía.",
+            "2": "El alumbrado de posición.",
+            "3": "Ninguno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Es obligatorio encender el alumbrado de posición...",
+        "respuestas": {
+            "1": "al estacionar en la calzada de una travesía suficientemente iluminada.",
+            "2": "siempre que sea obligatorio circular con cualquier otro alumbrado.",
+            "3": "cuando se circula a menos de 40 km/h por una vía interurbana."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Está permitido circular entre la puesta y la salida del sol utilizando solamente el alumbrado de posición del vehículo?",
+        "respuestas": {
+            "1": "No, debe utilizarse además el alumbrado de cruce o el de carretera.",
+            "2": "Solo cuando se circula por vías urbanas suficientemente iluminadas.",
+            "3": "Sí, en cualquier tipo de vía suficientemente iluminada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Entre la puesta y la salida del sol, ¿en cuál de las siguientes situaciones puede encender solamente la luz de posición, y prescindir de las luces de corto y de largo alcance?",
+        "respuestas": {
+            "1": "Al circular por una carretera suficientemente iluminada.",
+            "2": "Al circular por una vía urbana suficientemente iluminada.",
+            "3": "Al inmovilizar el vehículo en el arcén de una vía interurbana."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si estaciona en línea en el arcén de una travesía insuficientemente iluminada, ¿debe dejar encendidas las luces de posición de su turismo?",
+        "respuestas": {
+            "1": "Sí, y también las luces de cruce o las de emergencia.",
+            "2": "No, no es necesario dejar encendido el alumbrado.",
+            "3": "Sí, o bien la de estacionamiento, o las de posición correspondientes al lado de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Durante el día un conductor estaciona su vehículo en una travesía, ocupando parte del arcén. ¿Debe dejar alguna luz encendida?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, debe dejar encendidas las luces de emergencia.",
+            "3": "Sí, las luces de posición, pero solo cuando no haya otros vehículos estacionados."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué es un catadióptrico?",
+        "respuestas": {
+            "1": "Un dispositivo de alumbrado del vehículo.",
+            "2": "Una placa de matrícula reflectante.",
+            "3": "Un dispositivo que refleja la luz procedente de una fuente luminosa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Un catadióptrico es...",
+        "respuestas": {
+            "1": "un dispositivo de alumbrado del vehículo.",
+            "2": "una placa de matricula reflectante.",
+            "3": "un dispositivo que refleja la luz de otros vehículos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Un vehículo con una anchura superior a 2,10 metros, ¿cuándo está obligado a circular por un túnel con la luz de gálibo encendida?",
+        "respuestas": {
+            "1": "Solo cuando el túnel este insuficientemente iluminado.",
+            "2": "Solo cuando circule entre la puesta y la salida del sol.",
+            "3": "Siempre, incluso de día."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Cuando sea obligatorio el uso del alumbrado se deben llevar encendidas las luces de posición y las de gálibo los vehículos...",
+        "respuestas": {
+            "1": "con una anchura superior a 1,80 metros y una altura superior a 4 metros.",
+            "2": "con una anchura superior a 2,10 metros.",
+            "3": "con una altura superior a 4 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué vehículos deben llevar encendidas las luces de gálibo cuando sea obligatorio su uso?",
+        "respuestas": {
+            "1": "Los que transporten mercancías peligrosas.",
+            "2": "Los de asistencia en carretera.",
+            "3": "Los que tengan una anchura superior a 2,10 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Las motocicletas sin sidecar, ¿cuántas luces de corto alcance deben llevar instaladas?",
+        "respuestas": {
+            "1": "Una o dos delante.",
+            "2": "Sólo una delante.",
+            "3": "Dos, obligatoriamente, una delante y otra detrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "De noche por una autovía suficientemente iluminada, ¿con qué alumbrado debe circular?",
+        "respuestas": {
+            "1": "Con la luz de posición y la de largo alcance.",
+            "2": "Con la luz de posición y la de corto alcance.",
+            "3": "Únicamente con la luz de posición."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Al entrar en un túnel suficientemente iluminado fuera de poblado, ¿qué alumbrado debe encender?",
+        "respuestas": {
+            "1": "Solamente el alumbrado de posición.",
+            "2": "El alumbrado de posición y la luz antiniebla delantera.",
+            "3": "El alumbrado de posición y el de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si circula de noche por una vía urbana, ¿qué alumbrado debe utilizar?",
+        "respuestas": {
+            "1": "Sólo el de posición.",
+            "2": "El de posición y el de largo alcance.",
+            "3": "El de posición y el de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Desde el anochecer hasta el amanecer, ¿qué luces son obligatorias?",
+        "respuestas": {
+            "1": "La luz de posición con las de corto o largo alcance, dependiendo de las circunstancias.",
+            "2": "La luz de posición solamente.",
+            "3": "La luz de posición y el alumbrado antiniebla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Conforme a la situación de la imagen, ¿qué alumbrado debe llevar encendido?",
+        "respuestas": {
+            "1": "Las luces de posición y las de corto alcance.",
+            "2": "Las luces de posición y las de largo alcance.",
+            "3": "Las luces de posición solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si circula de noche por una vía urbana insuficientemente iluminada, ¿qué alumbrado deberá llevar encendido?",
+        "respuestas": {
+            "1": "Las luces de posición y las de carretera.",
+            "2": "Las luces de posición solamente.",
+            "3": "Las luces de posición y las de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué luces debe utilizar para circular de noche por una travesía?",
+        "respuestas": {
+            "1": "Las de posición y las de corto alcance.",
+            "2": "Las de posición y las de largo alcance.",
+            "3": "Las de posición solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿En qué situaciones utilizará el alumbrado por el día?",
+        "respuestas": {
+            "1": "Cuando conduzca una motocicleta en cualquier tipo de vía y los vehículos que circulen por carriles habilitados en sentido contrario.",
+            "2": "Conduciendo una motocicleta o un ciclomotor sólo cuando las condiciones meteorológicas disminuyan la visibilidad.",
+            "3": "Las motocicletas y los vehículos que circulen por una vía con un carril en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Durante el día, las motocicletas están obligadas a llevar encendida la luz de cruce...",
+        "respuestas": {
+            "1": "cuando circulen por cualquier tipo de vía.",
+            "2": "cuando circulen por vías interurbanas, solamente.",
+            "3": "cuando las condiciones climatológicas sean adversas, solamente"
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

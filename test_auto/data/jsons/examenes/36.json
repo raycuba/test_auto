@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Están obligados los conductores de motocicletas a llevar un chaleco reflectante de alta visibilidad?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Solo cuando circulen por vías interurbanas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En esta curva de visibilidad reducida, situada en una carretera de doble sentido, al conductor de una motocicleta, ¿le está permitido adelantar a otro vehículo?",
+        "respuestas": {
+            "1": "Sí, ya que no están delimitados los carriles ni hay señales que prohíban adelantar.",
+            "2": "Sí, siempre que deje 1,5 metros de separación lateral con el vehículo adelantado.",
+            "3": "No, ya que no existe visibilidad y no están delimitados los carriles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si inmoviliza el vehículo junto al borde de esta calzada, ¿incumple alguna norma de circulación?",
+        "respuestas": {
+            "1": "Sí, porque es una zona de carga y descarga y está prohibido cualquier tipo de inmovilización.",
+            "2": "No, ya que esta marca vial no prohíbe parar ni estacionar.",
+            "3": "No, si es para efectuar una parada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Las señales azules, ¿qué indican?",
+        "respuestas": {
+            "1": "Que la autopista se termina.",
+            "2": "Que la autopista es de peaje.",
+            "3": "Los carriles para ir a otras carreteras o poblaciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué velocidades o marchas dan más fuerza al vehículo?",
+        "respuestas": {
+            "1": "La 3ª y la 4ª.",
+            "2": "La 1ª y la 2ª.",
+            "3": "La 4ª y la 5ª."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Llevar encendido el teléfono móvil mientras se conduce, ¿puede resultar peligroso?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, el sonido de una llamada entrante puede sorprender al conductor.",
+            "3": "Sólo si no se lleva el teléfono al alcance de la mano."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Este turismo circula por una autovía a 100 km/h, ¿circula a una velocidad adecuada?",
+        "respuestas": {
+            "1": "No, porque lo aconsejado es circular a 120 km/h.",
+            "2": "Sí, siempre que lo permitan las circunstancias del tráfico y de la vía.",
+            "3": "Sí, siempre que no entorpezca la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Los ciclomotores, ¿pueden circular por el arcén en columna de a dos?",
+        "respuestas": {
+            "1": "Sí, de forma excepcional cuando el arcén sea transitable y suficiente.",
+            "2": "Sí, siempre.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Un vehículo va a incorporarse a la circulación. ¿Cuándo debe ceder el paso?",
+        "respuestas": {
+            "1": "Cuando entre en el carril de circulación desde el lado izquierdo, solamente.",
+            "2": "Siempre.",
+            "3": "Cuando entre en el carril de circulación desde el lado derecho, solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El conductor de un vehículo podrá adelantar en un túnel cuando...",
+        "respuestas": {
+            "1": "exista más de un carril en el sentido contrario de su marcha.",
+            "2": "exista más de un carril en su sentido de circulación.",
+            "3": "exista un carril para cada sentido, siempre que el túnel esté bien iluminado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En las intersecciones señalizadas, ¿cuál es la norma general que prevalece?",
+        "respuestas": {
+            "1": "Cumplir lo que la señal indica.",
+            "2": "Ceder el paso siempre a la derecha.",
+            "3": "Abstenerse del cumplimiento de la señalización."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Si aún no ha salido el sol pero existe buena visibilidad, ¿qué alumbrado debe utilizar si circula por una vía interurbana?",
+        "respuestas": {
+            "1": "El alumbrado de posición y el de corto alcance.",
+            "2": "Ninguno.",
+            "3": "El alumbrado de posición, únicamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señal indica la situación de...",
+        "respuestas": {
+            "1": "un extintor de incendios y un teléfono de emergencia en un apartadero.",
+            "2": "una salida de emergencia.",
+            "3": "un puesto de socorro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Cuando viaje con su mascota, ¿en qué lugar del vehículo podrá situarla para evitar que interfiera en la conducción?",
+        "respuestas": {
+            "1": "En el asiento delantero ya que si dispone de airbag frontal estará doblemente protegida.",
+            "2": "Donde no comprometa su seguridad ni la del resto de pasajeros, además de ir sujeta con el dispositivo adecuado.",
+            "3": "En los asientos traseros sujeta con el cinturón de seguridad como un pasajero más."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En un casco, ¿es importante la ventilación?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Es importante en verano, el resto del año es indiferente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Los ocupantes de un vehículo, ¿pueden caminar por una autopista?",
+        "respuestas": {
+            "1": "Sólo de forma excepcional, como en caso de avería, aunque no podrán transitar por la calzada.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El conductor del ciclomotor que circula delante, ¿qué indica?",
+        "respuestas": {
+            "1": "Que va a circular marcha atrás.",
+            "2": "Que va a inmovilizar el vehículo.",
+            "3": "Que va a girar a la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En esta vía con un carril para cada sentido, al conductor de un turismo, ¿le está permitido ocupar parte o la totalidad del carril contiguo para adelantar al ciclomotor?",
+        "respuestas": {
+            "1": "No, debe adelantar sin ocupar el carril del sentido contrario.",
+            "2": "Sí, y debe dejar una distancia lateral con el ciclomotor igual o superior a 1 metro.",
+            "3": "Sí, tras comprobar que no circula ningún vehículo en sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+        "respuestas": {
+            "1": "no debemos conducir hasta pasada al menos una hora de habernos medicado.",
+            "2": "los medicamentos para su tratamiento pueden producir alteraciones que afectan a la conducción.",
+            "3": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "De noche, ¿cómo se debe señalizar la carga que sobresale por delante y por detrás?",
+        "respuestas": {
+            "1": "Con una luz blanca por delante, una luz roja por detrás y el panel de franjas oblicuas rojas y blancas.",
+            "2": "Con un catadióptrico blanco por delante y uno rojo por detrás.",
+            "3": "Solamente con el panel de franjas oblicuas rojas y blancas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Cuando un conductor circula a velocidad adecuada...",
+        "respuestas": {
+            "1": "hace que la circulación sea lenta y peligrosa.",
+            "2": "puede detectar las intenciones de otros usuarios y reaccionar a tiempo para evitar un accidente.",
+            "3": "estorba a otros conductores y puede causar un accidente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué velocidades o marchas sirven para conseguir más velocidad?",
+        "respuestas": {
+            "1": "La 3ª y la 4ª.",
+            "2": "La 1ª y la 2ª.",
+            "3": "La 4ª y la 5ª."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Cuál es una de las infracciones que cometen los conductores con mayor riesgo para los peatones?",
+        "respuestas": {
+            "1": "No mantener la distancia de seguridad con el vehículo que circula delante.",
+            "2": "No respetar la prioridad en los pasos para peatones.",
+            "3": "Circular por una autovía en sentido contrario al establecido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Cuál es la postura correcta que debe adoptar en el asiento para conducir con seguridad?",
+        "respuestas": {
+            "1": "Las piernas un poco dobladas y el cuerpo recto.",
+            "2": "Las piernas rectas y el cuerpo inclinado hacia atrás.",
+            "3": "Las piernas dobladas y el cuerpo inclinado hacia delante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Si se encuentra con un ciclista circulando en sentido contrario, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Avisar al ciclista con el claxon para que se aparte al arcén.",
+            "2": "No iniciar ni continuar un adelantamiento.",
+            "3": "Hacer destellos con la luz de largo alcance para avisarle de su presencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Puede producirse un accidente por un fallo en el sistema de frenado?",
+        "respuestas": {
+            "1": "No, es imposible que suceda.",
+            "2": "Sí, aunque puede evitarse con un correcto mantenimiento.",
+            "3": "Sí, y es inevitable."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El vehículo rojo va a girar a la izquierda en la próxima intersección. ¿Puedo circular por el arcén para adelantarlo por la derecha?",
+        "respuestas": {
+            "1": "No, porque está prohibido circular por el arcén.",
+            "2": "No, porque el camión no me deja ver.",
+            "3": "Sí, porque es una intersección con prioridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En la conducción de vehículos, lo normal es que a medida que aumenta la fatiga en el conductor...",
+        "respuestas": {
+            "1": "disminuye la distancia de frenado.",
+            "2": "aumenta también el tiempo de reacción.",
+            "3": "disminuye el tiempo de reacción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Un cambio de rasante es:",
+        "respuestas": {
+            "1": "Un tramo de vía donde hay un cambio de dirección.",
+            "2": "Un tramo de vía donde no se ve el ancho total de la calzada.",
+            "3": "Un lugar en el que se encuentran dos tramos de vía de distinta inclinación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Un ciclomotor es un vehículo de dos o más ruedas con una velocidad máxima no superior a 45 kilómetros por hora y un motor de combustión interna de cilindrada...",
+        "respuestas": {
+            "1": "superior a 50 e inferior a 125 centímetros cúbicos.",
+            "2": "no superior a 50 centímetros cúbicos.",
+            "3": "superior a 50 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

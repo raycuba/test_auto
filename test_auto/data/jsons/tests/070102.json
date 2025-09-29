@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "La mayoría de los accidentes son...",
+        "respuestas": {
+            "1": "inevitables, aunque se prevengan los factores de riesgo.",
+            "2": "evitables, si se previenen los factores de riesgo.",
+            "3": "inevitables, porque siempre está presente el factor humano."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Las circunstancias que aumentan la probabilidad de que ocurra un accidente se denominan...",
+        "respuestas": {
+            "1": "factores de accidentalidad directa.",
+            "2": "marcadores de riesgo.",
+            "3": "factores de riesgo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En general, las autovías y autopistas son...",
+        "respuestas": {
+            "1": "menos seguras que las carreteras convencionales.",
+            "2": "igual de seguras que las carreteras convencionales.",
+            "3": "más seguras que las carreteras convencionales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una de las causas más significativas de los accidentes de tráfico es...",
+        "respuestas": {
+            "1": "circular por debajo de la velocidad mínima.",
+            "2": "la velocidad inadecuada.",
+            "3": "la velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Conservar el vehículo en buen estado, ¿requiere revisiones frecuentes en algunos de los sistemas del vehículo?",
+        "respuestas": {
+            "1": "Solo si el vehículo sufre daños que afecte a la seguridad.",
+            "2": "No, no es necesario.",
+            "3": "Sí, además de seguir los planes de mantenimiento establecidos por el fabricante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Para realizar un mantenimiento preventivo del vehículo de forma adecuada, lo más aconsejable es:",
+        "respuestas": {
+            "1": "Seguir las indicaciones del fabricante y pasar las inspecciones técnicas.",
+            "2": "Sustituir solo las piezas rotas y dejar las que estén desgastadas hasta que se rompan.",
+            "3": "Llevar el vehículo al taller una vez al año, con independencia de los kilómetros recorridos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Factores como la fatiga, el consumo de alcohol o la lluvia, ¿influyen en la accidentalidad?",
+        "respuestas": {
+            "1": "No, ya que los accidentes son impredecibles y sólo dependen del azar.",
+            "2": "Sí, son factores de riesgo que aumentan la probabilidad de sufrir un accidente.",
+            "3": "Sólo si se conduce un vehículo con más de diez años de antigüedad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El alcohol, la fatiga y la velocidad excesiva, ¿de qué factor de riesgo forman parte?",
+        "respuestas": {
+            "1": "Del factor vía y entorno.",
+            "2": "Del factor humano.",
+            "3": "Del factor vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Puede producirse un accidente por un fallo en el sistema de frenado?",
+        "respuestas": {
+            "1": "No, es imposible que suceda.",
+            "2": "Sí, aunque puede evitarse con un correcto mantenimiento.",
+            "3": "Sí, y es inevitable."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Cómo podemos colaborar para reducir las elevadas cifras de muertos y heridos en siniestros viales?",
+        "respuestas": {
+            "1": "Haciendo que la prevención de la accidentalidad sea una de nuestras mayores preocupaciones.",
+            "2": "Asegurando el vehículo a todo riesgo.",
+            "3": "Destinando el 10 % del coste del vehículo en ayudas sociales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La probabilidad de sufrir un accidente de tráfico...",
+        "respuestas": {
+            "1": "puede reducirse evitando los factores de riesgo.",
+            "2": "sólo depende de la capacidad del conductor.",
+            "3": "es siempre independiente del conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La velocidad inadecuada, el alcohol y las enfermedades, ¿se consideran factores de riesgo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "La velocidad inadecuada y el alcohol sí, pero las enfermedades no.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Evitando los factores de riesgo, ¿puede reducirse la probabilidad de sufrir un accidente de tráfico?",
+        "respuestas": {
+            "1": "No, porque es algo que es imposible evitar.",
+            "2": "Sí, pero sólo pueden evitarse los que dependen del vehículo.",
+            "3": "Sí, especialmente evitando los que dependen del propio conductor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Puede el conductor reducir la probabilidad de accidente debido al \"factor vehículo\"?",
+        "respuestas": {
+            "1": "No, si el vehículo no lleva los modernos sistemas de seguridad.",
+            "2": "No, los fallos mecánicos son impredecibles.",
+            "3": "Sí, mediante un mantenimiento adecuado del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Los accidentes de tráfico son un problema prioritario de salud pública y por ello todas las personas y organismos afectados deben colaborar para...",
+        "respuestas": {
+            "1": "intentar reducir las cifras de muertos y heridos.",
+            "2": "construir más centros de salud (ambulatorios) y hospitales.",
+            "3": "que los profesionales sanitarios reciban una formación adecuada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El propietario de un turismo, ¿puede reducir la posibilidad de sufrir un accidente debido al mal estado del vehículo?",
+        "respuestas": {
+            "1": "Solo si el propietario del turismo es también su conductor habitual.",
+            "2": "No, un fallo mecánico es siempre imprevisible e inevitable.",
+            "3": "Sí, porque el estado del vehículo depende de él."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "La mayoría de los accidentes de tráfico son...",
+        "respuestas": {
+            "1": "evitables, si se previenen los factores de riesgo.",
+            "2": "inevitables, aunque se prevengan los factores de riesgo.",
+            "3": "inevitables, porque siempre está presente el factor humano."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El hielo, la nieve, la calzada mojada y las obras, ¿de qué factor de riesgo forman parte?",
+        "respuestas": {
+            "1": "Del factor humano.",
+            "2": "Del factor vehículo.",
+            "3": "Del factor vía y entorno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Los excesos de velocidad...",
+        "respuestas": {
+            "1": "junto con las distracciones, son responsables de la mayoría de los accidentes.",
+            "2": "hoy apenas tienen incidencia en los accidentes, debido a la seguridad de los vehículos.",
+            "3": "son responsables de la mayoría de los accidentes, en vías de doble sentido solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Para evitar los accidentes, es importante...",
+        "respuestas": {
+            "1": "conducir con la máxima seguridad en todo momento.",
+            "2": "reducir la velocidad en las zonas con radares.",
+            "3": "llevar incorporado al vehículo un GPS."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La influencia del riesgo asociado a la carretera, ¿cómo se puede disminuir?",
+        "respuestas": {
+            "1": "Circulando de noche porque hay menos tráfico.",
+            "2": "Circulando a 50 km/h en todas las vías.",
+            "3": "Adecuando la velocidad y aumentando la distancia de seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Un conductor, ¿puede hacer algo para reducir la probabilidad de sufrir un accidente debido al \"factor vía y entorno\"?",
+        "respuestas": {
+            "1": "Sí, adaptar su conducción a las condiciones del medio.",
+            "2": "No, porque no puede actuar sobre la vía ni sobre su entorno.",
+            "3": "Sólo si su vehículo cuenta con los últimos avances de seguridad pasiva."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En vías urbanas, ¿cuál es el tipo de accidente con víctimas más frecuente en el que se ven implicadas las furgonetas?",
+        "respuestas": {
+            "1": "Atropello a peatones.",
+            "2": "Colisión lateral y frontolateral.",
+            "3": "Salida de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En vías interurbanas, ¿cuál es el tipo de accidente con víctimas más frecuente en el que se ven implicadas las furgonetas?",
+        "respuestas": {
+            "1": "Colisión frontal.",
+            "2": "Salida de la vía.",
+            "3": "Colisión trasera y múltiple."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿En qué tipo de vías se producen más accidentes con víctimas mortales?",
+        "respuestas": {
+            "1": "En las vías interurbanas.",
+            "2": "En las autopistas dentro de poblado.",
+            "3": "En las travesías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En vías interurbanas, ¿cuáles son las infracciones que cometen con mayor frecuencia los conductores de furgonetas implicados en accidentes con víctimas?",
+        "respuestas": {
+            "1": "Invadir parcialmente el sentido contrario y exceso o mala colocación de la carga.",
+            "2": "Adelantar de forma antirreglamentaria y circular por lugar prohibido.",
+            "3": "No respetar la distancia de seguridad y circular a velocidad inadecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿En qué tipo de trazados se produce un mayor número de accidentes de tráfico?",
+        "respuestas": {
+            "1": "En curvas con buena visibilidad.",
+            "2": "En curvas con mala visibilidad.",
+            "3": "En rectas con buena visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Conforme a los datos de accidentalidad, en las carreteras convencionales se producen...",
+        "respuestas": {
+            "1": "más accidentes con víctimas mortales que en autopistas y autovías.",
+            "2": "menos accidentes con víctimas mortales que en vías urbanas y travesías.",
+            "3": "menos accidentes con víctimas mortales que en autopistas y autovías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿En qué tipo de vías se produce un mayor número de accidentes de tráfico con víctimas mortales?",
+        "respuestas": {
+            "1": "En carreteras convencionales.",
+            "2": "En vías urbanas.",
+            "3": "En autopistas y autovías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En vías interurbanas, la mayor parte de los accidentes de tráfico con víctimas mortales se producen en...",
+        "respuestas": {
+            "1": "rectas.",
+            "2": "curvas.",
+            "3": "intersecciones giratorias o glorietas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

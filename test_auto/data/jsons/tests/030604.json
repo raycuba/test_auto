@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días impares en el lado de la calzada en que se encuentre.",
+            "2": "el estacionamiento los días pares en el lado de la calzada en que se encuentre.",
+            "3": "el estacionamiento los días impares en el lado de la calzada en que se encuentre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El lunes a las 9 de la mañana, a partir del lugar donde se encuentra situada esta señal...",
+        "respuestas": {
+            "1": "está prohibido parar y estacionar.",
+            "2": "se puede parar, pero no estacionar.",
+            "3": "sólo se puede estacionar para dejar un paquete."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Está permitido estacionar el día 2 de cada mes?",
+        "respuestas": {
+            "1": "Sí, porque esta señal no hace referencia al estacionamiento.",
+            "2": "No, por ser día par.",
+            "3": "Sí, por estar en la primera quincena del mes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada y estacionamiento.",
+            "2": "el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1.",
+            "3": "la parada los días indicados en la señal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días indicados en la señal.",
+            "2": "el estacionamiento entre la 1 y las 15 horas.",
+            "3": "el estacionamiento desde las 9 horas del día 1 hasta las 9 horas del día 16."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días impares, en el lado de la calzada en que está situada la señal.",
+            "2": "la parada y el estacionamiento.",
+            "3": "el estacionamiento los días pares, en el lado de la calzada en que está situada la señal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué prohíbe esta señal?",
+        "respuestas": {
+            "1": "Estacionar a ambos lados de la señal en el lado de la calzada donde esté situada.",
+            "2": "Parar y estacionar a ambos lados de la calzada donde esté situada.",
+            "3": "Parar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "La señal prohíbe...",
+        "respuestas": {
+            "1": "parar y estacionar la primera quincena del mes.",
+            "2": "estacionar la primera quincena del mes.",
+            "3": "estacionar durante un tiempo superior a 1 hora y 15 minutos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Cuándo puede estacionar a la vista de esta señal?",
+        "respuestas": {
+            "1": "A partir de las 9 horas del día 16 y hasta las 9 horas del día 1.",
+            "2": "A partir de las 9 horas del día 1 y hasta las 9 horas del día 16.",
+            "3": "Nunca, ya que esta señal prohíbe el estacionamiento permanentemente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El día 21 de cada mes está prohibido estacionar al lado de...",
+        "respuestas": {
+            "1": "La señal B.",
+            "2": "La señal A.",
+            "3": "La señal C."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "prohíbe el estacionamiento en el lado de la calzada en que esté situada la señal.",
+            "2": "prohíbe la parada y el estacionamiento.",
+            "3": "prohíbe el estacionamiento los días pares."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Está permitido estacionar el día 16 a las ocho de la mañana en el lado de la calzada en que esté situada esta señal?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque la señal sólo prohíbe la parada.",
+            "3": "Sí, porque sólo prohíbe estacionar hasta el día 15."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Delante de un vado, esta señal prohíbe...",
+        "respuestas": {
+            "1": "únicamente la parada.",
+            "2": "solamente el estacionamiento.",
+            "3": "la parada y el estacionamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "indica que el estacionamiento tiene duración limitada, y se debe indicar la hora de inicio del estacionamiento.",
+            "2": "indica que no se puede estacionar ni parar en el lado de la calzada donde se encuentre la señal.",
+            "3": "indica que no se puede estacionar en el lado de la calzada donde se encuentre la señal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Estacionamiento prohibido en vado.",
+            "2": "Estacionamiento prohibido.",
+            "3": "Zona de estacionamiento limitado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "A la vista de esta señal, ¿están prohibidas las señales acústicas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, salvo para evitar un posible accidente.",
+            "3": "Sí, aunque se permite su utilización en las aglomeraciones de tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En una intersección con esta señal, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Esta señal indica que se debe seguir una dirección y sentido obligatorios?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, esta señal no es de obligación.",
+            "3": "No, indica la salida más próxima."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Esta señal indica la dirección y sentido que los vehículos...",
+        "respuestas": {
+            "1": "tienen la obligación de seguir.",
+            "2": "pueden seguir de forma opcional.",
+            "3": "tienen prohibido seguir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que circulo por una calzada con un solo carril en mi sentido.",
+            "2": "Obligación de seguir el camino y dirección indicadas por la flecha.",
+            "3": "Que circulo por una vía con prioridad de paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Qué se debe hacer a la vista de esta señal?",
+        "respuestas": {
+            "1": "Seguir obligatoriamente el sentido y dirección que indica.",
+            "2": "Seguir el sentido y dirección que indica o continuar de frente.",
+            "3": "Únicamente continuar de frente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Esta señal, ¿prohíbe el cambio de dirección en la próxima intersección?",
+        "respuestas": {
+            "1": "Sí, ya que debo seguir la dirección y sentido que señala la flecha.",
+            "2": "No, sólo me indica que la vía es de sentido único.",
+            "3": "No, sólo prohíbe el cambio de sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Esta señal indica dirección y sentido...",
+        "respuestas": {
+            "1": "obligatorios.",
+            "2": "aconsejados.",
+            "3": "prohibidos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "prohíbe girar a la izquierda.",
+            "2": "obliga a girar a la izquierda.",
+            "3": "indica el itinerario recomendado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Esta señal indica que...",
+        "respuestas": {
+            "1": "a su altura puede realizar un cambio de sentido de la marcha a la derecha.",
+            "2": "las únicas direcciones aconsejadas son seguir de frente o girar a la derecha.",
+            "3": "debe seguir una de las direcciones y sentidos que señalan las flechas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En una intersección regulada con esta señal, ¿está permitido girar a la derecha?",
+        "respuestas": {
+            "1": "No, es obligatorio girar a la izquierda o seguir de frente.",
+            "2": "Sí, es la única dirección permitida.",
+            "3": "Sí, aunque también se puede girar a la izquierda o seguir de frente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "La señal obliga a...",
+        "respuestas": {
+            "1": "dar media vuelta, porque la vía no tiene salida.",
+            "2": "girar a la derecha o a la izquierda.",
+            "3": "seguir de frente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué señala la flecha de la señal?",
+        "respuestas": {
+            "1": "El lado del refugio por el que los vehículos han de pasar.",
+            "2": "Sentido único.",
+            "3": "Recomienda el lado del refugio por el que los vehículos pueden pasar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "La señal circular azul, ¿qué indica?",
+        "respuestas": {
+            "1": "Obligación de pasar por el lado derecho de la isleta.",
+            "2": "Obligación de girar a la derecha.",
+            "3": "La presencia de una señal de Stop."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Por qué lado de la señal es obligatorio pasar?",
+        "respuestas": {
+            "1": "Por la derecha o por la izquierda.",
+            "2": "Por la derecha.",
+            "3": "Por la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

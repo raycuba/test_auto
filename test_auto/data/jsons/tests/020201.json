@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El conductor de un turismo, ¿qué debe hacer para incorporarse a la circulación?",
+        "respuestas": {
+            "1": "Solo señalizar la maniobra, porque los demás tienen que ceder el paso.",
+            "2": "Seguir siempre las indicaciones de otra persona.",
+            "3": "Asegurarse de que puede hacerlo sin peligro para los demás usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El conductor de un vehículo que pretende incorporarse a la circulación está obligado a...",
+        "respuestas": {
+            "1": "poner el intermitente, únicamente.",
+            "2": "seguir siempre las indicaciones de otra persona.",
+            "3": "cerciorarse previamente de que puede hacerlo sin peligro."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El vehículo estacionado se quiere incorporar a la circulación, ¿qué debe hacer su conductor?",
+        "respuestas": {
+            "1": "Advertir de su intención mediante los indicadores de dirección.",
+            "2": "Advertir de su intención mediante señales acústicas.",
+            "3": "Incorporarse sin advertir de su intención, ya que no es obligatorio."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Un vehículo va a incorporarse a la circulación. ¿Cuándo debe ceder el paso?",
+        "respuestas": {
+            "1": "Cuando entre en el carril de circulación desde el lado izquierdo, solamente.",
+            "2": "Siempre.",
+            "3": "Cuando entre en el carril de circulación desde el lado derecho, solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Es obligatorio señalizar la incorporación a la circulación cuando no exista desplazamiento lateral?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sí, únicamente en poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Al incorporarse a una vía debe tener en cuenta la posición, trayectoria y velocidad...",
+        "respuestas": {
+            "1": "de otros vehículos y usuarios que circulan por la vía.",
+            "2": "sólo de los vehículos que circulan por la parte derecha de la vía.",
+            "3": "sólo de los vehículos que circulan por la parte izquierda de la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando se incorpore a la circulación, debe...",
+        "respuestas": {
+            "1": "evitar hacerlo sin el alumbrado de posición encendido.",
+            "2": "hacerlo lo más rápido posible.",
+            "3": "ceder el paso a otros vehículos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El conductor de un vehículo pretende incorporarse a la circulación, ¿debe cerciorarse previamente de que puede hacerlo sin peligro?",
+        "respuestas": {
+            "1": "Sí, incluso siguiendo las indicaciones de otra persona en caso necesario.",
+            "2": "No, porque tiene prioridad de paso.",
+            "3": "No, porque los demás conductores deben facilitarle la incorporación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Desde un camino privado se incorpora a la calzada, ¿a qué velocidad debe hacerlo?",
+        "respuestas": {
+            "1": "A la que me permita ceder el paso a los vehículos que circulan por la calzada.",
+            "2": "A más de 50 kilómetros por hora.",
+            "3": "A la misma velocidad que los vehículos que circulan por la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Al salir de una zona privada para incorporarse a la circulación, ¿se debe ceder el paso?",
+        "respuestas": {
+            "1": "Sí, a todos los vehículos que circulen por la vía a la que se accede.",
+            "2": "No, porque tiene prioridad sobre todos los vehículos que circulen por la vía a la que se accede.",
+            "3": "Sí, pero solo a los vehículos que vengan por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Al salir de un garaje, ¿debe ceder el paso?",
+        "respuestas": {
+            "1": "Sí, a los peatones y a los vehículos.",
+            "2": "Sí, pero sólo a los peatones que van por la acera.",
+            "3": "No es obligatorio."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Cómo debe hacerse la incorporación a una vía de uso público desde un camino exclusivamente privado?",
+        "respuestas": {
+            "1": "A una velocidad que permita detenerse en el acto.",
+            "2": "A la velocidad máxima permitida en la vía a la que se va a incorporar.",
+            "3": "Lentamente, cediendo el paso solo a los vehículos que se acerquen por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Cómo debe incorporarse a la vía el vehículo que sale de un camino sin pavimentar?",
+        "respuestas": {
+            "1": "Cediendo el paso solo a los vehículos que se aproximan por la derecha.",
+            "2": "Cediendo el paso y a una velocidad que permita detenerse en el acto.",
+            "3": "Acelerando para alcanzar la velocidad máxima de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Para evitar el riesgo de atropello a peatones, ¿qué debe hacer al salir de un garaje si para incorporarse a la circulación tiene que atravesar la acera?",
+        "respuestas": {
+            "1": "Moderar la velocidad por si hubiese peatones cruzando.",
+            "2": "Aumentar la velocidad para quitarse de en medio lo antes posible.",
+            "3": "Detener siempre el vehículo y avisar de su presencia tocando el claxon."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Un conductor que se incorpora a una vía utilizando un carril de aceleración, ¿debe cerciorarse previamente de que puede hacerlo sin peligro?",
+        "respuestas": {
+            "1": "No, porque tiene prioridad de paso.",
+            "2": "Sí, y no iniciar la maniobra hasta estar seguro.",
+            "3": "No, porque los demás conductores deben facilitarle la incorporación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El vehículo verde quiere incorporarse a la calzada por la que circula el vehículo rojo; ¿quién tiene preferencia?",
+        "respuestas": {
+            "1": "El vehículo verde.",
+            "2": "El vehículo que circula a mayor velocidad.",
+            "3": "El vehículo rojo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Para incorporarse a una vía por un carril de aceleración, ¿en qué punto debe cerciorarse de que puede realizar la maniobra sin peligro?",
+        "respuestas": {
+            "1": "Al principio o al final del carril de aceleración, es indiferente.",
+            "2": "Al final del carril de aceleración.",
+            "3": "Al principio del carril de aceleración."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si se va a incorporar a una vía utilizando el carril de aceleración, ¿qué deberá comprobar antes de empezar a acelerar para alcanzar una velocidad adecuada a la vía?",
+        "respuestas": {
+            "1": "Que puede incorporarse sin poner en peligro a los usuarios que circulan por la vía.",
+            "2": "Que los usuarios que circulan por la vía lo hacen a velocidad adecuada.",
+            "3": "Que los usuarios que circulan por la vía se han dado cuenta de su presencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Al incorporarse a una autopista por un carril de aceleración, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Acelerar; los vehículos que circulan por la autopista deben ceder el paso.",
+            "2": "Acelerar hasta alcanzar la velocidad máxima permitida de la vía.",
+            "3": "Ceder el paso e incorporarse a una velocidad adecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Al incorporarse con su automóvil a una autopista, ¿qué debe tener en cuenta?",
+        "respuestas": {
+            "1": "La posición, trayectoria y velocidad de los vehículos que se acercan.",
+            "2": "Que siempre debe detenerse al final del carril de incorporación.",
+            "3": "Que no es obligatorio ceder el paso a los vehículos que circulan por la autopista."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En un carril de aceleración, ¿dónde debe detenerse de tener que ceder el paso?",
+        "respuestas": {
+            "1": "Al principio del carril.",
+            "2": "Justo antes de entrar en la vía.",
+            "3": "Donde tenga que ceder el paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Para entrar en una autopista, ¿a qué velocidad debe circular?",
+        "respuestas": {
+            "1": "A la máxima velocidad permitida en la autopista.",
+            "2": "A la velocidad adecuada que permita incorporarse con seguridad.",
+            "3": "Siempre muy despacio para entrar con seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En un carril de aceleración, ¿dónde hay que detenerse para ceder el paso, en caso necesario?",
+        "respuestas": {
+            "1": "Al principio del carril.",
+            "2": "Es indiferente, únicamente no se debe obstaculizar la marcha de ningún usuario.",
+            "3": "Al final del carril."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Debe facilitar la incorporación a la circulación de otros vehículos?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pero sólo dentro de poblado.",
+            "3": "Sí, sobre todo a los vehículos de transporte colectivo de viajeros cuando salgan de una parada señalizada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Qué debe hacer el conductor del vehículo amarillo?",
+        "respuestas": {
+            "1": "Detenerse, para que se incorpore el turismo azul.",
+            "2": "Facilitar, en la medida de lo posible, la incorporación del turismo azul.",
+            "3": "Ceder el paso al turismo azul, pero sin detenerse."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si observa que un vehículo quiere incorporarse por el carril de aceleración, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Nada, porque tengo preferencia.",
+            "2": "Cederle el paso.",
+            "3": "Facilitarle la incorporación en la medida de lo posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El conductor del vehículo rojo, ¿tiene alguna obligación?",
+        "respuestas": {
+            "1": "Sí; deberá facilitar, en la medida de lo posible, la incorporación del vehículo verde.",
+            "2": "Sí, deberá detenerse para que el vehículo verde pueda incorporarse.",
+            "3": "No tiene ninguna obligación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Tiene usted que ceder el paso al vehículo que se incorpora a la circulación?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque ya está señalizando la maniobra.",
+            "3": "Sí, porque se incorpora por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Todo conductor está obligado a...",
+        "respuestas": {
+            "1": "cambiar de carril para permitir la incorporación de otros vehículos a la vía por la que circula.",
+            "2": "facilitar, en la medida de lo posible, la incorporación de otros vehículos a la vía por la que circula.",
+            "3": "ceder el paso a los vehículos que se incorporan a la vía por la que circula."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Cuando un autobús pretende incorporarse desde una parada señalizada, ¿qué deben hacer los demás conductores?",
+        "respuestas": {
+            "1": "Facilitarle la incorporación.",
+            "2": "Continuar la marcha, ya que el conductor del autobús debe cederles el paso.",
+            "3": "Detenerse y cederle el paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

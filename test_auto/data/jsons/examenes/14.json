@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una carretera convencional sin arcenes, ¿cuál es la velocidad anormalmente reducida para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 45 kilómetros por hora.",
+            "2": "45 kilómetros por hora.",
+            "3": "60 kilómetros por hora."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué documento acredita la matriculación de un turismo y autoriza su circulación por las vías públicas?",
+        "respuestas": {
+            "1": "El certificado del seguro obligatorio.",
+            "2": "El permiso de circulación.",
+            "3": "La tarjeta de inspección técnica."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En vías interurbanas, ¿por dónde debe circular un ciclomotor cuando no exista un carril exclusivo para ciclomotores?",
+        "respuestas": {
+            "1": "Por el arcén de la derecha, si fuera transitable y suficiente.",
+            "2": "Por el carril derecho, en cualquier caso.",
+            "3": "Por la calzada, en cualquier caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿De qué depende la distancia de detención?",
+        "respuestas": {
+            "1": "De la velocidad, solamente.",
+            "2": "Del tipo de vehículo, solamente.",
+            "3": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Hasta el 01 de enero del 2026 y en caso de no disponer del dispositivo luminoso V-16. Cuando deba colocarse un triángulo de preseñalización de peligro, ¿en qué lado de la calzada lo hará?",
+        "respuestas": {
+            "1": "En el borde derecho de la calzada en el sentido de la marcha.",
+            "2": "En cualquier lugar en el que sea visible desde 100 metros, por lo menos.",
+            "3": "En el centro de la calzada en las vías de doble sentido. En el izquierdo en las vías de un solo sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Esta señal, ¿prohíbe cambiar de dirección a la izquierda?",
+        "respuestas": {
+            "1": "Sí, pero no prohíbe girar a la derecha.",
+            "2": "Sí, porque prohíbe realizar cualquier giro.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Están obligados a usar cinturón de seguridad los pasajeros de un taxi?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, sólo cuando viajen en las plazas delanteras.",
+            "3": "Sí, excepto cuando circulen en tráfico urbano, no superen los 135 centímetros de estatura y viajen en los asientos traseros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Si realiza una reforma de importancia de su vehículo, ¿debe pasar algún tipo de inspección técnica antes de poder volver a circular con él?",
+        "respuestas": {
+            "1": "Sí, debe superar una inspección técnica extraordinaria.",
+            "2": "Sí, una inspección periódica, salvo que la reforma se realice en un taller oficial.",
+            "3": "No, solo pasará las inspecciones que le correspondan por antigüedad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si conduce una motocicleta y hay niebla ligera, ¿qué alumbrado debe utilizar, además del de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera, si la lleva, o la luz de corto o largo alcance.",
+            "2": "La luz antiniebla delantera y trasera, si las lleva, y la luz de corto alcance.",
+            "3": "La luz antiniebla trasera, si la lleva, y la luz de largo alcance."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En un paso a nivel o sus proximidades, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sí, cuando se adelante a vehículos de dos ruedas que no impidan la visibilidad lateral.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En caso de que, por avería, una motocicleta quede inmovilizada en la calzada de una vía con un carril para cada sentido de la circulación, ¿cómo debe señalizarla?",
+        "respuestas": {
+            "1": "Con la señal de emergencia, si la tiene instalada.",
+            "2": "Con un triángulo de preseñalización de peligro, que está obligado a llevar.",
+            "3": "Con los dos triángulos de preseñalización de peligro que está obligado a llevar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué obligación tiene si observa que otro vehículo tiene el propósito de adelantarle utilizando el carril izquierdo contiguo al suyo?",
+        "respuestas": {
+            "1": "Disminuir la velocidad.",
+            "2": "Indicarle con el intermitente derecho que puede adelantar con seguridad.",
+            "3": "Ceñirse al borde derecho de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El semáforo está verde, pero la intersección está saturada. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Entrar en la intersección porque el semáforo me lo permite.",
+            "2": "Esperar hasta que haya espacio para cruzar sin cerrar el paso.",
+            "3": "Acelerar para pasar rápidamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Como peatones, los niños menores de 10 años son especialmente vulnerables, entre otras razones, porque su campo visual es...",
+        "respuestas": {
+            "1": "menor que el de los adultos.",
+            "2": "igual que el de los adultos.",
+            "3": "mayor que el de los adultos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En los túneles y pasos subterráneos, ¿está permitido parar o estacionar?",
+        "respuestas": {
+            "1": "Está permitido parar, pero está prohibido estacionar.",
+            "2": "Está prohibido tanto parar como estacionar.",
+            "3": "Está permitido estacionar, pero está prohibido parar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Una persona en silla de ruedas, ¿puede circular por una carretera?",
+        "respuestas": {
+            "1": "Sí, por el arcén si es transitable y, si no lo es, por la calzada.",
+            "2": "Sí, pero sólo si existe acera o zona peatonal.",
+            "3": "No, no puede circular."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "De entre los distintos factores de riesgo implicados en la accidentalidad, el mal estado de los neumáticos y de los amortiguadores son parte del...",
+        "respuestas": {
+            "1": "factor humano.",
+            "2": "factor vehículo.",
+            "3": "factor vía y entorno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "A los conductores, ¿les está permitido modificar, trasladar o retirar la señalización instalada en una vía?",
+        "respuestas": {
+            "1": "No, salvo por causa justificada.",
+            "2": "Sí, como norma general, excepto las que señalicen obras en la calzada.",
+            "3": "Sí, siempre que sean señales circunstanciales o de balizamiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "La depresión es una enfermedad que...",
+        "respuestas": {
+            "1": "puede afectar a las capacidades para conducir con seguridad.",
+            "2": "es mejor no tratar con medicamentos si se conduce a diario.",
+            "3": "no afecta a las capacidades para conducir con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular un automóvil que arrastra un remolque por una carretera convencional?",
+        "respuestas": {
+            "1": "45 km/h.",
+            "2": "40 km/h.",
+            "3": "35 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días impares en el lado de la calzada en que se encuentre.",
+            "2": "el estacionamiento los días pares en el lado de la calzada en que se encuentre.",
+            "3": "el estacionamiento los días impares en el lado de la calzada en que se encuentre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si los paneles de mensaje variable indican que los turismos con distintivo ambiental B pueden circular por un carril VAO, ¿qué ocupación mínima debe tener el vehículo?",
+        "respuestas": {
+            "1": "Dos ocupantes, incluido el conductor.",
+            "2": "Un ocupante.",
+            "3": "Dos ocupantes, sin incluir al conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Cuando exista hielo en la vía, ¿cómo deberá circular?",
+        "respuestas": {
+            "1": "Pisando el pedal del freno de forma intermitente.",
+            "2": "Con un pie pisando el pedal de embrague.",
+            "3": "A velocidad muy moderada para no tener que frenar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "La carga de este camión sobresale por su parte trasera, ¿cómo debe transportarse?",
+        "respuestas": {
+            "1": "Señalizada y protegida en la parte que sobresale.",
+            "2": "Protegida y señalizada con una luz blanca o amarilla auto.",
+            "3": "Señalizada con una luz roja y un dispositivo reflectante rojo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Si va a realizar un viaje, ¿es importante elegir la hora de salida?",
+        "respuestas": {
+            "1": "No, no es necesario.",
+            "2": "Sí, entre otras razones para evitar que el sol deslumbre.",
+            "3": "Sí, con el fin de realizar el viaje sin tener que hacer descansos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Durante la noche, ¿es recomendable circular con el alumbrado interior encendido?",
+        "respuestas": {
+            "1": "Sí, porque evita que el conductor sufra deslumbramientos.",
+            "2": "Sólo si la vía no está iluminada, porque así la vista descansa.",
+            "3": "No, porque se ve peor y puede ser peligroso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Lugar reservado para la parada de autobuses.",
+            "2": "Carril reservado para autobuses.",
+            "3": "Carril reservado para autobuses y tranvías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Entre la puesta y la salida del sol, ¿puede encender el alumbrado de largo alcance en caso de niebla?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, procurando no deslumbrar a otros usuarios de la vía.",
+            "3": "Sólo en carreteras con un carril para cada sentido de la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Debido a una emergencia, un turismo queda inmovilizado en la calzada, su conductor, ¿debe colocar el dispositivo de preseñalización de peligro, como norma general?",
+        "respuestas": {
+            "1": "Solo debe encender la luz de emergencia y si procede, las luces de posición.",
+            "2": "Sí, aunque haya encendido la luz de emergencia, la de posición o ambas.",
+            "3": "No, excepto si la inmovilización se produce en una vía fuera de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si sopla un fuerte viento lateral de la izquierda, los conductores de turismos deberán...",
+        "respuestas": {
+            "1": "sujetar el volante, con firmeza pero sin rigidez, hacia la derecha.",
+            "2": "sujetar el volante, con firmeza pero sin rigidez, hacia la izquierda.",
+            "3": "circular por el arcén lentamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

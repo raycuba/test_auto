@@ -1,0 +1,145 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿En qué circunstancia se circularà a velocidad moderada y, si es preciso, se detendrá el vehículo?",
+        "respuestas": {
+            "1": "En las proximidades de los pasos para peatones no regulados por agentes de la circulación.",
+            "2": "En vías de doble sentido.",
+            "3": "En todos los cambios de rasante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Cuando se aproxima a un puente móvil, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Reducir la velocidad por debajo de la máxima permitida.",
+            "2": "Reducir la velocidad, pero sólo si el puente se encuentra en movimiento.",
+            "3": "Extremar la precaución y detenerse siempre antes de pasar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Al aproximarse a una glorieta, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Moderar la velocidad y, si fuera preciso, detener el vehículo.",
+            "2": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "3": "Hacer señales acústicas para indicar nuestra presencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Al aproximarse a un paso para peatones no regulado por semáforos, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Emplear el claxon para avisar a los peatones.",
+            "2": "Detenerse siempre.",
+            "3": "Moderar la velocidad, deteniéndose si es necesario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al aproximarse a un paso a nivel o a un puente móvil debe...",
+        "respuestas": {
+            "1": "extremar la precaución y circular a una velocidad moderada.",
+            "2": "circular a la velocidad máxima para pasar lo antes posible.",
+            "3": "detenerse en todo caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si el conductor del vehículo que circula delante acciona repetidas veces las luces de frenado, ¿qué indica?",
+        "respuestas": {
+            "1": "Que las retenciones obligan a circular por el arcén.",
+            "2": "Retenciones a un kilómetro.",
+            "3": "Que reduce considerablemente la velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El conductor está obligado a advertir mediante señales ópticas...",
+        "respuestas": {
+            "1": "solo las maniobras que no impliquen un desplazamiento lateral.",
+            "2": "el propósito de inmovilizar su vehículo o frenar su marcha de modo considerable.",
+            "3": "únicamente el propósito de frenar su vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cómo advertirá su intención de disminuir la velocidad de modo considerable?",
+        "respuestas": {
+            "1": "Con la luz de freno y el indicador de dirección del lado izquierdo.",
+            "2": "Con el indicador de dirección del lado derecho.",
+            "3": "Utilizando de forma reiterada la luz de freno o moviendo alternativamente el brazo de arriba a abajo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "El conductor del vehículo que circula delante ha extendido el brazo y ha comenzado a moverlo alternativamente de arriba abajo con movimientos cortos y rápidos, ¿qué está indicando?",
+        "respuestas": {
+            "1": "Que va a girar a la izquierda.",
+            "2": "Que va a girar a la derecha.",
+            "3": "Que va a disminuir la velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Antes de reducir considerablemente la velocidad sin que tal reducción esté justificada por un riesgo inminente de peligro, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Asegurarse de que no pone en peligro a otros conductores.",
+            "2": "Advertir a los otros usuarios encendiendo las luces de emergencia.",
+            "3": "Mover el brazo repetidas veces de atrás adelante con movimientos rápidos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Está permitido realizar competiciones de velocidad en las vías públicas?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Sí, siempre.",
+            "3": "Solo si un vehículo de la organización encabeza la carrera con una bandera verde."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Está permitido realizar competiciones de velocidad en las vías públicas?",
+        "respuestas": {
+            "1": "No, nunca.",
+            "2": "Sí, en vías acotadas para ello por la autoridad competente.",
+            "3": "Sí, pero todas estas pruebas autorizadas irán precedidas por un agente de la autoridad con la bandera de color verde."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "La celebración de marchas ciclistas organizadas, ¿requieren autorización previa?",
+        "respuestas": {
+            "1": "Sólo las que se celebren en festivo.",
+            "2": "Sí, siempre que el número de participantes sea superior a 50.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

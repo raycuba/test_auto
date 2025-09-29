@@ -1,0 +1,266 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si presencia un accidente de circulación, ¿tiene obligación de avisar a la Autoridad o a sus agentes si solo hay heridos leves y la seguridad de la circulación está restablecida?",
+        "respuestas": {
+            "1": "Solo si alguna de las personas implicadas en el accidente lo solicita.",
+            "2": "Sí, siempre.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si presencia un accidente de circulación, ¿tiene obligación de avisar a la Autoridad o a sus agentes si solo hay heridos leves y la seguridad de la circulación está restablecida?",
+        "respuestas": {
+            "1": "No, salvo que alguna de las personas implicadas en el accidente lo solicite.",
+            "2": "Sí, siempre.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Al auxiliar a una víctima de un accidente de tráfico, ¿debe darle alimentos o bebidas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, si lo piden.",
+            "3": "Alimentos no, pero bebidas sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Quién debe realizar las actuaciones de soporte vital básico a las víctimas de un accidente?",
+        "respuestas": {
+            "1": "El personal especializado, siempre.",
+            "2": "Estas actuaciones siempre deben realizarse en un hospital.",
+            "3": "El personal especializado, salvo que la persona que le auxilie esté totalmente seguro de conocerlas y poder realizarlas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Acompañar a las víctimas de un accidente, ¿es importante?",
+        "respuestas": {
+            "1": "Sí, para transmitirles tranquilidad.",
+            "2": "No, es preferible dejarlas solas.",
+            "3": "No, si su estado no reviste gravedad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "A un herido en accidente, ¿debe darle algún tranquilizante?",
+        "respuestas": {
+            "1": "Sí, porque así sufre menos y se tranquiliza.",
+            "2": "No.",
+            "3": "Cuando el herido me lo pide yo se lo daré."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "A un herido en accidente, ¿debe darle algún medicamento?",
+        "respuestas": {
+            "1": "Sí, porque así sufre menos y se tranquiliza.",
+            "2": "No.",
+            "3": "Cuando el herido me lo pida yo se lo daré."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Con un herido en accidente. ¿Qué debe hacer primero?",
+        "respuestas": {
+            "1": "Comprobar la respiración, el pulso y si está consciente.",
+            "2": "Llevarlo al hospital en mi vehículo para que lo vean.",
+            "3": "Darle alguna bebida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Para auxiliar a un herido en accidente de circulación. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Pedir ayuda y controlar su respiración.",
+            "2": "Pedir ayuda cuando sea necesaria y sentar al herido.",
+            "3": "Pedir ayuda y dar al herido una bebida para animarle."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Es necesario comprobar si un herido en un accidente está consciente o respira?",
+        "respuestas": {
+            "1": "No es necesario, como norma general.",
+            "2": "Sí, para valorar la gravedad de su estado.",
+            "3": "No, eso es responsabilidad de los servicios de urgencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Cuando un vehículo accidentado comienza a arder, ¿qué se debe hacer primero?",
+        "respuestas": {
+            "1": "Sacar rápidamente a los heridos.",
+            "2": "Apagar el fuego.",
+            "3": "Ir a buscar ayuda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En un accidente de tráfico en el que esté implicado...",
+        "respuestas": {
+            "1": "deberá sacar a los heridos rápidamente de los vehículos.",
+            "2": "si algún herido está inconsciente deberá hacerle un masaje cardíaco, aun dentro del vehículo.",
+            "3": "no intentará sacar al herido hasta que no llegue la ayuda especializada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En algunos casos hay que poner a los heridos en posición de defensa, ¿para qué?",
+        "respuestas": {
+            "1": "Para que circule mejor la sangre.",
+            "2": "Para que estén conscientes.",
+            "3": "Para que no se asfixien."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Como norma general, si un herido en accidente ha perdido el conocimiento, ¿cómo se le debe colocar?",
+        "respuestas": {
+            "1": "Acostado boca abajo.",
+            "2": "Acostado boca arriba.",
+            "3": "Acostado de lado en posición de defensa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La reanimación de un accidentado, ¿cuánto tiempo debe durar?",
+        "respuestas": {
+            "1": "5 minutos como máximo.",
+            "2": "Si después de 2 minutos no ha recuperado es mejor dejarlo.",
+            "3": "Hasta que se recupere o llegue la ayuda médica."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Con un herido con parada respiratoria, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Darle masaje.",
+            "2": "Hacerle la respiración artificial.",
+            "3": "Colocarle en posición de defensa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si un herido tiene una hemorragia en el brazo, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Darle pomada en la herida.",
+            "2": "Taponar la herida y levantarle el brazo.",
+            "3": "Hacer un torniquete, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Ante un motorista accidentado con una hemorragia por la nariz, la actuación correcta es...",
+        "respuestas": {
+            "1": "no realizarle nunca taponamientos.",
+            "2": "retirarle el casco para realizarle un taponamiento.",
+            "3": "colocarle boca arriba para que deje de sangrar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Un herido tiene quemaduras. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Limpiar la herida.",
+            "2": "Quitarle la ropa pegada a la quemadura.",
+            "3": "Tapar la quemadura con gasas húmedas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En la medida de lo posible, todo usuario de la vía implicado en un accidente de circulación deberá...",
+        "respuestas": {
+            "1": "trasladar a los heridos en su vehículo antes de la llegada de la ayuda sanitaria.",
+            "2": "cambiar de sitio los objetos que ayuden a determinar la responsabilidad.",
+            "3": "comunicar su identidad a las personas implicadas en el accidente que se lo pidan."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Cuando sea necesario mover a un herido en accidente, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Administrarle lo más rápido posible un calmante.",
+            "2": "Mantener el eje cabeza-cuello-tronco completamente recto.",
+            "3": "Hacer que se mueva para comprobar si tiene alguna herida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El traslado de un accidentado de tráfico a un hospital debe realizarse...",
+        "respuestas": {
+            "1": "en vehículos particulares, porque lo importante es que el herido llegue al hospital.",
+            "2": "por personal especializado, para que el traslado se realice con los medíos adecuados.",
+            "3": "en el vehículo que pueda circular más rápido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En circunstancias especialmente graves, ¿se puede trasladar a enfermos en un turismo?",
+        "respuestas": {
+            "1": "Sí, pero nunca una distancia mayor de 50 Km.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, siempre que no haya otro medio."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un botiquín de primeros auxilios, ¿se encuentra entre la dotación obligatoria de los vehículos de hasta nueve plazas?",
+        "respuestas": {
+            "1": "Es obligatorio dependiendo del número de pasajeros transportados.",
+            "2": "No, un botiquín es solamente recomendable.",
+            "3": "Sí, es obligatorio."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

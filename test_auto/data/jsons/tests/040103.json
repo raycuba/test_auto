@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Hay mucha niebla. ¿Con qué luces es correcto que circule el turismo?",
+        "respuestas": {
+            "1": "Las luces antiniebla junto con las luces de emergencia.",
+            "2": "Las luces antiniebla junto con las luces cortas.",
+            "3": "Las luces de posición solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Cuando hay niebla y un turismo no tiene luz especial de niebla, ¿qué luces debe encender?",
+        "respuestas": {
+            "1": "Las luces largas solamente.",
+            "2": "Luces de posición solamente.",
+            "3": "Luces cortas y las de posición."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Una motocicleta, ¿puede llevar luz antiniebla delantera?",
+        "respuestas": {
+            "1": "Sí, de forma opcional la pueden llevar todas las motocicletas.",
+            "2": "Sí, es obligatoria para las motocicletas con sidecar.",
+            "3": "No, las motocicletas no pueden llevar luces antiniebla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una motocicleta, ¿puede llevar instaladas luces antiniebla?",
+        "respuestas": {
+            "1": "Sí, de forma obligatoria en la parte trasera y opcional en la delantera.",
+            "2": "No, las motocicletas no pueden llevar instaladas luces antiniebla.",
+            "3": "Sí, de forma opcional tanto en la parte delantera como en la trasera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Entre la puesta y la salida del sol, ¿puede encender el alumbrado de largo alcance en caso de niebla?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, procurando no deslumbrar a otros usuarios de la vía.",
+            "3": "Sólo en carreteras con un carril para cada sentido de la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Durante el día, con niebla densa o lluvia intensa, ¿se puede circular con la luz de largo alcance encendida?",
+        "respuestas": {
+            "1": "No, solo puede encenderse la luz de corto alcance.",
+            "2": "Sólo si la calzada tiene una anchura inferior a 6,50 metros.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Hay niebla y circula con la luz antiniebla delantera encendida. ¿Le está permitido llevar encendida al mismo tiempo la luz de largo alcance?",
+        "respuestas": {
+            "1": "Sí, está permitido, pero no es aconsejable.",
+            "2": "No, está prohibido.",
+            "3": "Solo en caso de niebla espesa."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Está permitido circular por una travesía con las luces antiniebla encendidas en condiciones normales de visibilidad?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "No, porque en travesía están prohibidas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Circula por una vía interurbana y empieza a nevar de forma ligera, ¿puede emplear el alumbrado antiniebla?",
+        "respuestas": {
+            "1": "Sí, es obligatorio usar la luz antiniebla, tanto la delantera como la trasera.",
+            "2": "Sí, pero solo la luz antiniebla delantera.",
+            "3": "No, está prohibido su uso cuando la nevada es ligera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Cuándo podrá utilizarse la luz antiniebla delantera?",
+        "respuestas": {
+            "1": "Siempre que se circula de noche.",
+            "2": "Cuando existan condiciones ambientales que disminuyan sensiblemente la visibilidad.",
+            "3": "Entre la puesta y la salida del sol en travesías insuficientemente iluminadas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Si conduce una motocicleta y hay niebla ligera, ¿qué alumbrado debe utilizar, además del de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera, si la lleva, o la luz de corto o largo alcance.",
+            "2": "La luz antiniebla delantera y trasera, si las lleva, y la luz de corto alcance.",
+            "3": "La luz antiniebla trasera, si la lleva, y la luz de largo alcance."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Es de día y va a atravesar un tramo con nubes no densas de polvo que disminuyen sensiblemente la visibilidad. ¿Qué alumbrado debe utilizar, además del de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera y trasera.",
+            "2": "Ninguno, es suficiente el alumbrado de posición.",
+            "3": "La luz antiniebla delantera o la luz de corto o largo alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si una nube de polvo disminuye sensiblemente la visibilidad, ¿qué alumbrado debe utilizar, además de la luz de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera y trasera y la luz de corto alcance.",
+            "2": "La luz antiniebla trasera y la luz de corto o largo alcance.",
+            "3": "La luz antiniebla delantera o la luz de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si una nube de humo disminuye sensiblemente la visibilidad, ¿debe utilizarse algún tipo de alumbrado?",
+        "respuestas": {
+            "1": "Sí, la luz antiniebla delantera o la luz de corto o largo alcance.",
+            "2": "No, excepto entre la puesta y la salida del sol.",
+            "3": "Solo cuando se acerquen vehículos en sentido contrario."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Es de noche, circula por un tramo recto y no existen condiciones meteorológicas o ambientales que disminuyan la visibilidad. ¿Puede encender las luces antiniebla delanteras?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo para hacer señales a otros conductores."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si circula de noche por un tramo con muchas curvas señalizado con la señal de la imagen, ¿le está permitido encender la luz antiniebla delantera?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sólo en caso de que las condiciones meteorológicas sean adversas.",
+            "3": "Sí, cuando la anchura de la calzada sea igual o inferior a 6,50 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En un tramo de vía con muchas curvas señalizado con la señal de \"curvas peligrosas\", podrá utilizar la luz antiniebla delantera siempre que...",
+        "respuestas": {
+            "1": "el vehículo esté pintado de oscuro y la calzada sea de doble sentido.",
+            "2": "la calzada sea de sentido único.",
+            "3": "la calzada tenga una anchura igual o inferior a 6,50 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué alumbrado antiniebla debe encender en caso de niebla ligera?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera.",
+            "2": "La luz antiniebla trasera.",
+            "3": "Tanto la luz antiniebla delantera como la trasera."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Debe encender la luz antiniebla delantera en caso de circular...",
+        "respuestas": {
+            "1": "por un carril adicional.",
+            "2": "por un túnel insuficientemente iluminado.",
+            "3": "con niebla o lluvia intensa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En caso de lluvia intensa, ¿es obligatorio circular con el alumbrado del vehículo encendido?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo entre la puesta y la salida del sol."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En caso de niebla no espesa, ¿qué alumbrado antiniebla está permitido encender en un turismo?",
+        "respuestas": {
+            "1": "La luz antiniebla trasera, únicamente.",
+            "2": "La luz antiniebla delantera, únicamente.",
+            "3": "Sí, deben llevar una o dos luces."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En caso de niebla espesa, ¿qué alumbrado es obligatorio llevar encendido para poder circular con un turismo?",
+        "respuestas": {
+            "1": "La luz de posición, la de corto alcance y la antiniebla trasera.",
+            "2": "La luz de posición, la de corto alcance y la antiniebla delantera.",
+            "3": "La luz de posición, la de corto alcance y la antiniebla tanto la delantera como la trasera."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "El conductor de la imagen ha encendido la luz de corto alcance y la antiniebla, delantera y trasera, en un tramo de vía con niebla espesa. ¿Circula correctamente?",
+        "respuestas": {
+            "1": "No, la luz de cruce y la antiniebla delantera no deben encenderse al mismo tiempo.",
+            "2": "Sí.",
+            "3": "No, debe encender solo la luz de largo alcance y la antiniebla trasera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "La luz antiniebla trasera deberá utilizarse siempre que...",
+        "respuestas": {
+            "1": "circule por un túnel.",
+            "2": "circule por un puerto de montaña.",
+            "3": "circule con fuerte nevada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad, como en caso de lluvia intensa, ¿es obligatorio utilizar la luz antiniebla trasera?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Sólo si se circula por una vía interurbana.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En caso de niebla espesa, ¿qué luces debe utilizar el conductor de un turismo?",
+        "respuestas": {
+            "1": "Las luces antiniebla, las de posición y las de corto alcance.",
+            "2": "Las luces antiniebla delanteras y las de emergencia.",
+            "3": "Las luces antiniebla, las de posición y las de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En caso de condiciones meteorológicas especialmente desfavorables, como fuerte nevada, ¿qué luz antiniebla debemos llevar encendida?",
+        "respuestas": {
+            "1": "La antiniebla trasera y en ningún caso encenderemos la antiniebla delantera.",
+            "2": "La antiniebla delantera y en ningún caso encenderemos la antiniebla trasera.",
+            "3": "La antiniebla trasera y si se dispone de ella, la antiniebla delantera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "La luz antiniebla trasera deberá utilizarse en caso de...",
+        "respuestas": {
+            "1": "nubes densas de humo.",
+            "2": "heladas nocturnas.",
+            "3": "frenada brusca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Circulando con lluvia muy intensa, ¿se pueden utilizar las luces antiniebla delanteras y traseras?",
+        "respuestas": {
+            "1": "No, las luces antinieblas solo se pueden encender en caso de niebla.",
+            "2": "Se puede utilizar la luz antiniebla delantera, pero no la trasera.",
+            "3": "Sí, y además es obligatorio utilizar la luz antiniebla trasera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La luz antiniebla trasera se utilizará siempre que...",
+        "respuestas": {
+            "1": "se circule a velocidad anormalmente reducida.",
+            "2": "se circule por carreteras de montaña.",
+            "3": "las condiciones meteorológicas sean especialmente desfavorables."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

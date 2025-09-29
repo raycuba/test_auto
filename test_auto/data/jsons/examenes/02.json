@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En un cambio de rasante, ¿está prohibido parar y estacionar?",
+        "respuestas": {
+            "1": "No, salvo en los de visibilidad reducida.",
+            "2": "Sí.",
+            "3": "Parar no, pero estacionar sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Circula de noche por una vía urbana en la que con vista normal no distingue un vehículo pintado de oscuro a 40 metros de distancia. ¿Puede utilizar la luz de largo alcance?",
+        "respuestas": {
+            "1": "Sí, porque es una vía suficientemente iluminada.",
+            "2": "Sólo si no existe posibilidad de deslumbrar a otros usuarios.",
+            "3": "No, porque es una vía urbana."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué puede hacer para evitar los peligros que causa el uso del teléfono móvil durante la conducción?",
+        "respuestas": {
+            "1": "Dejar el móvil en el asiento del copiloto y colgar cuando suene una llamada.",
+            "2": "Detener el vehículo en un lugar seguro si tiene que usar el teléfono.",
+            "3": "Responder solo a las llamadas, pero no a los WhastsApp."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los vehículos de motor que no disponen de alumbrado de largo alcance, ¿qué alumbrado utilizarán cuando circulen por la noche por vías insuficientemente iluminadas?",
+        "respuestas": {
+            "1": "El de posición.",
+            "2": "El de corto alcance.",
+            "3": "La señal de emergencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Cuando existe nieve en la calzada, ¿cómo se debe iniciar la marcha?",
+        "respuestas": {
+            "1": "Utilizando la relación de marchas más baja posible.",
+            "2": "Utilizando la relación de marchas más larga posible.",
+            "3": "Pisando el pedal de embrague antes de pisar el de freno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Es obligatorio emplear el dispositivo de preseñalización de peligro para advertir la presencia de un turismo averiado en la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo si la visibilidad es insuficiente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Es correcto este adelantamiento?",
+        "respuestas": {
+            "1": "Sí, porque el turismo ocupa parte del sentido contrario y deja más de 1,50 metros de separación con el ciclista.",
+            "2": "No, porque el turismo invade el carril contrario.",
+            "3": "No, porque en una vía sin arcén está prohibido adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿A qué grupo de edad pertenecen la mayor parte de los peatones fallecidos en accidente de tráfico?",
+        "respuestas": {
+            "1": "De 75 años en adelante.",
+            "2": "De 6 a 14 años.",
+            "3": "De 17 a 24 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Qué indica el panel de franjas rojas y blancas que lleva este vehículo?",
+        "respuestas": {
+            "1": "Que transporta una carga que sobresale por detrás.",
+            "2": "Que tiene limitada la velocidad máxima a la que puede circular.",
+            "3": "Que transporta mercancías peligrosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Qué conlleva la utilización de las técnicas de conducción eficiente?",
+        "respuestas": {
+            "1": "El conductor tiene que adoptar una postura en el asiento menos confortable.",
+            "2": "Disminuye el consumo de combustible y la emisión de contaminantes del vehículo.",
+            "3": "Aumenta la posibilidad de accidente porque hay que asumir más riesgos al volante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Esta marca transversal continua, ¿está permitido franquearla sin detenerse antes?",
+        "respuestas": {
+            "1": "No, nunca.",
+            "2": "Sí, cuando no sea obligatoria la detención.",
+            "3": "Sí, cuando haya peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El semáforo cuadrado tiene la flecha verde encendida y el semáforo circular está rojo. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Circular sin detenerme.",
+            "2": "Detener el vehículo antes del semáforo circular en rojo.",
+            "3": "Detener el vehículo antes del semáforo cuadrado con flecha verde."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En un túnel, ¿le está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, cuando exista más de un carril para el sentido de la marcha.",
+            "2": "No, está prohibido.",
+            "3": "Sí, cuando exista espacio suficiente y no obstaculice el paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En esta intersección, ¿qué señal debe obedecer el vehículo azul para girar a la derecha?",
+        "respuestas": {
+            "1": "La señal de ceda el paso.",
+            "2": "La señal de stop, por ser la más restrictiva.",
+            "3": "La señal de stop, por estar situada a la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Si de noche deja su vehículo inmovilizado en el arcén de esta vía, ¿qué alumbrado debe dejar encendido?",
+        "respuestas": {
+            "1": "La luz de corto alcance.",
+            "2": "La luz de posición.",
+            "3": "La luz de estacionamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Con qué dos factores suelen relacionarse muchos de los accidentes más graves que sufren los jóvenes conductores?",
+        "respuestas": {
+            "1": "Con el consumo de alcohol y drogas y una actitud prudente al volante.",
+            "2": "Con la falta de experiencia al volante y el consumo de alcohol y drogas.",
+            "3": "Con la velocidad excesiva y una adecuada percepción del riesgo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El conductor de un turismo, ¿qué debe hacer para incorporarse a la circulación?",
+        "respuestas": {
+            "1": "Solo señalizar la maniobra, porque los demás tienen que ceder el paso.",
+            "2": "Seguir siempre las indicaciones de otra persona.",
+            "3": "Asegurarse de que puede hacerlo sin peligro para los demás usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué le indica la señal en esta vía de sentido único?",
+        "respuestas": {
+            "1": "Que está prohibida la parada y el estacionamiento en el lado derecho de la calzada.",
+            "2": "Que está prohibida la parada en el lado derecho de la calzada.",
+            "3": "Que está prohibida la parada y el estacionamiento en ambos lados de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Un conductor, ¿se puede distraer si viaja con niños en los asientos traseros y éstos están alborotando?",
+        "respuestas": {
+            "1": "Sí, ya que posiblemente no estará concentrado en la conducción.",
+            "2": "No, al conductor no le afecta lo que sucede en los asientos traseros",
+            "3": "Sólo si los niños no llevan un sistema de retención adecuado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Cuando el semáforo se ponga verde, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Obedecer la señal de stop.",
+            "2": "Obedecer al semáforo, que tiene prioridad sobre la señal de stop.",
+            "3": "Obedecer al semáforo, pero debo ceder el paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Está permitido parar o estacionar en un carril bus?",
+        "respuestas": {
+            "1": "Está prohibida la parada, pero está permitido el estacionamiento.",
+            "2": "Está prohibido el estacionamiento, pero está permitida la parada.",
+            "3": "Está prohibida tanto la parada como el estacionamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si mientras conducimos tenemos una fuerte discusión, lo más recomendable es...",
+        "respuestas": {
+            "1": "aumentar la velocidad para llegar lo antes posible a nuestro destino.",
+            "2": "parar en un lugar permitido y no continuar la marcha hasta estar más tranquilo.",
+            "3": "parar en una cafetería y tomar un medicamento relajante con una taza de té."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Cuando se circula a velocidad excesiva...",
+        "respuestas": {
+            "1": "disminuye la distancia de detención.",
+            "2": "aumenta la probabilidad de tener un accidente.",
+            "3": "disminuye la saturación del tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "La señalización tiene por misión...",
+        "respuestas": {
+            "1": "advertir, informar, ordenar o reglamentar el comportamiento de los usuarios de la vía.",
+            "2": "complementar a las normas.",
+            "3": "confirmar las excepciones de las normas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En caso de accidente, ¿qué conductores tienen más posibilidades de morir o de sufrir lesiones graves o muy graves?",
+        "respuestas": {
+            "1": "Los conductores de vehículos pesados.",
+            "2": "Los conductores de motocicletas y bicicletas.",
+            "3": "Los conductores de turismos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En esta vía deben obedecer a las indicaciones del semáforo situado a la izquierda los que pretendan...",
+        "respuestas": {
+            "1": "girar a la izquierda, solamente.",
+            "2": "girar a la izquierda o seguir de frente.",
+            "3": "seguir de frente o girar a la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿En qué caso es mayor la distancia de detención?",
+        "respuestas": {
+            "1": "Cuando sopla el viento lateral.",
+            "2": "Cuando la calzada está mojada.",
+            "3": "Cuando la calzada está seca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Si debido a una avería, un vehículo queda inmovilizado en el interior de un túnel, su conductor, siempre que sea posible deberá...",
+        "respuestas": {
+            "1": "solicitar ayuda a otro conductor para remolcar el vehículo fuera del túnel.",
+            "2": "dirigir el vehículo a la zona de emergencia más próxima al sentido de su marcha.",
+            "3": "inmovilizar el vehículo lo más cerca posible del borde de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Un botiquín de primeros auxilios, ¿se encuentra entre la dotación obligatoria de los vehículos de hasta nueve plazas?",
+        "respuestas": {
+            "1": "Es obligatorio dependiendo del número de pasajeros transportados.",
+            "2": "No, un botiquín es solamente recomendable.",
+            "3": "Sí, es obligatorio."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Además del elevado coste humano, los accidentes de tráfico generan...",
+        "respuestas": {
+            "1": "daños materiales y costes sanitarios, pero no costes administrativos.",
+            "2": "daños materiales, costes sanitarios y costes administrativos.",
+            "3": "costes sanitarios y costes administrativos, pero no daños materiales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

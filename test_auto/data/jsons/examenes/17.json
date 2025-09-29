@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En caso de caída de la carga en la calzada, el conductor, en la medida de lo posible, deberá...",
+        "respuestas": {
+            "1": "proseguir la marcha para avisar del incidente a la policía de tráfico.",
+            "2": "retirarla de la calzada en el menor tiempo posible.",
+            "3": "dejar el vehículo atravesado en mitad de la calzada para cortar el tránsito."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué debe comprobar en un mantenimiento preventivo?",
+        "respuestas": {
+            "1": "La profundidad de la banda de rodadura, únicamente.",
+            "2": "El estado de neumáticos, frenos y alumbrado.",
+            "3": "Solo el nivel de aceite y del líquido de frenos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si su vehículo no está autorizado, en una zona reservada para uso exclusivo de personas con movilidad reducida...",
+        "respuestas": {
+            "1": "está prohibido estacionar, pero está permitido parar.",
+            "2": "está permitido parar y estacionar mientras no esté ocupado.",
+            "3": "está prohibida tanto la parada como el estacionamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los conductores con un permiso de conducción de antigüedad inferior a un año, ¿tienen que cumplir alguna limitación de velocidad especial solo por el hecho de ser noveles?",
+        "respuestas": {
+            "1": "Sí; no podrán superar los 100 km/h, cuando circulen por autopistas o autovías.",
+            "2": "Sí; no podrán superar los 80 km/h, cuando circulen por vías interurbanas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En un control de alcoholemia, un conductor da un resultado por encima del nivel máximo permitido. ¿Debe realizar una segunda prueba?",
+        "respuestas": {
+            "1": "No, se trasladará a un centro de salud para que le hagan un análisis.",
+            "2": "Sí, a efectos de contraste.",
+            "3": "Solo si presenta muestras evidentes de haber consumido alcohol."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué es aconsejable hacer para comprobar el correcto funcionamiento del cinturón de seguridad?",
+        "respuestas": {
+            "1": "Nada, no es necesario revisar el funcionamiento del cinturón de seguridad.",
+            "2": "Se deben aprovechar los cinturones y acelerar bruscamente el vehículo.",
+            "3": "Se deben revisar los anclajes y los cierres."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Entrada a una travesía.",
+            "2": "Fin de poblado, aunque las normas relativas al mismo rigen hasta la próxima señal de \"Fin de prohibiciones\".",
+            "3": "Fin de poblado, dejando de aplicarse las normas relativas al mismo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El alumbrado, ¿se considera un sistema de seguridad del vehículo?",
+        "respuestas": {
+            "1": "Sí, de seguridad pasiva.",
+            "2": "Sí, de seguridad activa.",
+            "3": "No, únicamente sirve para ver y ser visto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "El consumo de drogas, ¿afecta a la capacidad de reacción?",
+        "respuestas": {
+            "1": "Sí, disminuyéndola.",
+            "2": "No.",
+            "3": "Sí, aumentándola."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Como norma general, ¿cómo debe avisar de su intención de cambiar de carril?",
+        "respuestas": {
+            "1": "Con los indicadores de dirección.",
+            "2": "Con las luces de frenado.",
+            "3": "Con el claxon."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Por qué no se debe retirar el casco de protección a un motorista accidentado?",
+        "respuestas": {
+            "1": "Para evitar el riesgo de lesiones en la columna vertebral.",
+            "2": "Para que la cabeza no toque el suelo.",
+            "3": "Para que la cabeza permanezca abrigada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Esta señal indica que se debe seguir una dirección y sentido obligatorios?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, esta señal no es de obligación.",
+            "3": "No, indica la salida más próxima."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El vehículo blanco se quiere incorporar a la circulación proveniente del garaje particular de una vivienda, ¿debe cederle el paso?",
+        "respuestas": {
+            "1": "Sólo si el vehículo blanco está destinado al servicio público.",
+            "2": "No.",
+            "3": "Sí, porque se incorpora a la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En vías urbanas de dos carriles o más por sentido, ¿cuál es la velocidad máxima permitida para motocicletas?",
+        "respuestas": {
+            "1": "50 km/h.",
+            "2": "60 km/h.",
+            "3": "45 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La prohibición de circular a velocidad superior a la indicada por la señal finaliza...",
+        "respuestas": {
+            "1": "cuando rebase el tramo regulado por semáforo.",
+            "2": "solamente cuando encuentre otra señal de \"Fin de prohibiciones\" u otra de \"Velocidad máxima\".",
+            "3": "solamente cuando encuentre una señal de \"Fin de la limitación de velocidad\"."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En una intersección sin señalizar, ¿está obligado un turismo a ceder el paso a un tranvía?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo cuando el tranvía se aproxime por la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Los distribuidores de mercancías, cuando realicen las sucesivas operaciones de carga y descarga en recorridos cortos, ¿están exentos de utilizar el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, en todo tipo de vías.",
+            "2": "Sí, en poblado.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En un turismo, ¿quiénes están obligados a llevar puesto el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sólo los que van en los asientos delanteros.",
+            "2": "Sólo los que van en los asientos traseros.",
+            "3": "Todos los ocupantes del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Al aproximarse a un paso para peatones, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Emplear el claxon para avisar a los peatones.",
+            "2": "Detenerse siempre.",
+            "3": "Moderar la velocidad, deteniéndose si es necesario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Es obligatorio finalizar un adelantamiento reincorporándose al carril derecho...",
+        "respuestas": {
+            "1": "lo más cerca posible del vehículo adelantado.",
+            "2": "de forma repentina y con las luces de emergencia encendidas.",
+            "3": "de forma gradual y sin obstaculizar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Para realizar una conducción económica se recomienda en los motores de gasolina realizar los cambios de marcha...",
+        "respuestas": {
+            "1": "entre 1.500 rpm. a 2.000 revoluciones por minuto.",
+            "2": "entre 2.000 rpm. a 2.500 revoluciones por minuto.",
+            "3": "entre 3.000 rpm. a 3.500 revoluciones por minuto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si el recorrido que va a realizar con su vehículo es corto, ¿está permitido llevar a un niño pequeño en brazos?",
+        "respuestas": {
+            "1": "Sí, cuando todo el recorrido transcurre por vías urbanas.",
+            "2": "No, es obligatorio usar un sistema de retención infantil.",
+            "3": "Solo si se circula a una velocidad igual o inferior a 30 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un vehículo tiene airbag. ¿Es obligatorio ponerse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "No, porque el airbag sustituye al cinturón.",
+            "2": "Es aconsejable, pero no es obligatorio.",
+            "3": "Sí, porque mejora la eficacia del airbag."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En idénticas situaciones de tráfico, el tiempo de reacción...",
+        "respuestas": {
+            "1": "es el mismo para todos los conductores.",
+            "2": "puede variar en función del estado psicofísico del conductor.",
+            "3": "es siempre el mismo, no influye el estado psicofísico del conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El vehículo blanco sale de una casa. ¿Es obligatorio cederle el paso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque circula por una travesía.",
+            "3": "Sí, porque entra por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué precaución debe adoptar si instala un dispositivo de retención orientado hacia atrás?",
+        "respuestas": {
+            "1": "No se puede instalar el dispositivo si el vehículo está equipado con airbag frontal.",
+            "2": "Desactivar el airbag frontal de forma automática o manual.",
+            "3": "Que el dispositivo de retención esté fuera del alcance del airbag."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El medio ambiente, ¿se ve afectado por los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Únicamente en vía interurbana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "El consumo de alcohol durante la comida, aunque sea en cantidades pequeñas, ¿afecta a la conducción?",
+        "respuestas": {
+            "1": "Sí, los movimientos del conductor al volante son más rápidos.",
+            "2": "Sí, altera la concentración y aumenta el tiempo de reacción.",
+            "3": "No, porque la comida contrarresta los efectos negativos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Para ahorrar carburante, ¿cómo se debe ventilar el vehículo?",
+        "respuestas": {
+            "1": "Abriendo solamente las ventanillas traseras.",
+            "2": "Con las entradas de aire que hay en el salpicadero.",
+            "3": "Abriendo todas las ventanillas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En esta curva de visibilidad reducida, ¿está permitido parar?",
+        "respuestas": {
+            "1": "En la curva no, pero sí en sus proximidades.",
+            "2": "No, ni en la curva, ni en sus proximidades.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

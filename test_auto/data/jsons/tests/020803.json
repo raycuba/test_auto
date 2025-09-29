@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando no se puede posicionar el vehículo paralelo al borde de la calzada, ¿se podría permitir la parada o el estacionamiento dejando el vehículo en otra posición?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, cuando las características de la vía u otras circunstancias así lo aconsejen.",
+            "3": "Solo si existe alguna señal que permita el estacionamiento en batería."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cómo debe colocar su vehículo al parar o estacionar?",
+        "respuestas": {
+            "1": "Es indiferente, siempre que pare el motor y accione el freno de estacionamiento.",
+            "2": "De manera que permita la mejor utilización del espacio disponible.",
+            "3": "Colocando el vehículo en paralelo a la vía, siempre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "La parada y el estacionamiento en esta vía deben realizarse colocando el vehículo...",
+        "respuestas": {
+            "1": "paralelo al borde de la calzada.",
+            "2": "en línea o en batería, según se aproveche mejor el espacio.",
+            "3": "en batería."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Está permitido estacionar en una calle residencial?",
+        "respuestas": {
+            "1": "No, está siempre prohibido.",
+            "2": "Sí, donde no se estorbe a los peatones.",
+            "3": "No, excepto en los lugares señalizados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Puede estacionar su vehículo junto al borde de esta calzada?",
+        "respuestas": {
+            "1": "No, ya que está prohibido parar y estacionar.",
+            "2": "No, ya que está prohibido estacionar.",
+            "3": "Sí, ya que no hay ninguna señal vertical que lo prohíba."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Está permitido estacionar en doble fila?",
+        "respuestas": {
+            "1": "Sí, siempre que el conductor no abandone el vehículo.",
+            "2": "No, en ningún caso.",
+            "3": "Solo cuando la duración del estacionamiento sea inferior a dos minutos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En un estacionamiento con limitación horaria, como norma general, ¿está permitido estacionar sin colocar el distintivo que lo autoriza?",
+        "respuestas": {
+            "1": "No, además, se podrá ordenar la inmovilización del vehículo.",
+            "2": "No, aunque no se puede inmovilizar ni retirar el vehículo.",
+            "3": "Sí, mientras permanezca un ocupante en el interior del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Está permitido realizar una parada delante de un vado señalizado correctamente?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo mientras suben o bajan pasajeros del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Se puede estacionar un vehículo delante del vado de un garaje correctamente señalizado?",
+        "respuestas": {
+            "1": "Solo si se dejan las luces de emergencia.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La señal dice: de 8 a 14 horas excepto carga y descarga. ¿Puede estacionar a las 13 horas en el lado que señala la flecha?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "El conductor de la furgoneta, ¿puede hacer una parada en doble fila para descargar?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, excepcionalmente y respetando las normas sobre paradas.",
+            "3": "Solo si la parada tiene una duración igual o inferior a 1 minuto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Un vehículo estacionado, ¿cuándo obstruye gravemente la circulación?",
+        "respuestas": {
+            "1": "Cuando está en zona reservada a carga y descarga, fuera de las horas de utilización.",
+            "2": "Cuando está en las proximidades de un paso para peatones.",
+            "3": "Cuando está en doble fila sin conductor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El vehículo rojo, ¿está correctamente estacionado?",
+        "respuestas": {
+            "1": "No, porque está en doble fila.",
+            "2": "Sí, si no hay espacio próximo para estacionar de otra manera.",
+            "3": "Sólo si la duración del estacionamiento es inferior a dos minutos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En esta zona destinada a carga y descarga, ¿está permitido parar y estacionar?",
+        "respuestas": {
+            "1": "No, ni parar ni estacionar.",
+            "2": "Únicamente está permitido parar.",
+            "3": "Únicamente pueden parar y estacionar los camiones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En una zona destinada a carga y descarga, ¿se puede estacionar durante las horas de utilización?",
+        "respuestas": {
+            "1": "No, no está permitido ni parar ni estacionar.",
+            "2": "Únicamente pueden parar y estacionar los camiones.",
+            "3": "Únicamente está permitido parar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza en...",
+        "respuestas": {
+            "1": "doble fila sin conductor.",
+            "2": "las proximidades de un paso de peatones.",
+            "3": "doble fila, con o sin conductor, por un tiempo superior a dos minutos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Está permitido estacionar en doble fila?",
+        "respuestas": {
+            "1": "Sí, siempre que no haya espacio libre en las proximidades.",
+            "2": "No, en ningún caso.",
+            "3": "Sólo en vías urbanas y por un tiempo inferior a dos minutos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza...",
+        "respuestas": {
+            "1": "en doble fila, aunque permanezca el conductor en el interior del vehículo.",
+            "2": "en medio de la calzada.",
+            "3": "en zonas señalizadas para uso exclusivo de personas con movilidad reducida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En un cambio de rasante, ¿está prohibido parar y estacionar?",
+        "respuestas": {
+            "1": "No, salvo en los de visibilidad reducida.",
+            "2": "Sí.",
+            "3": "Parar no, pero estacionar sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En un cambio de rasante, ¿está permitido parar o estacionar?",
+        "respuestas": {
+            "1": "Sí, salvo que tenga visibilidad reducida.",
+            "2": "No, en ningún caso.",
+            "3": "Está permitido parar, pero no estacionar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En las intersecciones y sus proximidades, si se dificulta el giro a otros vehículos, está prohibido...",
+        "respuestas": {
+            "1": "estacionar, solamente.",
+            "2": "parar y estacionar.",
+            "3": "parar, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En los túneles y pasos subterráneos, ¿está permitido parar o estacionar?",
+        "respuestas": {
+            "1": "Está permitido parar, pero está prohibido estacionar.",
+            "2": "Está prohibido tanto parar como estacionar.",
+            "3": "Está permitido estacionar, pero está prohibido parar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En esta curva de visibilidad reducida, ¿está permitido parar?",
+        "respuestas": {
+            "1": "En la curva no, pero sí en sus proximidades.",
+            "2": "No, ni en la curva, ni en sus proximidades.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una vía urbana, ¿está permitido parar en una intersección?",
+        "respuestas": {
+            "1": "Sí, siempre que no dificulte el giro a otros vehículos.",
+            "2": "Sí, en todo caso.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Está prohibida la parada en las intersecciones y en sus proximidades de las vías interurbanas?",
+        "respuestas": {
+            "1": "Sólo está permitida cuando no se dificulte el giro a otros vehículos.",
+            "2": "Sí, está permitida en todo caso.",
+            "3": "No está permitida cuando se genere peligro por falta de visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Está permitido estacionar en una intersección?",
+        "respuestas": {
+            "1": "No, cuando se impida el giro a otros vehículos.",
+            "2": "Sí, en todo caso.",
+            "3": "Solo si se dejan encendidas las luces de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Está permitido parar y estacionar en un paso inferior?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Parar, sí; estacionar, no.",
+            "3": "Sólo si está suficientemente iluminado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Está prohibido parar en...",
+        "respuestas": {
+            "1": "todas las curvas y cambios de rasante.",
+            "2": "los tramos de vía afectados por la señal “túnel”.",
+            "3": "las proximidades de paso a nivel y pasos para peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En una autopista, ¿dónde está permitido inmovilizar el vehículo para descansar?",
+        "respuestas": {
+            "1": "Sólo en las áreas de servicio o de descanso.",
+            "2": "Únicamente en las vías de servicio.",
+            "3": "Fuera de la calzada y de la parte transitable del arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En esta vía, ¿está permitido parar en la zona transitable del arcén?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Sí, siempre que se enciendan las luces de emergencia.",
+            "3": "Solo si la parada tiene una duración inferior a dos minutos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

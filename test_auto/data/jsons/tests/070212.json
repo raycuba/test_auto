@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El alcohol, ¿afecta por igual a todas las personas?",
+        "respuestas": {
+            "1": "Sí, cuando se ingiere la misma cantidad de alcohol.",
+            "2": "No, los menores de 18 años y los mayores de 65 son más sensibles al alcohol.",
+            "3": "No, las personas delgadas toleran mejor el alcohol que las personas gruesas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El alcohol desaparece de la sangre...",
+        "respuestas": {
+            "1": "rápidamente, eliminándose por completo una hora después de su consumo.",
+            "2": "inmediatamente después de su consumo a través del sudor y de la orina.",
+            "3": "muy lentamente, eliminándose por completo varias horas después de su consumo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Durmiendo un poco, ¿se acelera la eliminación del alcohol en la sangre y se recupera más rápidamente las capacidades afectadas por su consumo?",
+        "respuestas": {
+            "1": "Sí, basta con dormir un par de horas.",
+            "2": "Solo si el sueño es reparador.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Aproximadamente, ¿cuándo empieza a disminuir la cantidad de alcohol en sangre?",
+        "respuestas": {
+            "1": "Nada más dejar de beber.",
+            "2": "Una hora después de dejar de beber.",
+            "3": "Quince minutos después de dejar de beber."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "El tiempo de absorción del alcohol, ¿varía en función de la bebida consumida?",
+        "respuestas": {
+            "1": "No, la absorción se realiza a un ritmo fijo, con independencia de la bebida consumida.",
+            "2": "Sí, se absorbe más rápidamente el alcohol de las bebidas fermentadas.",
+            "3": "Sí, se absorbe más rápidamente el alcohol de las bebidas destiladas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Las circunstancias personales como el estrés, ¿pueden influir en los efectos del alcohol?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, sólo dependen de la cantidad y el tipo de alcohol ingerido.",
+            "3": "No, el alcohol sólo afecta a las características físicas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El alcohol se absorbe más rápidamente si...",
+        "respuestas": {
+            "1": "ha consumido bebidas fermentadas, como la cerveza.",
+            "2": "tiene el estómago vacío.",
+            "3": "se mezcla con alimentos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En general, son más sensibles a los efectos del alcohol...",
+        "respuestas": {
+            "1": "las personas menores de 18 años y los mayores de 65 años.",
+            "2": "las personas menores de 18 años y las mayores de 45 años.",
+            "3": "las personas de entre 18 y 30 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "El alcohol puede detectarse en la sangre a partir de los 5 minutos de haberlo consumido, pero, ¿cuándo alcanza su máximo nivel (pico de alcoholemia)?",
+        "respuestas": {
+            "1": "Entre los 30 y los 90 minutos después de haberlo consumido.",
+            "2": "Entre los 120 y los 130 minutos después de haberlo consumido.",
+            "3": "Entre las tres y las cuatro horas después de haberlo consumido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El alcohol se elimina...",
+        "respuestas": {
+            "1": "más deprisa mientras se duerme.",
+            "2": "más despacio mientras se duerme.",
+            "3": "a la misma velocidad dormido o despierto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Como norma general, los efectos del alcohol son mayores...",
+        "respuestas": {
+            "1": "entre 30 y 90 minutos después de haberlo consumido.",
+            "2": "inmediatamente después de su consumo.",
+            "3": "tres horas después de haberlo consumido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Consumir alcohol con el estómago lleno, ¿influye en la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí; el alcohol se absorbe más lentamente, pero esto no evita el riesgo de accidente.",
+            "2": "Sí; el alcohol se absorbe más rápidamente, por lo que la tasa de alcoholemia es mayor.",
+            "3": "No; es un factor que no influye en la tasa de alcoholemia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "La fatiga, ¿influye en los efectos que produce el alcohol?",
+        "respuestas": {
+            "1": "Sí, los aminora.",
+            "2": "Sí, los agrava.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Los efectos del alcohol en el organismo, ¿están relacionados con el peso?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, como norma general.",
+            "3": "Los efectos del alcohol no dependen del peso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La edad del conductor, ¿puede influir en la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sólo si ha consumido bebidas destiladas como ginebra o brandy.",
+            "2": "Sí, los menores de edad suelen ser más sensibles a sus efectos.",
+            "3": "No, la edad no influye en la tasa de alcoholemia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El alcohol, tomado durante las comidas o acompañado de alimentos, pasa a la sangre...",
+        "respuestas": {
+            "1": "más lentamente.",
+            "2": "más rápidamente.",
+            "3": "a la misma velocidad que con el estómago vacío."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si dos conductores consumen idéntica cantidad de alcohol, la tasa de alcoholemia, ¿será la misma en ambos conductores?",
+        "respuestas": {
+            "1": "Sí, en todo caso.",
+            "2": "Sí, pero solo si ambos conductores tienen la misma edad.",
+            "3": "No; depende además de otros factores, como el peso, el sexo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Tomar chicles o caramelos, ¿reduce la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si los chicles o los caramelos son sin azúcar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Beber mucha agua o fumar, ¿reduce la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si el agua es mineral o el tabaco es de liar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Tomar alimentos o beber agua, ¿son medidas eficaces para reducir la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí, al igual que masticar granos de café.",
+            "2": "No, son medidas que solo retrasan la absorción del alcohol.",
+            "3": "Sí, si se alterna el consumo de alcohol con el de alimentos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Beber mucha agua o fumar, ¿reduce la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo beber mucha agua."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Tomar un café o un té, ¿son estrategias eficaces para reducir la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "No, pero masticar café en grano sí reduce la tasa de alcoholemia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un conductor que circula con su vehículo bajo los efectos de las drogas...",
+        "respuestas": {
+            "1": "pone en riesgo a los usuarios de la vía que le rodean.",
+            "2": "pone en riesgo solamente su propia vida.",
+            "3": "asume menos riesgos que un conductor que no consume drogas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El consumo de drogas de abuso o ilegales, ¿puede mejorar el tiempo de reacción del conductor?",
+        "respuestas": {
+            "1": "Sí; el consumo de cocaína mejora el tiempo de reacción.",
+            "2": "No; el consumo de drogas altera negativamente el tiempo de reacción.",
+            "3": "Sí; siempre que se consuman con el estómago lleno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Está permitido conducir un vehículo bajo los efectos de drogas de diseño, como las anfetaminas o el éxtasis?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si la tasa de alcoholemia no supera la máxima permitida.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué conductores tienen prohibido circular bajo los efectos de las drogas?",
+        "respuestas": {
+            "1": "Todos.",
+            "2": "Sólo los conductores de vehículos de motor.",
+            "3": "Sólo los conductores de automóviles."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El consumo de drogas, ¿afecta a la capacidad de reacción?",
+        "respuestas": {
+            "1": "Sí, disminuyéndola.",
+            "2": "No.",
+            "3": "Sí, aumentándola."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "El consumo de drogas, ¿mejora en algún caso el tiempo de reacción?",
+        "respuestas": {
+            "1": "Sí, en algunos casos disminuyéndolo.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, con la cocaína."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Uno de los efectos que algunas drogas pueden producir en el conductor es...",
+        "respuestas": {
+            "1": "la ampliación del campo visual.",
+            "2": "la disminución de la distancia de detención.",
+            "3": "la incorrecta percepción del tiempo y del espacio."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Las anfetaminas, ¿son peligrosas para conducir?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, porque son tranquilizantes.",
+            "3": "No, porque retrasan la aparición de sueño."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

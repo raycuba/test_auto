@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Son remolques ligeros aquellos cuya MMA...",
+        "respuestas": {
+            "1": "es igual a 750 kg.",
+            "2": "supera los 750 kg.",
+            "3": "no supera los 750 kg."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En caso de condiciones meteorológicas especialmente desfavorables, como fuerte nevada, ¿qué luz antiniebla debemos llevar encendida?",
+        "respuestas": {
+            "1": "La antiniebla trasera y en ningún caso encenderemos la antiniebla delantera.",
+            "2": "La antiniebla delantera y en ningún caso encenderemos la antiniebla trasera.",
+            "3": "La antiniebla trasera y si se dispone de ella, la antiniebla delantera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Con las luces de corto alcance, ¿está permitido hacer ráfagas?",
+        "respuestas": {
+            "1": "Sí, tanto en vías urbanas como en vías interurbanas.",
+            "2": "Sí, sólo en vías interurbanas.",
+            "3": "Sí, sólo en vías urbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿En qué tipo de vías se produce un mayor número de accidentes mortales de peatones?",
+        "respuestas": {
+            "1": "En autopistas y autovías.",
+            "2": "En carreteras convencionales.",
+            "3": "En vías urbanas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "La distancia de reacción...",
+        "respuestas": {
+            "1": "es siempre la misma para todos los conductores.",
+            "2": "depende únicamente del estado psicofísico del conductor.",
+            "3": "depende, entre otros factores, de la velocidad a la que se circule."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Cuándo termina la limitación de velocidad que impone esta señal?",
+        "respuestas": {
+            "1": "Cuando encuentre una señal de fin de prohibiciones.",
+            "2": "Al rebasar el siguiente cruce.",
+            "3": "Cuando salga de la travesía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Entre los momentos de peligro en el uso del teléfono móvil se encuentran...",
+        "respuestas": {
+            "1": "no utilizar el teléfono móvil.",
+            "2": "colgar y guardar el móvil.",
+            "3": "recibir una llamada y detenerse en un lugar seguro para hablar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Los limpiaparabrisas deben mantenerse en buen estado para circular con seguridad. Para ello se debe...",
+        "respuestas": {
+            "1": "comprobar que el depósito que contiene el líquido limpiaparabrisas esté siempre al máximo nivel.",
+            "2": "realizar la revisión de las escobillas con el fin de asegurar su máxima eficacia.",
+            "3": "aplicar sobre el parabrisas el líquido que recomienda el fabricante para facilitar el desplazamiento de las escobillas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Los frenos, ¿son un dispositivo de seguridad activa?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, son un elemento de seguridad pasiva.",
+            "3": "No, es un sistema mecánico del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El campo visual de los niños es limitado debido a...",
+        "respuestas": {
+            "1": "su baja estatura.",
+            "2": "su falta de atención.",
+            "3": "su escaso desarrollo del sentido de la vista, principalmente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un neumático con una presión de inflado incorrecta...",
+        "respuestas": {
+            "1": "se desgasta de forma irregular y tiene mayor riesgo de reventón.",
+            "2": "se desgasta menos y tiene menor riesgo de reventón.",
+            "3": "normalmente consume menos carburante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Esta señal indica el principio de...",
+        "respuestas": {
+            "1": "una autopista.",
+            "2": "una autovía.",
+            "3": "una vía reservada a la circulación de automóviles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Todo conductor está obligado a...",
+        "respuestas": {
+            "1": "comportarse de forma que no entorpezca indebidamente la circulación.",
+            "2": "circular siempre por debajo de la velocidad máxima de la vía.",
+            "3": "circular siempre a la velocidad máxima de la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Como norma general, se prohíbe cambiar el sentido de la marcha...",
+        "respuestas": {
+            "1": "en las calzada con prioridad.",
+            "2": "en las plazas de circulación giratoria.",
+            "3": "en los tramos de vía en los que esté prohibido adelantar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En vía urbana con varios carriles para cada sentido, ¿por cuál de ellos circulará como norma general?",
+        "respuestas": {
+            "1": "Por el que más convenga a su destino, estén o no delimitados los carriles.",
+            "2": "Por el carril de la derecha, siempre.",
+            "3": "Por el que más convenga a su destino, cuando los carriles estén delimitados por marcas longitudinales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Esta señal, ¿prohíbe el cambio de dirección en la próxima intersección?",
+        "respuestas": {
+            "1": "Sí, ya que debo seguir la dirección y sentido que señala la flecha.",
+            "2": "No, sólo me indica que la vía es de sentido único.",
+            "3": "No, sólo prohíbe el cambio de sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Dónde está prohibido depositar la mercancía durante las operaciones de carga y descarga?",
+        "respuestas": {
+            "1": "En las zonas peatonales, pero si esta permitido depositarla en la calzada y en el arcén.",
+            "2": "En la calzada, en el arcén y en las zonas peatonales.",
+            "3": "En la calzada, pero esta permitido depositarla en el arcén y en las zonas peatonales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si mientras circula se le pincha una rueda, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Continuar circulando hasta llegar al taller más próximo.",
+            "2": "Inmovilizar rápidamente el vehículo fuera de la calzada o en lugar seguro.",
+            "3": "Detener el vehículo rápidamente en cualquier lugar y abandonarlo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si presencia un accidente de circulación, ¿tiene obligación de avisar a la Autoridad o a sus agentes si solo hay heridos leves y la seguridad de la circulación está restablecida?",
+        "respuestas": {
+            "1": "Solo si alguna de las personas implicadas en el accidente lo solicita.",
+            "2": "Sí, siempre.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Hasta el 1 de enero del 2026, en caso de no disponer de dispositivo luminoso, los triángulos de preseñalización de peligro se colocarán a...",
+        "respuestas": {
+            "1": "100 metros de distancia, al menos, del vehículo o la carga.",
+            "2": "50 metros de distancia como máximo, del vehículo o la carga.",
+            "3": "50 metros de distancia, al menos, del vehículo o la carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Cómo debe circular para realizar una conducción eficiente?",
+        "respuestas": {
+            "1": "Circulando con la relación de marchas más corta posible.",
+            "2": "Cambiando constantemente de velocidad para no fatigar el motor.",
+            "3": "A una velocidad uniforme, evitando los frenazos y los acelerones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Puede perder puntos de su saldo si circula con una motocicleta sin llevar el casco de protección correctamente abrochado?",
+        "respuestas": {
+            "1": "No; es una infracción que no conlleva la pérdida de puntos.",
+            "2": "Sí; es una infracción que supone la pérdida de 4 puntos.",
+            "3": "Sí; es una infracción que supone la pérdida de 6 puntos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "entrada prohibida a todo tipo de vehículos.",
+            "2": "entrada destinada solamente a los vehículos de transporte de mercancías.",
+            "3": "entrada prohibida a vehículos destinados al transporte de mercancías tales como camiones y furgones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En esta zona de la calzada con marcas azules...",
+        "respuestas": {
+            "1": "está prohibido el estacionamiento, pero no la parada.",
+            "2": "está permitido el estacionamiento, pero por tiempo limitado.",
+            "3": "está prohibido tanto la parada como el estacionamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "De las siguientes situaciones de tráfico, ¿cuál favorece la aparición de la somnolencia en la conducción?",
+        "respuestas": {
+            "1": "Las situaciones monótonas, como conducir por una autovía sin tráfico durante muchos kilómetros.",
+            "2": "La conducción por vías en las que se producen cambios frecuentes en el entorno.",
+            "3": "La conducción en zona urbana, cuando el tráfico es denso pero la circulación fluida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué debe hacer un conductor para que los demás usuarios puedan anticiparse a sus intenciones?",
+        "respuestas": {
+            "1": "No debe hacer nada, el resto de usuarios debe estar atento a su velocidad y trayectoria.",
+            "2": "Permanecer en el ángulo muerto de los retrovisores de otro vehículo.",
+            "3": "Señalizar siempre las maniobras con antelación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Cuántos espejos retrovisores debe llevar una motocicleta que puede alcanzar una velocidad superior a 100 kilómetros por hora?",
+        "respuestas": {
+            "1": "Un espejo retrovisor en el lado izquierdo, solamente.",
+            "2": "Dos espejos retrovisores, uno a cada lado.",
+            "3": "Un espejo retrovisor, en el lado derecho solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Carril obligatorio para acceder a un aeropuerto.",
+            "2": "Peligro por la proximidad de un lugar donde frecuentemente vuelan aeronaves a baja altura sobre la vía.",
+            "3": "Prohíbe el acceso a un aeropuerto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En esta situación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "No disminuir la velocidad porque la señalización me da preferencia.",
+            "2": "Moderar la velocidad, incluso detenerme si fuera preciso.",
+            "3": "Detenerme, porque el peatón tiene preferencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cómo podemos colaborar para reducir las elevadas cifras de muertos y heridos en siniestros viales?",
+        "respuestas": {
+            "1": "Haciendo que la prevención de la accidentalidad sea una de nuestras mayores preocupaciones.",
+            "2": "Asegurando el vehículo a todo riesgo.",
+            "3": "Destinando el 10 % del coste del vehículo en ayudas sociales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

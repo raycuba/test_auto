@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "La indicación numérica que aparece en esta señal sobre el carril central y el izquierdo, indica la velocidad...",
+        "respuestas": {
+            "1": "mínima a la que se debe circular por esos carriles.",
+            "2": "aconsejada para circular por dichos carriles.",
+            "3": "máxima a la que se debe circular por esos carriles."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "un área de servicio en una carretera convencional.",
+            "2": "un área de servicio en una autopista o autovía.",
+            "3": "una zona o área de descanso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Como norma general, el vehículo gris, ¿puede hacer la maniobra para adelantar al vehículo amarillo, que está señalizando su intención de desplazarse a la izquierda para adelantar?",
+        "respuestas": {
+            "1": "No, porque el conductor del vehículo amarillo tiene preferencia.",
+            "2": "Sí, porque el conductor del vehículo gris tiene preferencia.",
+            "3": "Solo si el arcén tiene anchura suficiente para utilizarlo durante el adelantamiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El tractor agrícola de 3.000 kg de MMA, la bicicleta y el ciclomotor circulan por el arcén, ¿circulan correctamente?",
+        "respuestas": {
+            "1": "Sí, salvo el tractor, que debe circular por la calzada.",
+            "2": "Sí, todos deben circular por el arcén.",
+            "3": "No, sólo debe circular por el arcén la bicicleta."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Puede conducir si ha tomado algún medicamento?",
+        "respuestas": {
+            "1": "No, debido a los efectos secundarios que pueda generar.",
+            "2": "Sí, salvo que altere el estado físico o mental y, por tanto, la capacidad para conducir.",
+            "3": "Sólo si ha sido prescrito por un médico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué señala la flecha de la señal?",
+        "respuestas": {
+            "1": "El lado del refugio por el que los vehículos han de pasar.",
+            "2": "Sentido único.",
+            "3": "Recomienda el lado del refugio por el que los vehículos pueden pasar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Circular con las ventanillas abiertas por una autopista a 120 km/h, ¿afecta al consumo de carburante?",
+        "respuestas": {
+            "1": "Sí, el consumo es mayor que si se circula con las ventanillas cerradas.",
+            "2": "Sí, el consumo es menor que si se circula con las ventanillas cerradas.",
+            "3": "No, el consumo es el mismo que si se circula con las ventanillas cerradas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿En qué tipo de accidentes es más frecuente que se produzca el latigazo cervical?",
+        "respuestas": {
+            "1": "En las salidas de la vía, siendo la lesión más frecuente en este tipo de accidentes.",
+            "2": "En las colisiones por alcance.",
+            "3": "En los atropellos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad, como en caso de lluvia intensa, ¿es obligatorio utilizar la luz antiniebla trasera?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Sólo si se circula por una vía interurbana.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Para incorporarse a una vía por un carril de aceleración, ¿en qué punto debe cerciorarse de que puede realizar la maniobra sin peligro?",
+        "respuestas": {
+            "1": "Al principio o al final del carril de aceleración, es indiferente.",
+            "2": "Al final del carril de aceleración.",
+            "3": "Al principio del carril de aceleración."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En autopistas y autovías, ¿está prohibido el cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "No.",
+            "3": "Sí, salvo en los lugares habilitados al efecto."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Una fila escolar va a cruzar la calzada, ¿es obligatorio cederle el paso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si cruza por un paso para peatones.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Cuál es la tasa máxima de alcohol permitida para el conductor de un vehículo prioritario en servicio de urgencia?",
+        "respuestas": {
+            "1": "0,30 miligramos por litro.",
+            "2": "0,15 miligramos por litro.",
+            "3": "0,25 miligramos por litro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En las glorietas, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "No, son intersecciones.",
+            "2": "Sí.",
+            "3": "Solo en las que se encuentran en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué indica la marca de color blanco de la derecha?",
+        "respuestas": {
+            "1": "La existencia de un carril reservado exclusivamente para los autobuses.",
+            "2": "El comienzo de un carril reservado para determinados vehículos.",
+            "3": "El final de un carril reservado para determinados vehículos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Como norma general, ¿a qué velocidad máxima está permitido circular por una vía urbana que tenga plataforma única de calzada y acera?",
+        "respuestas": {
+            "1": "40 kilómetros por hora.",
+            "2": "20 kilómetros por hora.",
+            "3": "30 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En materia de tráfico, ¿están los jóvenes muy influenciados por la publicidad?",
+        "respuestas": {
+            "1": "Sí, principalmente por aquellos anuncios que incitan claramente al riesgo.",
+            "2": "No, la publicidad no les afecta.",
+            "3": "Sí, todos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Es aconsejable conducir un turismo calzado con unas chanclas?",
+        "respuestas": {
+            "1": "No, porque podrían caerse y dificultar el manejo de los pedales.",
+            "2": "Sí, porque al no sujetar el pie, es más fácil ejercer la presión correcta sobre los pedales.",
+            "3": "Sí, porque permiten un manejo más rápido y seguro de los pedales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "A la vista de la señalización, ¿cuándo puede volver a adelantar?",
+        "respuestas": {
+            "1": "Cuando encuentre la señal de 'Fin de prohibición de adelantamiento', únicamente.",
+            "2": "Cuando encuentre la señal de 'Fin de prohibición de adelantamiento' o 'Fin de prohibiciones'.",
+            "3": "Cuando encuentre la señal de \"Fin de restricciones\"."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Los vehículos destinados a obras y servicios, ¿cómo advertirán de su presencia cuando estén realizando obras de reparación en la calzada?",
+        "respuestas": {
+            "1": "Mediante un dispositivo luminoso con una luz rotativa de color azul o rojo.",
+            "2": "Mediante un dispositivo luminoso con una o varias luces de color amarillo auto.",
+            "3": "Mediante un dispositivo luminoso con una o varias luces de color azul."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Es peligroso escribir mensajes con el teléfono móvil mientras se conduce'",
+        "respuestas": {
+            "1": "No, si el conductor emplea una sola mano para usar el móvil.",
+            "2": "Sólo si el conductor tiene poca experiencia y circula a velocidad elevada.",
+            "3": "Sí; el conductor se distrae y le cuesta mantener una velocidad adecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Un peatón que circule de noche por el arcén o por la calzada de una vía fuera de poblado, ¿debe llevar algún elemento que le permita ser visto?",
+        "respuestas": {
+            "1": "Sí, debe llevar un elemento luminoso o retrorreflectante homologado.",
+            "2": "No, no es obligatorio.",
+            "3": "Solo si circula por la calzada, pero no cuando lo haga por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Las condiciones meteorológicas, ¿influyen en la distancia de frenado?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "No, sólo depende de la velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El consumo de alcohol, ¿es una de las principales causas que explican los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Sí, pero solo está presente en los accidentes que sufren los conductores noveles.",
+            "2": "Sí.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El titular de un permiso de la clase B con una antigüedad superior a tres años, ¿puede conducir una motocicleta dentro del territorio nacional?",
+        "respuestas": {
+            "1": "Sí, puede conducir cualquier tipo de motocicleta.",
+            "2": "No, no puede conducir ningún tipo de motocicleta.",
+            "3": "Sí, puede conducir una motocicleta de las que autoriza el permiso de la clase A1."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si no existe vía o parte de ella que les esté especialmente destinada, los ciclomotores...",
+        "respuestas": {
+            "1": "pueden circular por autovía.",
+            "2": "deben circular por el arcén de la carretera, si fuera transitable y suficiente.",
+            "3": "pueden circular en columna de a dos utilizando la parte imprescindible de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Cuándo se produce una colisión por alcance?",
+        "respuestas": {
+            "1": "Cuando un vehículo colisiona frontalmente con otro vehículo.",
+            "2": "Cuando un vehículo colisiona contra algún objeto situado fuera de la calzada.",
+            "3": "Cuando un vehículo en circulación es golpeado en su parte trasera por otro vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Un tractor que arrastra un remolque, ¿qué velocidad máxima no debe rebasar fuera de poblado?",
+        "respuestas": {
+            "1": "25 kilómetros por hora.",
+            "2": "40 kilómetros por hora.",
+            "3": "70 kilómetros por hora."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Además de la señalización luminosa correspondiente, la marcha hacia atrás está permitido señalizarla con el brazo...",
+        "respuestas": {
+            "1": "moviéndolo de arriba abajo.",
+            "2": "doblado hacia arriba, con la mano extendida.",
+            "3": "extendido horizontalmente con la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cuál es una de las principales causas de los accidentes de las personas mayores?",
+        "respuestas": {
+            "1": "El deterioro de las capacidades psicomotoras.",
+            "2": "El aumento de la visión periférica.",
+            "3": "Una mejor percepción y análisis de los riesgos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

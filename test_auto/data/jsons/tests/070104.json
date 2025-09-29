@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Uno de los problemas que afectan a la capacidad para conducir de las personas mayores es la disminución...",
+        "respuestas": {
+            "1": "del tiempo de reacción.",
+            "2": "de la visión y del oído.",
+            "3": "de la visión únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cuál es una de las principales causas de los accidentes de las personas mayores?",
+        "respuestas": {
+            "1": "El deterioro de las capacidades psicomotoras.",
+            "2": "El aumento de la visión periférica.",
+            "3": "Una mejor percepción y análisis de los riesgos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Envejecer, ¿puede afectar a las capacidades necesarias para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, debido al deterioro físico y mental que produce el paso del tiempo.",
+            "2": "Sí, de forma positiva, ya que mejora las capacidades necesarias para la conducción.",
+            "3": "No, el envejecimiento no altera las capacidades que afectan a la conducción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Las personas mayores...",
+        "respuestas": {
+            "1": "suelen tener un deterioro de sus capacidades que afecta a la conducción.",
+            "2": "suelen reaccionar más rápidamente.",
+            "3": "suelen valorar correctamente la velocidad de los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En un mismo accidente, ¿en qué grupo vulnerable las lesiones revisten mayor gravedad?",
+        "respuestas": {
+            "1": "En los mayores.",
+            "2": "En los niños.",
+            "3": "En los jóvenes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Debido a la pérdida de capacidades psicofísicas, ¿en qué situaciones de tráfico existe una mayor probabilidad de que sufran un accidente las personas mayores?",
+        "respuestas": {
+            "1": "En situaciones complejas que no exijan una respuesta rápida.",
+            "2": "En situaciones simples que no exijan una respuesta rápida.",
+            "3": "En situaciones complejas que exijan una respuesta rápida"
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciones de tráfico ofrecen más dificultades a las personas mayores?",
+        "respuestas": {
+            "1": "Los giros a la izquierda, especialmente en vías urbanas.",
+            "2": "Los estacionamientos, sobre todo cuando se realizan a la derecha de la calzada.",
+            "3": "Las situaciones complejas, como incorporarse a una vía en la que se circula a alta velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Conforme a los datos de accidentalidad, la mayor parte de los conductores menores de 24 años fallecidos en accidente de tráfico...",
+        "respuestas": {
+            "1": "son mujeres.",
+            "2": "conducían una motocicleta.",
+            "3": "son varones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En caso de accidente, ¿qué conductores tienen más posibilidades de morir o de sufrir lesiones graves o muy graves?",
+        "respuestas": {
+            "1": "Los conductores de vehículos pesados.",
+            "2": "Los conductores de motocicletas y bicicletas.",
+            "3": "Los conductores de turismos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La falta de experiencia del pasajero, ¿puede ser la causa de un accidente en moto?",
+        "respuestas": {
+            "1": "Sí, sobre todo en las curvas.",
+            "2": "No.",
+            "3": "Sí, debido al aumento de peso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué vehículo de dos ruedas conducen la mayoría de los jóvenes entre 18 y 24 años implicados en accidentes de tráfico con víctimas?",
+        "respuestas": {
+            "1": "Una motocicleta.",
+            "2": "Un ciclomotor.",
+            "3": "Una bicicleta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La probabilidad de que un accidente de tráfico sea mortal es mucho menor...",
+        "respuestas": {
+            "1": "en un turismo que en un vehículo de dos ruedas.",
+            "2": "en un vehículo de cuatro ruedas que en un vehículo de tres ruedas.",
+            "3": "en un vehículo de dos ruedas que en un turismo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Cuando conduce una motocicleta, debe tener en cuenta que...",
+        "respuestas": {
+            "1": "cuanto mayor es la velocidad, hay mayor dificultad para mantener el equilibrio.",
+            "2": "es menos estable y más frágil que el resto de los vehículos.",
+            "3": "es más visible que otros automóviles."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Se reduce la probabilidad de fallecer en un accidente de tráfico si se circula con un vehículo de dos ruedas con respecto a si se circula en un vehículo de cuatro ruedas?",
+        "respuestas": {
+            "1": "Sí, porque si sale despedido de la moto se reduce el riesgo de sufrir lesiones graves.",
+            "2": "No, ya que el cuerpo de un motorista absorbe la mayor parte de la energía del impacto.",
+            "3": "Sí, pero solo si se circula a velocidades superiores a 50 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué parte del cuerpo resulta más afectada en los accidentes de motocicleta?",
+        "respuestas": {
+            "1": "Los brazos.",
+            "2": "Las piernas.",
+            "3": "La cabeza y la cara."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El accidente de motocicleta más frecuente es...",
+        "respuestas": {
+            "1": "la colisión por alcance de vehículos que van a más velocidad.",
+            "2": "la colisión frontal o frontolateral con otro vehículo.",
+            "3": "la colisión frontal con otras motocicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En los accidentes de circulación con motocicletas y ciclomotores implicados, una de las principales causas de mortalidad es...",
+        "respuestas": {
+            "1": "el peso del vehículo.",
+            "2": "la fricción con el asfalto.",
+            "3": "no llevar casco."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El conductor de una motocicleta que sufre una caída procurará...",
+        "respuestas": {
+            "1": "deslizarse por el suelo lo más relajadamente posible hasta quedar detenido.",
+            "2": "levantarse antes de haberse detenido totalmente, para evitar ser golpeado contra el suelo.",
+            "3": "rodar el cuerpo rápidamente para provocar mayor rozamiento y detenerse lo antes posible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Las malas condiciones meteorológicas, como lluvia, viento o hielo, ¿aumentan la probabilidad de sufrir un accidente con una motocicleta?",
+        "respuestas": {
+            "1": "No; el mal tiempo no influye en la conducción de motocicletas.",
+            "2": "Sí; es más probable que el motorista se caiga si hace movimientos bruscos.",
+            "3": "Sí; pero solo si el conductor no lleva el equipamiento adecuado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Si conduce una motocicleta, ¿qué debe tener en cuenta antes de cambiar de carril?",
+        "respuestas": {
+            "1": "Que a ciertas velocidades es difícil ser percibido por los demás usuarios.",
+            "2": "Que señalizar la maniobra siempre da prioridad.",
+            "3": "Que al llevar el alumbrado encendido, las motocicletas siempre se ven con facilidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Al circular con un turismo, ¿qué debe hacer para reducir la probabilidad de verse involucrado en un accidente con un vehículo de dos ruedas?",
+        "respuestas": {
+            "1": "No respetar la distancia lateral de seguridad.",
+            "2": "No respetar la distancia frontal de seguridad.",
+            "3": "Circular en paralelo el menor tiempo posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Mantener la distancia frontal de seguridad adecuada, ¿es una recomendación válida para evitar accidentes con las motocicletas?",
+        "respuestas": {
+            "1": "Sí, porque se reduce el riesgo de accidente por alcance.",
+            "2": "No, porque la distancia de seguridad no influye en los accidentes de moto.",
+            "3": "Sólo es recomendable mantener la distancia de seguridad en vías urbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué debe procurar hacer el conductor de una motocicleta que sufre una caída y se desliza por el suelo para minimizar las lesiones?",
+        "respuestas": {
+            "1": "Intentar ponerse de pie antes de detenerse por completo.",
+            "2": "Intentar que el cuerpo ruede por el suelo a la mayor velocidad posible.",
+            "3": "Deslizarse lo más relajadamente posible hasta quedar detenido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿En qué tipo de vía se produce un mayor número de ciclistas fallecidos en accidente de tráfico?",
+        "respuestas": {
+            "1": "En vías interurbanas.",
+            "2": "En travesías.",
+            "3": "En vía urbana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Circulando con un turismo arrolla a un ciclista; ¿existe relación entre la velocidad a la que circule y la gravedad de las lesiones que sufra el ciclista?",
+        "respuestas": {
+            "1": "Sí; a mayor velocidad, mayor será la gravedad de las lesiones que sufra el ciclista.",
+            "2": "Sí; a menor velocidad, mayor será la gravedad de las lesiones que sufra el ciclista.",
+            "3": "No; la gravedad de las lesiones no dependerán de la velocidad a la que circule."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Cuando haya obstáculos y ciclistas circulando deberá...",
+        "respuestas": {
+            "1": "mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "2": "pensar que los ciclistas pueden realizar un movimiento brusco.",
+            "3": "al acercarnos a los ciclistas hacer señales acústicas para indicar nuestra presencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Cuando llueve o hay viento, ¿por qué hay que tener más precaución con los ciclistas?",
+        "respuestas": {
+            "1": "Porque la bicicleta es más inestable y puede cambiar su trayectoria de repente.",
+            "2": "Porque con lluvia o viento tiene preferencia de paso sobre los demás vehículos.",
+            "3": "Porque por seguridad, con lluvia y viento tienen prohibido circular por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué precaución puede adoptar para evitar el riesgo de atropello a ciclistas?",
+        "respuestas": {
+            "1": "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario.",
+            "2": "Utilizar señales luminosas para avisar de su propósito de adelantarles.",
+            "3": "No hacer señales acústicas cerca de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Cómo podemos evitar el atropello de ciclistas?",
+        "respuestas": {
+            "1": "Avisando de nuestra presencia con el claxon cuando estemos cerca.",
+            "2": "Extremando la precaución ante malas situaciones meteorológicas, como lluvia o viento.",
+            "3": "Adelantándoles rápidamente, incluso cuando vienen ciclistas en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Qué debe hacer cuando vaya a adelantar a un ciclista que lleva un pasajero?",
+        "respuestas": {
+            "1": "Aumentar la precaución ya que la bicicleta se puede desestabilizar con mayor facilidad.",
+            "2": "Aumentar la velocidad y circular lo más cerca posible del borde derecho de la calzada.",
+            "3": "Hacer señales acústicas al llegar a su altura para advertir de nuestra presencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

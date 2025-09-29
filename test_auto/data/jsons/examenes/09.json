@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En caso de lluvia, ¿es aconsejable aumentar la distancia de seguridad con el vehículo que circula delante?",
+        "respuestas": {
+            "1": "Sí, porque la distancia de frenado aumenta.",
+            "2": "No, porque la distancia de frenado disminuye.",
+            "3": "Solo en vías rápidas, pero no en vías urbanas ni en carreteras convencionales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿En qué tipo de vía se produce un mayor número de ciclistas fallecidos en accidente de tráfico?",
+        "respuestas": {
+            "1": "En vías interurbanas.",
+            "2": "En travesías.",
+            "3": "En vía urbana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El calor al volante, ¿representa un riesgo para la seguridad vial?",
+        "respuestas": {
+            "1": "Sí; favorece la aparición de la fatiga y el conductor tarda más en reaccionar.",
+            "2": "No; el calor no representa ningún riesgo para la seguridad vial.",
+            "3": "Sí; por eso es aconsejable circular siempre con las ventanillas bajadas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Advertir a otros usuarios de que se va a realizar una maniobra, ¿es obligatorio?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "No, sólo es obligatorio advertir a los demás conductores.",
+            "3": "No, pero es siempre muy recomendable."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Puede estacionar su motocicleta en la acera?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Solo si es una motocicleta de pequeña cilindrada.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En este cambio de rasante de reducida visibilidad, al vehículo blanco, ¿le está permitido adelantar al vehículo amarillo?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal vertical ni horizontal que lo prohíba.",
+            "2": "No, porque debe ocupar parte del carril de circulación contrario.",
+            "3": "Sí, siempre que señalice la maniobra con antelación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los medicamentos que se consumen para tratar un resfriado, ¿pueden alterar las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, porque pueden producir somnolencia.",
+            "2": "Sí, son beneficiosos porque eliminan la sensación de fatiga y la somnolencia.",
+            "3": "No, los medicamentos nunca alteran las capacidades para conducir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Los efectos de los fármacos pueden variar por...",
+        "respuestas": {
+            "1": "la edad, el hábito de consumo y el estado físico del conductor.",
+            "2": "la edad del conductor, únicamente.",
+            "3": "la edad y el estado físico del conductor, solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En la próxima intersección, ¿es obligatorio ceder el paso a los que entran por la izquierda?",
+        "respuestas": {
+            "1": "Sólo cuando no circulen vehículos en sentido contrario.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Una persona que obtiene el permiso de la clase B a los 18 años, ¿debe renovarlo posteriormente?",
+        "respuestas": {
+            "1": "No, porque este permiso no pierde nunca su validez.",
+            "2": "Sí, a los diez años de su expedición, como norma general.",
+            "3": "Sólo si obtiene cualquier otro permiso o licencia de conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Obliga a seguir circulando de frente.",
+            "2": "Obliga a ceder el paso a la circulación del sentido contrario.",
+            "3": "Calzada con doble sentido de circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Para mantener la seguridad, ¿qué elementos se deben revisar periódicamente y con mayor frecuencia que el resto de componentes del vehículo?",
+        "respuestas": {
+            "1": "Los neumáticos, el sistema de frenado y los amortiguadores.",
+            "2": "Las luces, la batería y las llantas.",
+            "3": "El filtro del aire, la dirección y los retrovisores."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Es conveniente que la indumentaria del conductor de una motocicleta sea...",
+        "respuestas": {
+            "1": "de piel o material similar, que proteja de lesiones en caso de accidente.",
+            "2": "poco vistosas y de colores apagados, para no distraer a los demás conductores.",
+            "3": "muy amplia y suelta, porque lo más importante es la estética y la comodidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El titular de esta vía ha fijado la velocidad para determinados vehículos en 100 km/h. ¿A qué velocidad máxima puede circular una autocaravana de 3.000 kg de MMA?",
+        "respuestas": {
+            "1": "A 80 km/h.",
+            "2": "A 90 km/h.",
+            "3": "A 100 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Esta señalización recomienda circular a 70 kilómetros por hora...",
+        "respuestas": {
+            "1": "en cualquier caso.",
+            "2": "sólo cuando está lloviendo.",
+            "3": "sólo cuando las condiciones meteorológicas y ambientales sean favorables."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Quién tiene preferencia de paso en esta intersección sin señalizar y por qué motivo?",
+        "respuestas": {
+            "1": "El tranvía, porque circula sobre raíles.",
+            "2": "El turismo, porque circula por la vía pavimentada.",
+            "3": "El tranvía, porque se aproxima por la derecha del turismo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Circulando en moto, si la carretera se encuentra mojada, ¿cómo se debe tomar una curva?",
+        "respuestas": {
+            "1": "Con un ángulo de giro más cerrado que si estuviera seca, disminuyendo la inclinación.",
+            "2": "Con un ángulo de giro más abierto que si estuviera seca e inclinándome más.",
+            "3": "Tratando de no inclinar demasiado la motocicleta y abriendo el ángulo de giro, si fuera posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si está circulando con las ventanillas cerradas, conectar el sistema de aire acondicionado, ¿afecta el consumo de carburante?",
+        "respuestas": {
+            "1": "Sí, disminuye el consumo de carburante.",
+            "2": "Sí, aumenta el consumo de carburante.",
+            "3": "No, el consumo de carburante no varía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Los accidentes de tráfico son una de las principales causas de...",
+        "respuestas": {
+            "1": "mortalidad, únicamente.",
+            "2": "mortalidad y lesiones.",
+            "3": "lesiones, solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Un ciclomotor ocupado por dos personas, ¿puede utilizar normalmente un carril VAO?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque van dos personas.",
+            "3": "Sí, si circula por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Al aproximarse a un paso a nivel o a un puente móvil debe...",
+        "respuestas": {
+            "1": "extremar la precaución y circular a una velocidad moderada.",
+            "2": "circular a la velocidad máxima para pasar lo antes posible.",
+            "3": "detenerse en todo caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En una autovía, ¿a qué velocidad máxima está permitido circular a un turismo con un remolque de 700 kg de MMA?",
+        "respuestas": {
+            "1": "A 80 km/h.",
+            "2": "A 100 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Cuál es el crédito máximo de puntos que puede acumular un conductor?",
+        "respuestas": {
+            "1": "8 puntos.",
+            "2": "15 puntos.",
+            "3": "12 puntos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "No debe entrar en una intersección, aunque el semáforo esté en verde, si...",
+        "respuestas": {
+            "1": "hay una señal de Stop o de ceda el paso.",
+            "2": "se aproximan vehículos por la derecha.",
+            "3": "un Agente le ordena detenerse."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Está permitida la circulación de vehículos si el silenciador está estropeado y, por tanto no cumple su función con eficacia?",
+        "respuestas": {
+            "1": "Sí, pero solo puede circular por vías interurbanas.",
+            "2": "No, excepto las motocicletas, que no necesitan silenciador.",
+            "3": "No, debido a la contaminación acústica que produce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En una autopista o autovía, remolcar un vehículo averiado con el suyo, hasta la próxima salida, ¿está permitido?",
+        "respuestas": {
+            "1": "Sí, siempre que no sea un obstáculo.",
+            "2": "No.",
+            "3": "Sí, siempre que lo haga con precaución y a una velocidad moderada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En los coches con motor de gasolina es recomendable, para reducir las emisiones contaminantes, iniciar la marcha...",
+        "respuestas": {
+            "1": "inmediatamente después de arrancar el motor.",
+            "2": "esperando unos segundos una vez arrancado el motor.",
+            "3": "tras arrancar el motor acelerando a fondo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Por la noche, la agudeza visual...",
+        "respuestas": {
+            "1": "no varía.",
+            "2": "aumenta.",
+            "3": "se reduce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Cual de las siguientes es una de las principales funciones del airbag en caso de accidente?",
+        "respuestas": {
+            "1": "Disminuir el movimiento de la cabeza y con ello el riesgo de lesiones.",
+            "2": "Evitar que la columna de dirección golpee al conductor.",
+            "3": "Evitar el efecto submarino."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Cuando el viento sopla con fuerza por el lado derecho, ¿qué debe tener en cuenta el conductor al adelantar a un camión de grandes dimensiones?",
+        "respuestas": {
+            "1": "Que el viento frenará su vehículo y no podrá finalizar la maniobra.",
+            "2": "Que su vehículo se verá impulsado hacia el camión al llegar a su altura.",
+            "3": "Que al llegar a la altura del camión debe girar la dirección hacia la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

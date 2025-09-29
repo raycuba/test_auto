@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una intersección donde no esté señalizada la prioridad, ¿debe ceder el paso a un tranvía?",
+        "respuestas": {
+            "1": "Sí, tanto si el tranvía se aproxima por la derecha como por la izquierda.",
+            "2": "Solo si el tranvía se aproxima por la derecha.",
+            "3": "No, no tienen prioridad de paso en las intersecciones no señalizadas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En un paso a nivel está permitido pasar cuando...",
+        "respuestas": {
+            "1": "la barrera está en movimiento.",
+            "2": "el semáforo que regula el paso está en rojo y la barrera levantada.",
+            "3": "la barrera está completamente levantada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los conductores que llegan a un puente móvil cerrado o con la barrera o semibarrera en movimiento, deben...",
+        "respuestas": {
+            "1": "dar la vuelta y buscar otro itinerario.",
+            "2": "detenerse uno detrás de otro en el carril adecuado.",
+            "3": "acelerar y pasar cuanto antes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Al aproximarse a un puente móvil, ¿qué están obligados a hacer los conductores?",
+        "respuestas": {
+            "1": "Detenerse siempre antes de cruzarlo.",
+            "2": "Extremar la prudencia y reducir la velocidad por debajo de la máxima permitida.",
+            "3": "Aumentar la velocidad para cruzar el paso lo antes posible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al llegar a este paso a nivel se encuentra las barreras en movimiento, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Si las barreras están subiendo, cruzar.",
+            "2": "Detener el vehículo.",
+            "3": "Cruzar antes de que las barreras bajen."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El cruce de un paso a nivel debe realizarse...",
+        "respuestas": {
+            "1": "muy rápidamente para no coincidir con el tren.",
+            "2": "muy despacio y con la luz de cruce encendida para que nos vea el conductor del tren.",
+            "3": "sin demora y tras comprobar que no hay riesgo de quedarse detenido en la vía del tren."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En un paso a nivel, ¿qué debe hacer si la barrera está en movimiento para levantarse?",
+        "respuestas": {
+            "1": "Pasar cuando lo hagan otros vehículos, aunque esté la barrera en movimiento.",
+            "2": "Pasar cuando el vehículo entre por debajo de la barrera, aunque esta siga en movimiento.",
+            "3": "Detenerse hasta que la barrera esté completamente subida y permita el paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Si en un paso a nivel las barreras están en movimiento...",
+        "respuestas": {
+            "1": "no se debe entrar.",
+            "2": "no se debe entrar, salvo que estén levantándose y haya espacio suficiente.",
+            "3": "se puede entrar antes de que las barreras corten el paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En una vía de doble sentido, se aproxima a este paso a nivel están las barreras bajadas o en movimiento, ¿dónde debe detenerse?",
+        "respuestas": {
+            "1": "En el carril derecho, detrás del vehículo rojo.",
+            "2": "En el carril izquierdo, al lado del vehículo rojo.",
+            "3": "En el carril izquierdo o en el derecho, es indiferente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Circula con su turismo por una vía que se cruza con un carril bici, ¿debe ceder el paso a los ciclistas?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sólo cuando se aproximen por la derecha.",
+            "3": "No, los ciclistas no tienen prioridad de paso frente a los vehículos de motor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En esta intersección sin señales de preferencia, circulan ciclistas, ¿cuándo debe cederles el paso?",
+        "respuestas": {
+            "1": "Cuando se aproximen por la derecha.",
+            "2": "Cuando se aproximen por la izquierda.",
+            "3": "Nunca, los vehículos a motor siempre tienen preferencia sobre las bicicletas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En una intersección, ¿cuándo tienen prioridad de paso los conductores de bicicletas respecto a los vehículos de motor?",
+        "respuestas": {
+            "1": "Siempre.",
+            "2": "Nunca.",
+            "3": "Cuando, circulando en grupo, el primer ciclista haya iniciado ya el cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Los ciclistas circulan en grupo, ¿quién pasará primero?",
+        "respuestas": {
+            "1": "Los ciclistas porque siempre tienen preferencia en los cruces.",
+            "2": "El turismo, ya que los ciclistas salen por la izquierda.",
+            "3": "Los ciclistas, porque circulan en grupo y el primero ya está cruzando."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor...",
+        "respuestas": {
+            "1": "cuando circulen por un paso para ciclistas.",
+            "2": "en las zonas peatonales debidamente señalizadas.",
+            "3": "en todas las intersecciones."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Para incorporarse a la vía principal, un turismo tiene que atravesar un carril bici debidamente señalizado; ¿deberá ceder el paso a los ciclistas que circulan por el mismo?",
+        "respuestas": {
+            "1": "Sí; los ciclistas tienen prioridad de paso.",
+            "2": "No; el turismo tiene prioridad de paso.",
+            "3": "Solo cuando los ciclistas circulen en grupo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En esta situación, ¿debe ceder el paso al grupo de ciclistas?",
+        "respuestas": {
+            "1": "Sí, pero solo a los que se encuentren dentro de la intersección.",
+            "2": "Sí, a todo el grupo.",
+            "3": "No, los vehículos de motor tienen prioridad sobre las bicicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Un conductor gira con su vehículo para entrar en otra vía, ¿debe ceder el paso a un peatón que está cruzándola?",
+        "respuestas": {
+            "1": "No, salvo que exista un paso para peatones.",
+            "2": "Sí, aunque no exista un paso para peatones.",
+            "3": "Solo si el peatón no se da cuenta de la presencia del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Al cruzar un arcén por el que circulan peatones en una zona en la que no existe zona peatonal, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Ceder el paso a los peatones, pues tienen preferencia.",
+            "2": "Avisar a los peatones de su presencia con señales acústicas.",
+            "3": "Continuar circulando, ya que tiene preferencia de paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Tendrán prioridad de paso sobre los vehículos los peatones que...",
+        "respuestas": {
+            "1": "circulen por la calzada.",
+            "2": "bajen de un autobús en una parada señalizada y están entre el autobús y la zona peatonal más próxima.",
+            "3": "circulen por una vía dentro de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿En cuál de las siguientes situaciones, los peatones tienen preferencia de paso sobre los conductores?",
+        "respuestas": {
+            "1": "Cuando el conductor circule por una zona peatonal.",
+            "2": "Cuando el conductor circule por las proximidades de centros escolares.",
+            "3": "Cuando el conductor circule cerca de recintos deportivos en día de especial afluencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Una fila escolar va a cruzar la calzada, ¿es obligatorio cederle el paso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si cruza por un paso para peatones.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Los conductores de vehículos deberán ceder el paso a los peatones que suban a un autobús en una parada señalizada...",
+        "respuestas": {
+            "1": "sólo cuando los peatones acceden al autobús por la puerta delantera.",
+            "2": "siempre que los peatones se encuentren entre el autobús y la zona peatonal más próxima.",
+            "3": "sólo si el autobús es de transporte escolar y de menores."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Como norma general, los vehículos tienen prioridad sobre los peatones, aunque los conductores deberán cederle el paso siempre que...",
+        "respuestas": {
+            "1": "los peatones se aproximen por su derecha.",
+            "2": "los peatones estén cruzando la vía cerca de un paso señalizado.",
+            "3": "giren con su vehículo en una intersección para entrar en otra vía y haya peatones cruzándola."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un conductor tiene que atravesar la acera para acceder a una gasolinera, ¿tiene preferencia de paso sobre los peatones que circulan por dicha acera?",
+        "respuestas": {
+            "1": "Sí, tiene preferencia de paso el conductor sobre los peatones.",
+            "2": "Sí, excepto si los peatones circulan formando un grupo.",
+            "3": "No, tienen preferencia de paso los peatones sobre el conductor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Un vehículo tiene que atravesar un arcén por el que están transitando animales que no disponen de cañada; ¿quién tiene preferencia de paso?",
+        "respuestas": {
+            "1": "Los animales, pero sólo si forman rebaño.",
+            "2": "El conductor del vehículo, al no tratarse de una cañada.",
+            "3": "Los animales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En esta situación, ¿tienen prioridad de paso los animales sobre el vehículo?",
+        "respuestas": {
+            "1": "Sí, porque la señalización les da prioridad.",
+            "2": "Sí, porque el vehículo está cambiando de dirección.",
+            "3": "No, los animales en la calzada nunca tienen prioridad de paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Los animales tienen preferencia de paso en el lugar indicado con...",
+        "respuestas": {
+            "1": "la señal C.",
+            "2": "la señal A.",
+            "3": "la señal B."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Los conductores deben ceder el paso a los animales...",
+        "respuestas": {
+            "1": "siempre que se crucen sus trayectorias.",
+            "2": "únicamente en las cañadas debidamente señalizadas.",
+            "3": "cuando vayan a girar con su vehículo para entrar en otra vía y haya animales cruzándola, aunque no exista paso para éstos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si encuentra esta señal, debe saber que va a circular por una vía...",
+        "respuestas": {
+            "1": "donde se pueden encontrar animales salvajes en libertad.",
+            "2": "destinada al paso de ganado donde los animales tienen preferencia.",
+            "3": "destinada al paso de ganado donde los vehículos tienen preferencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "El vehículo de la fotografía tiene encendida únicamente la señalización luminosa, ¿tiene prioridad de paso?",
+        "respuestas": {
+            "1": "Sí, porque está en una vía urbana.",
+            "2": "No, porque no lleva la señalización óptica y acústica simultáneamente.",
+            "3": "Sí, siempre que la omisión de la señal acústica no entrañe peligro alguno para los demás usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

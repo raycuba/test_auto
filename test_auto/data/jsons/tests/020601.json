@@ -1,0 +1,286 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una carretera convencional, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "No, está siempre prohibido.",
+            "2": "Sí, en cualquier lugar.",
+            "3": "Sí, en un lugar adecuado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Se detiene en un carril esperando para realizar un cambio de sentido, ¿está permitido?",
+        "respuestas": {
+            "1": "Sí, siempre que no obstaculice a los vehículos que circulen detrás.",
+            "2": "No, debe salir siempre a la derecha.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una carretera con doble sentido de circulación, no hay señales ni marcas viales que prohíban cambiar de sentido. ¿Cuándo está permitido cambiar de sentido?",
+        "respuestas": {
+            "1": "Cuando quiera, porque siempre está permitido.",
+            "2": "Cuando no se ponga en peligro a otros usuarios."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Cuando para realizar un cambio de sentido obstaculiza la marcha de los vehículos que circulan detrás, deberá...",
+        "respuestas": {
+            "1": "abstenerse de realizarlo y continuar su marcha.",
+            "2": "salir de la calzada por la derecha, y esperar hasta que las condiciones permitan hacer la maniobra.",
+            "3": "hacer señales con la luz de freno para advertir su maniobra."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si pretende cambiar el sentido de la marcha, debe cerciorarse de que...",
+        "respuestas": {
+            "1": "puede hacerlo sin poner en peligro ni obstaculizar a otros usuarios.",
+            "2": "se encuentra en una vía urbana, ya que es una maniobra prohibida fuera de poblado.",
+            "3": "no haya ningún otro usuario de la vía a menos de 100 metros de distancia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta carretera estrecha quiere realizar un cambio de sentido. ¿Dónde debe colocarse para no molestar a otros vehículos?",
+        "respuestas": {
+            "1": "En el centro de la calzada, sin ocupar el carril contrario.",
+            "2": "En el borde derecho y esperar hasta poder hacerlo sin peligro.",
+            "3": "Sobre la linea de división de sentidos, superándola un poco si fuera preciso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Debido a la estrechez de la calzada, el cambio de sentido no puede realizarse de un solo giro, ¿qué está obligado a hacer el conductor?",
+        "respuestas": {
+            "1": "Continuar la marcha hasta encontrar un lugar adecuado.",
+            "2": "Realizar el cambio de sentido con el menor número de maniobras posible.",
+            "3": "Esperar hasta que no haya tráfico para realizar el cambio de sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En este tramo de carretera, ¿está permitido hacer un cambio de sentido?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En un túnel, ¿le está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, cuando exista más de un carril para el sentido de la marcha.",
+            "2": "No, está prohibido.",
+            "3": "Sí, cuando exista espacio suficiente y no obstaculice el paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Está prohibido realizar un cambio de sentido...",
+        "respuestas": {
+            "1": "donde haya que atravesar una marca longitudinal.",
+            "2": "en los tramos de vía afectados por la señal “túnel\".",
+            "3": "en los tramos de vía en los que no esté prohibido adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En una intersección, ¿está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Sí, siempre que se pueda efectuar la maniobra en un solo giro.",
+            "3": "No, está prohibido siempre."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En un paso para peatones, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "No, ni siquiera en sus proximidades.",
+            "2": "No, pero sí en sus proximidades.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Como norma general, se prohíbe cambiar el sentido de la marcha...",
+        "respuestas": {
+            "1": "en las calzada con prioridad.",
+            "2": "en las plazas de circulación giratoria.",
+            "3": "en los tramos de vía en los que esté prohibido adelantar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En este tramo de vía de visibilidad reducida, ¿está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, cuando no hay circulación en sentido contrario.",
+            "2": "Sí, señalizando la maniobra convenientemente.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Está permitido efectuar un cambio de sentido en un cambio de rasante con visibilidad reducida?",
+        "respuestas": {
+            "1": "Sí, sólo está prohibido el adelantamiento.",
+            "2": "Sí, si no existe peligro para otros usuarios.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Salvo que esté expresamente autorizado, ¿dónde está prohibido efectuar un cambio de sentido?",
+        "respuestas": {
+            "1": "En todos los tramos de la vía en que esté prohibido el adelantamiento.",
+            "2": "En las carreteras convencionales con un solo carril para cada sentido circulación.",
+            "3": "En las glorietas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En un paso a nivel, ¿está permitido realizar un cambio de sentido de la marcha?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, si el paso a nivel no tiene barrera.",
+            "3": "Sí, si las barreras no están en movimiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En curvas y cambios de rasante de visibilidad reducida está prohibido...",
+        "respuestas": {
+            "1": "adelantar, únicamente.",
+            "2": "adelantar y cambiar de sentido.",
+            "3": "cambiar de sentido, solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Debe abstenerse de realizar un cambio de sentido cuando...",
+        "respuestas": {
+            "1": "no exista un lugar adecuado para efectuar la maniobra.",
+            "2": "no tenga prioridad.",
+            "3": "la vía sea de sentido único."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En autopistas y autovías, ¿está prohibido el cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "No.",
+            "3": "Sí, salvo en los lugares habilitados al efecto."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En una autopista, ¿se puede hacer un cambio de sentido utilizando el paso de la mediana?",
+        "respuestas": {
+            "1": "Sí, cuando no haya obstáculos que lo impidan.",
+            "2": "No, porque está prohibido.",
+            "3": "Sí, pero solamente para salir de la autopista."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Puede realizar un cambio de sentido en un lugar donde esté prohibido adelantar?",
+        "respuestas": {
+            "1": "Sí, cuando la circulación en sentido contrario lo permita.",
+            "2": "No, salvo que el cambio de sentido esté expresamente autorizado.",
+            "3": "Sí, excepto entre la puesta y la salida de sol, porque disminuye la visibilidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En este tramo de vía en el que está prohibido adelantar, ¿puede realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, ya que sólo se prohíbe el adelantamiento.",
+            "2": "Sí, siempre que exista espacio suficiente y pueda realizarlo sin peligro.",
+            "3": "No, salvo que lo permita la señalización."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Como norma general, está prohibido cambiar el sentido de la marcha cuando...",
+        "respuestas": {
+            "1": "se aproxime a un paso a nivel.",
+            "2": "está prohibido adelantar, salvo que el cambio de sentido esté autorizado.",
+            "3": "no se pueda marchar hacia adelante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El vehículo toma la calzada de la derecha para hacer un cambio de sentido. ¿Es correcto que lo haga por la calzada principal?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal que lo prohíba.",
+            "2": "No, porque debe rodear también la isleta del sentido contrario.",
+            "3": "No, porque debe situarse en el centro de la calzada principal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En la próxima intersección, ¿se puede hacer un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, porque es una glorieta.",
+            "2": "No, porque no hay señal de cambio de sentido.",
+            "3": "Sí, antes de entrar en la glorieta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

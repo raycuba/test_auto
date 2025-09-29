@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Durante un viaje comprueba que la presión de los neumáticos, estando calientes, es superior a la recomendada; ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Quitar aire de los neumáticos.",
+            "2": "Nada, porque el aire está caliente lo que aumenta la presión.",
+            "3": "Echar agua a los neumáticos para que se enfríen y evitar un reventón."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿A qué presión de inflado se deben llevar los neumáticos de un vehículo?",
+        "respuestas": {
+            "1": "A la recomendada en cada caso por el fabricante del vehículo.",
+            "2": "Un 10% por encima de la recomendada por el fabricante del vehículo.",
+            "3": "Un 15% por debajo de la recomendada por el fabricante del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Con carácter general, ¿con qué frecuencia es aconsejable revisar la presión de inflado de los neumáticos?",
+        "respuestas": {
+            "1": "Una vez al año, antes de pasar la inspección técnica periódica (ITV).",
+            "2": "Dos veces al año y siempre que se sustituya alguna rueda.",
+            "3": "Una o dos veces al mes."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una correcta presión de inflado...",
+        "respuestas": {
+            "1": "hace que el neumático se desgaste de forma irregular.",
+            "2": "reduce el riesgo de reventón del neumático.",
+            "3": "puede aumentar el consumo de carburante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Un número importante de los accidentes actuales se debe a problemas con...",
+        "respuestas": {
+            "1": "el sistema de encendido.",
+            "2": "los neumáticos.",
+            "3": "la inyección."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Un conductor que revisa periódicamente los neumáticos puede...",
+        "respuestas": {
+            "1": "pasar la ITV con total seguridad.",
+            "2": "evitar los fallos mecánicos del vehículo.",
+            "3": "detectar a tiempo un deterioro y prevenir un reventón."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Cada cuánto tiempo es aconsejable revisar la presión de los neumáticos de su vehículo?",
+        "respuestas": {
+            "1": "Una o dos veces al mes, siempre con los neumáticos en caliente.",
+            "2": "Una o dos veces al mes, siempre con los neumáticos en frío.",
+            "3": "Una o dos veces al año, siempre con los neumáticos en frío."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Qué elemento de seguridad activa requiere una mayor atención por parte del conductor, siendo aconsejable revisar su estado al menos una vez al mes?",
+        "respuestas": {
+            "1": "Los neumáticos.",
+            "2": "Los frenos.",
+            "3": "La amortiguación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Es conveniente revisar con frecuencia el estado de los neumáticos?",
+        "respuestas": {
+            "1": "Sí, para mejorar la seguridad y reducir el riesgo de accidente debido al factor vehículo.",
+            "2": "No, basta con revisar la presión una vez al año y sustituirlos cada 5 años.",
+            "3": "Sólo si tienen cámara, ya que los neumáticos sin cámara no precisan mantenimiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Para comprobar la presión de inflado, ¿cómo deben estar los neumáticos?",
+        "respuestas": {
+            "1": "Calientes.",
+            "2": "Fríos o calientes, es indistinto.",
+            "3": "Fríos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Si conduce una motocicleta y la calzada está mojada, ¿es necesario incrementar la presión de inflado de los neumáticos por encima de la recomendada por el fabricante?",
+        "respuestas": {
+            "1": "No, ya que una mayor presión de inflado no contribuye a aumentar la seguridad de circulación.",
+            "2": "Sí, porque aumenta la adherencia de los neumáticos y mejorará la seguridad de circulación.",
+            "3": "Sí, ya que aumenta la seguridad de circulación y así se evitan los derrapes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué puede acelerar el desgaste de los neumáticos?",
+        "respuestas": {
+            "1": "Circular a velocidad moderada.",
+            "2": "Circular con la presión de inflado recomendada por el fabricante.",
+            "3": "Circular con una presión de inflado muy inferior a la recomendada por el fabricante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si la presión de inflado en los neumáticos es inferior a la recomendada, ¿aumenta el consumo de combustible?",
+        "respuestas": {
+            "1": "Sí, porque existe mayor rozamiento con el pavimento.",
+            "2": "Sí, y además el desgaste es mayor en el centro de la banda de rodamiento.",
+            "3": "No, siempre que estén compensadas las presiones entre todos los neumáticos del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Cuando un neumático tiene mucho aire, ¿qué ocurre?",
+        "respuestas": {
+            "1": "Se agarra mejor a la calzada.",
+            "2": "Se agarra peor a la calzada.",
+            "3": "Se desgasta más por los lados."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Un neumático con una presión de inflado incorrecta...",
+        "respuestas": {
+            "1": "se desgasta de forma irregular y tiene mayor riesgo de reventón.",
+            "2": "se desgasta menos y tiene menor riesgo de reventón.",
+            "3": "normalmente consume menos carburante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si observa que cuando circula en línea recta el vehículo se desvía hacia un lado, puede ser debido a...",
+        "respuestas": {
+            "1": "A no mantener girado el volante al máximo durante las maniobras.",
+            "2": "Un bajo nivel del líquido de frenos.",
+            "3": "Una presión distinta en los neumáticos de un mismo eje."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si circula con la presión de inflado de los neumáticos descompensada, ¿aumenta el riesgo de perder el control del vehículo?",
+        "respuestas": {
+            "1": "Sí, ya que la frenada es irregular y se reduce la estabilidad del vehículo.",
+            "2": "No, sobre todo si está descompensada por eje mejora la adherencia, incluso, cuando la calzada está resbaladiza.",
+            "3": "No, porque aumenta el área de contacto del neumático con la calzada y facilita el rodaje."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Cuando las ruedas llevan poco aire...",
+        "respuestas": {
+            "1": "se desgastan más por el centro.",
+            "2": "se desgastan más por los lados.",
+            "3": "se desgastan igual por los lados que por el centro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Un vehículo circula con poca presión de aire en los neumáticos. ¿Cuánto carburante consumirá?",
+        "respuestas": {
+            "1": "Menos que si circulara con la presión recomendada.",
+            "2": "El mismo que si circulara con la presión recomendada.",
+            "3": "Más que si circulara con la presión recomendada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La carga excesiva del vehículo, ¿puede afectar al correcto funcionamiento de los neumáticos?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, cuando se exceda de los límites de carga permitidos.",
+            "3": "No, si el vehículo lleva amortiguadores nuevos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "De los siguientes factores, ¿cuál reduce la duración del neumático?",
+        "respuestas": {
+            "1": "Las altas temperaturas.",
+            "2": "Circular con frecuencia por vías urbanas.",
+            "3": "Cambiar de marcha de forma innecesaria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué puede provocar un desgaste de los neumáticos mayor a lo normal?",
+        "respuestas": {
+            "1": "El tipo de vía por el que se circula, unicamente.",
+            "2": "Circular a una velocidad adecuada.",
+            "3": "La carga, el estado de la vía y la temperatura ambiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿A qué puede deberse un desgaste irregular de los neumáticos de un vehículo?",
+        "respuestas": {
+            "1": "A llevar la presión de inflado recomendada por el fabricante.",
+            "2": "A circular con una masa por debajo de la máxima autorizada.",
+            "3": "Al mal estado de la suspensión o de la amortiguación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué circunstancias pueden hacer que los neumáticos se desgasten más de lo habitual?",
+        "respuestas": {
+            "1": "Llevar siempre los neumáticos con la presión adecuada.",
+            "2": "Un estilo de conducción suave y relajado.",
+            "3": "Circular a una velocidad elevada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Cuándo es recomendable cambiar los neumáticos?",
+        "respuestas": {
+            "1": "5 años después de la fecha de fabricación.",
+            "2": "Cada 5.000 kilómetros.",
+            "3": "Cuando la profundidad de su dibujo sea inferior a 2,6 milímetros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué debe hacer para que el vehículo tenga un mejor agarre sobre la calzada?",
+        "respuestas": {
+            "1": "Inflar los neumáticos por encima de la presión recomendada por el fabricante.",
+            "2": "Cuidar que la profundidad del dibujo del neumático nunca sea inferior a 1,6 mm.",
+            "3": "Utilizar neumáticos radiales en las ruedas delanteras y diagonales en las traseras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Es conveniente cambiar los neumáticos de su vehículo...",
+        "respuestas": {
+            "1": "cada 5 años si no tienen dibujo suficiente.",
+            "2": "al menos cada 5 años.",
+            "3": "al menos cada 10 años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Los neumáticos deberán cambiarse siempre que...",
+        "respuestas": {
+            "1": "la profundidad del dibujo sea inferior a 1,6 milímetros.",
+            "2": "la profundidad del dibujo sea inferior a 2 milímetros.",
+            "3": "la profundidad del dibujo sea inferior a 3 milímetros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Montar neumáticos con un código de velocidad distinto al que recomienda el fabricante, ¿está permitido?",
+        "respuestas": {
+            "1": "Sí, siempre que sea superior al recomendado.",
+            "2": "No, está prohibido.",
+            "3": "Sí, en cualquier caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Qué condiciones tienen que tener los neumáticos de una motocicleta?",
+        "respuestas": {
+            "1": "Las ranuras de la banda de rodadura tienen que tener una profundidad mínima de 1,6 milímetros.",
+            "2": "Las dos ruedas tienen que ser del mismo modelo y características.",
+            "3": "No deben presentar ampollas, deformaciones anormales ni roturas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

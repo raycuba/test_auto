@@ -1,0 +1,57 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta línea blanca vertical intermitente indica que...",
+        "respuestas": {
+            "1": "pueden circular autobuses y taxis.",
+            "2": "deben detenerse autobuses y taxis.",
+            "3": "deben detenerse todos los vehículos"
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Este semáforo indica a los conductores de tranvías y autobuses de líneas regulares que...",
+        "respuestas": {
+            "1": "está permitido el paso de frente.",
+            "2": "está prohibido el paso.",
+            "3": "deben cambiar de dirección a derecha o izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Un semáforo con línea blanca horizontal sobre fondo negro...",
+        "respuestas": {
+            "1": "permite el paso a autobuses y tranvías.",
+            "2": "prohíbe el paso a autobuses de líneas regulares y tranvías.",
+            "3": "permite girar a la derecha y a la izquierda a autobuses y tranvías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Las luces de los semáforos con la silueta de un ciclo, afectan...",
+        "respuestas": {
+            "1": "a ciclos solamente.",
+            "2": "a ciclomotores solamente.",
+            "3": "exclusivamente a ciclos y ciclomotores."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué usuarios deben obedecer el semáforo de la fotografía?",
+        "respuestas": {
+            "1": "Los conductores de todos los vehículos de dos ruedas.",
+            "2": "Los conductores de bicicletas y ciclomotores.",
+            "3": "Los peatones y los conductores de bicicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

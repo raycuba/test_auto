@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando llueve o hay viento, ¿por qué hay que tener más precaución con los ciclistas?",
+        "respuestas": {
+            "1": "Porque la bicicleta es más inestable y puede cambiar su trayectoria de repente.",
+            "2": "Porque con lluvia o viento tiene preferencia de paso sobre los demás vehículos.",
+            "3": "Porque por seguridad, con lluvia y viento tienen prohibido circular por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cuál de los siguientes problemas suele afectar a las personas mayores como peatones?",
+        "respuestas": {
+            "1": "Los bordillos de las aceras están demasido bajos, dificultando el cruce de las calles.",
+            "2": "Pueden no distinguir bien los colores de los semáforos en las vías más anchas.",
+            "3": "Tienen mayor capacidad de reacción ante cualquier imprevisto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Entre la dotación obligatoria que debe llevar un turismo, ¿es obligatorio un equipo homologado de extinción de incendios, adecuado a las condiciones de uso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo si el turismo tiene más de cinco plazas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Circulando por una autopista observa que se ha pasado una salida, ¿puede volver a ella circulando marcha atrás?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando el recorrido no supere los 15 metros.",
+            "3": "Sí, comprobando que no existe peligro para otros usuarios."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "La varilla del aceite del motor, ¿para qué sirve?",
+        "respuestas": {
+            "1": "Para comprobar el nivel del aceite.",
+            "2": "Para comprobar la presión del aceite.",
+            "3": "Para comprobar la temperatura del aceite."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Se debe circular a velocidad moderada y, si fuera preciso, detener el vehículo, al aproximarse a un...",
+        "respuestas": {
+            "1": "paso a nivel.",
+            "2": "vehículo inmovilizado en la calzada, fuera o dentro de poblado.",
+            "3": "semáforo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El calor al volante...",
+        "respuestas": {
+            "1": "representa un claro riesgo para la seguridad vial.",
+            "2": "no representa ningún riesgo para la seguridad vial.",
+            "3": "se puede combatir con las ventanillas bajadas, lo que además contribuye a ahorrar combustible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Debe abstenerse de realizar un cambio de sentido cuando...",
+        "respuestas": {
+            "1": "no exista un lugar adecuado para efectuar la maniobra.",
+            "2": "no tenga prioridad.",
+            "3": "la vía sea de sentido único."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Un conductor, ¿se puede distraer si come o bebe mientras conduce?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Comer sí puede provocar que el conductor se distraiga, pero beber no."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Cuando avise de un accidente, ¿qué información, entre otras, es útil que aporte a los servicios de emergencia?",
+        "respuestas": {
+            "1": "El lugar del accidente, el número de víctimas y su identificación como persona de contacto.",
+            "2": "Como ocurrió el accidente y los datos del seguro de los vehículos accidentados.",
+            "3": "El lugar del accidente y el número de matrícula de los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Con qué fines se permite la utilización de un dispositivo inalámbrico homologado instalado en el casco de un conductor de motocicleta, siempre que no afecte a la seguridad de la conducción?",
+        "respuestas": {
+            "1": "Con fines de ocio.",
+            "2": "Con fines de distracción.",
+            "3": "Con fines de navegación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "De noche por una autovía suficientemente iluminada, ¿con qué alumbrado debe circular?",
+        "respuestas": {
+            "1": "Con la luz de posición y la de largo alcance.",
+            "2": "Con la luz de posición y la de corto alcance.",
+            "3": "Únicamente con la luz de posición."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un cuadriciclo no ligero por esta vía?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "45 km/h.",
+            "3": "70 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Cuando sea necesario mover a un herido en accidente, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Administrarle lo más rápido posible un calmante.",
+            "2": "Mantener el eje cabeza-cuello-tronco completamente recto.",
+            "3": "Hacer que se mueva para comprobar si tiene alguna herida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Circulando con niebla es aconsejable...",
+        "respuestas": {
+            "1": "mantener el habitáculo bien ventilado para evitar que se empañen los cristales.",
+            "2": "poner la calefacción muy alta para conducir cómodamente.",
+            "3": "circular con las ventanillas abiertas para obtener mayor visibilidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El conductor de la imagen ha encendido la luz de corto alcance y la antiniebla, delantera y trasera, en un tramo de vía con niebla espesa. ¿Circula correctamente?",
+        "respuestas": {
+            "1": "No, la luz de cruce y la antiniebla delantera no deben encenderse al mismo tiempo.",
+            "2": "Sí.",
+            "3": "No, debe encender solo la luz de largo alcance y la antiniebla trasera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Una luz amarilla intermitente en un semáforo, ¿qué indica?",
+        "respuestas": {
+            "1": "Lo mismo que una luz roja.",
+            "2": "Lo mismo que una luz amarilla fija.",
+            "3": "Extremar la precaución y ceder el paso, en caso necesario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Para adelantar al grupo de ciclistas, el vehículo rebasa la línea continua y ocupa el carril destinado a la circulación en sentido contrario; ¿es correcto su comportamiento?",
+        "respuestas": {
+            "1": "Sí, y debe guardar una separación lateral de, al menos, 1,5 metros.",
+            "2": "Solo es correcto si no existe una señal vertical que prohíba adelantar.",
+            "3": "No, porque en este tramo de vía está prohibido el adelantamiento."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Al frenar bruscamente observa que la parte delantera de la carrocería baja excesivamente, más de lo habitual, ¿qué elementos pueden estar defectuosos?",
+        "respuestas": {
+            "1": "Los frenos.",
+            "2": "Los amortiguadores.",
+            "3": "Las ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Las motocicletas que se pueden conducir con el permiso de conducción de la clase A1, ¿están obligadas a llevar placa de matrícula?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo si llevan sidecar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Por debajo de las tasas permitidas de alcoholemia...",
+        "respuestas": {
+            "1": "también es posible tener un accidente debido a los efectos del alcohol.",
+            "2": "es muy poco probable tener un accidente debido a los efectos del alcohol.",
+            "3": "no es posible tener un accidente debido a los efectos del alcohol."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Le está permitido el acceso a un vehículo de motor que disponga del distintivo ambiental C a una zona de bajas emisiones delimitada por estas señales?",
+        "respuestas": {
+            "1": "Solo si el vehículo de motor es una motocicleta.",
+            "2": "Sí.",
+            "3": "No, como norma general."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Es aconsejable fumar mientras se está conduciendo?",
+        "respuestas": {
+            "1": "Solo si el conductor es fumador habitual, porque relaja.",
+            "2": "No, puede provocar distracciones en el conductor.",
+            "3": "Sí, fumar un cigarrillo aumenta la capacidad de concentración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una carretera convencional, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "No, está siempre prohibido.",
+            "2": "Sí, en cualquier lugar.",
+            "3": "Sí, en un lugar adecuado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Uno de los problemas que afectan a la capacidad para conducir de las personas mayores es la disminución...",
+        "respuestas": {
+            "1": "del tiempo de reacción.",
+            "2": "de la visión y del oído.",
+            "3": "de la visión únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si el sistema de navegación GPS es portátil, ¿qué debe hacer el conductor?",
+        "respuestas": {
+            "1": "Seguir siempre sus instrucciones, aunque estén en contradicción con la señalización.",
+            "2": "Colocarlo justo detrás del volante, a la altura de los ojos.",
+            "3": "Utilizar un soporte adecuado para que no se mueva ni se caiga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Un vehículo especial de reparación de las vías accede a una autopista para realizar obras en la vía. ¿Cuándo debe encender la señal luminosa V-2?",
+        "respuestas": {
+            "1": "Desde el momento en que circula por vías de uso público.",
+            "2": "No debe encenderla hasta llegar a la zona de obras.",
+            "3": "Sólo cuando circule entre la puesta y la salida del sol."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Quién está obligado a cuidar de que los pasajeros de un vehículo mantengan la posición adecuada para garantizar la seguridad?",
+        "respuestas": {
+            "1": "El conductor.",
+            "2": "Los pasajeros mayores de edad.",
+            "3": "El pasajero que ocupe el asiento delantero."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En un puente que disponga de un ancho de calzada inferior a 6 metros, ¿qué vehículos tienen prohibido cruzarse?",
+        "respuestas": {
+            "1": "Los vehículos articulados.",
+            "2": "Los vehículos prioritarios en servicio urgente.",
+            "3": "Los vehículos que necesitan una autorización especial para circular."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Un vehículo con una anchura superior a 2,10 metros, ¿cuándo está obligado a circular por un túnel con la luz de gálibo encendida?",
+        "respuestas": {
+            "1": "Solo cuando el túnel este insuficientemente iluminado.",
+            "2": "Solo cuando circule entre la puesta y la salida del sol.",
+            "3": "Siempre, incluso de día."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Como norma general, ¿está permitido que los conductores de bicicletas mayores de 18 años, circulen con sus vehículos por las aceras?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si circulan a una velocidad igual o inferior a 15 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué tasa de alcohol no podrá superar un conductor novel cuando circule conduciendo un turismo?",
+        "respuestas": {
+            "1": "0,10 miligramos de alcohol por litro de aire espirado.",
+            "2": "0,15 miligramos de alcohol por litro de aire espirado.",
+            "3": "0,0 miligramos de alcohol por litro de aire espirado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Cuándo se podrán abrir las puertas para salir del vehículo?",
+        "respuestas": {
+            "1": "Cuando se encuentre inmovilizado y tras comprobar que no hay peligro.",
+            "2": "Siempre que esté inmovilizado, aunque entorpezca el paso a otros usuarios.",
+            "3": "Cuando se encuentre inmovilizado o circule a menos de 10 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Circular a velocidad inferior a la mínima permitida sin causa justificada, ¿es peligroso?",
+        "respuestas": {
+            "1": "Sí, porque lo más seguro es circular a la velocidad máxima permitida.",
+            "2": "No, porque circular más despacio es siempre más seguro.",
+            "3": "Sí, y además está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué precauciones, entre otras, debe adoptar al cargar combustible en el vehículo?",
+        "respuestas": {
+            "1": "Apagar las luces, pero pueden estar encendidos otros sistemas eléctricos como la radio.",
+            "2": "Apagar el motor y encender la señal de emergencia.",
+            "3": "Apagar la radio del vehículo y los teléfonos móviles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si debido a una avería circula por una autopista a velocidad anormalmente reducida perturbando la circulación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerse en el arcén y solicitar ayuda.",
+            "2": "Circular por el arcén hasta la zona de servicios más próxima.",
+            "3": "Circular por el arcén y abandonarla por la primera salida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los remolques y semirremolques, ¿deben tener tarjeta de inspección técnica?",
+        "respuestas": {
+            "1": "Sí, todos.",
+            "2": "Sí, pero únicamente los no ligeros.",
+            "3": "No, es suficiente con la del vehículo que los arrastra."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El conductor de un vehículo que se vea obligado a realizar un servicio de urgencia...",
+        "respuestas": {
+            "1": "está obligado a respetar las normas y las señales de circulación.",
+            "2": "no está obligado a respetar los semáforos, pero si las señales.",
+            "3": "no está obligado a respetar las normas de circulación, pero si las señales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En vías interurbanas, ¿cuál es la infracción más habitual que cometen los peatones víctimas de atropello?",
+        "respuestas": {
+            "1": "No respetar los semáforos.",
+            "2": "Estar o marchar por la calzada de forma antirreglamentaria.",
+            "3": "No obedecer las señales de los Agentes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Si en el asiento de un vehículo se pone una toalla; en caso de accidente...",
+        "respuestas": {
+            "1": "aumenta la probabilidad de que se produzca el efecto submarino.",
+            "2": "elimina la posibilidad de que se produzca el efecto submarino.",
+            "3": "reduce la posibilidad de sufrir un latigazo cervical."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "En vías con varios carriles, hacer gestos para que crucen la calzada.",
+            "2": "Prestar atención al salir de un garaje, sobre todo si es en rampa.",
+            "3": "Tocar el claxon al pasar por su lado para advertirles de nuestra presencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El conductor de un camión, ¿está obligado a llevar un chaleco reflectante en su vehículo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sólo si circula habitualmente por vías interurbanas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "El paso de uno a dos carriles, con carril especial obligatorio para vehículos lentos.",
+            "2": "El paso de dos a tres carriles, con señalización de velocidad máxima aconsejada.",
+            "3": "El paso de dos a tres carriles, con señalización de velocidad máxima permitida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Siempre que exista espacio suficiente y adoptando las máximas precauciones, está permitido adelantar por la derecha...",
+        "respuestas": {
+            "1": "en vías interurbanas, en las intersecciones y sus proximidades.",
+            "2": "en autopistas y autovías que discurran exclusivamente dentro de poblado.",
+            "3": "en vías urbanas con dos o más carriles delimitados por líneas longitudinales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La falta de experiencia del pasajero, ¿puede ser la causa de un accidente en moto?",
+        "respuestas": {
+            "1": "Sí, sobre todo en las curvas.",
+            "2": "No.",
+            "3": "Sí, debido al aumento de peso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuál de las siguientes razones puede explicar que el vehículo sea el factor de riesgo que aparece en un grado menor como causa principal de los accidentes de tráfico?",
+        "respuestas": {
+            "1": "A las importantes mejoras técnicas introducidas en su diseño y construcción.",
+            "2": "A que la edad media de los vehículos es cada vez mayor.",
+            "3": "A que en los últimos 20 años, los kilómetros recorridos han disminuido año tras año."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Como norma general, la circulación de peatones está prohibida...",
+        "respuestas": {
+            "1": "en autovías, pero no en autopistas.",
+            "2": "en autopistas y en autovías.",
+            "3": "en autopistas, pero no en autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Para girar a la izquierda en una vía interurbana en la que no existe un carril especialmente acondicionado para cambiar de dirección, los conductores de ciclos deberán...",
+        "respuestas": {
+            "1": "ceñirse a la marca longitudinal de separación entre sentidos.",
+            "2": "abstenerse de realizar la maniobra.",
+            "3": "situarse a la derecha, fuera de la calzada si fuera posible e iniciar el giro desde ahí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "El conductor del vehículo de la fotografía está indicando que va a...",
+        "respuestas": {
+            "1": "frenar.",
+            "2": "desplazarse hacia la izquierda.",
+            "3": "desplazarse hacia la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Las ruedas tienen la presión correcta. Después de un viaje, comprueba que la presión ha aumentado. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Echar agua a las ruedas para que se enfríen.",
+            "2": "No quitar aire, porque el aire se ha calentado y por eso tiene más presión.",
+            "3": "Quitar aire de las ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "indica sentido obligatorio en una vía de uno o más carriles.",
+            "2": "permite cambiar de dirección pero no de sentido.",
+            "3": "prohíbe cambiar de dirección y de sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Debe señalizar la carga que transporta si sobresale por la parte trasera de su turismo?",
+        "respuestas": {
+            "1": "Sí, con un panel de franjas rojas y blancas.",
+            "2": "Solo si es indivisible y sobresale más de 40 centímetros.",
+            "3": "No, en un turismo no es obligatorio señalizarla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Se debe desactivar el airbag frontal cuando en el asiento correspondiente al copiloto...",
+        "respuestas": {
+            "1": "se instale un dispositivo de retención infantil orientado hacia delante.",
+            "2": "viaje una mujer embarazada.",
+            "3": "se instale un dispositivo de retención infantil orientado hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una carretera cuya velocidad genérica es de 90 km/h, ¿qué velocidad se considera anormalmente reducida para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 55 km/h.",
+            "2": "La inferior a 60 km/h.",
+            "3": "La inferior a 45 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Cómo se denomina a los costes por primeros auxilios, atención y tratamiento a los heridos, rehabilitación y adaptaciones a consecuencia de un accidente de tráfico?",
+        "respuestas": {
+            "1": "Costes sanitarios.",
+            "2": "Costes administrativos.",
+            "3": "Costes materiales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Esta señal indica peligro por la proximidad de...",
+        "respuestas": {
+            "1": "una incorporación por la derecha de una vía con tres carriles.",
+            "2": "un paso a nivel, puente móvil o muelle.",
+            "3": "un cruce sin prioridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En caso de accidente, ¿existe algún riesgo si el cinturón de seguridad va abrochado pero está demasiado flojo o con holgura?",
+        "respuestas": {
+            "1": "Sí; el cuerpo del conductor puede golpearse contra el volante o contra el parabrisas.",
+            "2": "No; aunque esté flojo, el cinturón impedirá el desplazamiento del cuerpo.",
+            "3": "No; sólo existe riesgo si la cinta está retorcida o si se suelta de su amarre."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "La velocidad máxima en una zona donde tienen preferencia los peatones.",
+            "2": "El límite de velocidad en zona de curvas.",
+            "3": "La velocidad recomendada en una travesía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "Salida inmediata hacia A-42 y A-5.",
+            "2": "Salida inmediata hacia A-4 sentido Córdoba.",
+            "3": "Salida inmediata hacia A-3 sentido Valencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si se pretende adelantar a este vehículo, ¿está permitido disminuir la distancia de seguridad?",
+        "respuestas": {
+            "1": "Sí, para hacer el adelantamiento más seguro.",
+            "2": "Sí, porque así tiene mejor visión del sentido contrario.",
+            "3": "No, se debe mantener siempre la distancia de seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

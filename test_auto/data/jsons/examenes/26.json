@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una calzada con un sentido de circulación, en el centro hay una isleta. ¿Por dónde se puede circular?",
+        "respuestas": {
+            "1": "Por la derecha o por la izquierda, indistintamente.",
+            "2": "Solamente por la parte derecha del refugio.",
+            "3": "Solamente por la parte izquierda del refugio."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿En qué situación el viento implica mayor peligro para la conducción de una motocicleta?",
+        "respuestas": {
+            "1": "Cuando sopla de frente.",
+            "2": "Cuando sopla de costado y a ráfagas.",
+            "3": "Cuando sopla por detrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En caso de sufrir un reventón circulando por una vía a velocidad elevada, ¿es aconsejable pisar el pedal de freno con brusquedad?",
+        "respuestas": {
+            "1": "No, el frenado debe ser suave y progresivo.",
+            "2": "Sí, para mantener con mayor facilidad la trayectoria recta del vehículo.",
+            "3": "Solo si el reventón se produce en una de las ruedas delanteras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Con una motocicleta de hasta 125 centímetros cúbicos, ¿a qué velocidad máxima puede circular por una autovía?",
+        "respuestas": {
+            "1": "A 90 kilómetros por hora.",
+            "2": "A 80 kilómetros por hora.",
+            "3": "A 120 kilómetros por hora."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En la medida de lo posible, todo usuario de la vía implicado en un accidente de circulación deberá...",
+        "respuestas": {
+            "1": "trasladar a los heridos en su vehículo antes de la llegada de la ayuda sanitaria.",
+            "2": "esforzarse por restablecer o mantener la seguridad de la circulación.",
+            "3": "ocultar los datos de su vehículo a otras personas implicadas en el accidente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "La flecha pintada sobre el carril derecho, ¿qué indica cuando se circula sobre él?",
+        "respuestas": {
+            "1": "Obliga a seguir la dirección de la flecha.",
+            "2": "Obliga a seguir la dirección de la flecha, aunque permite ir en otra dirección si no hay peligro.",
+            "3": "No obliga, solo informa de la dirección a seguir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "A un turismo, ¿le está permitido circular con láminas adhesivas o cortinillas contra el sol en las ventanillas traseras?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, en todo caso.",
+            "3": "Solo si el vehículo lleva dos espejos retrovisores exteriores."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En autovía, ¿a qué velocidad máxima puede circular un turismo?",
+        "respuestas": {
+            "1": "A 120 km/h y a 140 km/h para adelantar.",
+            "2": "A 120 km/h.",
+            "3": "A 100 km/h y a 120 km/h para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Se considera adelantamiento circular con su vehículo por un carril de aceleración a mayor velocidad que los que lo hacen por los carriles normales de circulación?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Sólo si después me incorporo a la vía.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿A qué velocidad máxima le está permitido circular por una autovía a un vehículo de tipo pick-up?",
+        "respuestas": {
+            "1": "A 100 km/h.",
+            "2": "A 120 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Está permitida la circulación de cabezas de ganado, aisladas o en rebaño, por una carretera convencional?",
+        "respuestas": {
+            "1": "Solo cuando no exista vía pecuaria practicable.",
+            "2": "Sí, aunque siempre deben circular en rebaño.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Está permitido llevar cortinillas contra el sol en la ventanilla posterior de un turismo?",
+        "respuestas": {
+            "1": "Sí, siempre que el espejo interior sea panorámico.",
+            "2": "Sólo si el turismo lleva un espejo retrovisor exterior en el lado izquierdo y otro en el derecho.",
+            "3": "No, está completamente prohibida la instalación de cortinillas contra el sol."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si vende su vehículo, ¿debe comunicarlo a la Jefatura de Tráfico?",
+        "respuestas": {
+            "1": "No, es el nuevo titular el que tiene que comunicar la compra.",
+            "2": "Solo si el nuevo titular no tiene su residencia en España.",
+            "3": "Sí, en un plazo de 10 días."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Qué debe hacer todo conductor para circular con seguridad?",
+        "respuestas": {
+            "1": "Observar constantemente lo que sucede en la vía.",
+            "2": "Mirar siempre hacia delante, utilizando solo los espejos cuando está detenido.",
+            "3": "Colocar un cojín en el asiento para retrasar la aparición de la fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En un estrechamiento, sin señal de prioridad, se encuentra un turismo con un vehículo de tracción animal. Ante la duda de quién llegó primero, ¿quién tiene preferencia?",
+        "respuestas": {
+            "1": "El vehículo de tracción animal.",
+            "2": "El turismo.",
+            "3": "El que tenga que dar marcha atrás más distancia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿A qué presión de inflado se deben llevar los neumáticos de un vehículo?",
+        "respuestas": {
+            "1": "A la recomendada en cada caso por el fabricante del vehículo.",
+            "2": "Un 10% por encima de la recomendada por el fabricante del vehículo.",
+            "3": "Un 15% por debajo de la recomendada por el fabricante del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Conduciendo un ciclomotor, ¿puede llevar desabrochado el casco?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si existen semáforos con indicaciones distintas a la derecha y a la izquierda, ¿a cuál obedecerán los que pretendan seguir de frente?",
+        "respuestas": {
+            "1": "Al situado inmediatamente a su izquierda.",
+            "2": "Al que se encuentre más cerca del vehículo.",
+            "3": "Al situado a su derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Un vehículo policial hace señales al conductor de un turismo que circula delante para que se detenga, ¿qué debe hacer el conductor del turismo?",
+        "respuestas": {
+            "1": "Detenerse detrás del vehículo policial y permanecer en el interior del turismo.",
+            "2": "Detenerse en el lado derecho de la calzada y descender del turismo.",
+            "3": "Detenerse delante del vehículo policial y permanecer en el interior del turismo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Las letras \"P\" y \"N\" pintadas en la calzada, una a cada lado de un aspa, ¿qué indican?",
+        "respuestas": {
+            "1": "La proximidad de un paso a nivel con o sin barreras.",
+            "2": "Peligro por la proximidad de un paso a nivel con barreras.",
+            "3": "Peligro por la proximidad de un paso a nivel sin barreras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Cuando sienta fatiga al volante, debe tener en cuenta que...",
+        "respuestas": {
+            "1": "el sueño puede aparecer de un momento a otro.",
+            "2": "se producen efectos similares a una tasa de alcoholemia de 0,5 gramos por litro de sangre.",
+            "3": "el deslumbramiento es constante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Para abandonar una autopista, debe incorporarse al carril de deceleración...",
+        "respuestas": {
+            "1": "al final del mismo.",
+            "2": "en cualquier lugar del mismo.",
+            "3": "lo antes posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Los bornes de la batería, ¿deben mantenerse limpios?",
+        "respuestas": {
+            "1": "Sí, solo en las baterías sin mantenimiento.",
+            "2": "Sí, solo en las baterías con mantenimiento.",
+            "3": "Sí, en todas las baterías."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "obliga a las bicicletas a circular por la vía que señaliza, y prohíbe hacerlo a los demás usuarios.",
+            "2": "obliga a las bicicletas a circular por la vía que señaliza, pero no prohíbe hacerlo a los demás usuarios.",
+            "3": "indica que se trata de una vía reservada para ciclos y peatones."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una autopista con tres carriles para el mismo sentido, normalmente, ¿cuál debe utilizar?",
+        "respuestas": {
+            "1": "Cualquiera de ellos.",
+            "2": "El central o el derecho, indistintamente.",
+            "3": "El derecho."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué motocicletas deben llevar instalados como mínimo dos espejos retrovisores, uno a cada lado, para poder circular?",
+        "respuestas": {
+            "1": "Las que tengan una cilindrada superior a 50 centímetros cúbicos.",
+            "2": "Las que alcancen una velocidad máxima igual o inferior a 100 km/h.",
+            "3": "Las que alcancen una velocidad máxima superior a 100 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En la autopista hay muchos vehículos. Los vehículos del carril derecho circulan más deprisa que los del carril izquierdo. ¿Está permitido?",
+        "respuestas": {
+            "1": "Sí, solamente a los vehículos prioritarios.",
+            "2": "No, porque está prohibido adelantar por la derecha.",
+            "3": "Sí, porque cuando están todos los carriles ocupados no es adelantamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Está permitido circular con un vehículo cuyas placas de matrícula presentan obstáculos que impiden o dificultan su lectura e identificación?",
+        "respuestas": {
+            "1": "No; el conductor debe verificar que las placas de matrícula se pueden leer correctamente.",
+            "2": "Sí, siempre que la placa de matrícula delantera se pueda leer correctamente.",
+            "3": "Sí, siempre que el vehículo solo circule por vías urbanas y travesías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Una línea longitudinal discontinua con los trazos muy juntos, ¿qué puede indicar?",
+        "respuestas": {
+            "1": "La proximidad de un tramo de vía que presenta un riesgo especial.",
+            "2": "Un carril especial.",
+            "3": "El inicio de la línea discontinua."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En una vía urbana, las operaciones de carga y descarga se realizarán...",
+        "respuestas": {
+            "1": "depositando la mercancía en la calzada o en zonas peatonales.",
+            "2": "respetando las disposiciones que dicten las autoridades municipales.",
+            "3": "por el lado del vehículo más alejado del borde de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

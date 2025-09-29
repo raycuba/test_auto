@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal prohíbe girar...",
+        "respuestas": {
+            "1": "a la izquierda, pero permite cambiar el sentido de la marcha.",
+            "2": "a la izquierda y cambiar el sentido de la marcha.",
+            "3": "hacia cualquier dirección."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué tasa de alcoholemia es la más segura para conducir?",
+        "respuestas": {
+            "1": "Inferior a 0,5 gramos por litro en sangre.",
+            "2": "0,15 miligramos por litro en aire espirado.",
+            "3": "0,0 miligramos por litro de alcohol en aire espirado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si conduciendo le sorprende una lluvia torrencial...",
+        "respuestas": {
+            "1": "debe estacionar en un lugar permitido y seguro, manteniendo encendidas las luces de posición.",
+            "2": "debe parar en todo caso, aunque sea en la calzada.",
+            "3": "debe acelerar para pasar la tormenta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si no existe paso señalizado, ¿cómo deben cruzar la calzada los peatones?",
+        "respuestas": {
+            "1": "Cruzando en diagonal para tener mayor visibilidad.",
+            "2": "Siguiendo las indicaciones de los conductores.",
+            "3": "Perpendicularmente al eje de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En un turismo, ¿es obligatorio llevar dos chalecos reflectantes, uno para el conductor del vehículo y otro para su acompañante?",
+        "respuestas": {
+            "1": "Solo es obligatorio en motocicletas, pero no en turismos.",
+            "2": "Sí, se debe llevar un chaleco por cada plaza del vehículo.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Mirar un cartel publicitario situado en el entorno de la vía, ¿puede distraer al conductor de un vehículo?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si se circula de noche y el cartel está iluminado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El conductor, ¿está obligado a cuidar que el resto de pasajeros mantengan una posición adecuada en el vehículo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si el vehículo es de transporte colectivo de personas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Qué grupos de peatones tienen más riesgo de sufrir un accidente?",
+        "respuestas": {
+            "1": "Los niños y los jóvenes.",
+            "2": "Los niños y los mayores.",
+            "3": "Los mayores fundamentalmente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "La señal que se observa en la fotografía obliga a mantener esa velocidad máxima en todo el poblado...",
+        "respuestas": {
+            "1": "pudiendo rebasarla en 20 km/h para adelantar.",
+            "2": "excepto donde se indique otra velocidad.",
+            "3": "independientemente de otras señales de velocidad que encuentre dentro de él."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Está permitido estacionar en una calle residencial?",
+        "respuestas": {
+            "1": "No, está siempre prohibido.",
+            "2": "Sí, donde no se estorbe a los peatones.",
+            "3": "No, excepto en los lugares señalizados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En general, son más sensibles a los efectos del alcohol...",
+        "respuestas": {
+            "1": "las personas menores de 18 años y los mayores de 65 años.",
+            "2": "las personas menores de 18 años y las mayores de 45 años.",
+            "3": "las personas de entre 18 y 30 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Las señales de obras...",
+        "respuestas": {
+            "1": "tienen el mismo significado que las usadas en tramos sin obras.",
+            "2": "establecen para los tramos de obras una reducción de la velocidad máxima en 10 km/h.",
+            "3": "tienen distinto símbolo y tamaño que las usadas en tramos sin obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Los accidentes de tráfico, ¿pueden ocasionar costes administrativos?",
+        "respuestas": {
+            "1": "Sí, como los costes de policía y bomberos.",
+            "2": "No, solo causan costes humanos y únicamente si hay víctimas mortales.",
+            "3": "No; solo causan costes materiales, como daños en los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El conductor está obligado a advertir mediante señales ópticas...",
+        "respuestas": {
+            "1": "solo las maniobras que no impliquen un desplazamiento lateral.",
+            "2": "el propósito de inmovilizar su vehículo o frenar su marcha de modo considerable.",
+            "3": "únicamente el propósito de frenar su vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Si circula de noche por una vía urbana insuficientemente iluminada, ¿qué alumbrado deberá llevar encendido?",
+        "respuestas": {
+            "1": "Las luces de posición y las de carretera.",
+            "2": "Las luces de posición solamente.",
+            "3": "Las luces de posición y las de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Respecto a la conducción eficiente y el uso de la caja de cambios, ¿cómo se conoce la técnica que consiste en pasar, por ejemplo de 2ª a 4ª marcha o, al reducir, de 5ª a 3ª?",
+        "respuestas": {
+            "1": "Saltarse marchas.",
+            "2": "Conducción autónoma.",
+            "3": "Conducción guiada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Cuál es el orden correcto de los factores a partir de los cuales se explican los accidentes de tráfico, clasificados de mayor a menor presencia en la accidentalidad?",
+        "respuestas": {
+            "1": "Factor vía y su entorno, factor humano, factor vehículo.",
+            "2": "Factor humano, factor vía y su entorno, factor vehículo.",
+            "3": "Factor vehículo, factor humano, factor vía y su entorno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Estacionamiento prohibido en vado.",
+            "2": "Estacionamiento prohibido.",
+            "3": "Zona de estacionamiento limitado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Beber mucha agua o fumar, ¿reduce la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si el agua es mineral o el tabaco es de liar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Los peatones que circulen por el arcén en vías fuera de poblado, ¿cuándo deberán utilizar un elemento luminoso o reflectante homologado?",
+        "respuestas": {
+            "1": "Cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad.",
+            "2": "Cuando el arcén tenga una anchura inferior a 1,5 metros, tanto de día como de noche.",
+            "3": "Siempre que circulen por el arcén, tanto de día como de noche."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En una pendiente descendente prolongada, ¿cómo es recomendable conducir?",
+        "respuestas": {
+            "1": "Circulando en punto muerto.",
+            "2": "Con marchas cortas para utilizar poco el freno.",
+            "3": "Controlando la velocidad con el freno y el embrague."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Esta señal indica peligro por la proximidad de...",
+        "respuestas": {
+            "1": "una curva peligrosa hacia la derecha.",
+            "2": "un tramo de vía con fuerte pendiente descendente.",
+            "3": "una zona de estrechamiento de calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué indican estas señales?",
+        "respuestas": {
+            "1": "Que está prohibido circular a más de 60 km/h hasta pasar la intersección.",
+            "2": "Que es obligatorio circular a 60 km/h.",
+            "3": "Que está prohibido circular a más de 60 km/h en toda la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "A la vista de la fotografía debe...",
+        "respuestas": {
+            "1": "respetar la señal de stop.",
+            "2": "respetar la señal del agente.",
+            "3": "pasar, porque el semáforo permite el paso con prioridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una autopista, ¿se puede hacer un cambio de sentido utilizando el paso de la mediana?",
+        "respuestas": {
+            "1": "Sí, cuando no haya obstáculos que lo impidan.",
+            "2": "No, porque está prohibido.",
+            "3": "Sí, pero solamente para salir de la autopista."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal?",
+        "respuestas": {
+            "1": "A los de más de 3.500 kg de MMA sólo cuando llevan carga.",
+            "2": "A los de menos de 3.500 kg de MMA.",
+            "3": "A los de más de 3.500 kg de MMA con carga o sin carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Esta señal, ¿prohíbe girar a la izquierda?",
+        "respuestas": {
+            "1": "Si, y también prohíbe cambiar el sentido de la marcha.",
+            "2": "No, solo prohíbe cambiar el sentido de la marcha.",
+            "3": "Si, pero no prohíbe cambiar el sentido de la marcha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En los accidentes de tráfico influyen de forma significativa...",
+        "respuestas": {
+            "1": "el conductor y la vía pero no el vehículo.",
+            "2": "el conductor, la vía y el vehículo.",
+            "3": "la vía y el vehículo fundamentalmente, y en menor medida el conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Los fármacos, ¿producen los mismos efectos secundarios en todas las personas?",
+        "respuestas": {
+            "1": "Sí, pero solo los fármacos cuyos efectos pueden afectar a la conducción.",
+            "2": "Sí, los efectos secundarios de los fármacos son iguales para todas las personas.",
+            "3": "No, diversos factores pueden influir o potenciar sus efectos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "El conductor de este vehículo está indicando que va a...",
+        "respuestas": {
+            "1": "desplazarse a la izquierda.",
+            "2": "desplazarse a la derecha.",
+            "3": "frenar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

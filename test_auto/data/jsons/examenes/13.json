@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué debe hacer si tiene que tomar algún medicamento del cual desconoce si sus efectos secundarios afectan a la capacidad de conducir?",
+        "respuestas": {
+            "1": "Leer el prospecto y, en caso de duda, consultar al médico o al farmacéutico.",
+            "2": "Esperar al menos quince minutos antes de conducir.",
+            "3": "Nada, si el medicamento no necesita receta médica."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cómo debe colocar el navegador GPS portátil en el vehículo?",
+        "respuestas": {
+            "1": "Justo detrás del volante, a la altura de los ojos del conductor.",
+            "2": "Debajo del volante, tan cerca del suelo como sea posible.",
+            "3": "Donde no entorpezca ni la visión ni el despliegue del airbag."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "A la hora de determinar la distancia de seguridad con el vehículo que circula delante, debe tener en cuenta...",
+        "respuestas": {
+            "1": "la velocidad de circulación, exclusivamente.",
+            "2": "la velocidad y las condiciones de adherencia y frenado.",
+            "3": "las características del vehículo que circula delante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El alcohol desaparece de la sangre...",
+        "respuestas": {
+            "1": "rápidamente, eliminándose por completo una hora después de su consumo.",
+            "2": "inmediatamente después de su consumo a través del sudor y de la orina.",
+            "3": "muy lentamente, eliminándose por completo varias horas después de su consumo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué está obligado a llevar en su vehículo si el resultado de la inspección técnica periódica es favorable?",
+        "respuestas": {
+            "1": "La tarjeta de inspección técnica del vehículo sellada únicamente.",
+            "2": "El distintivo acreditativo de la ITV y el informe de la inspección.",
+            "3": "El distintivo acreditativo en el lado izquierdo del parabrisas y la tarjeta ITV."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Conservar el vehículo en buen estado, ¿requiere revisiones frecuentes en algunos de los sistemas del vehículo?",
+        "respuestas": {
+            "1": "Solo si el vehículo sufre daños que afecte a la seguridad.",
+            "2": "No, no es necesario.",
+            "3": "Sí, además de seguir los planes de mantenimiento establecidos por el fabricante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué efecto produce la fatiga?",
+        "respuestas": {
+            "1": "Resulta más fácil mantener la concentración.",
+            "2": "La sensibilidad auditiva puede disminuir.",
+            "3": "Aumenta el campo visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Un semáforo con una o dos luces rojas intermitentes prohíbe temporalmente el paso de los vehículos por...",
+        "respuestas": {
+            "1": "obras.",
+            "2": "salida de vehículos de extinción de incendios.",
+            "3": "accidente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Quién tiene preferencia?",
+        "respuestas": {
+            "1": "El turismo.",
+            "2": "La bicicleta.",
+            "3": "El que llegue al cruce a mayor velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Al pasar por encima de un charco, ¿qué hay que hacer para secar los frenos y que no pierdan eficacia?",
+        "respuestas": {
+            "1": "Aumentar la velocidad para que se sequen más rápidamente.",
+            "2": "Pisar suavemente varias veces el pedal de freno.",
+            "3": "Circular en zig-zag con velocidades o marchas cortas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En caso de niebla densa, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Moderar la velocidad y si fuera preciso, detener el vehículo.",
+            "2": "Ninguna si no vienen vehículos en sentido contrario.",
+            "3": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En caso de niebla no espesa, cuando el vehículo no disponga de luz antiniebla delantera, es obligatorio llevar encendida...",
+        "respuestas": {
+            "1": "la luz de corto alcance y la antiniebla trasera.",
+            "2": "la luz de posición y, al menos, la de corto alcance.",
+            "3": "la luz de posición y la de emergencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "La velocidad, ¿es un factor de riesgo que produce accidentes?",
+        "respuestas": {
+            "1": "No, si el vehículo dispone de los últimos sistemas de seguridad.",
+            "2": "No, solo agrava las consecuencias del accidente pero no es un factor de riesgo.",
+            "3": "Sí, y por eso debe ser la adecuada en cada momento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Qué tipo de molestias o lesiones provoca frecuentemente el latigazo cervical?",
+        "respuestas": {
+            "1": "Rotura de las costillas, encharcamiento pulmonar y dolor cervical.",
+            "2": "Fracturas en las piernas, dolor abdominal y contractura muscular.",
+            "3": "Contractura muscular, disminución de la movilidad del cuello y vértigos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Fumar mientras se conduce...",
+        "respuestas": {
+            "1": "está prohibido.",
+            "2": "es recomendable, porque ayuda a mantener la atención.",
+            "3": "no es recomendable, porque puede afectar a la atención en la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Desde el anochecer hasta el amanecer, ¿qué luces son obligatorias?",
+        "respuestas": {
+            "1": "La luz de posición con las de corto o largo alcance, dependiendo de las circunstancias.",
+            "2": "La luz de posición solamente.",
+            "3": "La luz de posición y el alumbrado antiniebla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El vehículo toma la calzada de la derecha para hacer un cambio de sentido. ¿Es correcto que lo haga por la calzada principal?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal que lo prohíba.",
+            "2": "No, porque debe rodear también la isleta del sentido contrario.",
+            "3": "No, porque debe situarse en el centro de la calzada principal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Cuando un conductor no supere la tasa máxima permitida, el agente de tráfico, ¿puede realizarle una segunda prueba?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, si muestra signos evidentes de encontrarse bajo los efectos del alcohol.",
+            "3": "Solo si está implicado en un accidente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Como norma general, ¿qué vehículos tienen permitida la circulación por las aceras?",
+        "respuestas": {
+            "1": "Las bicicletas y los vehículos de movilidad personal.",
+            "2": "Ninguno.",
+            "3": "Las motocicletas y ciclomotores, siempre que sea para aparcar sobre la acera"
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Una de las infracciones de los conductores que implica más riesgo para los peatones es...",
+        "respuestas": {
+            "1": "incumplir las indicaciones de los semáforos en amarillo o en rojo.",
+            "2": "el exceso de velocidad en autopistas.",
+            "3": "no utilizar los cinturones de seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Para atender a un accidentado de tráfico se debe...",
+        "respuestas": {
+            "1": "evitar movimientos del cuello y la columna vertebral.",
+            "2": "administrar lo más rápido posible un calmante.",
+            "3": "hacer que se mueva para comprobar si tiene alguna herida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Una carga colocada en la baca de un turismo, ¿puede sobresalir por los laterales del vehículo?",
+        "respuestas": {
+            "1": "Sí, hasta 0,50 metros por cada lateral.",
+            "2": "Sí, hasta 0,25 metros por cada lateral.",
+            "3": "No, en los turismos no puede sobresalir la carga lateralmente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Como norma general, ¿está permitida la circulación de vehículos de movilidad personal por las aceras?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo si por construcción no alcanzan una velocidad superior a 25 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un turismo, ¿puede circular sin uno de los espejos retrovisores exteriores si coloca uno interior panorámico?",
+        "respuestas": {
+            "1": "Sí, cuando el que falta es el izquierdo.",
+            "2": "No, siempre deberá circular con los dos espejos retrovisores exteriores.",
+            "3": "Únicamente sin el espejo derecho, y sólo cuando su uso no sea obligatorio por las condiciones del vehículo o del conductor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Sobrevalorar su capacidad de conducción o tener una menor percepción del riesgo son conductas que, en general, hacen que los conductores jóvenes...",
+        "respuestas": {
+            "1": "tengan menos probabilidad de sufrir un accidente.",
+            "2": "tengan más probabilidad de sufrir un accidente.",
+            "3": "sean más prudentes al volante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En una carretera, ¿qué vehículos deben guardar una separación mínima de 50 metros?",
+        "respuestas": {
+            "1": "Los turismos.",
+            "2": "Todos los camiones.",
+            "3": "Los conjuntos de vehículos de más de 10 metros de longitud."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Las luces de los semáforos con la silueta de un ciclo, afectan...",
+        "respuestas": {
+            "1": "a ciclos solamente.",
+            "2": "a ciclomotores solamente.",
+            "3": "exclusivamente a ciclos y ciclomotores."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué significan estas señales?",
+        "respuestas": {
+            "1": "Que en caso de niebla, no puede superar la velocidad indicada.",
+            "2": "Que no puede superar la velocidad indicada si la calzada está inundada.",
+            "3": "Que cuando llueve no puede superar la velocidad indicada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Este panel colocado debajo de una señal vertical...",
+        "respuestas": {
+            "1": "es complementario de la señal vertical e indica niebla.",
+            "2": "advierte al conductor de condiciones adversas como nieve, niebla o lluvia.",
+            "3": "advierte de la presencia de una señalización."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Está permitido conducir un vehículo mientras utiliza, sujetándolo con la mano, un teléfono móvil?",
+        "respuestas": {
+            "1": "Sí, siempre que se utilice el altavoz del teléfono.",
+            "2": "No, es una infracción grave que supone la pérdida de 6 puntos.",
+            "3": "Sí, siempre que quede una mano libre para manejar los mandos del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

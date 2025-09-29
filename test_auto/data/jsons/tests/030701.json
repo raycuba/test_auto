@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Entrada a una autopista o a un ramal que conduce a ella.",
+            "2": "Entrada a una autovía o a un ramal que conduce a ella.",
+            "3": "Salida de autopista."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Esta señal indica el principio de...",
+        "respuestas": {
+            "1": "una autopista.",
+            "2": "una autovía.",
+            "3": "una vía reservada a la circulación de automóviles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "El principio de una autovía.",
+            "2": "El final de una autopista.",
+            "3": "El final de una autovía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Esta señal, ¿puede indicar el principio de un paso inferior?",
+        "respuestas": {
+            "1": "No, indica únicamente el principio de un túnel.",
+            "2": "Sí, y también el principio de un túnel o de un tramo equiparado a túnel.",
+            "3": "No, indica el final de un túnel o paso inferior."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "La velocidad máxima que se aconseja no sobrepasar, aunque las circunstancias meteorológicas sean favorables.",
+            "2": "La velocidad mínima a la que debemos circular.",
+            "3": "La velocidad máxima a la que podemos circular."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Con esta señalización, ¿a qué velocidad debe circular?",
+        "respuestas": {
+            "1": "Al menos a 30 km/h.",
+            "2": "Obligatoriamente a 30 km/h.",
+            "3": "A 30 km/h, como recomendación, durante el tramo que subsista el peligro."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Aconseja no circular a más de 80 km/h.",
+            "2": "Obliga a dejar una distancia de 80 metros con el vehículo que circula delante.",
+            "3": "Obliga a circular a 80 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Esta señal significa intervalo...",
+        "respuestas": {
+            "1": "aconsejado de velocidades, siempre que las condiciones sean favorables.",
+            "2": "aconsejado de velocidades, aunque las condiciones sean desfavorables.",
+            "3": "obligatorio de velocidades, siempre que las condiciones sean favorables."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "indica sentido obligatorio en una vía de uno o más carriles.",
+            "2": "permite cambiar de dirección pero no de sentido.",
+            "3": "prohíbe cambiar de dirección y de sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "que se permite la circulación en paralelo.",
+            "2": "la entrada a una autopista o autovía de dos carriles.",
+            "3": "una calzada de sentido único y dos carriles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La señal indica que...",
+        "respuestas": {
+            "1": "no puede desplazarse lateralmente ni a la derecha ni a la izquierda.",
+            "2": "debe circular en el sentido indicado por la flecha, ya que es una calzada de sentido único.",
+            "3": "está prohibido el cambio de dirección."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "una calzada de sentido único y tres carriles.",
+            "2": "una calzada con tres carriles en la que está prohibido el desplazamiento lateral.",
+            "3": "una calzada con tres carriles en la que está prohibido el cambio de dirección."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "la situación de un paso elevado para peatones.",
+            "2": "la situación de un paso para peatones.",
+            "3": "un camino reservado para peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Esta señal preseñaliza una...",
+        "respuestas": {
+            "1": "vía cerrada a la circulación.",
+            "2": "calzada sin salida.",
+            "3": "vía de sentido único."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "que a la izquierda hay una calzada sin salida.",
+            "2": "zona de frenado de emergencia.",
+            "3": "que está prohibido girar a la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Una zona para realizar acampadas.",
+            "2": "Una zona de frenado de emergencia.",
+            "3": "Una salida en autopista o autovía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "un carril reservado exclusivamente a la circulación de autobuses.",
+            "2": "un carril reservado a la circulación de autobuses y taxis.",
+            "3": "el lugar reservado para parada de autobuses."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Circula con su turismo por una carretera en la que aparece esta señal de restricción con un panel de color amarillo que nos indica que no se permite circular a...",
+        "respuestas": {
+            "1": "camiones de MMA menor de 3.500 kg ni conjuntos de vehículos.",
+            "2": "cualquier vehículo de más de 3.500 kg.",
+            "3": "camiones de MMA mayor de 3.500 kg ni vehículos articulados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En la señal de transitabilidad de un puerto de montaña, ¿qué indica el panel rojo?",
+        "respuestas": {
+            "1": "Que es obligatorio circular con cadenas o neumáticos de invierno.",
+            "2": "Que es aconsejable circular con cadenas o neumáticos de invierno.",
+            "3": "Que la carretera se encuentra cerrada para todos los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿A qué velocidad se podrá circular a partir de la señal?",
+        "respuestas": {
+            "1": "30 km/h.",
+            "2": "80 km/h.",
+            "3": "60 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En un puerto de montaña, ¿qué indica esta señal?",
+        "respuestas": {
+            "1": "Que la carretera se encuentra intransitable para cualquier tipo de vehículo.",
+            "2": "Que la carretera solo está transitable para vehículos de menos de 3.500 kilos de MMA.",
+            "3": "Que para poder circular es necesario el uso de cadenas y neumáticos de invierno."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Cambio de sentido a distinto nivel a 300 metros.",
+            "2": "Cambio de sentido al mismo nivel a 300 metros.",
+            "3": "Cambio de dirección al mismo nivel a 300 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Esta señal indica que...",
+        "respuestas": {
+            "1": "próximamente existe una entrada a una autopista.",
+            "2": "hay una salida a través de la cual podrá hacerse un cambio de sentido a distinto nivel.",
+            "3": "existe un túnel."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Dónde se puede encontrar esta señal?",
+        "respuestas": {
+            "1": "En autopistas, autovías y vías para automóviles.",
+            "2": "En carreteras convencionales.",
+            "3": "En cualquier tipo de vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Que a 200 metros hay una salida.",
+            "2": "Que a 200 metros hay una entrada.",
+            "3": "Que a 200 metros hay una salida o una entrada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En una zona de circulación así señalizada, ¿está permitido el estacionamiento de vehículos?",
+        "respuestas": {
+            "1": "Sí, en cualquier caso.",
+            "2": "Sí, pero solamente en los lugares designados por señales o por marcas.",
+            "3": "No, ya que se trata de una zona de circulación exclusivamente peatonal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "La velocidad máxima en una zona donde tienen preferencia los peatones.",
+            "2": "El límite de velocidad en zona de curvas.",
+            "3": "La velocidad recomendada en una travesía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Esta señal situada sobre un carril de un puesto de peaje indica que en él...",
+        "respuestas": {
+            "1": "es obligatorio el pago del peaje mediante el sistema de peaje dinámico o telepeaje.",
+            "2": "sólo se puede abonar el peaje mediante tarjeta.",
+            "3": "se puede pagar mediante el sistema de peaje dinámico o telepeaje."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "la existencia de una vía para peatones y ciclos segregada del tráfico motorizado.",
+            "2": "que el acceso está prohibido a ciclos.",
+            "3": "la intersección con una vía ciclista."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Esta señal indica la situación de un lugar donde se puede...",
+        "respuestas": {
+            "1": "estacionar el vehículo cuando está averiado.",
+            "2": "realizar una parada para descansar.",
+            "3": "apartar el vehículo en un túnel para dejar libre el paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

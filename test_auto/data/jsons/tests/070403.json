@@ -1,0 +1,167 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando exista nieve acumulada en la calzada, ¿cómo se debe de conducir?",
+        "respuestas": {
+            "1": "Con las luces de emergencia encendidas.",
+            "2": "Por el arcén.",
+            "3": "Frenando y acelerando con suavidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En condiciones meteorológicas especialmente desfavorables, como en caso de fuerte granizada, ¿qué precauciones, entre otras, debe tomar?",
+        "respuestas": {
+            "1": "Disminuir la velocidad, evitando pisar el freno, y aumentar la distancia de seguridad.",
+            "2": "Acercarse al vehículo de delante y encender el dispositivo de preseñalización de peligro.",
+            "3": "Circular con cambios frecuentes de dirección para evitar que se produzca “aquaplaning”."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Detiene su vehículo en una calzada con nieve. ¿Cuál es la mejor manera de volver a iniciar la marcha?",
+        "respuestas": {
+            "1": "Poniendo la 1ª velocidad y acelerando a fondo.",
+            "2": "Poniendo la 2ª velocidad y acelerando suavemente.",
+            "3": "Poniendo la 4ª velocidad y acelerando a fondo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Hay nieve en la calzada. ¿Cómo debe circular?",
+        "respuestas": {
+            "1": "Lentamente, pero con la velocidad más larga posible.",
+            "2": "En la primera relación de marchas y acelerando a fondo.",
+            "3": "Rápidamente para que no patine el vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si tiene que viajar y se prevén nevadas intensas, ante la posibilidad de quedarse bloqueado en la carretera, ¿qué es recomendable llevar en su vehículo?",
+        "respuestas": {
+            "1": "El depósito lleno, ropa de abrigo, agua, una linterna y comida.",
+            "2": "Nada en especial, es suficiente con llevar un teléfono móvil.",
+            "3": "El depósito casi vacío, para evitar daños al motor si se congela el carburante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Cuando exista nieve en la calzada, ¿cómo se debe iniciar la marcha para evitar que las ruedas patinen y se hundan?",
+        "respuestas": {
+            "1": "Con la marcha más alta que sea posible, que normalmente será la segunda.",
+            "2": "Pisando a fondo el acelerador para aumentar la fuerza motriz de las ruedas.",
+            "3": "Con la primera marcha engranada y soltando rápidamente el pedal de embrague."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando exista hielo en la vía, ¿cómo deberá circular?",
+        "respuestas": {
+            "1": "Pisando el pedal del freno de forma intermitente.",
+            "2": "Con un pie pisando el pedal de embrague.",
+            "3": "A velocidad muy moderada para no tener que frenar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Hay hielo en la calzada. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Acelerar para salir rápidamente.",
+            "2": "Circular con la primera marcha, que es la más corta.",
+            "3": "Conducir con cuidado, frenar y acelerar con cuidado sólo cuando sea necesario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Cuando la calzada está helada...",
+        "respuestas": {
+            "1": "la distancia de frenado se mantiene igual que en condiciones normales.",
+            "2": "la distancia de frenado disminuye.",
+            "3": "la distancia de frenado aumenta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Para conducir con hielo en la calzada de una forma preventiva debe...",
+        "respuestas": {
+            "1": "disminuir la velocidad y utilizar marchas largas.",
+            "2": "disminuir la velocidad y utilizar marchas cortas.",
+            "3": "tener especial cuidado durante el día."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Es obligatorio llevar un juego de cadenas para la nieve en el vehículo?",
+        "respuestas": {
+            "1": "Sólo en invierno.",
+            "2": "Sí.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Si ha instalado en su vehículo neumáticos de invierno, ¿es conveniente sustituirlos cuando las temperaturas comiencen a ser más cálidas?",
+        "respuestas": {
+            "1": "Sí, porque cuando la temperatura es más cálida se desgastan con más rapidez.",
+            "2": "No, porque se adaptan progresivamente a los cambios de temperatura.",
+            "3": "Sí, porque en tiempo cálido disminuye considerablemente la distancia de frenado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Queda atascado con su turismo en una zona de barro donde patinan las ruedas motrices. ¿Cuál es la forma más adecuada de actuar para seguir circulando?",
+        "respuestas": {
+            "1": "Pisar a fondo el pedal acelerador para conseguir mayor tracción en las ruedas y así lograr mayor adherencia.",
+            "2": "Preparar un terreno estable colocando el material adecuado cerca de las ruedas motrices para que estas tengan la adherencia suficiente.",
+            "3": "Empujar el vehículo por uno de los laterales hacia una mejor superficie con adherencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En una zona de calzada helada...",
+        "respuestas": {
+            "1": "no se puede circular.",
+            "2": "no se pueden utilizar neumáticos de clavos.",
+            "3": "se puede mejorar la adherencia, con cadenas o neumáticos de clavos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Hay nieve y sólo tiene cadenas para dos ruedas. ¿Dónde debe ponerlas?",
+        "respuestas": {
+            "1": "En las ruedas traseras siempre.",
+            "2": "En las ruedas delanteras siempre.",
+            "3": "En las ruedas motrices siempre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

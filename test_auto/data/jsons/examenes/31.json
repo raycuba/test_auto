@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Los sistemas de seguridad pasiva...",
+        "respuestas": {
+            "1": "evitan que se produzcan accidentes.",
+            "2": "son muy caros y de difícil mantenimiento.",
+            "3": "deben utilizarse correctamente porque un mal uso puede suponer un riesgo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si debido a la lluvia el pavimento está deslizante, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Moderar la velocidad y, si fuera preciso, detener el vehículo.",
+            "2": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "3": "Ninguna, ya que las circunstancias de la vía son idénticas para todos los usuarios."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Todo conductor de un vehículo que circule detrás de otro está obligado a dejar entre ambos, como mínimo...",
+        "respuestas": {
+            "1": "un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él.",
+            "2": "una distancia de 50 metros.",
+            "3": "una distancia que permita a los vehículos que le sigan adelantarlo con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Está prohibida la parada en las intersecciones y en sus proximidades de las vías interurbanas?",
+        "respuestas": {
+            "1": "Sólo está permitida cuando no se dificulte el giro a otros vehículos.",
+            "2": "Sí, está permitida en todo caso.",
+            "3": "No está permitida cuando se genere peligro por falta de visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Respecto al uso del teléfono móvil si recibe una llamada mientras conduce, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Usar el dispositivo de manos libres e indicar al interlocutor que se está conduciendo.",
+            "2": "Reducir la velocidad y responder a la llamada aunque no disponga de manos libres.",
+            "3": "Apoyar el móvil en el hombro para no abandonar el volante."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué es el tiempo de reacción?",
+        "respuestas": {
+            "1": "El tiempo que pasa desde que se empieza una maniobra hasta que se termina.",
+            "2": "El tiempo que pasa desde que se ve un peligro hasta que se toma una decisión.",
+            "3": "El tiempo que pasa desde que se arranca el vehículo hasta que se empieza a circular."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En esta intersección con señal de STOP y buena visibilidad, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerse siempre una vez superada la línea transversal.",
+            "2": "Seguir circulando sin detenerse, porque no viene ningún vehículo de frente.",
+            "3": "Detenerse siempre ante la línea transversal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "La mayor parte de las distracciones del conductor se relacionan con...",
+        "respuestas": {
+            "1": "su estado psicofísico y su comportamiento.",
+            "2": "factores externos, como la vía y su entorno.",
+            "3": "la disposición de los mandos en el vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Al llegar a este paso a nivel se encuentra las barreras en movimiento, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Si las barreras están subiendo, cruzar.",
+            "2": "Detener el vehículo.",
+            "3": "Cruzar antes de que las barreras bajen."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Una motocicleta, ¿puede circular sin tubo de escape?",
+        "respuestas": {
+            "1": "No, porque se rompe el motor.",
+            "2": "Sí, cuando la motocicleta es deportiva.",
+            "3": "No, porque está prohibido, excepto si es eléctrica."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En los tramos de vía en los que, por su estrechez, no se puedan cruzar dos vehículos, tiene preferencia de paso el vehículo que...",
+        "respuestas": {
+            "1": "tenga menores dificultades de maniobra.",
+            "2": "circule por una vía descendente.",
+            "3": "entre primero en el paso estrecho."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El conductor de un turismo, ¿debe llevar abrochado el cinturón de seguridad cuando realiza un recorrido corto?",
+        "respuestas": {
+            "1": "No, cuando circule por una vía urbana.",
+            "2": "Solo si conduce un taxi, tanto en vías urbanas como interurbanas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si es necesario avisar a un ciclista con señales acústicas, ¿cómo deben realizarse?",
+        "respuestas": {
+            "1": "Lo más cerca posible del ciclista, para asegurarnos que las escucha.",
+            "2": "A cierta distancia del ciclista, para evitar que se asuste.",
+            "3": "De ninguna manera, está prohibido avisar con señales acústicas al ciclista."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Está permitido parar o estacionar en carriles bici o en vías ciclistas?",
+        "respuestas": {
+            "1": "Sí, está permitido tanto la parada como el estacionamiento.",
+            "2": "Está permitido la parada pero no el estacionamiento.",
+            "3": "No, está prohibido tanto la parada como el estacionamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Cuando sea obligatorio el uso del alumbrado se deben llevar encendidas las luces de posición y las de gálibo los vehículos...",
+        "respuestas": {
+            "1": "con una anchura superior a 1,80 metros y una altura superior a 4 metros.",
+            "2": "con una anchura superior a 2,10 metros.",
+            "3": "con una altura superior a 4 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cómo funciona el sistema avanzado de ayuda a la conducción DDR-ADR o de advertencia de distracciones del conductor?",
+        "respuestas": {
+            "1": "Frena automáticamente el vehículo cuando existe un alto riesgo de colisión.",
+            "2": "Evalúa mediante sensores si el conductor está en condiciones para conducir el vehículo.",
+            "3": "Monitoriza la cara del conductor y lanza un aviso cuando nota que se distrae."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Hay nieve y sólo tiene cadenas para dos ruedas. ¿Dónde debe ponerlas?",
+        "respuestas": {
+            "1": "En las ruedas traseras siempre.",
+            "2": "En las ruedas delanteras siempre.",
+            "3": "En las ruedas motrices siempre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿En qué momento del día se producen los accidentes en los que el sueño o la somnolencia aparecen como factor de riesgo?",
+        "respuestas": {
+            "1": "Siempre durante la noche, entre medianoche y las tres de la madrugada.",
+            "2": "La mayoría durante la noche, pero también se producen durante el día.",
+            "3": "Siempre durante la noche, antes de que amanezca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Está obligado a comunicar a la Jefatura Provincial de Tráfico el cambio en sus aptitudes físicas que suponga realizar adaptaciones en su vehículo?",
+        "respuestas": {
+            "1": "No es necesario mientras el permiso de conducción esté en vigor.",
+            "2": "Sí.",
+            "3": "No, es suficiente con llevar un certificado médico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "A partir de la señal, el conductor de un camión de menos de 3.500 kg de MMA, ¿puede adelantar a otros vehículos?",
+        "respuestas": {
+            "1": "No; la señal le prohíbe adelantar a todo tipo de vehículos a motor.",
+            "2": "Sí, la señal afecta a camiones cuya MMA supere los 3.500 kg.",
+            "3": "Solo puede adelantar a vehículos de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En esta vía para automóviles, ¿qué velocidad se considera anormalmente reducida, sin causa justificada, para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 45 km/h.",
+            "2": "La inferior a 50 km/h.",
+            "3": "La inferior a 60 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "La señal prohíbe...",
+        "respuestas": {
+            "1": "cambiar el sentido de la marcha.",
+            "2": "girar a la derecha.",
+            "3": "girar a la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Las flechas pintadas en la calzada...",
+        "respuestas": {
+            "1": "indican la dirección del ramal de la próxima salida.",
+            "2": "anuncian la proximidad de una línea continua.",
+            "3": "señalizan que el carril en el que están situadas termina próximamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Los conos de la fotografía...",
+        "respuestas": {
+            "1": "sirven sólo para señalizar un nuevo carril.",
+            "2": "tienen prioridad sobre el resto de señales.",
+            "3": "tienen prioridad sobre el resto de señales, salvo las de los agentes de la autoridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "lugar de acampada para ciclistas.",
+            "2": "peligro zona frecuentada por ciclomotores.",
+            "3": "peligro se aproxima a zona frecuentada por ciclistas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Esta señal indica que...",
+        "respuestas": {
+            "1": "a su altura puede realizar un cambio de sentido de la marcha a la derecha.",
+            "2": "las únicas direcciones aconsejadas son seguir de frente o girar a la derecha.",
+            "3": "debe seguir una de las direcciones y sentidos que señalan las flechas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Qué se debe hacer a la vista de esta señal?",
+        "respuestas": {
+            "1": "Seguir obligatoriamente el sentido y dirección que indica.",
+            "2": "Seguir el sentido y dirección que indica o continuar de frente.",
+            "3": "Únicamente continuar de frente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "La carga de un turismo, ¿puede sobresalir por los bordes laterales?",
+        "respuestas": {
+            "1": "Solo si la carga es indivisible y no más de un 10% del ancho del vehículo.",
+            "2": "Sí, hasta 0,40 metros por cada lateral.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En esta vía si su vehículo puede superar los 70 km/h, ¿por qué carril debe circular?",
+        "respuestas": {
+            "1": "Por el carril derecho, si las circunstancias lo permiten.",
+            "2": "Por el carril en el que haya menos vehículos.",
+            "3": "Por el carril central, el derecho está reservado para los vehículos que no puedan superar dicha velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En vías interurbanas, ¿en qué circunstancias pueden los ciclistas circular sin casco de protección?",
+        "respuestas": {
+            "1": "En ningún caso; están obligados a llevarlo puesto en todo momento.",
+            "2": "Cuando circulen por un carril-bici de uso exclusivo para ciclistas.",
+            "3": "Cuando circulen por rampas ascendentes prolongadas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Un vehículo especial que carece de señalización de frenado, no debe rebasar la velocidad máxima de...",
+        "respuestas": {
+            "1": "70 km/h.",
+            "2": "40 km/h.",
+            "3": "25 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Tomar alimentos o beber agua, ¿son medidas eficaces para reducir la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "Sí, al igual que masticar granos de café.",
+            "2": "No, son medidas que solo retrasan la absorción del alcohol.",
+            "3": "Sí, si se alterna el consumo de alcohol con el de alimentos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si circula con la presión de inflado de los neumáticos descompensada, ¿aumenta el riesgo de perder el control del vehículo?",
+        "respuestas": {
+            "1": "Sí, ya que la frenada es irregular y se reduce la estabilidad del vehículo.",
+            "2": "No, sobre todo si está descompensada por eje mejora la adherencia, incluso, cuando la calzada está resbaladiza.",
+            "3": "No, porque aumenta el área de contacto del neumático con la calzada y facilita el rodaje."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Cuál de las siguientes afirmaciones acerca del cinturón de seguridad es correcta?",
+        "respuestas": {
+            "1": "En los asientos traseros no hace falta llevar cinturón.",
+            "2": "Si el vehículo dispone de airbag no es aconsejable utilizarlo.",
+            "3": "En caso de enfermedad grave debidamente justificada, puede no utilizarse."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si circula por un túnel con un conjunto de vehículos de menos de 3.500 kg de MMA, ¿qué separación debe de dejar con el vehículo de delante si no pretende adelantar?",
+        "respuestas": {
+            "1": "Al menos 150 metros.",
+            "2": "Al menos 100 metros.",
+            "3": "Al menos 50 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En general, los efectos del alcohol afectan en mayor medida a...",
+        "respuestas": {
+            "1": "los conductores con poca experiencia.",
+            "2": "los conductores con mucha experiencia.",
+            "3": "los conductores profesionales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿En qué situación suelen tener menos accidentes las personas mayores como peatones?",
+        "respuestas": {
+            "1": "Cuando van solas.",
+            "2": "Cuando van distraídas hablando con otra persona mayor.",
+            "3": "Cuando van acompañando a niños y son responsables de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Está permitido adelantar a un vehículo que ha señalizado a su vez la intención de adelantar?",
+        "respuestas": {
+            "1": "No, si lo ha señalizado, tiene preferencia.",
+            "2": "Sí, si después de un tiempo prudencial no lo hace y le advierte con las señales acústicas u ópticas.",
+            "3": "No, tiene que esperar a que termine la maniobra o apague el intermitente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En esta vía de dos carriles en el mismo sentido, al vehículo de la imagen, como norma general, ¿le está permitido mantenerse en el carril de la izquierda una vez finalizado el adelantamiento?",
+        "respuestas": {
+            "1": "Sí, porque la vía no está saturada.",
+            "2": "Solo si no entorpece la marcha de otros vehículos.",
+            "3": "No, debe circular por el carril de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una travesía sin señales de velocidad, ¿cuál es la velocidad máxima permitida?",
+        "respuestas": {
+            "1": "50 km/h.",
+            "2": "60 km/h.",
+            "3": "40 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Circula con su turismo por el arcén de una autovía para facilitar el adelantamiento al camión. ¿Es correcto su comportamiento?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si el arcén tiene una anchura superior a 1,5 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Esta vía, fuera de poblado, tiene un carril reservado para vehículos de mantenimiento de la vía. Este carril, ¿se considera uno más en relación con el cómputo de carriles?",
+        "respuestas": {
+            "1": "Sí, ya que está sujeto a las mismas normas de circulación.",
+            "2": "No, al estar reservado para determinados vehículos.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Ciertos medicamentos, como algunos analgésicos o determinados antihistamínicos, ¿pueden favorecer las distracciones al volante?",
+        "respuestas": {
+            "1": "Sí, pueden provocar una disminución de la capacidad de concentración.",
+            "2": "Solo si se consumen en ayunas o con bebidas alcohólicas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Los agentes de tráfico inmovilizan un vehículo porque el resultado de las pruebas de alcoholemia realizadas a su conductor es positivo. ¿Cuándo se dejará sin efecto dicha inmovilización?",
+        "respuestas": {
+            "1": "Cuando el agente de tráfico entregue al conductor el boletín de denuncia.",
+            "2": "Cuando desaparezca la causa que motivó la inmovilización.",
+            "3": "Cuando el conductor pague la multa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué prohíbe esta señal?",
+        "respuestas": {
+            "1": "Estacionar a ambos lados de la señal en el lado de la calzada donde esté situada.",
+            "2": "Parar y estacionar a ambos lados de la calzada donde esté situada.",
+            "3": "Parar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El consumo de drogas, ¿mejora en algún caso el tiempo de reacción?",
+        "respuestas": {
+            "1": "Sí, en algunos casos disminuyéndolo.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, con la cocaína."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Factores como una alta temperatura, o la mala ventilación del interior del vehículo...",
+        "respuestas": {
+            "1": "no alteran el estado psicofísico del conductor.",
+            "2": "retrasan la aparición de la fatiga.",
+            "3": "favorecen la aparición de la fatiga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si una nube de polvo disminuye sensiblemente la visibilidad, ¿qué alumbrado debe utilizar, además de la luz de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera y trasera y la luz de corto alcance.",
+            "2": "La luz antiniebla trasera y la luz de corto o largo alcance.",
+            "3": "La luz antiniebla delantera o la luz de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si conduce una motocicleta, ¿qué debe tener en cuenta antes de cambiar de carril?",
+        "respuestas": {
+            "1": "Que a ciertas velocidades es difícil ser percibido por los demás usuarios.",
+            "2": "Que señalizar la maniobra siempre da prioridad.",
+            "3": "Que al llevar el alumbrado encendido, las motocicletas siempre se ven con facilidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Hay mucha niebla. ¿Con qué luces es correcto que circule el turismo?",
+        "respuestas": {
+            "1": "Las luces antiniebla junto con las luces de emergencia.",
+            "2": "Las luces antiniebla junto con las luces cortas.",
+            "3": "Las luces de posición solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La distancia de reacción es:",
+        "respuestas": {
+            "1": "La distancia que recorre el vehículo desde que empieza a frenar hasta que se detiene.",
+            "2": "La distancia que debe guardarse con el vehículo que va delante.",
+            "3": "La distancia que recorre el vehículo durante el tiempo de reacción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El conductor del vehículo verde, si prevé que los animales pueden invadir la vía, debe...",
+        "respuestas": {
+            "1": "dejar una separación lateral no inferior a 1,50 metros para rebasarlos.",
+            "2": "moderar la velocidad, llegando a detener el vehículo si fuera preciso.",
+            "3": "detener la marcha hasta que todos los animales estén encerrados."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En caso de accidente, si los ocupantes del vehículo no utilizan el cinturón de seguridad, ¿es eficaz el airbag?",
+        "respuestas": {
+            "1": "No; además puede provocar graves lesiones.",
+            "2": "Sí.",
+            "3": "Sólo es eficaz el airbag frontal, pero no el de las plazas traseras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En caso de circular con lluvia intensa, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Ninguna si no vienen vehículos en sentido contrario.",
+            "2": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "3": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Los conductores de bicicletas mayores de 14 años, ¿pueden circular por los arcenes de las autovías?",
+        "respuestas": {
+            "1": "No, porque está prohibida en todo caso la circulación de bicicletas por autopistas y autovías.",
+            "2": "Sí, salvo que se prohíba su acceso mediante la señalización.",
+            "3": "Sí, siempre que se trate de una bicicleta con asistencia al pedaleo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Los distintivos ambientales clasifican a los vehículos en función de...",
+        "respuestas": {
+            "1": "su potencial contaminante.",
+            "2": "su ahorro energético.",
+            "3": "su contaminación acústica."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Es conveniente cambiar los neumáticos de su vehículo...",
+        "respuestas": {
+            "1": "cada 5 años si no tienen dibujo suficiente.",
+            "2": "al menos cada 5 años.",
+            "3": "al menos cada 10 años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Está prohibido arrojar a la vía objetos...",
+        "respuestas": {
+            "1": "únicamente si pueden entorpecer la libre circulación.",
+            "2": "que puedan deteriorar la vía o sus instalaciones.",
+            "3": "solamente si pueden deteriorar la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Estas señales, sobre una autopista o autovía, indican salida inmediata hacia...",
+        "respuestas": {
+            "1": "una carretera convencional.",
+            "2": "una autopista o autovía.",
+            "3": "la población indicada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Los neumáticos deberán cambiarse siempre que...",
+        "respuestas": {
+            "1": "la profundidad del dibujo sea inferior a 1,6 milímetros.",
+            "2": "la profundidad del dibujo sea inferior a 2 milímetros.",
+            "3": "la profundidad del dibujo sea inferior a 3 milímetros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

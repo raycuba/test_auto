@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando termine el adelantamiento, el vehículo adelantado deberá...",
+        "respuestas": {
+            "1": "circular igual que lo está haciendo, con la luz de largo alcance encendida.",
+            "2": "cambiar la luz de largo alcance por la luz de cruce.",
+            "3": "reducir la velocidad, obligatoriamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Al aproximarse a un puente móvil, ¿qué están obligados a hacer los conductores?",
+        "respuestas": {
+            "1": "Detenerse siempre antes de cruzarlo.",
+            "2": "Extremar la prudencia y reducir la velocidad por debajo de la máxima permitida.",
+            "3": "Aumentar la velocidad para cruzar el paso lo antes posible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué indica este Agente?",
+        "respuestas": {
+            "1": "Detención para todos los usuarios que se acerquen de frente al Agente.",
+            "2": "Detención para los vehículos que se acerquen de frente al Agente.",
+            "3": "Detención para todos los usuarios que se acerquen al Agente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Está permitido utilizar el carril sobre el que está la señal de velocidad mínima?",
+        "respuestas": {
+            "1": "No, siempre hay que circular por la derecha.",
+            "2": "Sí, cuando la velocidad sea inferior a la indicada.",
+            "3": "Sí, cuando la velocidad sea igual o superior a la indicada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Los conductores de vehículos, ¿en qué vías están obligados a realizar un cambio completo de carril durante los adelantamientos a ciclistas?",
+        "respuestas": {
+            "1": "En vías interurbanas con un carril para cada sentido de la circulación.",
+            "2": "En todas las vías, con independencia del número de carriles por sentido que tengan.",
+            "3": "En todas las vías con más de un carril para el mismo sentido de circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El alcohol se absorbe más rápidamente si...",
+        "respuestas": {
+            "1": "ha consumido bebidas fermentadas, como la cerveza.",
+            "2": "tiene el estómago vacío.",
+            "3": "se mezcla con alimentos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando no exista vía pecuaria, ¿se permite a los animales transitar por las vías públicas?",
+        "respuestas": {
+            "1": "Sólo se permite su tránsito dentro de poblado.",
+            "2": "No.",
+            "3": "Sí, excepto por autovías y autopistas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Si la anchura de la calzada no permite ser adelantado con facilidad y sin peligro, ¿qué debe hacer el conductor de un vehículo de grandes dimensiones para dejar paso a los que le siguen?",
+        "respuestas": {
+            "1": "Detener el vehículo en el arcén, obligatoriamente.",
+            "2": "Nada, las obligaciones en el adelantamiento son solo del que adelanta.",
+            "3": "Disminuir su velocidad o apartarse al arcén si es practicable."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Respecto a las técnicas de conducción eficiente, ¿en qué consisten los saltos de marcha?",
+        "respuestas": {
+            "1": "En cambiar de una marcha a otra sin pasar por las intermedias, por ejemplo, cambiar de 2ª a 4ª.",
+            "2": "En cambiar a una marcha y, apenas esté engranada saltar a la marcha superior o inferior.",
+            "3": "En cambiar de marcha antes de que el motor alcance el número de revoluciones mínimo aconsejable."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Cuáles de los siguientes vehículos podrán circular por un carril de alta ocupación (VAO) aunque solo esté ocupado por su conductor?",
+        "respuestas": {
+            "1": "Los que lleven la señal V-15.",
+            "2": "Los turismos que arrastren un remolque ligero.",
+            "3": "Los cuadriciclos ligeros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué le indica la señal?",
+        "respuestas": {
+            "1": "Que, por obras, está cortado un carril.",
+            "2": "Que la calzada está totalmente cerrada al tráfico.",
+            "3": "Que está prohibido estacionar en la zona."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El motor de un vehículo que dispone del sistema Start-Stop está diseñado para tener un mayor rendimiento, aunque el número de arranques también es mayor, ¿qué ventaja presenta este sistema?",
+        "respuestas": {
+            "1": "Se reducen las emisiones de CO2 y se produce un ahorro de combustible.",
+            "2": "Ninguna, ya que el soportar continuos arranques disminuye su vida útil.",
+            "3": "Aumenta la potencia del motor sobre todo cuando se encuentra parado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué sanción podrá imponerse al propietario de un vehículo que circula sin seguro?",
+        "respuestas": {
+            "1": "Una multa y la inmovilización del vehículo.",
+            "2": "Una multa y la pérdida de puntos.",
+            "3": "Una multa fija de 300 euros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En una curva, ¿qué debe hacer el conductor para contrarrestar la tendencia del vehículo a salirse de la calzada debido a la fuerza centrífuga?",
+        "respuestas": {
+            "1": "Reducir la velocidad antes de la curva y acelerar suavemente al salir.",
+            "2": "Pisar el freno mientras toma la curva.",
+            "3": "Acelerar a la entrada de la curva."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Los conductores, ¿están obligados a colaborar en las pruebas de detección de emisión de ruidos de sus vehículos?",
+        "respuestas": {
+            "1": "Solo cuando pasen la revisión periódica en una estación ITV.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "La marca vial amarilla discontinua, ¿qué prohíbe?",
+        "respuestas": {
+            "1": "Parar y estacionar.",
+            "2": "Estacionar.",
+            "3": "Parar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Está permitido realizar competiciones de velocidad en las vías públicas?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Sí, siempre.",
+            "3": "Solo si un vehículo de la organización encabeza la carrera con una bandera verde."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Un menor de edad, ¿puede viajar de pasajero en una motocicleta?",
+        "respuestas": {
+            "1": "Sí, siempre que el conductor sea mayor de edad.",
+            "2": "No, está prohibido.",
+            "3": "Solo si es mayor de 12 años o, excepcionalmente, de 7 años."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada y estacionamiento.",
+            "2": "el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1.",
+            "3": "la parada los días indicados en la señal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En la situación de tráfico de la imagen, el conductor del vehículo rojo circula con el alumbrado de largo alcance; ¿es correcto su comportamiento?",
+        "respuestas": {
+            "1": "No, ya que puede deslumbrar al conductor del vehículo verde.",
+            "2": "Sí, y el conductor del vehículo verde debe utilizarlo también.",
+            "3": "No, este alumbrado sólo se puede utilizar en vías urbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Se acerca a una glorieta y no hay señales de preferencia. ¿A qué vehículos debe ceder el paso?",
+        "respuestas": {
+            "1": "A ninguno, porque yo circulo por la vía principal.",
+            "2": "A los que circulan dentro de la glorieta.",
+            "3": "A los que quieran acceder a la glorieta por la vía de la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En esta curva sin visibilidad de una vía con un carril para cada sentido de la circulación, ¿puede adelantar al vehículo rojo?",
+        "respuestas": {
+            "1": "Sí, porque no hay señal vertical que me prohíba adelantar.",
+            "2": "No, porque está prohibido adelantar en todas las curvas.",
+            "3": "No, porque para adelantar necesito ocupar el carril de sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Mantener la distancia de seguridad adecuada, sobre todo en ciudad, ¿es una recomendación válida para evitar accidentes con las motocicletas?",
+        "respuestas": {
+            "1": "Sí, porque se pueden evitar alcances.",
+            "2": "No, porque la distancia de seguridad no influye en los accidentes de moto.",
+            "3": "No, porque esta recomendación carece de sentido circulando en ciudad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "El lugar a partir del cual rigen las normas de comportamiento en la circulación relativas a poblado.",
+            "2": "Un lugar de interés general en la vía.",
+            "3": "El lugar a partir del cual la vía entra en el término municipal indicado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Conducir por una vía en mal estado, ¿puede favorecer la aparición de los síntomas de la fatiga?",
+        "respuestas": {
+            "1": "Sí, debido a la vibración excesiva del vehículo.",
+            "2": "No, en ningún caso, ya que se circula a poca velocidad.",
+            "3": "Sólo si se conduce de noche y el conductor no conoce la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Esta señal indica peligro ante la proximidad...",
+        "respuestas": {
+            "1": "de un muelle.",
+            "2": "de un puente móvil.",
+            "3": "de un resalto o badén en el pavimento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si conduciendo una motocicleta no puede evitar un bache que se encuentra en la calzada, ¿cuál de los siguientes comportamientos es el más idóneo?",
+        "respuestas": {
+            "1": "Reducir la velocidad y mantener vertical la motocicleta al pasar sobre el bache.",
+            "2": "Ponerse de pie sobre los reposapiés laterales y aumentar la velocidad.",
+            "3": "Aumentar la velocidad y desembragar al pasar sobre el bache."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Cómo se podrían haber evitado algunos esguinces cervicales severos provocados por los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Regulando, adecuadamente el reposacabezas.",
+            "2": "Evitando el efecto submarino.",
+            "3": "Mediante la colocación de airbags de cortina."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si deja un vehículo estacionado en llano, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Apoyar la rueda directriz en el bordillo.",
+            "2": "Parar el motor y accionar el freno de estacionamiento.",
+            "3": "Dejar siempre puesta la primera velocidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "El casco, ¿se puede incluir entre los elementos de seguridad?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, de seguridad pasiva.",
+            "3": "Sí, únicamente de la seguridad activa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

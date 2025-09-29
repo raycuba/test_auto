@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Cuando las ruedas del vehículo rebotan en los baches puede ser porque...",
+        "respuestas": {
+            "1": "el freno esté en mal estado.",
+            "2": "el embrague esté en mal estado.",
+            "3": "los amortiguadores estén en mal estado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "La amortiguación en malas condiciones hace que, en las curvas, el vehículo...",
+        "respuestas": {
+            "1": "pierda estabilidad.",
+            "2": "tienda a seguir recto.",
+            "3": "se desvíe siempre hacia el lado izquierdo en el sentido de la marcha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si los amortiguadores están defectuosos...",
+        "respuestas": {
+            "1": "se reduce la distancia de frenado en más del 50 por ciento.",
+            "2": "aumenta la distancia de frenado peligrosamente.",
+            "3": "para frenar no es necesario ejercer presión en el pedal de freno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Puede perder el control del vehículo si circula con los amortiguadores en mal estado?",
+        "respuestas": {
+            "1": "No, sin embargo, los cambios de marcha se realizarán con mayor dificultad debido a las oscilaciones del vehículo.",
+            "2": "Sí, porque la distancia de frenado disminuirá, especialmente con el firme irregular o mojado.",
+            "3": "Sí, porque el vehículo puede experimentar una inclinación excesiva al tomar las curvas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Un amortiguador en malas condiciones, ¿qué consecuencias puede tener?",
+        "respuestas": {
+            "1": "Que disminuya la distancia de frenado.",
+            "2": "Que el vehículo gane estabilidad.",
+            "3": "Que las luces oscilen durante la marcha y puedan deslumbrar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "A baja velocidad, la dirección asistida progresiva...",
+        "respuestas": {
+            "1": "permite un control más preciso del vehículo.",
+            "2": "reduce al mínimo el esfuerzo necesario para mover el volante.",
+            "3": "hace que la dirección se endurezca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Circulando en terreno llano y uniforme, al soltar el volante observa que el vehículo se desvía hacia una lado, ¿a qué puede ser debido?",
+        "respuestas": {
+            "1": "A que las ruedas de un mismo eje no tienen la misma presión de aire.",
+            "2": "A que los neumáticos del eje delantero y los del eje trasero son del mismo tipo.",
+            "3": "A que el nivel del líquido de frenos está debajo del mínimo recomendado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Es recomendable revisar la dirección del vehículo cuando...",
+        "respuestas": {
+            "1": "el vehículo no se desvía al soltar el volante.",
+            "2": "se vuelve demasiado dura o demasiado floja.",
+            "3": "los neumáticos se desgastan de forma regular."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Cuándo deben sustituirse las lámparas de un automóvil?",
+        "respuestas": {
+            "1": "Solamente en caso de rotura.",
+            "2": "En cuanto disminuya su intensidad luminosa.",
+            "3": "Siempre antes de pasar la inspección técnica del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Las lámparas de xenón...",
+        "respuestas": {
+            "1": "aumentan la fatiga ocular del conductor.",
+            "2": "mejoran la iluminación de la vía y reducen la fatiga ocular del conductor.",
+            "3": "iluminan peor la vía, pero reducen la fatiga ocular del conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Llevar el reglaje del sistema de alumbrado demasiado bajo, ¿influye en la seguridad?",
+        "respuestas": {
+            "1": "Sí, se percibe antes un obstáculo en la calzada.",
+            "2": "Sí, se tarda más en percibir un obstáculo en la calzada.",
+            "3": "No, llevar los faros mal reglados no influye en la seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Si las luces delanteras del vehículo, encargadas de iluminar la vía, están demasiado bajas, ¿qué ocurre?",
+        "respuestas": {
+            "1": "Se mejora la iluminación de la vía, por lo que la visibilidad es mejor de la aconsejada.",
+            "2": "Se deslumbra a los conductores que circulan en sentido contrario.",
+            "3": "Se reduce la iluminación de la vía, por lo que la visibilidad es menor de la adecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si circula de noche con una furgoneta que lleva una carga pesada, ¿deberá comprobar la altura de las luces?",
+        "respuestas": {
+            "1": "Sí, porque puede verse afectada la altura de los faros.",
+            "2": "Solamente si la carga está situada en la parte trasera de la plataforma.",
+            "3": "No, siempre que se distribuya la carga uniformemente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Es necesario revisar el funcionamiento del sistema de alumbrado de un vehículo?",
+        "respuestas": {
+            "1": "Solo si el vehículo no lleva instaladas luces de xenón.",
+            "2": "No, no es necesario.",
+            "3": "Sí; forma parte del mantenimiento preventivo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cuál es la función del alumbrado como elemento de seguridad activa?",
+        "respuestas": {
+            "1": "Indicar una situación de emergencia.",
+            "2": "Permitir ver y ser vistos.",
+            "3": "Deslumbrar con facilidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Los sistemas de seguridad pasiva incluyen...",
+        "respuestas": {
+            "1": "alumbrado, neumáticos, frenos y suspensión.",
+            "2": "frenos, neumáticos, airbags y cinturones de seguridad.",
+            "3": "cinturones de seguridad, airbags, apoyacabezas y casco."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Los cinturones de seguridad y los airbags son sistemas de...",
+        "respuestas": {
+            "1": "conducción eficiente.",
+            "2": "seguridad pasiva.",
+            "3": "seguridad activa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Desde el punto de vista de la seguridad pasiva, la carrocería tiene como función...",
+        "respuestas": {
+            "1": "mejorar la aerodinámica favoreciendo una conducción económica.",
+            "2": "absorber la máxima cantidad de energía producida en un accidente.",
+            "3": "mantener las ruedas en contacto con la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Como elemento de seguridad pasiva, ¿cuál es la función de la carrocería?",
+        "respuestas": {
+            "1": "Evitar o reducir la posibilidad de que se produzcan accidentes.",
+            "2": "Mantener las ruedas del vehículo en contacto con el suelo.",
+            "3": "Proteger a los ocupantes del vehículo en caso de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Por qué no deben modificarse las zonas delanteras del vehículo, como el parachoques o las defensas?",
+        "respuestas": {
+            "1": "Porque está prohibida cualquier reforma que afecte a la carrocería del vehículo.",
+            "2": "Porque suelen diseñarse para que sean poco lesivas para los peatones.",
+            "3": "Porque el vehículo pierde aerodinámica y, por tanto, velocidad punta."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Si existe gravilla en la calzada, ¿qué se debe hacer para evitar la rotura del parabrisas?",
+        "respuestas": {
+            "1": "Aumentar la separación con los vehículos que nos preceden.",
+            "2": "Aumentar la velocidad para disminuir los efectos del impacto.",
+            "3": "Nada, porque si el parabrisas está limpio se reduce el riesgo de rotura por gravilla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Entre los sistemas de seguridad pasiva se incluye el parabrisas del vehículo, en caso de accidente, ¿qué tipo de vidrio es más seguro?",
+        "respuestas": {
+            "1": "El laminado.",
+            "2": "El templado.",
+            "3": "El tintado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Cuál es la finalidad principal del cinturón de seguridad?",
+        "respuestas": {
+            "1": "Dar sensación de seguridad y evitar las multas.",
+            "2": "Mejorar la atención del conductor en la conducción.",
+            "3": "Retener y proteger los cuerpos de los ocupantes del vehículo en caso de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El cinturón de seguridad, ¿para qué sirve?",
+        "respuestas": {
+            "1": "Para mejorar el apoyo de la espalda en el respaldo del asiento.",
+            "2": "Para mantener el asiento sujeto al vehículo y evitar que se desplace.",
+            "3": "Para frenar el cuerpo de los ocupantes del vehículo en caso de impacto."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Es peligroso no abrocharse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sólo es peligroso no abrocharse el cinturón en los asientos delanteros.",
+            "2": "En tráfico urbano no, debido a las bajas velocidades a las que se circula.",
+            "3": "Sí, porque incluso en un choque a baja velocidad no siempre es posible mantenerse sujeto al asiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si tiene un accidente y no lleva puesto el cinturón de seguridad, las posibilidades de resultar muerto en el siniestro son casi el doble en...",
+        "respuestas": {
+            "1": "las plazas delanteras, únicamente.",
+            "2": "todas las plazas del vehículo.",
+            "3": "la plaza del conductor, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El uso del cinturón de seguridad, ¿reduce el riesgo de fallecimiento en un accidente de tráfico?",
+        "respuestas": {
+            "1": "No; al contrario, aumenta al doble la posibilidad de resultar muerto.",
+            "2": "Sí, reduce a la mitad el riesgo de muerte o de sufrir heridas graves.",
+            "3": "Solo reduce el riesgo en los asientos delanteros pero no en las plazas traseras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Es peligroso que las personas que viajan en los asientos traseros no utilicen los cinturones de seguridad?",
+        "respuestas": {
+            "1": "Sí, porque los airbags pierden su efecto protector.",
+            "2": "Sí, entre otras razones porque en caso de choque son un peligro adicional para el conductor y el acompañante.",
+            "3": "No, porque a baja velocidad los respaldos de los asientos delanteros protegen suficientemente contra lesiones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si la parte rígida de la carrocería es de gran resistencia, ¿es aconsejable no usar el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, porque los ocupantes del vehículo están bien protegidos.",
+            "2": "Sólo en los vehículos todo terreno o en los de más de 3.500 kg de MMA.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Por qué es necesario y obligatorio ponerse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Porque reduce casi a la mitad la probabilidad de que un accidente sea mortal.",
+            "2": "Porque absorbe la energía del impacto en un accidente.",
+            "3": "El cinturón no es obligatorio cuando el vehículo tiene airbag."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

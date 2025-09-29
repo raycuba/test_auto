@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El conductor de una motocicleta, que lleva un pasajero en el asiento trasero, ¿está obligado a utilizar el casco de protección?",
+        "respuestas": {
+            "1": "Sí, pero no será responsable si el pasajero no lo utiliza.",
+            "2": "No, pero será responsable si el pasajero no lo utiliza.",
+            "3": "Sí, y será responsable si el pasajero no lo utiliza."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si un cuadriciclo ligero tiene instalados cinturones de seguridad, ¿es obligatorio ponerse el casco?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pero únicamente fuera de poblado.",
+            "3": "Sí, pero únicamente en vías urbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los ocupantes de un ciclomotor que disponga de cinturones de seguridad, están obligados a utilizarlos...",
+        "respuestas": {
+            "1": "únicamente cuando circulen por vías que no dispongan de arcén.",
+            "2": "tanto en vías urbanas como interurbanas.",
+            "3": "solo cuando circulen por vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Están obligados a utilizar casco...",
+        "respuestas": {
+            "1": "los conductores y pasajeros de las motocicletas de dos ruedas, con o sin sidecar.",
+            "2": "los conductores de las motocicletas de dos ruedas con sidecar, pero no los pasajeros.",
+            "3": "los pasajeros de las motocicletas de dos ruedas sin sidecar, pero no sus conductores."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si su motocicleta cuenta con estructura de autoprotección y cinturón de seguridad, ¿en qué vías deberá llevarlo abrochado?",
+        "respuestas": {
+            "1": "En todo tipo de vías, tanto urbanas como interurbanas.",
+            "2": "Únicamente cuando circule por vías interurbanas.",
+            "3": "Solo cuando circule por vías interurbanas y travesías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El uso adecuado del casco implica que la correa de sujeción...",
+        "respuestas": {
+            "1": "no debe abrocharse.",
+            "2": "debe llevarse correctamente abrochada, para que el casco cumpla eficazmente su función.",
+            "3": "puede llevarse desabrochada en vía urbana."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si conduce un ciclomotor, ¿en qué tipo de vías es obligatorio utilizar el casco de protección?",
+        "respuestas": {
+            "1": "En todo tipo de vías, tanto urbanas como interurbanas.",
+            "2": "Solo cuando circule por carreteras convencionales.",
+            "3": "En todo tipo de vías, pero solo cuando circule a más de 40 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Si conduce un cuadriciclo equipado con cinturones de seguridad, ¿quiénes deben utilizarlos y en que tipo de vías?",
+        "respuestas": {
+            "1": "Tanto el conductor como el pasajero, en todo tipo de vías.",
+            "2": "Solo el conductor, tanto en vías urbanas como en interurbanas.",
+            "3": "Tanto el conductor como el pasajero, solo en vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Tiene obligación de utilizar el casco si conduce el vehículo de la imagen?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Solamente cuando circule por vías interurbanas.",
+            "3": "Sí, cuando circule tanto en vías urbanas como interurbanas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Un ciclomotor de cuatro ruedas tiene cinturones de seguridad. ¿Es obligatorio ponerse el casco?",
+        "respuestas": {
+            "1": "Sí, pero solamente fuera de poblado.",
+            "2": "Sí, cuando el vehículo no tiene capota.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En esta motocicleta dotada de cinturón de seguridad, ¿debe llevar casco?",
+        "respuestas": {
+            "1": "Sí, es obligatorio su uso aunque se lleve abrochado el cinturón de seguridad.",
+            "2": "No, en esta motocicleta no es obligatorio el uso de elementos de seguridad.",
+            "3": "No, no es obligatorio si se lleva abrochado el cinturón de seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Los conductores de ciclomotores, ¿están obligados a llevar casco de protección cuando circulen por una vía urbana?",
+        "respuestas": {
+            "1": "No, los conductores de ciclomotores no están obligados a llevar casco.",
+            "2": "Sí, es obligatorio.",
+            "3": "Los conductores sí están obligados, pero los pasajeros no lo están."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si utiliza un casco sin pantalla o visera, ¿es aconsejable utilizar gafas de seguridad?",
+        "respuestas": {
+            "1": "Sí, para proteger los ojos.",
+            "2": "No, no es necesario.",
+            "3": "Solo si sufre alguna enfermedad en los ojos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El conductor de un ciclomotor no está obligado a utilizar el casco de protección...",
+        "respuestas": {
+            "1": "en vías urbanas.",
+            "2": "cuando el ciclomotor disponga de estructura de protección y cinturón de seguridad.",
+            "3": "en verano."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Las operaciones de carga y descarga se deben realizar...",
+        "respuestas": {
+            "1": "respetando siempre las normas de parada y estacionamiento.",
+            "2": "depositando la mercancía en la calzada para agilizar el trabajo.",
+            "3": "únicamente por el lado derecho de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "La carga y descarga de un vehículo deberá realizarse...",
+        "respuestas": {
+            "1": "fuera de la vía, como norma general.",
+            "2": "depositando la mercancía en zonas peatonales.",
+            "3": "por el lado del vehículo más alejado del borde de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En una vía urbana, las operaciones de carga y descarga se realizarán...",
+        "respuestas": {
+            "1": "depositando la mercancía en la calzada o en zonas peatonales.",
+            "2": "respetando las disposiciones que dicten las autoridades municipales.",
+            "3": "por el lado del vehículo más alejado del borde de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Dónde está prohibido depositar la mercancía durante las operaciones de carga y descarga?",
+        "respuestas": {
+            "1": "En las zonas peatonales, pero si esta permitido depositarla en la calzada y en el arcén.",
+            "2": "En la calzada, en el arcén y en las zonas peatonales.",
+            "3": "En la calzada, pero esta permitido depositarla en el arcén y en las zonas peatonales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si tiene que descargar su vehículo dentro de la vía pública, debe hacerlo...",
+        "respuestas": {
+            "1": "depositando la mercancía en la zona peatonal más próxima.",
+            "2": "lo más rápidamente posible, evitando ruidos y molestias innecesarias.",
+            "3": "sin que sea necesario respetar las normas sobre paradas o estacionamientos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Todo conductor que abandone su puesto para descargar mercancía del vehículo, deberá dejar siempre...",
+        "respuestas": {
+            "1": "el motor arrancado y las luces de emergencia encendidas.",
+            "2": "el motor parado y el vehículo debidamente calzado.",
+            "3": "el motor parado y el sistema de arranque desconectado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Está permitido depositar la mercancía en la vía mientras se realizan operaciones de carga o descarga?",
+        "respuestas": {
+            "1": "No; está prohibido depositar la mercancía en la calzada, arcén o aceras.",
+            "2": "Sí; se puede depositar la mercancía en la calzada o en el arcén, pero no en la acera.",
+            "3": "Solo cuando la carga o descarga se realice fuera de poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Las operaciones de carga y descarga se llevarán a cabo...",
+        "respuestas": {
+            "1": "procurando evitar ruidos y molestias innecesarias.",
+            "2": "depositando la mercancía en la calzada y en las zonas peatonales.",
+            "3": "por el lado del vehículo más próximo al centro de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Circula con un turismo que arrastra un remolque de menos de 750 kg de MMA en el que transporta mercancías. En cuanto a la distribución de la carga, ¿debe tomar precauciones especiales?",
+        "respuestas": {
+            "1": "Sí, la carga debe estar bien distribuida e ir bien sujeta para evitar que se desplace y pueda llegar a desestabilizar al vehículo.",
+            "2": "No, salvo que supere la masa máxima autorizada del remolque.",
+            "3": "Sí, debe situarse en la parte trasera del remolque para bajar el centro de gravedad y asegurar la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Cómo se tiene que colocar la carga en un vehículo?",
+        "respuestas": {
+            "1": "De forma que no arrastre, que no pueda caerse ni desplazarse de forma peligrosa.",
+            "2": "Sin comprometer la estabilidad del vehículo aunque para ello oculte los dispositivos de alumbrado.",
+            "3": "Cubierta total o parcialmente cuando la carga produzca polvo o se trate de sustancias nocivas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La carga transportada en un turismo no deberá...",
+        "respuestas": {
+            "1": "sobresalir por la parte posterior más de un 5% de su longitud.",
+            "2": "comprometer su estabilidad.",
+            "3": "descargarse por el lado del vehículo más próximo al borde de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Para ahorrar carburante, ¿dónde se debe poner el equipaje?",
+        "respuestas": {
+            "1": "En el maletero.",
+            "2": "En el maletero o en la baca, es indistinto.",
+            "3": "En la baca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Para realizar una conducción eficiente y reducir el consumo de combustible, ¿dónde se debe colocar la carga en un turismo siempre que sea posible?",
+        "respuestas": {
+            "1": "En los asientos traseros.",
+            "2": "En la baca o en un cofre portaequipajes.",
+            "3": "En el maletero."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "La carga transportada en un vehículo, debe estar dispuesta de forma que...",
+        "respuestas": {
+            "1": "ocupe el mínimo espacio posible.",
+            "2": "no oculte los dispositivos de alumbrado o de señalización luminosa.",
+            "3": "no oculte los dispositivos de señalización, aunque puede ocultar la señalización luminosa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿De qué manera se debe acondicionar siempre la carga transportada en la baca de un turismo?",
+        "respuestas": {
+            "1": "De tal forma que no comprometa la estabilidad del vehículo.",
+            "2": "Cubriéndola totalmente con una lona o un plástico.",
+            "3": "Ocultando parcialmente los dispositivos de señalización luminosa."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Cargar un vehículo con más carga de la autorizada...",
+        "respuestas": {
+            "1": "no influye para nada en la seguridad vial.",
+            "2": "influye, especialmente, en la aceleración, frenado y estabilidad del vehículo.",
+            "3": "solo afecta a los neumáticos, por lo que se deberá incrementar su presión."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

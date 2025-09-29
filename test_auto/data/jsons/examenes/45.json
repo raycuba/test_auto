@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una intersección señalizada se encuentra un agente regulando el tráfico, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Obedecer las señales del agente.",
+            "2": "Obedecer las señales de tráfico que regulan la prioridad.",
+            "3": "Aplicar las normas generales de prioridad de paso de los vehículos que se acerquen por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Su vehículo se incendia y no tiene extintor. ¿Cómo debe apagarlo?",
+        "respuestas": {
+            "1": "Con tierra.",
+            "2": "Con aire.",
+            "3": "Con agua."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué indican esta serie de luces amarillas intermitentes?",
+        "respuestas": {
+            "1": "Prohíben el paso a través de la línea imaginaria que las une.",
+            "2": "Permiten pasar con precaución a través de la línea imaginaria que las une.",
+            "3": "Indican que la calzada está totalmente cerrada al tráfico."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El semáforo de la fotografía está estropeado. ¿A quién debe ceder el paso en la intersección?",
+        "respuestas": {
+            "1": "A todos los vehículos.",
+            "2": "A los vehículos que entran por la derecha.",
+            "3": "A los vehículos que entran por la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "La señal indica la existencia de peligro por...",
+        "respuestas": {
+            "1": "la proximidad de una zona donde la circulación se realiza en los dos sentidos.",
+            "2": "circulación en el mismo sentido.",
+            "3": "estrechamiento de calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "A un motorista herido en accidente de tráfico, ¿debe quitarle el casco?",
+        "respuestas": {
+            "1": "Sí, para que respire mejor.",
+            "2": "Haré lo que él me diga.",
+            "3": "No, como norma general."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Esta señal de peligro indica...",
+        "respuestas": {
+            "1": "un puente móvil que está cerrado de manera permanente a la circulación.",
+            "2": "un puente móvil que puede ser levantado o girado, interrumpiéndose temporalmente la circulación.",
+            "3": "un tramo de calzada que puede estar afectado por aguas torrenciales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "La probabilidad de que un accidente de tráfico sea mortal es mucho menor...",
+        "respuestas": {
+            "1": "en un turismo que en un vehículo de dos ruedas.",
+            "2": "en un vehículo de cuatro ruedas que en un vehículo de tres ruedas.",
+            "3": "en un vehículo de dos ruedas que en un turismo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Cuando exista nieve acumulada en la calzada, ¿cómo se debe de conducir?",
+        "respuestas": {
+            "1": "Con las luces de emergencia encendidas.",
+            "2": "Por el arcén.",
+            "3": "Frenando y acelerando con suavidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una carretera convencional, ¿se puede parar o estacionar fuera de la calzada y de la parte transitable del arcén?",
+        "respuestas": {
+            "1": "Se puede parar, pero no estacionar.",
+            "2": "Se puede estacionar, pero no parar.",
+            "3": "Sí, se puede parar y estacionar en el lado derecho de la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En general, conducir con sueño...",
+        "respuestas": {
+            "1": "favorece la aparición de la fatiga ocular.",
+            "2": "ayuda a tomar decisiones rápidas y acertadas en situaciones peligrosas.",
+            "3": "reduce el tiempo de reacción ante una situación de peligro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Respecto a los factores que explican la accidentalidad, ¿cómo se puede disminuir la influencia del riesgo asociado a la vía y su entorno?",
+        "respuestas": {
+            "1": "Circulando de noche, porque con menos tráfico es poco probable que aparezca la fatiga.",
+            "2": "Circulando por carreteras convencionales, ya que son más seguras que las autovías.",
+            "3": "Adecuando la velocidad a las condiciones de la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Cuántas placas de matrícula debe llevar una motocicleta?",
+        "respuestas": {
+            "1": "Una sola placa en la parte posterior, en posición vertical o casi vertical.",
+            "2": "Dos placas, una en la parte delantera y otra en la parte posterior.",
+            "3": "Una sola placa en la parte delantera, en posición vertical o casi vertical."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Todo conductor está obligado a...",
+        "respuestas": {
+            "1": "cambiar de carril para permitir la incorporación de otros vehículos a la vía por la que circula.",
+            "2": "facilitar, en la medida de lo posible, la incorporación de otros vehículos a la vía por la que circula.",
+            "3": "ceder el paso a los vehículos que se incorporan a la vía por la que circula."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cómo afecta el éxtasis a la conducción?",
+        "respuestas": {
+            "1": "Reduce la sensibilidad al deslumbramiento.",
+            "2": "Facilita la concentración del conductor.",
+            "3": "Puede provocar en el conductor ilusiones ópticas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Con analgésicos o antihistamínicos es conveniente...",
+        "respuestas": {
+            "1": "no conducir en ningún caso durante el tiempo que dure el tratamiento.",
+            "2": "conducir con normalidad.",
+            "3": "tener presente que pueden producir efectos secundarios que afecten a la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Para adelantar a la bicicleta, ¿debe encender el intermitente?",
+        "respuestas": {
+            "1": "No, porque no es obligatorio.",
+            "2": "Sí, porque para adelantar es necesario cambiar de carril.",
+            "3": "No es necesario, porque la marca vial me permite adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En un paso a nivel, ¿qué debe hacer si la barrera está en movimiento para levantarse?",
+        "respuestas": {
+            "1": "Pasar cuando lo hagan otros vehículos, aunque esté la barrera en movimiento.",
+            "2": "Pasar cuando el vehículo entre por debajo de la barrera, aunque esta siga en movimiento.",
+            "3": "Detenerse hasta que la barrera esté completamente subida y permita el paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Está prohibido realizar un cambio de dirección a la izquierda cuando no exista...",
+        "respuestas": {
+            "1": "una señal que lo autorice expresamente.",
+            "2": "un lugar acondicionado expresamente para realizarlo.",
+            "3": "visibilidad suficiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Entre los factores que favorecen la aparición de la fatiga en el conductor se encuentra:",
+        "respuestas": {
+            "1": "Conducir con hambre o con sueño.",
+            "2": "Circular por vías conocidas con un tráfico fluido.",
+            "3": "Conducir un vehículo con un motor silencioso o que emita muy poco ruido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Un conductor con sueño...",
+        "respuestas": {
+            "1": "percibe mejor las señales y es más difícil que se distraiga.",
+            "2": "tarda más tiempo en tomar decisiones y comete más errores.",
+            "3": "tarda menos tiempo en reaccionar ante una situación imprevista."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Mientras circula se produce un fallo en el sistema de frenado, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Tirar bruscamente de la palanca del freno de mano.",
+            "2": "Dirigir el vehículo hacia un obstáculo para detenerlo.",
+            "3": "Soltar el acelerador y reducir la velocidad con el freno motor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "El casco debe cambiarse cuando...",
+        "respuestas": {
+            "1": "cambie de motocicleta.",
+            "2": "los colores hayan pasado de moda.",
+            "3": "sufra algún golpe ya que puede haberse dañado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un vehículo expulsa humo por encima de los limites establecidos, ¿le está permitido circular?",
+        "respuestas": {
+            "1": "Sí, porque no es nocivo ni contamina.",
+            "2": "Solo por vías fuera de poblado.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En los vehículos no destinados exclusivamente al transporte de mercancías, ¿puede sobresalir una carga indivisible por la parte posterior?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, hasta un 10 por ciento de la longitud del vehículo.",
+            "3": "Sí, hasta un 15 por ciento de la longitud del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En vías interurbanas con tres carriles para el mismo sentido, ¿le está permitido circular por el carril izquierdo a un turismo con remolque?",
+        "respuestas": {
+            "1": "Sí, pero sólo para adelantar a otros vehículos.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, cuando la longitud del conjunto no supere los 7 metros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El conductor de un vehículo que se encuentra esta señal de frente, ¿tiene prioridad de paso en el próximo paso estrecho?",
+        "respuestas": {
+            "1": "No, la señal concede prioridad al sentido contrario.",
+            "2": "Sí.",
+            "3": "Solo si su vehículo tiene mayores dificultades de maniobra."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Cuál es la tasa máxima de alcohol permitida a un conductor mayor de edad cuyo permiso tiene una antigüedad inferior a dos años?",
+        "respuestas": {
+            "1": "0,10 mg/l en aire espirado o 0,2 g/l en sangre.",
+            "2": "0,25 mg/l en aire espirado o 0,5 g/l en sangre.",
+            "3": "0,15 mg/l en aire espirado o 0,3 g/l en sangre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si circula de noche por una vía urbana, y no puede ver un vehículo pintado de oscuro a 50 metros, ¿qué alumbrado debe utilizar, además del de posición?",
+        "respuestas": {
+            "1": "El alumbrado de corto alcance.",
+            "2": "El alumbrado de corto o el de largo alcance, indistintamente.",
+            "3": "El alumbrado de largo alcance."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "A la vista de la señal que realiza el agente, ¿cuándo podrá reanudar la marcha?",
+        "respuestas": {
+            "1": "Cuando baje los brazos.",
+            "2": "Solo cuando cambie de posición o efectúe otra señal.",
+            "3": "Solo cuando lo indique con otra señal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Un conductor que padezca una enfermedad crónica, ¿puede hacer algo para reducir el riesgo de sufrir un accidente de circulación?",
+        "respuestas": {
+            "1": "Sí; pedir al médico que le informe sobre los riesgos para la conducción.",
+            "2": "Lo más aconsejable es suspender la medicación cuando vaya a conducir.",
+            "3": "No; las enfermedades crónicas incapacitan para conducir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Un conductor que padezca una enfermedad crónica, ¿debe adoptar alguna precaución?",
+        "respuestas": {
+            "1": "Sí; preguntar al médico sus efectos sobre la conducción y seguir su consejo.",
+            "2": "Sí; debe evitar conducir vehículos mientras esté en tratamiento médico.",
+            "3": "No, siempre que tome la medicación adecuada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los medicamentos que se consumen para tratar un resfriado, ¿pueden alterar las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, porque pueden producir somnolencia.",
+            "2": "Sí, son beneficiosos porque eliminan la sensación de fatiga y la somnolencia.",
+            "3": "No, los medicamentos nunca alteran las capacidades para conducir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Los síntomas de las enfermedades más comunes, como gripes, resfriados o alergias, ¿pueden afectar a las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, y resultan tan familiares que a veces se olvidan sus síntomas.",
+            "2": "Sí, pero no es necesario tomar ninguna precaución.",
+            "3": "No, sus síntomas no afectan a las capacidades para conducir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si padece una alergia respiratoria estacional, para circular con mayor seguridad en la época del año en que sus síntomas aparecen con más fuerza, es aconsejable...",
+        "respuestas": {
+            "1": "conducir con las ventanillas cerradas.",
+            "2": "aumentar la dosis de medicamento.",
+            "3": "conducir al amanecer o al atardecer, que es cuando hay menos polen en el ambiente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Una alergia respiratoria, ¿puede reducir la capacidad para mantener la concentración en el tráfico?",
+        "respuestas": {
+            "1": "No, porque no es una enfermedad.",
+            "2": "Sí.",
+            "3": "Sólo si no se trata adecuadamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Conducir bajo los síntomas de una alergia respiratoria, ¿aumenta el riesgo de sufrir un accidente?",
+        "respuestas": {
+            "1": "Sí, pero solo durante la primavera debido a la mayor presencia de polen.",
+            "2": "No, el riesgo es el mismo que el de un conductor sin alergia respiratoria.",
+            "3": "Sí, ya que puede verse alterada la capacidad para conducir con seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "El riesgo de sufrir un accidente puede verse incrementado si tiene alergia al polen. Para disminuir dicho riesgo, cuando la concentración de polen es elevada, se recomienda...",
+        "respuestas": {
+            "1": "evitar conducir al amanecer y por carreteras, donde la vegetación sea abundante.",
+            "2": "circular con las ventanillas abiertas para que el aire expulse el polen del vehículo.",
+            "3": "llevar la ventilación exterior, aunque el vehículo no tenga filtro antipolen."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si padece una alergia respiratoria es aconsejable...",
+        "respuestas": {
+            "1": "no llevar la ventilación exterior puesta, salvo que el vehículo tenga un filtro antipolen.",
+            "2": "circular con el aire acondicionado muy fuerte si el vehículo no tiene un filtro antipolen.",
+            "3": "circular con las ventanillas abiertas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La mayoría de los vehículos disponen de un filtro en el habitáculo. ¿Debe sustituirse?",
+        "respuestas": {
+            "1": "Sí, sobre todo al inicio de la primavera, ya que su capacidad de retención es limitada.",
+            "2": "Sí, cada seis meses porque es un elemento sujeto a inspección técnica periódica.",
+            "3": "No, ya que es un filtro que se limpia automáticamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Entre los síntomas de la alergia al polen, se encuentra...",
+        "respuestas": {
+            "1": "náuseas y vómitos.",
+            "2": "dolores musculares.",
+            "3": "continuos estornudos y ojos irritados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En general, una persona que se encuentra bajo los efectos del estrés conduce de manera...",
+        "respuestas": {
+            "1": "menos temeraria.",
+            "2": "más temeraria.",
+            "3": "más segura."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En general, los conductores con problemas de estrés...",
+        "respuestas": {
+            "1": "son más agresivos.",
+            "2": "sufren menos distracciones.",
+            "3": "tiene una menor sensación de fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El estrés, ¿puede alterar las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí; por ejemplo, afecta a la percepción y a la atención.",
+            "3": "Sólo si el conductor duerme menos de cuatro horas diarias."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Uno de los efectos del estrés es...",
+        "respuestas": {
+            "1": "el incremento de la capacidad de concentración.",
+            "2": "un comportamiento más prudente.",
+            "3": "la aparición de fatiga al volante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Enfermedades como el estrés, la ansiedad o la depresión, ¿pueden afectar a la capacidad de atención del conductor?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, el conductor se distrae con mayor facilidad.",
+            "3": "Solo si se circula por vías con alta densidad de tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El estrés, ¿qué efectos puede tener sobre el conductor?",
+        "respuestas": {
+            "1": "Disminución de la fatiga y el sueño.",
+            "2": "Comportamientos excesivamente prudentes.",
+            "3": "La toma de decisiones al volante puede ser más lenta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Padecer estrés durante mucho tiempo, ¿puede ocasionar importantes problemas de salud?",
+        "respuestas": {
+            "1": "No; el estrés es solo un mecanismo de defensa ante situaciones críticas.",
+            "2": "Sí, pero no afecta a las capacidades para conducir con seguridad.",
+            "3": "Sí, y puede afectar a las capacidades para conducir con seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En general, un conductor que sufre un trastorno depresivo...",
+        "respuestas": {
+            "1": "es más irritable y más ansioso al volante.",
+            "2": "es menos irritable y menos ansioso al volante.",
+            "3": "es más ansioso al volante, pero menos irritable."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La depresión es una enfermedad que...",
+        "respuestas": {
+            "1": "puede afectar a las capacidades para conducir con seguridad.",
+            "2": "es mejor no tratar con medicamentos si se conduce a diario.",
+            "3": "no afecta a las capacidades para conducir con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En general, los conductores que sufren un trastorno depresivo...",
+        "respuestas": {
+            "1": "reaccionan con mayor rapidez ante una situación imprevista.",
+            "2": "se distraen con mayor facilidad.",
+            "3": "son menos sensibles a la somnolencia y a la fatiga."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+        "respuestas": {
+            "1": "no debemos conducir hasta pasada al menos una hora de habernos medicado.",
+            "2": "se pierde información del entorno y el conductor puede tardar en detectar sucesos importantes.",
+            "3": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Los conductores que sufren un trastorno depresivo, ¿son más propensos, en general, a sufrir trastornos de sueño y a fatigarse con rapidez?",
+        "respuestas": {
+            "1": "Sí, por lo que se debe evitar conducir de noche.",
+            "2": "Sí, sufren trastornos de sueño, pero la depresión hace que tarde más en aparecer la fatiga.",
+            "3": "No, la depresión no produce somnolencia ni fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Cuando se padece una depresión, antes de ponerse al volante es aconsejable...",
+        "respuestas": {
+            "1": "consultar a un especialista.",
+            "2": "consumir alguna bebida alcohólica para tranquilizarse.",
+            "3": "tomar tranquilizantes durante algunos días."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+        "respuestas": {
+            "1": "no debemos conducir hasta pasada al menos una hora de habernos medicado.",
+            "2": "los medicamentos para su tratamiento pueden producir alteraciones que afectan a la conducción.",
+            "3": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "La depresión puede producir en la conducción...",
+        "respuestas": {
+            "1": "una percepción más eficiente.",
+            "2": "mayor capacidad de reacción.",
+            "3": "un aumento de las distracciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "La depresión, ¿puede afectar a la conducción?",
+        "respuestas": {
+            "1": "Sí, cuesta más trabajo mantener la atención necesaria, por ejemplo.",
+            "2": "No, en ningún caso.",
+            "3": "La depresión no afecta, pero si la medicación que se consume para tratarla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "La depresión hace que...",
+        "respuestas": {
+            "1": "resulte fácil mantener la concentración.",
+            "2": "aumente la sensibilidad a la somnolencia y la fatiga.",
+            "3": "las decisiones sean más rápidas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Según la Organización Mundial de la Salud, la depresión afecta a más de 300 millones de personas. Si sufrimos un trastorno depresivo debemos saber que con esta enfermedad...",
+        "respuestas": {
+            "1": "no se alteran las capacidades para conducir con seguridad.",
+            "2": "cualquier suceso puede alterar al conductor y provocar reacciones impulsivas.",
+            "3": "no se puede obtener, en ningún caso, el permiso de conducción de la clase B."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Bajo los efectos de la depresión...",
+        "respuestas": {
+            "1": "se tiene más seguridad.",
+            "2": "disminuyen las distracciones.",
+            "3": "se pierde información del entorno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

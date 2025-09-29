@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Es aconsejable conducir un turismo calzado con unas chanclas?",
+        "respuestas": {
+            "1": "No, porque podrían caerse y dificultar el manejo de los pedales.",
+            "2": "Sí, porque al no sujetar el pie, es más fácil ejercer la presión correcta sobre los pedales.",
+            "3": "Sí, porque permiten un manejo más rápido y seguro de los pedales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Quién está obligado a cuidar de que los pasajeros de un vehículo mantengan la posición adecuada para garantizar la seguridad?",
+        "respuestas": {
+            "1": "El conductor.",
+            "2": "Los pasajeros mayores de edad.",
+            "3": "El pasajero que ocupe el asiento delantero."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En un vehículo de 5 plazas incluido el conductor, ¿cuántos menores de edad de estatura igual o inferior a 135 centímetros pueden viajar como máximo?",
+        "respuestas": {
+            "1": "3 ya que en ningún caso pueden ocupar el asiento delantero.",
+            "2": "4 siempre que todos utilicen un sistema de retención infantil.",
+            "3": "6 aunque alguno de ellos no utilice un sistema de retención infantil."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Un vehículo lleva más carga que la Masa Máxima Autorizada (MMA). ¿Está permitido circular así?",
+        "respuestas": {
+            "1": "Sí, cuando es un vehículo de transporte de mercancías.",
+            "2": "No, porque es peligroso.",
+            "3": "Sí, pero solamente cuando transporta equipaje y personas dentro de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "El peso de un turismo y de su carga es superior a la masa máxima autorizada que figura en la ficha técnica del vehículo, ¿está permitido circular en estas condiciones?",
+        "respuestas": {
+            "1": "Solo si no se transportan personas, aparte del conductor.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El conductor, ¿está obligado a cuidar que el resto de pasajeros mantengan una posición adecuada en el vehículo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si el vehículo es de transporte colectivo de personas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En un turismo de nueve plazas, incluida la del conductor, ¿pueden viajar nueve menores de edad?",
+        "respuestas": {
+            "1": "No, porque se supera el número de plazas autorizado.",
+            "2": "Solo si los niños son menores de de 12 años.",
+            "3": "Sí, siempre que el conductor sea su padre, madre o tutor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En un turismo con cinco plazas autorizadas, incluida la del conductor, ¿está permitido transportar a seis personas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, siempre que no supere la masa máxima autorizada del vehículo.",
+            "3": "Solo cuando al menos uno de los ocupantes sea menor de edad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En un turismo con cinco plazas autorizadas, ¿puede transportar a seis personas?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, siempre que no se supere la masa máxima autorizada.",
+            "3": "Solo sí, al menos, uno de los ocupantes es menor de 14 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Es obligatorio que utilicen el cinturón de seguridad los ocupantes de un vehículo mixto adaptable de 3.000 kg de MMA?",
+        "respuestas": {
+            "1": "Solo en vías interurbanas.",
+            "2": "Sí, en todo tipo de vías.",
+            "3": "Solo en vías interurbanas y en travesías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En un turismo, ¿quiénes están obligados a llevar puesto el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sólo los que van en los asientos delanteros.",
+            "2": "Sólo los que van en los asientos traseros.",
+            "3": "Todos los ocupantes del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En los camiones de menos de 3.500 kg de MMA, ¿qué ocupantes están obligados a ponerse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "El conductor y los pasajeros de los asientos delanteros.",
+            "2": "Ninguno.",
+            "3": "El conductor solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Una embarazada, ¿debe llevar puesto el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, es obligatorio.",
+            "2": "No, no es obligatorio.",
+            "3": "Sí, pero sólo en vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El conductor de un turismo, ¿debe llevar abrochado el cinturón de seguridad cuando realiza un recorrido corto?",
+        "respuestas": {
+            "1": "No, cuando circule por una vía urbana.",
+            "2": "Solo si conduce un taxi, tanto en vías urbanas como interurbanas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Quién debe usar los cinturones de seguridad en un autobús?",
+        "respuestas": {
+            "1": "El conductor solamente.",
+            "2": "Además del conductor, los pasajeros de más de 3 años de edad.",
+            "3": "Todos los pasajeros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El conductor de un cuadriciclo ligero que dispone de cinturón de seguridad está obligado a utilizarlo...",
+        "respuestas": {
+            "1": "sólo en vías interurbanas.",
+            "2": "sólo en vías urbanas.",
+            "3": "tanto en vías urbanas e interurbanas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Los asientos de un camión tienen cinturones de seguridad, ¿está obligado el conductor a utilizarlo?",
+        "respuestas": {
+            "1": "No, en ningún tipo de vía.",
+            "2": "Sí, en todas las vías.",
+            "3": "Solo en vías fuera de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Los pasajeros de este turismo, ¿pueden viajar sin ponerse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, en los asientos traseros de los taxis.",
+            "2": "No, es obligatorio en todas las plazas del vehículo.",
+            "3": "Sólo cuando se realizan trayectos cortos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil homologados debidamente adaptados a...",
+        "respuestas": {
+            "1": "su talla y edad.",
+            "2": "su edad y peso.",
+            "3": "su talla y peso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En un turismo, como norma general, ¿es obligatorio el uso del cinturón de seguridad?",
+        "respuestas": {
+            "1": "No es obligatorio su uso, pero si es aconsejable.",
+            "2": "Sí, es obligatorio su uso tanto en vías urbanas como interurbanas.",
+            "3": "Es obligatorio su uso en vías interurbanas y aconsejable en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Respecto al uso del cinturón de seguridad, el ocupante de un turismo distinto del conductor debe...",
+        "respuestas": {
+            "1": "llevarlo puesto y correctamente abrochado.",
+            "2": "llevarlo puesto y sin abrochar, excepto si viaja en los asientos delanteros.",
+            "3": "llevarlo puesto y abrochado solo en vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Se debe desactivar el airbag frontal cuando en el asiento correspondiente al copiloto...",
+        "respuestas": {
+            "1": "se instale un dispositivo de retención infantil orientado hacia delante.",
+            "2": "viaje una mujer embarazada.",
+            "3": "se instale un dispositivo de retención infantil orientado hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En un vehículo con airbag frontal, si un menor viaja excepcionalmente en el asiento del copiloto con un sistema de retención infantil, es obligatorio que...",
+        "respuestas": {
+            "1": "el sistema de retención esté orientado hacia atrás y el airbag desactivado.",
+            "2": "el sistema de retención esté orientado hacia delante y el airbag desactivado.",
+            "3": "el sistema de retención esté orientado hacia atrás y el airbag conectado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un menor de estatura inferior a 135 centímetros podrá viajar excepcionalmente en el asiento delantero de un turismo cuando...",
+        "respuestas": {
+            "1": "el sistema de retención infantil esté orientado hacia delante y el airbag esté desactivado.",
+            "2": "el vehículo no disponga de cinturones de seguridad.",
+            "3": "todos los asientos traseros estén ocupados por otros menores con sistemas de retención infantil."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿En cuál de los siguientes casos se permite que un menor de edad con una estatura inferior a 135 centímetros viaje, excepcionalmente, en el asiento delantero de un turismo?",
+        "respuestas": {
+            "1": "Cuando todos los asientos traseros estén ocupados por otros menores o por adultos.",
+            "2": "Cuando no sea posible instalar en los asientos traseros todos los sistemas de retención infantil.",
+            "3": "Cuando el menor utilice el cinturón de seguridad en vez de sistemas de retención infantil."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Un niño menor de 12 años y con una estatura de 125 centímetros, ¿puede viajar en el asiento delantero de un turismo sin un dispositivo de retención homologado?",
+        "respuestas": {
+            "1": "Sí, siempre que lleve el cinturón abrochado.",
+            "2": "Sólo si todos los asientos traseros están ya ocupados por menores.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Como norma general, ¿en qué asientos deberá instalar los sistemas de retención infantil que están obligados a utilizar los menores de edad de estatura inferior a 135 centímetros?",
+        "respuestas": {
+            "1": "En el asiento delantero si está orientado hacia atrás, en los demás casos en los asientos traseros.",
+            "2": "En el asiento delantero.",
+            "3": "En los asientos traseros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Los menores de edad deberán utilizar un sistema de retención infantil homologado debidamente adaptado a su talla y peso cuando...",
+        "respuestas": {
+            "1": "su estatura sea igual o inferior a 150 centímetros.",
+            "2": "su edad sea igual o inferior a 14 años.",
+            "3": "su estatura sea igual o inferior a 135 centímetros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "A un menor de estatura inferior a 135 cm que utiliza un sistema de retención infantil, ¿le está permitido viajar en el asiento delantero de un turismo de cinco plazas?",
+        "respuestas": {
+            "1": "Solo por motivos excepcionales.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, siempre que vaya mirando hacia atrás y esté activado el airbag frontal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si los ocupantes de los asientos traseros de un vehículo son menores de edad y de estatura igual o inferior a 135 cm de altura, ¿qué dispositivos de seguridad deben utilizar?",
+        "respuestas": {
+            "1": "Un dispositivo de retención infantil adaptado a su talla y peso.",
+            "2": "El cinturón de seguridad que viene instalado en el vehículo.",
+            "3": "Obligatoriamente un sistema de retención infantil soldado a la carrocería del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

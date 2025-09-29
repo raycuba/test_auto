@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Entre la puesta y la salida del sol, ¿está permitido circular con una motocicleta que arrastra un remolque?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo si se circula a una velocidad un 10% inferior a la genérica de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "A los ciclomotores, ¿les está permitido circular arrastrando un remolque?",
+        "respuestas": {
+            "1": "Sí, cumpliendo ciertas condiciones.",
+            "2": "Sí, siempre que circulen de noche y no lleven pasajeros en el remolque.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Durante el día y con buena visibilidad, a una motocicleta, ¿le está permitido circular por una carretera convencional con un remolque que no supere el 50% de la masa en vacío de la motocicleta?",
+        "respuestas": {
+            "1": "No; en ningún caso las motocicletas pueden arrastrar un remolque.",
+            "2": "No; una motocicleta solo puede circular arrastrando un remolque en vías urbanas.",
+            "3": "Sí, siempre que cumpla el resto de condiciones establecidas para este conjunto de vehículos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En el remolque de una motocicleta, ¿está permitido transportar personas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, siempre que se circule de día y en condiciones que no disminuyan la visibilidad.",
+            "3": "Solo si el peso del remolque no supera el 50% de la masa en vacío de la motocicleta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Cuándo se podrán abrir las puertas para salir del vehículo?",
+        "respuestas": {
+            "1": "Cuando se encuentre inmovilizado y tras comprobar que no hay peligro.",
+            "2": "Siempre que esté inmovilizado, aunque entorpezca el paso a otros usuarios.",
+            "3": "Cuando se encuentre inmovilizado o circule a menos de 10 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Está permitido circular con las puertas abiertas para aumentar la capacidad de carga del vehículo?",
+        "respuestas": {
+            "1": "Solo si la carga es indivisible y la puerta está bien sujeta.",
+            "2": "Sí, está permitido circular con la puerta del maletero abierta.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando un vehículo está inmovilizado en el lado derecho de la calzada...",
+        "respuestas": {
+            "1": "el conductor podrá entrar o salir por el lado izquierdo, pero con rapidez y precaución.",
+            "2": "el conductor debe entrar o salir siempre por el lado derecho.",
+            "3": "el conductor no podrá salir o entrar nunca por el lado derecho."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Circula correctamente este vehículo?",
+        "respuestas": {
+            "1": "No, porque circula con las puertas abiertas.",
+            "2": "Sí, porque lleva las puertas bien sujetas.",
+            "3": "Sólo si la carga que transporta es indivisible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Como norma general, los ocupantes de un vehículo deben entrar al mismo por...",
+        "respuestas": {
+            "1": "cualquier lado, siempre que no se entorpezca a otros usuarios.",
+            "2": "el lado más alejado del borde de la vía y con el vehículo parado.",
+            "3": "el lado más próximo al borde de la vía y con el vehículo inmovilizado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "A la entrada y salida del colegio, para evitar riesgos, ¿qué precauciones deberá tomar cuando los niños desciendan del vehículo, además de la previa vigilancia del entorno?",
+        "respuestas": {
+            "1": "No deberán abrir las puertas ni apearse antes de la completa inmovilización del vehículo.",
+            "2": "Para mayor seguridad lo harán siempre por la puerta del conductor.",
+            "3": "Deberán bajar del vehículo por la puerta más alejada del borde de la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Antes de abrir las puertas para bajar de un vehículo, debe cerciorarse siempre de que...",
+        "respuestas": {
+            "1": "no se ocasiona peligro a otros usuarios.",
+            "2": "se ha puesto el chaleco reflectante.",
+            "3": "las luces de emergencia del vehículo están encendidas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En vía urbana de un solo sentido, los usuarios de un vehículo estacionado deberán salir de él...",
+        "respuestas": {
+            "1": "por el lado derecho o izquierdo, según el lado de la calzada donde se efectúe la inmovilización.",
+            "2": "siempre por el lado del conductor.",
+            "3": "por el lado derecho."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Un vehículo especial de reparación de las vías accede a una autopista para realizar obras en la vía. ¿Cuándo debe encender la señal luminosa V-2?",
+        "respuestas": {
+            "1": "Desde el momento en que circula por vías de uso público.",
+            "2": "No debe encenderla hasta llegar a la zona de obras.",
+            "3": "Sólo cuando circule entre la puesta y la salida del sol."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El vehículo de la imagen circula con la señal luminosa V-2, ¿de qué tipo de vehículo se trata?",
+        "respuestas": {
+            "1": "Un vehículo especial, y la luz indica su posición en la vía.",
+            "2": "Un vehículo especial circulando en situación de emergencia.",
+            "3": "Un vehículo con una anchura superior a 2,55 metros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Las señales y placas de la parte trasera del camión, ¿qué indican?",
+        "respuestas": {
+            "1": "Que transporta productos alimenticios.",
+            "2": "Que transporta mercancías peligrosas y que mide más de 12 metros.",
+            "3": "Que su peso y dimensiones son mayores que los normales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Cuando circulen a una velocidad que no supere los 40 km/h, los conductores de vehículos especiales obligados a llevar la señal luminosa V-2, la encenderán...",
+        "respuestas": {
+            "1": "tanto de día como de noche.",
+            "2": "sólo durante el día.",
+            "3": "sólo durante la noche."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿De qué advierte la señal luminosa de color amarillo auto, visible desde todas las direcciones, que lleva el tractor agrícola en su parte superior?",
+        "respuestas": {
+            "1": "De que circula en servicio urgente.",
+            "2": "De que no puede circular a una velocidad superior a 30 km/h.",
+            "3": "De su presencia en la vía o en sus inmediaciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Los vehículos destinados a obras y servicios, ¿cómo advertirán de su presencia cuando estén realizando obras de reparación en la calzada?",
+        "respuestas": {
+            "1": "Mediante un dispositivo luminoso con una luz rotativa de color azul o rojo.",
+            "2": "Mediante un dispositivo luminoso con una o varias luces de color amarillo auto.",
+            "3": "Mediante un dispositivo luminoso con una o varias luces de color azul."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En caso de avería de la señal luminosa V-2, los transportes especiales o en régimen de transporte especial...",
+        "respuestas": {
+            "1": "tienen prohibida la circulación.",
+            "2": "circularán por el carril derecho a una velocidad inferior a 40 km/h.",
+            "3": "circularán con la luz de cruce y la señal de emergencia encendidas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La luz rotativa de color amarillo auto que llevan los vehículos especiales, ¿les concede prioridad frente a los demás vehículos?",
+        "respuestas": {
+            "1": "No, solo señaliza su situación en la vía.",
+            "2": "Sí.",
+            "3": "Solo cuando circulen con ella encendida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Qué indica esta señal situada en la parte posterior de un vehículo?",
+        "respuestas": {
+            "1": "Que transporta mercancías peligrosas.",
+            "2": "Que es un vehículo especial y está realizando trabajos en la vía.",
+            "3": "Que es un vehículo lento y no puede superar la velocidad de 40 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué indica la señal colocada en la parte trasera del vehículo compuesta por una lámina reflectante de color amarillo rodeada de una lámina fluorescente de color rojo?",
+        "respuestas": {
+            "1": "Que el vehículo o el conjunto de vehículos tiene una longitud superior a 12 metros.",
+            "2": "Que el vehículo transporta mercancías peligrosas.",
+            "3": "Que el vehículo no podrá circular a una velocidad superior a 90 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Los vehículos especiales que circulen por una vía pública deberán utilizar la señal luminosa V-2 con luz rotativa amarillo auto siempre que circulen a una velocidad...",
+        "respuestas": {
+            "1": "superior a 40 km/h.",
+            "2": "no superior a 40 km/h.",
+            "3": "superior a 40 km/h, pero sólo entre la puesta y la salida del sol."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué indica el panel de franjas rojas y blancas que lleva este vehículo?",
+        "respuestas": {
+            "1": "Que transporta una carga que sobresale por detrás.",
+            "2": "Que tiene limitada la velocidad máxima a la que puede circular.",
+            "3": "Que transporta mercancías peligrosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿A qué se dedica el vehículo que lleva esta señal?",
+        "respuestas": {
+            "1": "Solamente al rescate de vehículos accidentados o averiados.",
+            "2": "Principalmente al transporte de vehículos accidentados o averiados.",
+            "3": "Principalmente al rescate y transporte de vehículos accidentados o averiados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿A qué vehículos identifica el distintivo de la imagen?",
+        "respuestas": {
+            "1": "A los vehículos de uso compartido.",
+            "2": "A los vehículos destinados al transporte público de viajeros.",
+            "3": "A los vehículos que no emiten gases contaminantes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si visualiza la señal V-27, triángulo virtual, en su vehículo, ¿de qué le advierte?",
+        "respuestas": {
+            "1": "De la proximidad de un tramo especialmente peligroso.",
+            "2": "De la proximidad de tramo de concentración de accidentes.",
+            "3": "De la presencia de un peligro próximo informado por otro usuario a la plataforma de vehículo conectado de la DGT."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En los vehículos comerciales y pesados, ¿es obligatorio colocar la señal de advertencia de peligro de ángulos muertos para advertir del riesgo a los usuarios vulnerables?",
+        "respuestas": {
+            "1": "No; es obligatoria para los vehículos pesados, pero es voluntaria para los comerciales.",
+            "2": "Sí; es obligatoria su colocación para poder circular.",
+            "3": "No; es una señal que se colocará de forma voluntaria en algunos de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Qué significa esta señal colocada en el lateral de una furgoneta?",
+        "respuestas": {
+            "1": "Advertencia de peligro de ángulos muertos para advertir a vehículos pesados.",
+            "2": "Advertencia de peligro de ángulos muertos para advertir a usuarios vulnerables.",
+            "3": "Precaución con las motocicletas estacionadas en la acera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cuantas señales de advertencia de peligro de ángulos muertos de carácter voluntario se colocarán en una furgoneta?",
+        "respuestas": {
+            "1": "Una en la parte delantera.",
+            "2": "Dos; una en cada lateral.",
+            "3": "Tres; una en cada lateral y una en la parte trasera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si conduce un ciclomotor, ¿le está permitido circular por este cebreado?",
+        "respuestas": {
+            "1": "Sí, porque está obligado a circular por el arcén.",
+            "2": "No, ningún vehículo puede circular por el cebreado.",
+            "3": "Sólo cuando la vía esté saturada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Cuando no se trata de una intersección, ¿dónde debe detenerse, el conductor de un vehículo que se acerque de frente a un Agente que tenga el brazo levantado verticalmente?",
+        "respuestas": {
+            "1": "Ante la línea de detención y, si no existiera, inmediatamente antes del Agente.",
+            "2": "Inmediatamente antes del Agente, aunque exista línea de detención.",
+            "3": "En vías de doble sentido, inmediatamente después del Agente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El permiso de conducción de la clase B, ¿autoriza a conducir una furgoneta de 3.500 kilogramos de MMA?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, es necesario el permiso de la clase C.",
+            "3": "Sí, pero solo cuando el permiso tenga una antigüedad superior a 2 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "La velocidad máxima, con carácter general, para un vehículo especial es de...",
+        "respuestas": {
+            "1": "45 kilómetros por hora.",
+            "2": "40 kilómetros por hora.",
+            "3": "60 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Está permitido circular con un turismo por una vía en cuya entrada está situada esta señal?",
+        "respuestas": {
+            "1": "No, porque es una vía reservada para ciclos.",
+            "2": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos.",
+            "3": "No, porque es una vía reservada para todos los vehículos de dos ruedas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿En qué tipo de trazados se produce un mayor número de accidentes de tráfico?",
+        "respuestas": {
+            "1": "En curvas con buena visibilidad.",
+            "2": "En curvas con mala visibilidad.",
+            "3": "En rectas con buena visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Que hay una intersección por la izquierda a 150 metros.",
+            "2": "Que se termina el carril de la izquierda a 150 metros.",
+            "3": "Que a 150 metros hay un puente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer al conductor?",
+        "respuestas": {
+            "1": "Solo si las emisoras de radio no están guardadas en memoria.",
+            "2": "No.",
+            "3": "Sí, aumentando el riesgo de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Está permitido circular por una autovía por debajo del límite mínimo de velocidad establecido para dicha vía sin causa justificada?",
+        "respuestas": {
+            "1": "No, porque es una velocidad anormalmente reducida.",
+            "2": "Sí, aunque es obligatorio circular por el arcén.",
+            "3": "Solo si no se entorpece la marcha normal de otros vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una intersección en la que tiene prioridad, ¿debe ceder el paso a un vehículo prioritario que circule en servicio de urgencia?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, ya que circula por una calzada con prioridad.",
+            "3": "Solo si el vehículo prioritario utiliza conjuntamente las luces y las señales ópticas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Cuando las ruedas llevan poco aire...",
+        "respuestas": {
+            "1": "se desgastan más por el centro.",
+            "2": "se desgastan más por los lados.",
+            "3": "se desgastan igual por los lados que por el centro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Un vehículo tiene que atravesar un arcén por el que están transitando animales que no disponen de cañada; ¿quién tiene preferencia de paso?",
+        "respuestas": {
+            "1": "Los animales, pero sólo si forman rebaño.",
+            "2": "El conductor del vehículo, al no tratarse de una cañada.",
+            "3": "Los animales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En la disposición más generalizada en los mandos de una motocicleta, el acelerador se acciona con...",
+        "respuestas": {
+            "1": "la mano izquierda.",
+            "2": "el pie derecho.",
+            "3": "la mano derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En los pasos para peatones y en sus proximidades, ¿está permitido adelantar?",
+        "respuestas": {
+            "1": "Sí, a velocidad reducida para poder detener el vehículo en caso de peligro de atropello.",
+            "2": "Sí, siempre que no haya peatones cruzando.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Cuando se aproxime a un cruce con visibilidad nula, ¿debe moderar su velocidad?",
+        "respuestas": {
+            "1": "Sí, y no tengo que prestar atención al límite de velocidad.",
+            "2": "No, siempre y cuando haya una señal de ceda el paso.",
+            "3": "Sí, y si hay señal que no establezca la prioridad, no debo superar los 50 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El alcohol puede detectarse en la sangre a partir de los 5 minutos de haberlo consumido, pero, ¿cuándo alcanza su máximo nivel (pico de alcoholemia)?",
+        "respuestas": {
+            "1": "Entre los 30 y los 90 minutos después de haberlo consumido.",
+            "2": "Entre los 120 y los 130 minutos después de haberlo consumido.",
+            "3": "Entre las tres y las cuatro horas después de haberlo consumido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si detrás de su vehículo se sitúa un Agente en una motocicleta que lleva encendido el dispositivo que emite luz amarilla intermitente, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerme en el lado derecho de la calzada, delante del vehículo policial.",
+            "2": "Detenerme cuando pueda y salir del vehículo inmediatamente.",
+            "3": "Continuar circulando, salvo que el agente emplee la megafonía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Los ocupantes de un ciclomotor que disponga de cinturones de seguridad, están obligados a utilizarlos...",
+        "respuestas": {
+            "1": "únicamente cuando circulen por vías que no dispongan de arcén.",
+            "2": "tanto en vías urbanas como interurbanas.",
+            "3": "solo cuando circulen por vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En general, bajo los efectos de anfetaminas...",
+        "respuestas": {
+            "1": "el comportamiento del conductor puede ser impaciente e impulsivo.",
+            "2": "aumenta la sensación de fatiga del conductor.",
+            "3": "el conductor percibe mejor las situaciones de riesgo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Está permitido efectuar un cambio de sentido en un cambio de rasante con visibilidad reducida?",
+        "respuestas": {
+            "1": "Sí, sólo está prohibido el adelantamiento.",
+            "2": "Sí, si no existe peligro para otros usuarios.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Cuándo debe apagar el indicador de dirección un vehículo que se desplaza para adelantar?",
+        "respuestas": {
+            "1": "Cuando haya rebasado al vehículo y antes de volver a la derecha.",
+            "2": "Cuando haya terminado el desplazamiento.",
+            "3": "Cuando vuelva al carril derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Está permitido depositar la mercancía en la vía mientras se realizan operaciones de carga o descarga?",
+        "respuestas": {
+            "1": "No; está prohibido depositar la mercancía en la calzada, arcén o aceras.",
+            "2": "Sí; se puede depositar la mercancía en la calzada o en el arcén, pero no en la acera.",
+            "3": "Solo cuando la carga o descarga se realice fuera de poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "El consumo de sustancias estimulantes como el café, ¿resulta útil para vencer el sueño?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, pueden resultar útiles porque ayudan a mantener la atención del conductor a largo plazo.",
+            "3": "Sí, pueden resultar útiles a corto plazo pero cuando pasan sus efectos se puede producir un efecto rebote."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En las maniobras que impliquen un desplazamiento lateral, ¿cuándo se debe apagar la luz indicadora de dirección?",
+        "respuestas": {
+            "1": "Unos 50 metros después de que el vehículo haya adoptado su nueva trayectoria.",
+            "2": "Tan pronto como el vehículo comience el desplazamiento lateral.",
+            "3": "Tan pronto como el vehículo haya adoptado su nueva trayectoria."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Salvo que ambos sentidos de circulación estén claramente delimitados y la maniobra se pueda hacer sin invadir el sentido contrario, en general está prohibido adelantar en...",
+        "respuestas": {
+            "1": "todos los pasos de peatones debidamente señalizados.",
+            "2": "todo lugar en que la visibilidad disponible no sea suficiente.",
+            "3": "todas las intersecciones y sus proximidades."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Una de las consecuencias de la velocidad es qué a medida que se aumenta...",
+        "respuestas": {
+            "1": "el tiempo de reacción se reduce.",
+            "2": "mayor es la gravedad de las lesiones en caso de accidente.",
+            "3": "se pierde coordinación de movimientos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Es obligatorio encender el alumbrado de posición...",
+        "respuestas": {
+            "1": "al estacionar en la calzada de una travesía suficientemente iluminada.",
+            "2": "siempre que sea obligatorio circular con cualquier otro alumbrado.",
+            "3": "cuando se circula a menos de 40 km/h por una vía interurbana."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Ha quedado detenido en una intersección regulada por semáforos y obstaculiza la circulación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Dar marcha atrás para dejar libre la intersección.",
+            "2": "Esperar a que el semáforo se ponga verde.",
+            "3": "Salir del cruce lo antes posible, en condiciones de seguridad, sin esperar a que el semáforo se ponga verde."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Como norma general, en la parte transitable del arcén de una vía interurbana, ¿está permitida la parada o el estacionamiento?",
+        "respuestas": {
+            "1": "Está permitida la parada, pero no el estacionamiento.",
+            "2": "Está prohibida tanto la parada como el estacionamiento.",
+            "3": "Está permitida tanto la parada como el estacionamiento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si no puede alcanzar con su vehículo la velocidad mínima exigida en la vía por la que circula y existe peligro de alcance, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Realizar destellos mediante el uso alterno de la luz de corto y largo alcance.",
+            "2": "Advertirlo mediante el empleo reiterado de las luces de frenado.",
+            "3": "Circular con la señal de emergencia encendida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

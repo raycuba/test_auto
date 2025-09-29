@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal indica peligro por la proximidad de...",
+        "respuestas": {
+            "1": "un tramo de vía con posible obstrucción en la calzada.",
+            "2": "un resalto o badén en la vía o pavimento en mal estado.",
+            "3": "un tramo de vía con pendientes ascendentes y descendentes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué le indica esta señal?",
+        "respuestas": {
+            "1": "Peligro por la existencia de un tramo de vía con fuerte pendiente ascendente.",
+            "2": "Peligro por la existencia de un tramo de vía con fuerte pendiente descendente.",
+            "3": "Peligro por la existencia de un desnivel o escalón lateral a lo largo de la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Esta señal indica que se acerca a un tramo...",
+        "respuestas": {
+            "1": "con una bajada peligrosa por fuerte pendiente.",
+            "2": "en el que son frecuentes los desprendimientos de rocas.",
+            "3": "con una subida peligrosa por fuerte pendiente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "La señal de la foto indica...",
+        "respuestas": {
+            "1": "estrechamiento por la derecha.",
+            "2": "estrechamiento por la izquierda.",
+            "3": "estrechamiento por la derecha y por la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Esta señal de advertencia de peligro indica la proximidad de...",
+        "respuestas": {
+            "1": "un resalto o badén en la vía.",
+            "2": "una obstrucción en la calzada.",
+            "3": "una zona de la vía en la que se estrecha la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué indica la señal de peligro?",
+        "respuestas": {
+            "1": "Estrechamiento por el lado derecho de la calzada.",
+            "2": "Estrechamiento por el lado derecho y por el lado izquierdo de la calzada.",
+            "3": "Estrechamiento por el lado izquierdo de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Peligro por la proximidad de un tramo de vía en obras.",
+            "2": "Peligro por la proximidad a una zona con desprendimientos frecuentes.",
+            "3": "Peligro por la proximidad de una zona en la que se realizan tareas agrícolas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Debe saber que a partir de la señal hay peligro por la proximidad de...",
+        "respuestas": {
+            "1": "grandes charcos de agua que obligan a reducir la velocidad.",
+            "2": "un tramo de vía donde existe el riesgo de que se proyecte la gravilla al pasar los vehículos.",
+            "3": "una zona con desprendimientos frecuentes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "zona reservada a peatones.",
+            "2": "peligro por la proximidad de una zona frecuentada por peatones.",
+            "3": "peligro por la proximidad de un paso de peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "una calle residencial.",
+            "2": "la situación de un paso para peatones.",
+            "3": "peligro por la proximidad de un lugar frecuentado por niños, tales como escuelas o zonas de juegos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "lugar de acampada para ciclistas.",
+            "2": "peligro zona frecuentada por ciclomotores.",
+            "3": "peligro se aproxima a zona frecuentada por ciclistas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "A la vista de la señal, ¿tienen preferencia de paso los animales domésticos cuando crucen la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando vayan en grupo.",
+            "3": "Sí, cuando vayan acompañados por un conductor de ganado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "da prioridad a los animales.",
+            "2": "prohíbe el paso de animales.",
+            "3": "advierte de peligro por proximidad de una zona de paso frecuente de animales domésticos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Parque nacional.",
+            "2": "Peligro, coto de caza.",
+            "3": "Peligro, paso frecuentado por animales en libertad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La señal indica la existencia de peligro por...",
+        "respuestas": {
+            "1": "la proximidad de una zona donde la circulación se realiza en los dos sentidos.",
+            "2": "circulación en el mismo sentido.",
+            "3": "estrechamiento de calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Escalón lateral.",
+            "2": "Obstáculos en la calzada.",
+            "3": "Peligro por muelle o corriente de agua."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "desnivel a lo largo de la vía en el lado derecho.",
+            "2": "vehículo accidentado.",
+            "3": "una zona con baches y en obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué medidas deberá adoptar ante esta señal?",
+        "respuestas": {
+            "1": "Me autoriza a circular en sentido contrario, extremando la precaución, en caso de desprendimientos.",
+            "2": "Aumentaré la atención por posibles desprendimientos y obstáculos en la calzada.",
+            "3": "Aceleraré pasando la zona lo más rápidamente posible para dejar paso libre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Proximidad de un tramo en el que la circulación se encuentra detenida o dificultada por congestión de tráfico.",
+            "2": "Proximidad de un tramo en el que sólo está permitida la circulación de turismos.",
+            "3": "Prohibición de circular en paralelo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "advierte que debo circular con precaución por congestión del tráfico.",
+            "2": "indica peligro por la aproximación a un paso estrecho y debe ir en fila.",
+            "3": "prohibe entrar en esta vía por congestión de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿De qué peligro nos advierte esta señal?",
+        "respuestas": {
+            "1": "Pavimento deslizante.",
+            "2": "Escalón lateral.",
+            "3": "Obstrucción en la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "peligro por la proximidad de una zona donde sopla fuerte viento lateral.",
+            "2": "peligro por la proximidad de un vehículo accidentado que obstruye la calzada.",
+            "3": "peligro por la proximidad de un tramo de la vía con pavimento deslizante por hielo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "peligro, escalón lateral.",
+            "2": "peligro, pavimento deslizante.",
+            "3": "peligro, accidente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal indica peligro por la proximidad de...",
+        "respuestas": {
+            "1": "un tramo de vía cuyo pavimento puede resultar muy deslizante, por gravilla.",
+            "2": "una zona de la calzada cuyo pavimento puede resultar especialmente deslizante a causa del hielo o la nieve.",
+            "3": "un tramo de vía de visibilidad reducida, por nevadas frecuentes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Esta señal indica peligro por...",
+        "respuestas": {
+            "1": "pavimento deslizante por nieve.",
+            "2": "la proximidad de un tramo de la vía con visibilidad reducida por niebla, lluvia o nieve.",
+            "3": "la proximidad de un tramo de la vía con desprendimientos frecuentes y la presencia de obstáculos en la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "peligro por proximidad de zona balizada.",
+            "2": "peligro por proximidad de zona frecuentada por aeronaves.",
+            "3": "peligro por proximidad de zona donde puede soplar fuerte viento lateral."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Esta señal advierte del peligro por la proximidad de una zona donde...",
+        "respuestas": {
+            "1": "normalmente sopla viento fuerte en cualquier dirección.",
+            "2": "sopla frecuentemente viento fuerte en dirección transversal.",
+            "3": "vuelan frecuentemente aeronaves a baja altura sobre la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Carril obligatorio para acceder a un aeropuerto.",
+            "2": "Peligro por la proximidad de un lugar donde frecuentemente vuelan aeronaves a baja altura sobre la vía.",
+            "3": "Prohíbe el acceso a un aeropuerto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "La señal...",
+        "respuestas": {
+            "1": "indica la proximidad de un tramo con tráfico denso.",
+            "2": "indica la proximidad de un peligro distinto de los advertidos por otras señales.",
+            "3": "reitera la información dada por otra señal de peligro anterior."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La señal de la derecha indica...",
+        "respuestas": {
+            "1": "peligro por la proximidad de un estrechamiento de la calzada.",
+            "2": "la proximidad de un peligro distinto de los advertidos por otras señales.",
+            "3": "peligro por la proximidad de una vía en obras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

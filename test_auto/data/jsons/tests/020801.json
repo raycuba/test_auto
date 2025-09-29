@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué es una detención?",
+        "respuestas": {
+            "1": "Una parada por cualquier causa.",
+            "2": "Un estacionamiento sin bajarse del vehículo.",
+            "3": "La inmovilización del vehículo por necesidades de la circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Debido a una avería, un vehículo obstaculiza la circulación en una autovía; ¿qué debe hacer su conductor?",
+        "respuestas": {
+            "1": "Sacarlo de la calzada, cumpliendo las normas de estacionamiento siempre que sea posible.",
+            "2": "Dejarlo en la mediana, porque siempre es el sitio más seguro.",
+            "3": "Remolcarlo con cualquier otro vehículo hasta un lugar seguro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En caso de caída de la carga en la calzada, el conductor, en la medida de lo posible, deberá...",
+        "respuestas": {
+            "1": "proseguir la marcha para avisar del incidente a la policía de tráfico.",
+            "2": "retirarla de la calzada en el menor tiempo posible.",
+            "3": "dejar el vehículo atravesado en mitad de la calzada para cortar el tránsito."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si mientras circula se le pincha una rueda, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Continuar circulando hasta llegar al taller más próximo.",
+            "2": "Inmovilizar rápidamente el vehículo fuera de la calzada o en lugar seguro.",
+            "3": "Detener el vehículo rápidamente en cualquier lugar y abandonarlo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En caso de caída de la carga en la calzada, el conductor deberá...",
+        "respuestas": {
+            "1": "proseguir la marcha y avisar del accidente a las autoridades pertinentes.",
+            "2": "retirarla lo antes posible y adoptar entre tanto las medidas necesarias para avisar al resto de usuarios y para que no se dificulte la circulación.",
+            "3": "cortar la circulación en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si debido a una emergencia, un conductor se ve obligado a inmovilizar su vehículo en una autopista, ¿puede hacerlo en la mediana?",
+        "respuestas": {
+            "1": "No, en ningún caso se debe dejar inmovilizado el vehículo en la mediana.",
+            "2": "Solo si fuera preciso y de forma excepcional para no obstaculizar la circulación.",
+            "3": "No, siempre se debe dejar inmovilizado el vehículo en el arcén derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En esta vía interurbana, podrá inmovilizar su vehículo en la parte transitable del arcén...",
+        "respuestas": {
+            "1": "para descargar objetos, siempre que la parada dure menos de 2 minutos.",
+            "2": "para subir o bajar personas.",
+            "3": "por razones de emergencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Debido a una avería un vehículo obstaculiza la circulación, ¿qué debe hacer su conductor?",
+        "respuestas": {
+            "1": "Sacarlo de la calzada cumpliendo las normas de estacionamiento siempre que sea posible.",
+            "2": "Dejarlo en la mediana, porque siempre es el sitio más seguro.",
+            "3": "Remolcarlo con cualquier otro vehículo hasta un lugar seguro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Es obligatorio emplear el dispositivo de preseñalización de peligro para advertir la presencia de un turismo averiado en la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo si la visibilidad es insuficiente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Hasta el 01 de enero del 2026 y en caso de no disponer del dispositivo luminoso V-16. Cuando deba colocarse un triángulo de preseñalización de peligro, ¿en qué lado de la calzada lo hará?",
+        "respuestas": {
+            "1": "En el borde derecho de la calzada en el sentido de la marcha.",
+            "2": "En cualquier lugar en el que sea visible desde 100 metros, por lo menos.",
+            "3": "En el centro de la calzada en las vías de doble sentido. En el izquierdo en las vías de un solo sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En caso de que, por avería, una motocicleta quede inmovilizada en la calzada de una vía con un carril para cada sentido de la circulación, ¿cómo debe señalizarla?",
+        "respuestas": {
+            "1": "Con la señal de emergencia, si la tiene instalada.",
+            "2": "Con un triángulo de preseñalización de peligro, que está obligado a llevar.",
+            "3": "Con los dos triángulos de preseñalización de peligro que está obligado a llevar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Debido a una emergencia, un turismo queda inmovilizado en la calzada, su conductor, ¿debe colocar el dispositivo de preseñalización de peligro, como norma general?",
+        "respuestas": {
+            "1": "Solo debe encender la luz de emergencia y si procede, las luces de posición.",
+            "2": "Sí, aunque haya encendido la luz de emergencia, la de posición o ambas.",
+            "3": "No, excepto si la inmovilización se produce en una vía fuera de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Durante el día, ¿debe señalizar la situación en la vía de su vehículo si se queda inmovilizado por una avería en el arcén de una carretera convencional?",
+        "respuestas": {
+            "1": "Sí, con el dispositivo de preseñalización de peligro y la señal de emergencia.",
+            "2": "Sí, únicamente con los triángulos de preseñalización de peligro.",
+            "3": "No, en el arcén no es necesario señalizarlo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si la carga que transporta cae a la vía y supone un obstáculo o peligro para la circulación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Únicamente señalizarla y esperar a que llegue un vehículo policial para retirarla.",
+            "2": "Señalizarla y retirarla de la vía lo antes posible.",
+            "3": "No detenerse hasta encontrar un lugar adecuado para estacionar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Hasta el 1 de enero del 2026, en caso de no disponer del dispositivo luminoso V-16, el conductor de un turismo averiado colocará un solo triangulo de preseñalización de peligro...",
+        "respuestas": {
+            "1": "en calzadas de dos sentidos.",
+            "2": "en calzadas de sentido único o de más de tres carriles",
+            "3": "en todo tipo de calzadas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Hasta el 1 de enero del 2026, en caso de no disponer de dispositivo luminoso, los triángulos de preseñalización de peligro se colocarán a...",
+        "respuestas": {
+            "1": "100 metros de distancia, al menos, del vehículo o la carga.",
+            "2": "50 metros de distancia como máximo, del vehículo o la carga.",
+            "3": "50 metros de distancia, al menos, del vehículo o la carga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué deben hacer quienes creen un obstáculo o peligro sobre la vía hasta que lo hagan desaparecer?",
+        "respuestas": {
+            "1": "Nada, serán los servicios de emergencia los que tomen medidas.",
+            "2": "Señalizarlo para que sea advertido por los demás usuarios.",
+            "3": "Atravesar el vehículo en la calzada para evitar la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Hasta el 1 de enero del 2026, en una calzada de sentido único y en caso de no disponer del dispositivo luminoso V-16, ¿cómo debe colocar los triángulos de preseñalización de peligro?",
+        "respuestas": {
+            "1": "Dos por detrás del vehículo separados por 50 metros.",
+            "2": "Uno por detrás del vehículo a 50 metros como mínimo.",
+            "3": "Uno por delante y otro por detrás del vehículo a 50 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si la carga que transporta en su vehículo cae sobre la calzada, ¿debe señalizar su situación hasta que la retire de la vía?",
+        "respuestas": {
+            "1": "Sí, con el dispositivo de preseñalización de peligro.",
+            "2": "Solo si cae sobre algún carril, pero no si cae sobre el arcén.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En caso de no disponer del dispositivo luminoso V-16 y hasta el 1 de enero del 2026, ¿está permitido colocar los triángulos de preseñalización de peligro a menos de 50 metros del vehículo averiado?",
+        "respuestas": {
+            "1": "No, deben estar al menos a 100 metros.",
+            "2": "Sí, a esa distancia ya son visibles.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En esta vía de doble sentido, al inmovilizar un turismo por emergencia, ¿puede colocar el dispositivo luminoso amarillo auto de preseñalización de peligro?",
+        "respuestas": {
+            "1": "No, basta con encender la señal de emergencia.",
+            "2": "Sí, en la parte más alta posible del vehículo.",
+            "3": "Sí, en la parte trasera del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Al inmovilizar un vehículo en una autopista es obligatorio señalizar la presencia del mismo...",
+        "respuestas": {
+            "1": "con la luz de posición, siempre.",
+            "2": "únicamente con la luz de emergencia.",
+            "3": "con la luz de emergencia, si se dispone de ella y, en su caso, con la de posición."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En una inmovilización por emergencia de un vehículo, en caso de no disponer del dispositivo luminoso, señal V-16, y hasta el 1 de enero del 2026, ¿a qué distancia del mismo deben colocarse los triángulos de preseñalización de peligro?",
+        "respuestas": {
+            "1": "A 50 metros como máximo y deben ser visibles desde, al menos, 100 metros.",
+            "2": "A 50 metros como mínimo y deben ser visibles desde, al menos, 100 metros.",
+            "3": "A 100 metros y deben ser visibles desde, al menos, 150 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El conductor de un vehículo que se encuentre inmovilizado por avería, fuera de la calzada y del arcén, ¿debe colocar el dispositivo de preseñalización de peligro?",
+        "respuestas": {
+            "1": "No, porque no obstaculiza la circulación.",
+            "2": "Sí, porque se trata de una emergencia.",
+            "3": "Solo en vías fuera de poblado con un carril para cada sentido de circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El vehículo blanco está inmovilizado. ¿Debe señalizarlo?",
+        "respuestas": {
+            "1": "Sí, con la luz de posición.",
+            "2": "Sí, con la luz de emergencia y el dispositivo de preseñalización de peligro.",
+            "3": "No, porque está en el arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Hasta el 01 de enero del 2026 y en caso de no disponer del dispositivo luminoso de preseñalización de peligro. Los triángulos de peligro, ¿se pueden colocar a más de 50 metros de un vehículo inmovilizado por avería en la calzada o en el arcén?",
+        "respuestas": {
+            "1": "Sí, de forma que sean visibles desde 100 metros, al menos, por los conductores que se aproximen.",
+            "2": "No, deben colocar a 50 metros, o menos del vehículo inmovilizado.",
+            "3": "Solo si la inmovilización se produce una vía insuficientemente iluminada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Es de noche y debido a una avería necesita inmovilizar su vehículo en el arcén de una carretera. ¿Qué luces debe encender?",
+        "respuestas": {
+            "1": "Las luces de posición solamente.",
+            "2": "Las luces de emergencia y las de corto alcance.",
+            "3": "Las luces de posición y las de emergencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Debe señalizarse un vehículo inmovilizado por avería en el arcén?",
+        "respuestas": {
+            "1": "No, porque el vehículo no está en la calzada.",
+            "2": "Sí, con la señal de emergencia del vehículo, el dispositivo de preseñalización de peligro y, en su caso, con las luces de posición.",
+            "3": "No, porque el lugar utilizado para inmovilizarlo, es el apropiado para ese tipo de situaciones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si por accidente u otra emergencia un vehículo quedara inmovilizado en una autovía y fuese necesario solicitar ayuda, los ocupantes...",
+        "respuestas": {
+            "1": "podrán transitar por la calzada.",
+            "2": "no podrán transitar por la calzada.",
+            "3": "deberán permanecer en todo momento en el interior del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Los ocupantes de un vehículo, ¿pueden caminar por una autopista?",
+        "respuestas": {
+            "1": "Sólo de forma excepcional, como en caso de avería, aunque no podrán transitar por la calzada.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, como norma general."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

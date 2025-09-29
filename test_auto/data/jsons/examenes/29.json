@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "que se permite la circulación en paralelo.",
+            "2": "la entrada a una autopista o autovía de dos carriles.",
+            "3": "una calzada de sentido único y dos carriles."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En caso de niebla espesa, ¿qué luces debe utilizar el conductor de un turismo?",
+        "respuestas": {
+            "1": "Las luces antiniebla, las de posición y las de corto alcance.",
+            "2": "Las luces antiniebla delanteras y las de emergencia.",
+            "3": "Las luces antiniebla, las de posición y las de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los accidentes de tráfico, ¿son evitables?",
+        "respuestas": {
+            "1": "No, ya que dependen del azar o la suerte.",
+            "2": "No, porque dependen de muchos factores.",
+            "3": "Sí, aunque normalmente se piensa que no se pueden evitar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El orden de prioridad entre los distintos tipos de las señales es...",
+        "respuestas": {
+            "1": "agentes, semáforos y marcas viales.",
+            "2": "agentes, marcas viales y semaforos.",
+            "3": "semáforos, agentes y marcas viales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Esta señal indica la obligación de circular utilizando el alumbrado de...",
+        "respuestas": {
+            "1": "corto alcance, al menos, con independencia de las condiciones de visibilidad e iluminación de la vía.",
+            "2": "largo alcance, al menos, con independencia de las condiciones de visibilidad e iluminación de la vía.",
+            "3": "corto o largo alcance, dependiendo de las condiciones de visibilidad e iluminación de la vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿A qué vehículos afecta esta señal?",
+        "respuestas": {
+            "1": "Sólo a los vehículos de motor.",
+            "2": "A todos los vehículos que circulen por esta calzada.",
+            "3": "A los que están circulando por el carril donde está situada la marca vial."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Una de las infracciones de los conductores que implica más riesgo para los peatones es...",
+        "respuestas": {
+            "1": "el exceso de velocidad en autopista.",
+            "2": "estacionar en los pasos para peatones.",
+            "3": "no utilizar los cinturones de seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Si el conductor del vehículo que circula delante acciona repetidas veces las luces de frenado, ¿qué indica?",
+        "respuestas": {
+            "1": "Que las retenciones obligan a circular por el arcén.",
+            "2": "Retenciones a un kilómetro.",
+            "3": "Que reduce considerablemente la velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días indicados en la señal.",
+            "2": "el estacionamiento entre la 1 y las 15 horas.",
+            "3": "el estacionamiento desde las 9 horas del día 1 hasta las 9 horas del día 16."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una calle de un carril cuya calzada está a distinto nivel que la acera, ¿a qué velocidad máxima se puede circular, como norma general?",
+        "respuestas": {
+            "1": "A 20 km/h.",
+            "2": "A 50 km/h.",
+            "3": "A 30 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Ante esta situación con un semáforo en amarillo intermitente, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerme para dejar pasar al peatón y luego reanudar la marcha.",
+            "2": "Detenerme y esperar a que el semáforo cambie a verde.",
+            "3": "Detenerme como si de un semáforo rojo se tratara."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Un tubo de longitud indivisible, ¿puede sobresalir por la parte delantera del vehículo?",
+        "respuestas": {
+            "1": "Sí, en cualquier tipo de vehículo.",
+            "2": "Sí, pero solo en vehículos destinados exclusivamente al transporte de mercancías.",
+            "3": "No, excepto si se trata de un transporte especial."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que circulo por una calzada con un solo carril en mi sentido.",
+            "2": "Obligación de seguir el camino y dirección indicadas por la flecha.",
+            "3": "Que circulo por una vía con prioridad de paso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Entre los principales gastos sanitarios provocados por los accidentes de tráfico están...",
+        "respuestas": {
+            "1": "los medicamentos.",
+            "2": "los antidepresivos.",
+            "3": "los de rehabilitación y adaptaciones para las personas accidentadas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Dónde puede encontrar estos paneles?",
+        "respuestas": {
+            "1": "Encima de una señal vertical.",
+            "2": "Bajo una señal vertical.",
+            "3": "Antes de una señal vertical."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Peligro, intersección con preferencia.",
+            "2": "Peligro, proximidad de curvas peligrosas, la primera hacia la derecha.",
+            "3": "Zona de curvas que no son peligrosas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Si en un tramo de gran pendiente se encuentran dos vehículos en una zona estrecha donde no pueden cruzarse, ¿qué vehículo tendrá preferencia de paso, como norma general?",
+        "respuestas": {
+            "1": "El que tenga mayor masa máxima autorizada.",
+            "2": "El que circula en sentido descendente.",
+            "3": "El que circula en sentido ascendente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Tiene prioridad de paso una ambulancia que circule con las señales luminosas apagadas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo tiene preferencia en las vías urbanas.",
+            "3": "Sí, tiene preferencia en todo tipo de vías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Qué es un catadióptrico?",
+        "respuestas": {
+            "1": "Un dispositivo de alumbrado del vehículo.",
+            "2": "Una placa de matrícula reflectante.",
+            "3": "Un dispositivo que refleja la luz procedente de una fuente luminosa."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "El carril izquierdo está abierto en sentido contrario al habitual. ¿A qué velocidad máxima pueden circular los vehículos que circulan por el carril derecho?",
+        "respuestas": {
+            "1": "A 60 km/h.",
+            "2": "A la velocidad máxima de la vía, 120 km/h.",
+            "3": "A 80 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Por qué carril deberá circular en una calzada con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas?",
+        "respuestas": {
+            "1": "Por el de la derecha o el central, pudiendo utilizar el situado más a la izquierda para adelantar.",
+            "2": "Por el de la derecha, y en ningún caso por el situado más a la izquierda.",
+            "3": "Por el de la derecha, pudiendo utilizar el central o el situado más a la izquierda para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Para ahorrar carburante, ¿dónde se debe poner el equipaje?",
+        "respuestas": {
+            "1": "En el maletero.",
+            "2": "En el maletero o en la baca, es indistinto.",
+            "3": "En la baca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿se podrá circular por el situado más a la izquierda?",
+        "respuestas": {
+            "1": "Sí, cuando no se aproxime otro vehículo.",
+            "2": "No.",
+            "3": "Sólo para girar a la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "La mayoría de los accidentes de circulación...",
+        "respuestas": {
+            "1": "son inevitables.",
+            "2": "se podrían haber evitado.",
+            "3": "se producen en autopistas y autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El vehículo estacionado se quiere incorporar a la circulación, ¿qué debe hacer su conductor?",
+        "respuestas": {
+            "1": "Advertir de su intención mediante los indicadores de dirección.",
+            "2": "Advertir de su intención mediante señales acústicas.",
+            "3": "Incorporarse sin advertir de su intención, ya que no es obligatorio."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "El alcohol es siempre peligroso para la seguridad vial...",
+        "respuestas": {
+            "1": "aunque sea consumido en pequeñas cantidades.",
+            "2": "excepto si se consume en pequeñas cantidades.",
+            "3": "salvo para quienes están habituados a su consumo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El vehículo verde quiere adelantar, pero el vehículo blanco ya ha encendido el intermitente izquierdo. ¿Quién tiene preferencia?",
+        "respuestas": {
+            "1": "El vehículo blanco.",
+            "2": "El vehículo verde."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Estas señales de balizamiento indican que...",
+        "respuestas": {
+            "1": "hay que tomar obligatoriamente la salida inmediata que está a la derecha.",
+            "2": "solamente es utilizable el carril derecho.",
+            "3": "la próxima curva es especialmente peligrosa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si la carga que transporta cae a la vía y supone un obstáculo o peligro para la circulación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Únicamente señalizarla y esperar a que llegue un vehículo policial para retirarla.",
+            "2": "Señalizarla y retirarla de la vía lo antes posible.",
+            "3": "No detenerse hasta encontrar un lugar adecuado para estacionar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Para realizar una conducción eficiente, la primera velocidad debe utilizarse...",
+        "respuestas": {
+            "1": "solo para subir pendientes muy pronunciadas.",
+            "2": "el menor tiempo posible.",
+            "3": "el mayor tiempo posible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

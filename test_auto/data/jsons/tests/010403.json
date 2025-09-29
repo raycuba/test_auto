@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Por qué en una carretera convencional es importante respetar la velocidad máxima fijada en cada tramo de vía?",
+        "respuestas": {
+            "1": "Porque al tener los dos sentidos de circulación juntos en la misma calzada, el riesgo de colisión es mayor.",
+            "2": "Porque el asfalto en las carreteras convencionales es de peor calidad y hay muchos baches.",
+            "3": "Porque al tener calzadas diferenciadas para cada sentido, el riesgo de colisión frontal es mayor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Los límites de velocidad que se establecen para una vía, se fijan en función de...",
+        "respuestas": {
+            "1": "criterios económicos, fundamentalmente.",
+            "2": "su trazado y del volumen del tráfico que vaya a soportar, entre otros factores.",
+            "3": "su trazado y del número de curvas, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los límites de velocidad establecidos en las vías se fijan...",
+        "respuestas": {
+            "1": "sin ningún criterio, pues en otros países no existen.",
+            "2": "en base a diversos criterios, como el diseño de la vía.",
+            "3": "para que cada vehículo circule a la velocidad máxima que pueda por construcción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En carreteras convencionales de un carril para cada sentido de la circulación, ¿por qué es importante no superar la velocidad máxima permitida?",
+        "respuestas": {
+            "1": "Porque la densidad del tráfico es menor que en una autovía.",
+            "2": "Porque es más probable sufrir un accidente con graves consecuencias.",
+            "3": "Porque la anchura de los carriles es inferior a 1,5 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿En qué caso debe aumentarse la distancia de seguridad?",
+        "respuestas": {
+            "1": "Al aumentar la velocidad de circulación de los vehículos.",
+            "2": "Al preparar un adelantamiento.",
+            "3": "Al disminuir la velocidad de circulación de los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Es importante no superar los 50 km/h en las ciudades porque en ellas los peatones...",
+        "respuestas": {
+            "1": "comparten los espacios con los mismos derechos que los vehículos.",
+            "2": "tienen siempre prioridad de paso sobre los vehículos",
+            "3": "tienen más derechos que los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Con qué objetivo se establecen los límites de velocidad?",
+        "respuestas": {
+            "1": "Para garantizar la máxima seguridad y fluidez.",
+            "2": "Para garantizar la máxima fluidez, aunque disminuya la seguridad.",
+            "3": "Para garantizar la máxima seguridad, aunque disminuya la fluidez."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "A más de 120 kilómetros por hora en autopista, la probabilidad de sobrevivir a un accidente...",
+        "respuestas": {
+            "1": "no varía.",
+            "2": "aumenta.",
+            "3": "disminuye."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Circular en ciudad a más de 50 km/h, ¿supone algún peligro?",
+        "respuestas": {
+            "1": "Sí, porque a esa velocidad un atropello puede ser mortal.",
+            "2": "No, siempre que se pueda controlar el vehículo.",
+            "3": "No supone peligro hasta los 80 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un cuadriciclo no ligero por esta vía?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "45 km/h.",
+            "3": "70 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un tractor que arrastra un remolque, ¿qué velocidad máxima no debe rebasar fuera de poblado?",
+        "respuestas": {
+            "1": "25 kilómetros por hora.",
+            "2": "40 kilómetros por hora.",
+            "3": "70 kilómetros por hora."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Un vehículo especial que carece de señalización de frenado, no debe rebasar la velocidad máxima de...",
+        "respuestas": {
+            "1": "70 km/h.",
+            "2": "40 km/h.",
+            "3": "25 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿A qué velocidad máxima tiene permitido circular un ciclomotor por esta carretera convencional con un carril para cada sentido de la circulación?",
+        "respuestas": {
+            "1": "60 kilómetros por hora.",
+            "2": "45 kilómetros por hora.",
+            "3": "80 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "La velocidad máxima, con carácter general, para un vehículo especial es de...",
+        "respuestas": {
+            "1": "45 kilómetros por hora.",
+            "2": "40 kilómetros por hora.",
+            "3": "60 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un cuadriciclo ligero por una vía fuera de poblado?",
+        "respuestas": {
+            "1": "70 km/h.",
+            "2": "90 km/h.",
+            "3": "45 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuál es la velocidad máxima permitida a cuadriciclos ligeros?",
+        "respuestas": {
+            "1": "90 km/h.",
+            "2": "70 km/h.",
+            "3": "45 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un ciclomotor?",
+        "respuestas": {
+            "1": "45 km/h.",
+            "2": "45 km/h, pudiendo superarla en 20 km/h para adelantar.",
+            "3": "70 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si circula por encima de la velocidad máxima permitida en la vía, está circulando...",
+        "respuestas": {
+            "1": "velocidad adecuada.",
+            "2": "velocidad moderada.",
+            "3": "velocidad excesiva."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Circular a velocidad inferior a la mínima permitida sin causa justificada, ¿es peligroso?",
+        "respuestas": {
+            "1": "Sí, porque lo más seguro es circular a la velocidad máxima permitida.",
+            "2": "No, porque circular más despacio es siempre más seguro.",
+            "3": "Sí, y además está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En una carretera cuya velocidad genérica es de 90 km/h, ¿qué velocidad se considera anormalmente reducida para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 55 km/h.",
+            "2": "La inferior a 60 km/h.",
+            "3": "La inferior a 45 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En una carretera convencional sin arcenes, ¿cuál es la velocidad anormalmente reducida para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 45 kilómetros por hora.",
+            "2": "45 kilómetros por hora.",
+            "3": "60 kilómetros por hora."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En esta vía para automóviles, ¿qué velocidad se considera anormalmente reducida, sin causa justificada, para un turismo?",
+        "respuestas": {
+            "1": "La inferior a 45 km/h.",
+            "2": "La inferior a 50 km/h.",
+            "3": "La inferior a 60 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Está permitido circular por una autovía por debajo del límite mínimo de velocidad establecido para dicha vía sin causa justificada?",
+        "respuestas": {
+            "1": "No, porque es una velocidad anormalmente reducida.",
+            "2": "Sí, aunque es obligatorio circular por el arcén.",
+            "3": "Solo si no se entorpece la marcha normal de otros vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Circula con un turismo por una autopista; ¿qué velocidad se considera anormalmente reducida?",
+        "respuestas": {
+            "1": "La inferior a 70 km/h.",
+            "2": "La inferior a 80 km/h.",
+            "3": "La inferior a 60 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Cuando las circunstancias lo permitan, ¿es aconsejable circular por encima de la velocidad mínima exigida?",
+        "respuestas": {
+            "1": "Sí, para evitar causar accidentes.",
+            "2": "No, los límites inferiores son solo orientativos.",
+            "3": "Sí, pero solo para evitar que nos pongan una multa."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Un vehículo circula a velocidad anormalmente reducida cuando...",
+        "respuestas": {
+            "1": "no se adapta a las circunstancias de la vía.",
+            "2": "circula a velocidad inferior a la del resto de los conductores.",
+            "3": "circula a velocidad inferior a la mínima permitida en esa vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En una autopista con hielo en el pavimento, ¿está permitido circular a 40 km/h?",
+        "respuestas": {
+            "1": "Sí, pero debe circular por el arcén para no entorpecer a los vehículos que circulen más rápido.",
+            "2": "Sí, porque se trata de una circunstancia especial.",
+            "3": "No, porque es una velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En una autopista, ¿está permitido circular a una velocidad anormalmente reducida con niebla espesa?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Sí, si la circulación es escasa, pero está prohibido si el tráfico es denso.",
+            "3": "No, porque es una autopista y es una vía de gran seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si debido a una avería circula por una autopista a velocidad anormalmente reducida perturbando la circulación, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerse en el arcén y solicitar ayuda.",
+            "2": "Circular por el arcén hasta la zona de servicios más próxima.",
+            "3": "Circular por el arcén y abandonarla por la primera salida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Circula por una autovía y sufre una avería que le obliga a llevar una velocidad anormalmente reducida, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Encender el alumbrado de cruce y continuar la marcha hasta llegar al destino.",
+            "2": "No detenerse en ningún caso.",
+            "3": "Circular hasta la primera salida por la que pueda abandonar la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué equipamiento, entre otros, debe llevar un conjunto de vehículos no agrícolas cuando esté circulando?",
+        "respuestas": {
+            "1": "Una rueda de repuesto para el remolque o semirremolque.",
+            "2": "Dos chalecos reflectantes de alta visibilidad.",
+            "3": "Un equipo homologado de extinción de incendios, adecuado y en condiciones de uso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿A qué se le denomina velocidad inadecuada?",
+        "respuestas": {
+            "1": "A la que no se adapta a las condiciones del tráfico, de la vía o del conductor.",
+            "2": "A la velocidad máxima permitida en una vía.",
+            "3": "A la que se adapta a las condiciones del tráfico, de la vía o del conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Pese a que el número total de atropellos es menor, proporcionalmente fallecen más peatones por accidente de tráfico en vías interurbanas que en urbanas. ¿A qué es debido?",
+        "respuestas": {
+            "1": "A que los ciclistas se consideran peatones a nivel estadístico.",
+            "2": "A la mayor velocidad de circulación de los vehículos en las vías interurbanas.",
+            "3": "A que la mayoría de los atropellos en vías interurbanas se producen con el buen tiempo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Cuando un vehículo accidentado comienza a arder, ¿qué se debe hacer primero?",
+        "respuestas": {
+            "1": "Sacar rápidamente a los heridos.",
+            "2": "Apagar el fuego.",
+            "3": "Ir a buscar ayuda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Una motocicleta, ¿puede disponer de señal de emergencia?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si su cilindrada es superior a 125 centímetros cúbicos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Circula por una vía interurbana y empieza a nevar de forma ligera, ¿puede emplear el alumbrado antiniebla?",
+        "respuestas": {
+            "1": "Sí, es obligatorio usar la luz antiniebla, tanto la delantera como la trasera.",
+            "2": "Sí, pero solo la luz antiniebla delantera.",
+            "3": "No, está prohibido su uso cuando la nevada es ligera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Cuál es la finalidad principal del cinturón de seguridad?",
+        "respuestas": {
+            "1": "Dar sensación de seguridad y evitar las multas.",
+            "2": "Mejorar la atención del conductor en la conducción.",
+            "3": "Retener y proteger los cuerpos de los ocupantes del vehículo en caso de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Un conductor que se incorpora a una vía utilizando un carril de aceleración, ¿debe cerciorarse previamente de que puede hacerlo sin peligro?",
+        "respuestas": {
+            "1": "No, porque tiene prioridad de paso.",
+            "2": "Sí, y no iniciar la maniobra hasta estar seguro.",
+            "3": "No, porque los demás conductores deben facilitarle la incorporación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En una intersección sin señalizar, tienen prioridad de paso los vehículos...",
+        "respuestas": {
+            "1": "que circulen por un carril reservado a determinados vehículos sobre el resto de usuarios.",
+            "2": "que circulen por una glorieta sobre los que pretenden entrar en ella.",
+            "3": "que se pretendan incorporar a una autopista sobre los que ya circulan por ella."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Cuando las ruedas del vehículo rebotan en los baches puede ser porque...",
+        "respuestas": {
+            "1": "el freno esté en mal estado.",
+            "2": "el embrague esté en mal estado.",
+            "3": "los amortiguadores estén en mal estado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+        "respuestas": {
+            "1": "Pisa el pedal de freno en lugar del acelerador.",
+            "2": "Tarda más tiempo en reaccionar ante una situación de riesgo.",
+            "3": "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El tiempo de reacción de un conductor, ¿es siempre el mismo o puede variar?",
+        "respuestas": {
+            "1": "En función de distintos factores puede disminuir, pero nunca aumentar.",
+            "2": "No, es siempre el mismo y nunca será superior a un segundo.",
+            "3": "Puede variar en función de distintos factores, como su estado físico."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Para que el airbag sea eficaz y evitar su impacto directo contra la cara, ¿qué distancia debe existir entre el volante y la parte más cercana del cuerpo del conductor?",
+        "respuestas": {
+            "1": "Unos 10 centímetros, o una distancia inferior si se circula a alta velocidad.",
+            "2": "Unos 25 centímetros, sin que la distancia nunca sea inferior a 10 centímetros.",
+            "3": "Unos 5 centímetros, sin que la distancia nunca sea superior a 15 centímetros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Hay que prestar una atención especial a los niños?",
+        "respuestas": {
+            "1": "No, porque no representan ningún peligro.",
+            "2": "Sí, porque son especialmente vulnerables a los accidentes de tráfico.",
+            "3": "Solo en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En zona urbana, ¿es obligatorio facilitar a un autobús la incorporación desde una parada señalizada?",
+        "respuestas": {
+            "1": "No, no es obligatorio, pero sí recomendable.",
+            "2": "Sí, y siempre es obligatorio detenerse.",
+            "3": "Sí, siempre que sea posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El sistema de alumbrado de los vehículos...",
+        "respuestas": {
+            "1": "únicamente sirve para ver bien de noche.",
+            "2": "sirve para que el conductor vea bien la carretera y sea visto por los demás.",
+            "3": "hay que retrasar lo más posible su puesta en funcionamiento, para ahorrar energía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿En qué circunstancias está permitido circular marcha atrás?",
+        "respuestas": {
+            "1": "Cuando no haya otros usuarios en las proximidades en cualquier tipo de vía.",
+            "2": "Cuando no sea posible marchar hacia adelante ni cambiar de dirección o sentido.",
+            "3": "Como maniobra complementaria de la incorporación en autopistas y autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El carril reversible está abierto. ¿Puede atravesar la línea doble discontinua de la izquierda para adelantar?",
+        "respuestas": {
+            "1": "Sí, porque la línea es discontinua.",
+            "2": "No.",
+            "3": "Sí, porque el carril de la izquierda está libre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Cuando no se puede posicionar el vehículo paralelo al borde de la calzada, ¿se podría permitir la parada o el estacionamiento dejando el vehículo en otra posición?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, cuando las características de la vía u otras circunstancias así lo aconsejen.",
+            "3": "Solo si existe alguna señal que permita el estacionamiento en batería."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Si el intermitente del vehículo no funciona, ¿cómo indicará que va a girar a la izquierda?",
+        "respuestas": {
+            "1": "Doblando el brazo izquierdo hacia arriba, con la palma de la mano extendida.",
+            "2": "Con el brazo izquierdo en posición horizontal y la palma de la mano extendida hacia abajo.",
+            "3": "Extendiendo el brazo izquierdo horizontalmente, con la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Para salir de una calle cortada necesita circular marcha atrás, ¿qué recorrido puede hacer?",
+        "respuestas": {
+            "1": "El mínimo necesario.",
+            "2": "15 metros como máximo.",
+            "3": "Ninguno; siempre está prohibido circular marcha atrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El alcohol, ¿afecta por igual a todas las personas?",
+        "respuestas": {
+            "1": "Sí, cuando se ingiere la misma cantidad de alcohol.",
+            "2": "No, los menores de 18 años y los mayores de 65 son más sensibles al alcohol.",
+            "3": "No, las personas delgadas toleran mejor el alcohol que las personas gruesas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En una carretera convencional, ¿está permitido que un peatón circule por la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando arrastra un vehículo.",
+            "3": "Sí, cuando no existe arcén o no es transitable."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El titular de un permiso A, ¿puede conducir motocicletas con sidecar?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sí, si la motocicleta supera los 125 cm³."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Qué precaución puede adoptar para evitar el riesgo de atropello a ciclistas?",
+        "respuestas": {
+            "1": "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario.",
+            "2": "Utilizar señales luminosas para avisar de su propósito de adelantarles.",
+            "3": "No hacer señales acústicas cerca de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Debido a la pérdida de capacidades psicofísicas, ¿en qué situaciones de tráfico existe una mayor probabilidad de que sufran un accidente las personas mayores?",
+        "respuestas": {
+            "1": "En situaciones complejas que no exijan una respuesta rápida.",
+            "2": "En situaciones simples que no exijan una respuesta rápida.",
+            "3": "En situaciones complejas que exijan una respuesta rápida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿La señal permite realizar la maniobra de adelantamiento?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "No, salvo que se adelante a un turismo.",
+            "3": "No, salvo que se adelante a motocicletas de dos ruedas y no se invada el sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Una velocidad inadecuada, junto con unas malas condiciones del vehículo y de la vía, ¿pueden aumentar la distancia de frenado?",
+        "respuestas": {
+            "1": "No, sólo influye el mal estado del conductor.",
+            "2": "No, únicamente influye la velocidad a la que se circule.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Qué aparatos, sistemas y dispositivos debe apagar antes de cargar combustible?",
+        "respuestas": {
+            "1": "El motor y las luces, únicamente.",
+            "2": "El motor, las luces, los aparatos eléctricos y los teléfonos móviles.",
+            "3": "Solo el motor y los aparatos eléctricos, como la radio."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Debe facilitar la incorporación a la circulación de otros vehículos?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pero sólo dentro de poblado.",
+            "3": "Sí, sobre todo a los vehículos de transporte colectivo de viajeros cuando salgan de una parada señalizada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

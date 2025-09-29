@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Aproximadamente, ¿cuándo empieza a disminuir la cantidad de alcohol en sangre?",
+        "respuestas": {
+            "1": "Nada más dejar de beber.",
+            "2": "Una hora después de dejar de beber.",
+            "3": "Quince minutos después de dejar de beber."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Con el permiso de la clase B, ¿qué otros vehículos se pueden conducir, además, de turismos?",
+        "respuestas": {
+            "1": "Motocicletas de más de 125 cc.",
+            "2": "Todos los vehículos que se puedan conducir con el permiso de la clase A.",
+            "3": "Ciclomotores de dos, tres y cuatro ruedas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Las malas condiciones meteorológicas, como lluvia, viento o hielo, ¿aumentan la probabilidad de sufrir un accidente con una motocicleta?",
+        "respuestas": {
+            "1": "No; el mal tiempo no influye en la conducción de motocicletas.",
+            "2": "Sí; es más probable que el motorista se caiga si hace movimientos bruscos.",
+            "3": "Sí; pero solo si el conductor no lleva el equipamiento adecuado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El cinturón de seguridad, ¿para qué sirve?",
+        "respuestas": {
+            "1": "Para mejorar el apoyo de la espalda en el respaldo del asiento.",
+            "2": "Para mantener el asiento sujeto al vehículo y evitar que se desplace.",
+            "3": "Para frenar el cuerpo de los ocupantes del vehículo en caso de impacto."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Utilizar el móvil con sistema \"manos libres\" mientras se conduce, ¿puede influir en la capacidad de atención del conductor?",
+        "respuestas": {
+            "1": "No; el uso del móvil no influye para nada en la capacidad de atención.",
+            "2": "Sí; resulta más fácil mantener la atención en la conducción.",
+            "3": "Sí; resulta difícil mantener una atención adecuada mientras se utiliza el teléfono."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué debe hacer en esta situación?",
+        "respuestas": {
+            "1": "Utilizar el carril izquierdo, que está libre.",
+            "2": "Entrar en el túnel circulando con precaución.",
+            "3": "No entrar en el túnel."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Antes de iniciar la marcha, ¿es conveniente regular la altura de los reposacabezas de los asientos que vayan ocupados?",
+        "respuestas": {
+            "1": "No, lo aconsejable es que vayan pegados al asiento.",
+            "2": "Solo se debe regular el del conductor para que vaya cómodo con la cabeza apoyada.",
+            "3": "Sí, para reducir el riesgo de sufrir una lesión cervical en caso de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Conducir a una velocidad elevada, durante mucho tiempo, puede producir en el conductor...",
+        "respuestas": {
+            "1": "una pérdida de orientación.",
+            "2": "la aparición de la fatiga.",
+            "3": "el efecto submarino."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Los accidentes de tráfico, ¿son una de las principales causas de lesiones físicas en nuestro país?",
+        "respuestas": {
+            "1": "No, los accidentes de tráfico no dejan secuelas físicas de importancia.",
+            "2": "Sí, afectando especialmente a los grupos de población más vulnerable.",
+            "3": "Sólo entre las personas mayores; los jóvenes nunca sufren lesiones graves."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En esta carretera, para adelantar al camión, ¿a qué velocidad puede circular como máximo el turismo?",
+        "respuestas": {
+            "1": "A 140 km/h.",
+            "2": "A 90 km/h.",
+            "3": "A 120 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Está permitido estacionar el día 2 de cada mes?",
+        "respuestas": {
+            "1": "Sí, porque esta señal no hace referencia al estacionamiento.",
+            "2": "No, por ser día par.",
+            "3": "Sí, por estar en la primera quincena del mes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En relación con la seguridad vial, ¿por qué es mejor circular en vía urbana a 30 km/h en lugar de a 50 km/h?",
+        "respuestas": {
+            "1": "Porque a 30 km/h la resistencia aerodinámica es mayor que a 50 km/h.",
+            "2": "Porque el tráfico es más fluido y no existe riesgo de accidente.",
+            "3": "Porque a menor velocidad, menor es la probabilidad de que un atropello sea mortal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Circula con su turismo por una vía que se cruza con un carril bici, ¿debe ceder el paso a los ciclistas?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sólo cuando se aproximen por la derecha.",
+            "3": "No, los ciclistas no tienen prioridad de paso frente a los vehículos de motor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Los conductores que llegan a un puente móvil cerrado o con la barrera o semibarrera en movimiento, deben...",
+        "respuestas": {
+            "1": "dar la vuelta y buscar otro itinerario.",
+            "2": "detenerse uno detrás de otro en el carril adecuado.",
+            "3": "acelerar y pasar cuanto antes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Cuando se finalice un adelantamiento, ¿hay que reincorporarse al carril derecho inmediatamente?",
+        "respuestas": {
+            "1": "Sí, como norma general.",
+            "2": "No, si se circula a la velocidad máxima permitida de la vía.",
+            "3": "No, si no se obstaculiza a los vehículos que circulan detrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuándo es obligatorio utilizar la luz de emergencia?",
+        "respuestas": {
+            "1": "Cuando se estacione el vehículo en doble fila.",
+            "2": "Cuando se inmovilice el vehículo en una autopista.",
+            "3": "Cuando se reduzca la velocidad en carretera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En esta intersección, los conductores están obligados a detenerse...",
+        "respuestas": {
+            "1": "ante la línea transversal, sin rebasarla.",
+            "2": "junto a la señal de stop.",
+            "3": "inmediatamente después de la línea transversal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Puede circular un turismo por un carril BUS señalizado con línea longitudinal continua?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando el carril está en vía urbana.",
+            "3": "Sí, para girar a la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "El carril que se observa a la izquierda está abierto para circular en sentido contrario. ¿Cuál es la velocidad máxima permitida en ese carril?",
+        "respuestas": {
+            "1": "100 kilómetros por hora.",
+            "2": "90 kilómetros por hora.",
+            "3": "80 kilómetros por hora."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Fin de circulación paralela.",
+            "2": "Fin de prohibición de adelantamiento para camiones.",
+            "3": "Fin de todas las prohibiciones anteriores de carácter local referidas a los camiones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Cuál es la función del freno de mano?",
+        "respuestas": {
+            "1": "Reducir la velocidad del vehículo en ciudad.",
+            "2": "Inmovilizar el vehículo al estacionar.",
+            "3": "Reducir la velocidad del vehículo cuando circule por una vía con una pendiente prolongada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En general, el sueño aparece con mayor frecuencia...",
+        "respuestas": {
+            "1": "durante la madrugada y en las primeras horas de la tarde.",
+            "2": "en las primeras horas de la mañana y al final de la tarde.",
+            "3": "durante las horas centrales de la mañana y en las primeras horas de la tarde."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En la explanada de peaje de una autopista, ¿está permitido recoger a una persona que hace autostop?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si no existe riesgo para otros usuarios de la vía.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "La carga y descarga de un vehículo deberá realizarse...",
+        "respuestas": {
+            "1": "fuera de la vía, como norma general.",
+            "2": "depositando la mercancía en zonas peatonales.",
+            "3": "por el lado del vehículo más alejado del borde de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Por la izquierda de una línea continua, ¿se puede circular?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, para adelantar.",
+            "3": "Sí, si la vía es de sentido único."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
+        "respuestas": {
+            "1": "Utilizarlo sólo para adelantar a una velocidad máxima de 80 kilómetros por hora.",
+            "2": "No circular por él porque la circulación está prohibida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Si en esta intersección pretende girar a la derecha, debe...",
+        "respuestas": {
+            "1": "continuar la marcha, ya que el semáforo está después de la intersección.",
+            "2": "efectuar el giro siguiendo la norma general de prioridad de paso.",
+            "3": "detenerse antes de entrar en la intersección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "El estrés, ¿puede alterar las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí; por ejemplo, afecta a la percepción y a la atención.",
+            "3": "Sólo si el conductor duerme menos de cuatro horas diarias."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Conforme a los datos de accidentalidad, en los periodos de vacaciones y los fines de semana...",
+        "respuestas": {
+            "1": "no varía de forma importante el número de accidentes con víctimas mortales.",
+            "2": "aumenta el número de accidentes con víctimas mortales.",
+            "3": "disminuye el número de accidentes con víctimas mortales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La conducción preventiva es...",
+        "respuestas": {
+            "1": "una forma de conducción lenta e inadecuada.",
+            "2": "una forma de conducir peligrosa.",
+            "3": "una actitud ante la conducción que permite al conductor circular de una manera más segura."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

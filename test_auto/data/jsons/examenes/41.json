@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Como peatones, los niños de entre 6 y 10 años son especialmente vulnerables debido a que en caso de atropello el mayor daño se produce habitualmente en...",
+        "respuestas": {
+            "1": "las rodillas.",
+            "2": "las extremidades inferiores.",
+            "3": "la cabeza o en partes vitales del cuerpo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cuál es la velocidad máxima de un furgón de hasta 3.500 kg en autopista?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Algunos de los síntomas característicos que anuncian la aparición de la fatiga en el conductor son:",
+        "respuestas": {
+            "1": "Ansiedad, depresión y problemas de concentración.",
+            "2": "Bostezos, cambios de postura constantes y molestias en la nuca.",
+            "3": "Calambres en los brazos, espasmos en las piernas y crisis epilépticas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Cuál de los tres factores de riesgo es el que está menos implicado entre las causas de los accidentes de tráfico?",
+        "respuestas": {
+            "1": "El factor vía y su entorno.",
+            "2": "El factor humano.",
+            "3": "El factor vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Antes de iniciar un adelantamiento, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Comprobar que los vehículos de detrás no tienen los intermitentes encendidos.",
+            "2": "Comprobar que los vehículos de detrás mantienen la distancia de seguridad.",
+            "3": "Comprobar que los vehículos que circulan detrás por el mismo carril, no han iniciado el adelantamiento."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En una situación de lluvia y ciclistas circulando, debemos...",
+        "respuestas": {
+            "1": "al estar cerca de ellos hacer señales acústicas para indicar nuestra presencia.",
+            "2": "mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "3": "extremar la precaución porque existe más probabilidad de caídas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los vehículos para personas con movilidad reducida, si no existe vía o parte de ella que les esté especialmente destinada...",
+        "respuestas": {
+            "1": "pueden circular por autovía.",
+            "2": "pueden circular por autopista.",
+            "3": "deben circular por el arcén, siempre que sea transitable y suficiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿En qué caso no le está permitido adelantar detrás de otro vehículo que ya está adelantando?",
+        "respuestas": {
+            "1": "Nunca está permitido adelantar cuando otro vehículo ya esté adelantando.",
+            "2": "Cuando circule por una glorieta.",
+            "3": "Cuando no tenga visibilidad suficiente de la parte delantera de la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Desde el punto de vista de la seguridad pasiva, la carrocería tiene como función...",
+        "respuestas": {
+            "1": "mejorar la aerodinámica favoreciendo una conducción económica.",
+            "2": "absorber la máxima cantidad de energía producida en un accidente.",
+            "3": "mantener las ruedas en contacto con la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Puede sobrepasar la marca longitudinal continua central?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, para realizar un cambio de dirección.",
+            "3": "Sí, si se trata de una calzada de un solo sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Con esta señalización, ¿a qué velocidad debe circular?",
+        "respuestas": {
+            "1": "Al menos a 30 km/h.",
+            "2": "Obligatoriamente a 30 km/h.",
+            "3": "A 30 km/h, como recomendación, durante el tramo que subsista el peligro."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En caso de no disponer del dispositivo luminoso V-16 y hasta el 1 de enero del 2026, ¿está permitido colocar los triángulos de preseñalización de peligro a menos de 50 metros del vehículo averiado?",
+        "respuestas": {
+            "1": "No, deben estar al menos a 100 metros.",
+            "2": "Sí, a esa distancia ya son visibles.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El semáforo cuadrado de cada carril obliga...",
+        "respuestas": {
+            "1": "a todos los vehículos que circulan por la calzada.",
+            "2": "a los vehículos de tres y cuatro ruedas solamente.",
+            "3": "a los vehículos que circulan por el carril donde está el semáforo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "El lugar a partir del cual rigen las normas de las autopistas.",
+            "2": "Las direcciones de las distintas salidas en la próxima glorieta.",
+            "3": "Que hay una vía que tiene cuatro carreteras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Le está permitido circular con un turismo a más de 90 km/h por esta carretera convencional?",
+        "respuestas": {
+            "1": "No, salvo para adelantar, caso en que podrá alcanzar los 110 km/h.",
+            "2": "Sí, cuando la circulación sea fluida.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En caso de existir niebla espesa, además de reducir la visibilidad, ¿puede disminuir la adherencia de los neumáticos sobre la calzada?",
+        "respuestas": {
+            "1": "Sí, pero solamente en caso de frenar bruscamente.",
+            "2": "No, la adherencia de los neumáticos solamente disminuye cuando llueve.",
+            "3": "Sí, debido a que la niebla humedece la calzada haciéndola más deslizante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El consumo de alcohol, ¿afecta a la capacidad visual del conductor?",
+        "respuestas": {
+            "1": "Sí, aumenta su capacidad visual.",
+            "2": "Sí, disminuye su capacidad visual.",
+            "3": "No, no se ve afectada su capacidad visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En una vía de sentido único hay una isleta en el centro, ¿por dónde se deberá circular?",
+        "respuestas": {
+            "1": "Por la parte derecha de la isleta obligatoriamente.",
+            "2": "Por la parte izquierda de la isleta obligatoriamente.",
+            "3": "Indistintamente por la parte derecha o por la izquierda de la isleta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Al incorporarse con su automóvil a una autopista, ¿qué debe tener en cuenta?",
+        "respuestas": {
+            "1": "La posición, trayectoria y velocidad de los vehículos que se acercan.",
+            "2": "Que siempre debe detenerse al final del carril de incorporación.",
+            "3": "Que no es obligatorio ceder el paso a los vehículos que circulan por la autopista."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Cuál es la velocidad máxima permitida en esta vía para un camión de 3.500 kg de MMA?",
+        "respuestas": {
+            "1": "90 kilómetros por hora.",
+            "2": "80 kilómetros por hora.",
+            "3": "70 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Un turismo de nueva matriculación de uso privado, ¿cuándo deberá pasar su primera inspección técnica periódica (ITV)?",
+        "respuestas": {
+            "1": "A los 3 años a contar desde la fecha de expedición de la tarjeta de inspección técnica.",
+            "2": "A los 5 años a contar desde la fecha de matriculación.",
+            "3": "A los 4 años a contar desde la fecha de matriculación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Todo conductor que abandone su puesto para descargar mercancía del vehículo, deberá dejar siempre...",
+        "respuestas": {
+            "1": "el motor arrancado y las luces de emergencia encendidas.",
+            "2": "el motor parado y el vehículo debidamente calzado.",
+            "3": "el motor parado y el sistema de arranque desconectado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un agente le indica, desde su vehículo, que debe detenerse en el lado derecho, ¿cómo lo señaliza?",
+        "respuestas": {
+            "1": "Con una bandera roja.",
+            "2": "Con una bandera amarilla.",
+            "3": "Con el brazo extendido hacia abajo inclinado y fijo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una motocicleta, ¿puede sobresalir la carga por el lateral?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, hasta 40 centímetros del eje longitudinal de la motocicleta.",
+            "3": "Sí, hasta 50 centímetros del eje longitudinal de la motocicleta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El conductor del turismo está facilitando la maniobra de adelantamiento al camión, ¿es correcto su comportamiento?",
+        "respuestas": {
+            "1": "Sí, porque está obligado a facilitar el adelantamiento.",
+            "2": "No, porque rebasa la línea continua que delimita la calzada del arcén.",
+            "3": "Sólo si con su comportamiento mejora la fluidez de la circulación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Entre la puesta y la salida del sol, ¿está permitido circular con una motocicleta que arrastra un remolque?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo si se circula a una velocidad un 10% inferior a la genérica de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En esta vía con tres calzadas separadas, ¿por qué calzada debe circular?",
+        "respuestas": {
+            "1": "Sólo por la calzada central.",
+            "2": "Sólo por la calzada de la derecha.",
+            "3": "Por la calzada de la derecha y por la central cuando haya señales que así me lo permitan."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Por qué es aconsejable cambiar periódicamente el aceite lubricante?",
+        "respuestas": {
+            "1": "Porque, estando en buenas condiciones, mantiene el buen estado del motor más tiempo y el desgaste de las piezas es menor.",
+            "2": "Porque el aceite con el tiempo se vuelve más viscoso y no fluye correctamente entre las piezas.",
+            "3": "Porque el aceite con el uso y pasado un tiempo pierde excesiva cantidad de volumen y hay que reponerlo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si la vía está acondicionada con una raqueta u otro elemento similar, ¿debe utilizar dicho elemento para realizar un giro?",
+        "respuestas": {
+            "1": "Sí, pero sólo si lo indica una señal.",
+            "2": "Sí, aunque no haya señal que lo indique.",
+            "3": "No, es indiferente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La velocidad máxima para un vehículo mixto adaptable en autopista es...",
+        "respuestas": {
+            "1": "120 km/h.",
+            "2": "100 km/h.",
+            "3": "90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

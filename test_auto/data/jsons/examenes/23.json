@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué líquido se debe utilizar para rellenar los vasos o celdas de una batería?",
+        "respuestas": {
+            "1": "Agua y anticongelante.",
+            "2": "Agua y aceite.",
+            "3": "Agua destilada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Los turismos, ¿están obligados a llevar espejo retrovisor izquierdo?",
+        "respuestas": {
+            "1": "Solo si el retrovisor interior no permite una visión completa de la vía.",
+            "2": "No, es opcional.",
+            "3": "Sí, es obligatorio."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Circula por el carril izquierdo. ¿Qué le indica la flecha?",
+        "respuestas": {
+            "1": "Que se permite la circulación en paralelo.",
+            "2": "Que está cerca la próxima salida.",
+            "3": "Que debe incorporarse cuanto antes al carril derecho."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En una intersección, ¿está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "No, como norma general.",
+            "2": "Sí, siempre que se pueda efectuar la maniobra en un solo giro.",
+            "3": "No, está prohibido siempre."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al adelantar a peatones fuera de poblado se debe dejar una separación lateral...",
+        "respuestas": {
+            "1": "no superior a 1 metro.",
+            "2": "no inferior a 1,5 metros.",
+            "3": "igual o inferior a 1,5 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué es lo primero que toda persona debe hacer si va a auxiliar en un accidente de tráfico?",
+        "respuestas": {
+            "1": "Proteger a las víctimas.",
+            "2": "Proteger el lugar del accidente.",
+            "3": "Protegerse a sí misma."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Una persona en silla de ruedas, ¿debe obedecer las señales de los Agentes y semáforos cuando circula por el arcén de una vía fuera de poblado?",
+        "respuestas": {
+            "1": "Solo obedecerá las señales de los agentes, pero no las de los semáforos.",
+            "2": "No, no está obligado porque es un peatón.",
+            "3": "Sí, siempre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Puede circular marcha atrás como maniobra complementaria de otras maniobras?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, pero sólo para estacionar.",
+            "3": "Sí, de cualquier maniobra que la exija."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En caso de avería de la señal luminosa V-2, los transportes especiales o en régimen de transporte especial...",
+        "respuestas": {
+            "1": "tienen prohibida la circulación.",
+            "2": "circularán por el carril derecho a una velocidad inferior a 40 km/h.",
+            "3": "circularán con la luz de cruce y la señal de emergencia encendidas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "peligro por proximidad de zona balizada.",
+            "2": "peligro por proximidad de zona frecuentada por aeronaves.",
+            "3": "peligro por proximidad de zona donde puede soplar fuerte viento lateral."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Cuando un vehículo está inmovilizado en el lado derecho de la calzada...",
+        "respuestas": {
+            "1": "el conductor podrá entrar o salir por el lado izquierdo, pero con rapidez y precaución.",
+            "2": "el conductor debe entrar o salir siempre por el lado derecho.",
+            "3": "el conductor no podrá salir o entrar nunca por el lado derecho."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En un estrechamiento sin señalizar donde no es posible el cruce simultáneo, coinciden dos vehículos, ¿quién pasará primero como norma general, si el tramo es llano?",
+        "respuestas": {
+            "1": "El vehículo que hubiese entrado primero en el estrechamiento.",
+            "2": "El vehículo con mayor masa máxima autorizada (MMA).",
+            "3": "El vehículo con mayores dificultades de maniobra."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Cuando un vehículo de transmisión automática se detiene por circunstancias del tráfico, ¿en qué momento se inicia el encendido del sistema Start-Stop?",
+        "respuestas": {
+            "1": "Al levantar el pie del pedal de freno.",
+            "2": "Al pisar el pedal de embrague.",
+            "3": "Cuando se pisa el embrague y se engrana la primera marcha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En una zona de calzada helada...",
+        "respuestas": {
+            "1": "no se puede circular.",
+            "2": "no se pueden utilizar neumáticos de clavos.",
+            "3": "se puede mejorar la adherencia, con cadenas o neumáticos de clavos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un turismo en esta autovía?",
+        "respuestas": {
+            "1": "120 km/h.",
+            "2": "120 km/h, pudiendo rebasarla en 20 km/h para adelantar.",
+            "3": "100 km/h, pudiendo alcanzar los 120 km/h para adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Está prohibido adelantar en...",
+        "respuestas": {
+            "1": "las glorietas.",
+            "2": "las intersecciones con vías para ciclistas.",
+            "3": "todas las intersecciones aunque la señalización lo permita."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El conductor que ha tomado alcohol...",
+        "respuestas": {
+            "1": "no valora sus efectos, como norma general.",
+            "2": "normalmente es consciente de sus efectos.",
+            "3": "conduce con más precaución, como norma general."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Después de la señal vertical, ¿está permitido adelantar al vehículo blanco?",
+        "respuestas": {
+            "1": "No, porque la línea continua me lo prohíbe.",
+            "2": "No, porque la señal prohíbe adelantar.",
+            "3": "Sí, porque la señal es de \"fin de prohibido adelantar\"."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si durante la conducción aparecen los síntomas del sueño, ¿resulta útil el consumo de sustancias estimulantes como el café para vencerlo?",
+        "respuestas": {
+            "1": "Sí, para combatir el sueño es mejor tomar un café que parar a dormir un rato.",
+            "2": "Sí, puede resultar útil a corto plazo, pero lo mejor es parar y dormir un rato.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué vehículos deben tener concertado el Seguro Obligatorio?",
+        "respuestas": {
+            "1": "Los vehículos a motor y ciclomotores.",
+            "2": "Todos los vehículos a motor excepto los ciclomotores.",
+            "3": "Todos los vehículos que circulen por las vías públicas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Podrán conducir, por territorio nacional, una motocicleta de hasta 125 cc, los titulares de un permiso de conducción de la clase B con una antigüedad superior a...",
+        "respuestas": {
+            "1": "1 año.",
+            "2": "3 años.",
+            "3": "2 años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿En cuál de los siguientes casos se permite que un menor de edad con una estatura inferior a 135 centímetros viaje, excepcionalmente, en el asiento delantero de un turismo?",
+        "respuestas": {
+            "1": "Cuando todos los asientos traseros estén ocupados por otros menores o por adultos.",
+            "2": "Cuando no sea posible instalar en los asientos traseros todos los sistemas de retención infantil.",
+            "3": "Cuando el menor utilice el cinturón de seguridad en vez de sistemas de retención infantil."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Las indicaciones de este semáforo están dirigidas a...",
+        "respuestas": {
+            "1": "peatones y ciclistas.",
+            "2": "peatones exclusivamente.",
+            "3": "todos los usuarios de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si observa que un vehículo quiere incorporarse por el carril de aceleración, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Nada, porque tengo preferencia.",
+            "2": "Cederle el paso.",
+            "3": "Facilitarle la incorporación en la medida de lo posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Según las últimas cifras de siniestros, ¿qué días de la semana son los que registran más lesionados en los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Los lunes.",
+            "2": "Los jueves.",
+            "3": "Los fines de semana."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Este vehículo circula con la puerta del maletero abierta para poder transportar una carga indivisible; ¿está circulando correctamente?",
+        "respuestas": {
+            "1": "No; está prohibido circular con la puerta abierta.",
+            "2": "Sí, porque la puerta va sujeta para impedir que se abra.",
+            "3": "Sí, ya que la carga es indivisible y va correctamente señalizada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En esta vía, la separación entre los trazos de la línea discontinua es sensiblemente más corta que en el caso general; ¿qué puede anunciar?",
+        "respuestas": {
+            "1": "La proximidad de una travesía.",
+            "2": "La proximidad de un tramo de vía que presenta un riesgo especial.",
+            "3": "La proximidad de un carril especial."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En vías interurbanas, ¿cuáles son las infracciones que cometen con mayor frecuencia los conductores de furgonetas implicados en accidentes con víctimas?",
+        "respuestas": {
+            "1": "Invadir parcialmente el sentido contrario y exceso o mala colocación de la carga.",
+            "2": "Adelantar de forma antirreglamentaria y circular por lugar prohibido.",
+            "3": "No respetar la distancia de seguridad y circular a velocidad inadecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si en vía interurbana un ciclomotor de dos ruedas quiere girar a la izquierda y no hay carril acondicionado para ello:",
+        "respuestas": {
+            "1": "Debe situarse a la derecha, e iniciarlo siempre desde dentro de la calzada.",
+            "2": "No puede realizar el giro.",
+            "3": "Debe situarse a la derecha, e iniciarlo fuera de la calzada siempre que sea posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Cuando existan placas de hielo en la calzada, ¿cuál es la forma más aconsejable y segura de descender una pendiente prolongada?",
+        "respuestas": {
+            "1": "Con marchas cortas para frenar lo menos posible.",
+            "2": "Reduciendo la velocidad con el freno de mano, especialmente al trazar las curvas.",
+            "3": "Con marchas largas para mejorar el agarre de las ruedas motrices."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

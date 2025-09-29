@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El consumo de drogas de abuso o ilegales, ¿puede alterar la percepción del riesgo?",
+        "respuestas": {
+            "1": "Sí, aumenta y el conductor percibe mejor las situaciones de riesgo.",
+            "2": "Sí, disminuye y el conductor percibe peor las situaciones de riesgo.",
+            "3": "No, el consumo de drogas no altera la percepción del riesgo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cuándo se debe circular por el arcén en una autovía?",
+        "respuestas": {
+            "1": "Cuando se vaya a salir de la misma.",
+            "2": "Cuando por avería o emergencia se circule a menos de 60 km/h y se entorpezca la circulación de otros usuarios.",
+            "3": "Cuando la circulación sea muy densa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una motocicleta de anchura inferior a 1 metro, la carga no debe sobresalir...",
+        "respuestas": {
+            "1": "más de 0,25 metros a cada lado de su eje longitudinal.",
+            "2": "más de 0,50 metros a cada lado de su eje longitudinal.",
+            "3": "más de 0,20 metros por la parte posterior."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "La mayoría de los atropellos a niños se produce...",
+        "respuestas": {
+            "1": "al término de la jornada escolar.",
+            "2": "al inicio de la jornada escolar.",
+            "3": "durante los fines de semana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Los síntomas de las enfermedades más comunes, como gripes, resfriados o alergias, ¿pueden afectar a las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, y resultan tan familiares que a veces se olvidan sus síntomas.",
+            "2": "Sí, pero no es necesario tomar ninguna precaución.",
+            "3": "No, sus síntomas no afectan a las capacidades para conducir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si no obstaculiza la marcha de otro vehículo que le sigue, ¿actúa correctamente?",
+        "respuestas": {
+            "1": "Sí, porque deja libre el carril izquierdo para los adelantamientos.",
+            "2": "Sí.",
+            "3": "No, debe circular por el carril de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Al salir de un garaje, ¿debe ceder el paso?",
+        "respuestas": {
+            "1": "Sí, a los peatones y a los vehículos.",
+            "2": "Sí, pero sólo a los peatones que van por la acera.",
+            "3": "No es obligatorio."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Un vehículo lleva más carga que la Masa Máxima Autorizada (MMA). ¿Está permitido circular así?",
+        "respuestas": {
+            "1": "Sí, cuando es un vehículo de transporte de mercancías.",
+            "2": "No, porque es peligroso.",
+            "3": "Sí, pero solamente cuando transporta equipaje y personas dentro de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Cuál es la tasa de alcohol máxima permitida a un conductor novel mayor de edad?",
+        "respuestas": {
+            "1": "0,3 miligramos de alcohol por litro de aire espirado.",
+            "2": "0,15 miligramos de alcohol por litro de aire espirado.",
+            "3": "0,25 miligramos de alcohol por litro de aire espirado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Si durante la conducción aparecen síntomas de sueño o de fatiga, lo más aconsejable para evitar un accidente es...",
+        "respuestas": {
+            "1": "parar a descansar en un lugar adecuado y dormir un rato si fuera preciso.",
+            "2": "aumentar la velocidad para llegar antes al destino final.",
+            "3": "circular por vías interurbanas para que la conducción sea menos monótona."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En vías interurbanas, los ciclos y ciclomotores de dos ruedas, ¿dónde deben situarse para girar a la izquierda?",
+        "respuestas": {
+            "1": "A la derecha, fuera de la calzada si es posible, e iniciarlo desde ese lugar.",
+            "2": "En el centro, sin invadir el sentido contrario.",
+            "3": "En el carril izquierdo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Muchos atropellos a peatones se producen...",
+        "respuestas": {
+            "1": "en autopistas.",
+            "2": "cuando los vehículos circulan marcha atrás.",
+            "3": "durante la noche."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Intentar expulsar un insecto del vehículo mientras se conduce, ¿es peligroso?",
+        "respuestas": {
+            "1": "Sí, porque puede distraer al conductor.",
+            "2": "Sólo si el insecto es una abeja o una avispa.",
+            "3": "No, porque se tarda menos de un segundo en expulsarlo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Cuando un neumático tiene mucho aire, ¿qué ocurre?",
+        "respuestas": {
+            "1": "Se agarra mejor a la calzada.",
+            "2": "Se agarra peor a la calzada.",
+            "3": "Se desgasta más por los lados."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Si no existe posibilidad de producir deslumbramiento a otros usuarios, en un túnel, ¿puede circular con la luz de largo alcance encendida?",
+        "respuestas": {
+            "1": "No, está prohibido utilizar el alumbrado de largo alcance en los túneles.",
+            "2": "Sí, pero sólo en túneles insuficientemente iluminados.",
+            "3": "Sí, aunque el túnel esté suficientemente iluminado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Proximidad de un tramo en el que la circulación se encuentra detenida o dificultada por congestión de tráfico.",
+            "2": "Proximidad de un tramo en el que sólo está permitida la circulación de turismos.",
+            "3": "Prohibición de circular en paralelo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Precaución, túnel o tramo de escasa visibilidad.",
+            "2": "Fin de obligación de alumbrado de corto alcance.",
+            "3": "Alumbrado de corto alcance obligatorio."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Al conductor de una motocicleta, ¿le está permitido utilizar el teléfono móvil mientras conduce manteniéndolo ajustado entre la cabeza y el casco?",
+        "respuestas": {
+            "1": "No; es una infracción grave que supone la pérdida de 3 puntos.",
+            "2": "Sí, mientras no utilice las manos para sujetar el teléfono.",
+            "3": "No, es un delito contra la seguridad vial contemplado en el Código Penal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Circulando en un turismo, ¿se puede prescindir en algún momento del cinturón de seguridad?",
+        "respuestas": {
+            "1": "El conductor no, pero sí los pasajeros que viajen en los asientos traseros.",
+            "2": "No, excepto el conductor y cuando esté realizando la maniobra de marcha atrás o de estacionamiento.",
+            "3": "Sí, circulando por vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Ante una frenada de emergencia, ¿cómo debe actuar?",
+        "respuestas": {
+            "1": "De igual manera si mi vehículo tiene frenos convencionales o dispone de ABS.",
+            "2": "De diferente manera si mi vehículo tiene frenos convencionales o dispone de ABS.",
+            "3": "No pisando el embrague en ningún momento de la frenada, en cualquier caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Tras ingerir medicamentos tranquilizantes, el tiempo de reacción...",
+        "respuestas": {
+            "1": "no varía.",
+            "2": "aumenta.",
+            "3": "disminuye."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Debe identificarse a los servicios de emergencia cuando avise de un accidente?",
+        "respuestas": {
+            "1": "No es necesario.",
+            "2": "Sí, con sus datos personales.",
+            "3": "Sí, con su número de matrícula."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En esta intersección sin señalizar, ¿qué vehículo pasará primero?",
+        "respuestas": {
+            "1": "El turismo.",
+            "2": "El camión.",
+            "3": "El ciclomotor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿En cuál de las siguientes situaciones, los peatones tienen preferencia de paso sobre los conductores?",
+        "respuestas": {
+            "1": "Cuando el conductor circule por una zona peatonal.",
+            "2": "Cuando el conductor circule por las proximidades de centros escolares.",
+            "3": "Cuando el conductor circule cerca de recintos deportivos en día de especial afluencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Durmiendo un poco, ¿se acelera la eliminación del alcohol en la sangre y se recupera más rápidamente las capacidades afectadas por su consumo?",
+        "respuestas": {
+            "1": "Sí, basta con dormir un par de horas.",
+            "2": "Solo si el sueño es reparador.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Cuando se produce un accidente de tráfico, una actuación rápida y eficaz supone...",
+        "respuestas": {
+            "1": "trasladar a los heridos rápidamente a un centro sanitario.",
+            "2": "minimizar los daños al máximo.",
+            "3": "poner en práctica nuestros conocimientos sobre primeros auxilios."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Se detiene en un carril esperando para realizar un cambio de sentido, ¿está permitido?",
+        "respuestas": {
+            "1": "Sí, siempre que no obstaculice a los vehículos que circulen detrás.",
+            "2": "No, debe salir siempre a la derecha.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En un trayecto largo, ¿qué se puede hacer para evitar que aparezcan los síntomas de la fatiga?",
+        "respuestas": {
+            "1": "Sustituir las pausas en la conducción por café o bebidas energéticas.",
+            "2": "Realizar descansos suficientemente largos.",
+            "3": "Poner música o una emisora de radio a un volumen bastante elevado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "La distancia que falta para llegar a un stop.",
+            "2": "La longitud en la que existe el peligro.",
+            "3": "Que a 4,25 kilómetros hay un peligro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cómo se tiene que colocar la carga en un vehículo?",
+        "respuestas": {
+            "1": "De forma que no arrastre, que no pueda caerse ni desplazarse de forma peligrosa.",
+            "2": "Sin comprometer la estabilidad del vehículo aunque para ello oculte los dispositivos de alumbrado.",
+            "3": "Cubierta total o parcialmente cuando la carga produzca polvo o se trate de sustancias nocivas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

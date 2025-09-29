@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué conlleva la utilización de las técnicas de conducción eficiente?",
+        "respuestas": {
+            "1": "Un incremento del nivel de ruido que produce el vehículo.",
+            "2": "Un aumento del consumo de combustible y la contaminación ambiental.",
+            "3": "Una reducción de los costes de uso y mantenimiento del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Las técnicas de conducción eficiente pueden ahorrar entre un 10 y un 25% del combustible...",
+        "respuestas": {
+            "1": "y reducir de forma importante las emisiones contaminantes.",
+            "2": "pero no pueden reducir las emisiones contaminantes.",
+            "3": "y reducir las emisiones contaminantes en la misma cantidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Las técnicas de conducción eficiente, ¿son lo mismo que la conducción preventiva?",
+        "respuestas": {
+            "1": "No, las técnicas de conducción eficiente son más eficaces que la preventiva.",
+            "2": "Sí, son lo mismo.",
+            "3": "No, son técnicas diferentes pero complementarias entre sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En los coches con motor de gasolina es recomendable, para reducir las emisiones contaminantes, iniciar la marcha...",
+        "respuestas": {
+            "1": "inmediatamente después de arrancar el motor.",
+            "2": "esperando unos segundos una vez arrancado el motor.",
+            "3": "tras arrancar el motor acelerando a fondo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En un vehículo con motor diésel, una vez arrancado el motor es conveniente...",
+        "respuestas": {
+            "1": "iniciar la marcha inmediatamente.",
+            "2": "esperar unos segundos antes de iniciar la marcha.",
+            "3": "acelerar en punto muerto para que el motor se caliente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Arrancar el motor sin acelerar, ¿evita un consumo de combustible innecesario?",
+        "respuestas": {
+            "1": "No, además no es posible arrancar sin acelerar.",
+            "2": "Sí, en los vehículos actuales no es necesario pisar el acelerador para arrancar.",
+            "3": "No, se debe acelerar para arrancar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En un vehículo dotado de inyección directa, ¿se debe pisar el pedal acelerador para arrancar?",
+        "respuestas": {
+            "1": "No, es un gasto innecesario de combustible.",
+            "2": "Sí, hasta que arranque el motor.",
+            "3": "Sí, se debe pisar el acelerador un par de veces antes de arrancar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Para realizar una conducción económica se recomienda en los motores de gasolina realizar los cambios de marcha...",
+        "respuestas": {
+            "1": "entre 1.500 rpm. a 2.000 revoluciones por minuto.",
+            "2": "entre 2.000 rpm. a 2.500 revoluciones por minuto.",
+            "3": "entre 3.000 rpm. a 3.500 revoluciones por minuto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Para realizar un estilo de conducción eficiente, ¿cómo se ha de acelerar inmediatamente después de cambiar de marcha?",
+        "respuestas": {
+            "1": "De forma ágil y progresiva, sin pisar a fondo el pedal del acelerador.",
+            "2": "Pisando y levantando el pie del pedal del acelerador para que engrane bien la marcha.",
+            "3": "Pisando a fondo el pedal del acelerador para conseguir una rápida aceleración."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Respecto a las técnicas de conducción eficiente, ¿en qué consisten los saltos de marcha?",
+        "respuestas": {
+            "1": "En cambiar de una marcha a otra sin pasar por las intermedias, por ejemplo, cambiar de 2ª a 4ª.",
+            "2": "En cambiar a una marcha y, apenas esté engranada saltar a la marcha superior o inferior.",
+            "3": "En cambiar de marcha antes de que el motor alcance el número de revoluciones mínimo aconsejable."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Para realizar una conducción eficiente, la primera velocidad debe utilizarse...",
+        "respuestas": {
+            "1": "solo para subir pendientes muy pronunciadas.",
+            "2": "el menor tiempo posible.",
+            "3": "el mayor tiempo posible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué velocidades o marchas dan más fuerza al vehículo?",
+        "respuestas": {
+            "1": "La 3ª y la 4ª.",
+            "2": "La 1ª y la 2ª.",
+            "3": "La 4ª y la 5ª."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué velocidades o marchas sirven para conseguir más velocidad?",
+        "respuestas": {
+            "1": "La 3ª y la 4ª.",
+            "2": "La 1ª y la 2ª.",
+            "3": "La 4ª y la 5ª."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Respecto a la conducción eficiente, ¿en qué turismos se deben realizar los cambios de marcha, como norma general, cuando el motor se encuentre entre 1.300 y 2.000 revoluciones por minuto?",
+        "respuestas": {
+            "1": "En los que tengan motor diésel.",
+            "2": "En los automáticos con motor híbrido.",
+            "3": "En los que tengan motor de gasolina."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Una técnica para ahorrar combustible es...",
+        "respuestas": {
+            "1": "apurar la utilización de las marchas cortas.",
+            "2": "ir subiendo de marcha de una en una, sin saltarse ninguna.",
+            "3": "utilizar marchas altas, incluso en ciudad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuál de las siguientes es una técnica propia de la conducción eficiente?",
+        "respuestas": {
+            "1": "Utilizar marchas largas a más bajas revoluciones.",
+            "2": "Cambiar de marcha a más alta revoluciones.",
+            "3": "Circular 10 km/h por debajo de la velocidad máxima permitida en cada tipo de vía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Respecto a la conducción eficiente y el uso de la caja de cambios, ¿cómo se conoce la técnica que consiste en pasar, por ejemplo de 2ª a 4ª marcha o, al reducir, de 5ª a 3ª?",
+        "respuestas": {
+            "1": "Saltarse marchas.",
+            "2": "Conducción autónoma.",
+            "3": "Conducción guiada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Cómo puede reducir la velocidad de su vehículo?",
+        "respuestas": {
+            "1": "Solo con el sistema de frenado.",
+            "2": "Solo con el motor.",
+            "3": "Tanto con el sistema de frenado como con el motor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Cómo debe circular para realizar una conducción eficiente?",
+        "respuestas": {
+            "1": "Circulando con la relación de marchas más corta posible.",
+            "2": "Cambiando constantemente de velocidad para no fatigar el motor.",
+            "3": "A una velocidad uniforme, evitando los frenazos y los acelerones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Para contaminar lo menos posible es recomendable...",
+        "respuestas": {
+            "1": "mantener siempre la misma velocidad.",
+            "2": "utilizar lo menos posible el transporte público.",
+            "3": "mantener la velocidad lo más uniforme posible evitando acelerones y frenazos innecesarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Qué debe hacer para ahorrar carburante y circular con seguridad?",
+        "respuestas": {
+            "1": "Circular pegado al vehículo de delante para disminuir la resistencia del aire.",
+            "2": "Conducir con suavidad, sin frenazos ni acelerones.",
+            "3": "Mantener la velocidad lo más elevada y constante posible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Cuál de las siguientes circunstancias hace que aumente el consumo de combustible?",
+        "respuestas": {
+            "1": "Circular con unos neumáticos que carezcan de dibujo.",
+            "2": "Circular con las ventanillas del vehículo subidas.",
+            "3": "Circular con el vehículo muy cargado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si está circulando con las ventanillas cerradas, conectar el sistema de aire acondicionado, ¿afecta el consumo de carburante?",
+        "respuestas": {
+            "1": "Sí, disminuye el consumo de carburante.",
+            "2": "Sí, aumenta el consumo de carburante.",
+            "3": "No, el consumo de carburante no varía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué debe comprobar en un mantenimiento preventivo?",
+        "respuestas": {
+            "1": "La profundidad de la banda de rodadura, únicamente.",
+            "2": "El estado de neumáticos, frenos y alumbrado.",
+            "3": "Solo el nivel de aceite y del líquido de frenos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Para ahorrar carburante, ¿cómo se debe ventilar el vehículo?",
+        "respuestas": {
+            "1": "Abriendo solamente las ventanillas traseras.",
+            "2": "Con las entradas de aire que hay en el salpicadero.",
+            "3": "Abriendo todas las ventanillas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Circular con las ventanillas abiertas por una autopista a 120 km/h, ¿afecta al consumo de carburante?",
+        "respuestas": {
+            "1": "Sí, el consumo es mayor que si se circula con las ventanillas cerradas.",
+            "2": "Sí, el consumo es menor que si se circula con las ventanillas cerradas.",
+            "3": "No, el consumo es el mismo que si se circula con las ventanillas cerradas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Qué puede verse afectado si cambia el carenado de una motocicleta?",
+        "respuestas": {
+            "1": "La visibilidad del vehículo.",
+            "2": "La estética, exclusivamente.",
+            "3": "La aerodinámica y el consumo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En detenciones de más de 60 segundos, es importante...",
+        "respuestas": {
+            "1": "apagar el motor para disminuir la contaminación.",
+            "2": "conectar la señal de emergencia.",
+            "3": "encender todas las luces."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Cuando no utiliza la baca del vehículo, ¿es aconsejable quitarla?",
+        "respuestas": {
+            "1": "Es igual, porque la baca no influye en el consumo.",
+            "2": "Sí, porque sin baca ahorro carburante.",
+            "3": "No, porque la baca aumenta la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En una cuesta abajo, ¿es aconsejable circular con la palanca de cambios en punto muerto para ahorrar carburante?",
+        "respuestas": {
+            "1": "Sí, porque circulando en punto muerto el motor no consume.",
+            "2": "No, porque se puede romper el motor por la falta de tracción.",
+            "3": "No, porque hay más posibilidades de perder el control del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

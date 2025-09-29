@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En esta vía de doble sentido, ¿es correcto adelantar por la derecha al tranvía que circula por el centro de la calzada?",
+        "respuestas": {
+            "1": "No, se debe adelantar por el lado izquierdo.",
+            "2": "Sí.",
+            "3": "Solo cuando el tranvía se detenga en una parada señalizada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El vehículo blanco va a girar a la izquierda; el conductor del vehículo verde, ¿puede circular por el arcén para adelantarlo por la derecha?",
+        "respuestas": {
+            "1": "Sí, siempre que el conductor del vehículo verde gire a la derecha.",
+            "2": "No.",
+            "3": "Sí, siempre que el conductor del vehículo verde siga de frente o gire a la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una vía urbana con dos carriles de circulación para el mismo sentido de la marcha, ¿le está permitido a un ciclista adelantar por la derecha a un turismo?",
+        "respuestas": {
+            "1": "Sí, siempre que no exista peligro para los demás usuarios.",
+            "2": "No, deberá adelantarle por la izquierda.",
+            "3": "Solo si el turismo se encuentra detenido o en caso de retención."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El conductor del vehículo verde, ¿puede adelantar por la derecha?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, si existe espacio suficiente.",
+            "3": "Sí, aunque solo si circula por poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "El adelantamiento se efectuará por la derecha y adoptando las máximas precauciones...",
+        "respuestas": {
+            "1": "siempre que se adelante a un vehículo articulado.",
+            "2": "en vías con más de un carril en el mismo sentido.",
+            "3": "cuando el conductor del vehículo al que se pretende adelantar está indicando claramente su propósito de girar a la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta vía urbana, ¿está permitido adelantar por la derecha?",
+        "respuestas": {
+            "1": "Sí, porque es una vía de sentido único y los carriles están delimitados.",
+            "2": "Sí, pero solamente cuando el vehículo de delante va a girar a la izquierda.",
+            "3": "No, el adelantamiento siempre se realizará por la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "A la vista de la imagen, ¿es obligatorio adelantar al tranvía por la derecha?",
+        "respuestas": {
+            "1": "No, se le puede adelantar por la derecha o por la izquierda.",
+            "2": "Sí, en todo caso.",
+            "3": "No, se le debe adelantar por la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En carretera, ¿cuándo puede adelantar por la derecha?",
+        "respuestas": {
+            "1": "Cuando conduzca por una calzada con más de dos carriles.",
+            "2": "Cuando el vehículo de delante vaya a girar a la izquierda y exista espacio libre en la calzada.",
+            "3": "Cuando esté libre el carril de la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En una vía de dos carriles para el mismo sentido, si tras realizar un adelantamiento va a seguir adelantando, ¿puede continuar circulando por el carril izquierdo?",
+        "respuestas": {
+            "1": "No, es obligatorio volver al carril derecho.",
+            "2": "Sólo si no molesta indebidamente a los vehículos que circulen por detrás a mayor velocidad.",
+            "3": "Sí, en todo caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Después de adelantar al turismo y al camión, el turismo verde desea seguir adelantando a otros vehículos, ¿debe regresar antes al carril derecho?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sí, si molesta a otros conductores que circulan por detrás a más velocidad.",
+            "3": "No, en autopistas no es obligatorio regresar al carril derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "El vehículo rojo, ¿debe apartarse a la derecha cuando termine el adelantamiento?",
+        "respuestas": {
+            "1": "Sí, para no obstaculizar al vehículo que le sigue.",
+            "2": "No, porque existe un carril a la izquierda que está libre.",
+            "3": "No, puede seguir circulando por el carril central."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Después de adelantar al camión, ¿debe regresar inmediatamente al carril de la derecha si pretende seguir adelantando?",
+        "respuestas": {
+            "1": "Sólo si delante circula algún otro vehículo por el carril contrario.",
+            "2": "Sí, en cualquier caso.",
+            "3": "No, salvo que circule detrás otro vehículo a mayor velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El conductor que efectúe un adelantamiento...",
+        "respuestas": {
+            "1": "puede rebasar la velocidad máxima fijada para las autopistas y autovías en 20 km/h.",
+            "2": "debe mantener una velocidad moderada, sin importar el tiempo que emplee en el adelantamiento.",
+            "3": "debe circular a una velocidad notoriamente superior a la del vehículo que pretende adelantar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Una vez iniciado el adelantamiento, se producen circunstancias que hacen difícil su finalización sin provocar riesgos; ¿qué está obligado a hacer el conductor?",
+        "respuestas": {
+            "1": "Aumentar la velocidad para finalizar el adelantamiento.",
+            "2": "Advertir del riesgo al vehículo al que pretende adelantar para que detenga su marcha.",
+            "3": "Reducir la velocidad y regresar a su carril sin obstaculizar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Al adelantar a peatones fuera de poblado se debe dejar una separación lateral...",
+        "respuestas": {
+            "1": "no superior a 1 metro.",
+            "2": "no inferior a 1,5 metros.",
+            "3": "igual o inferior a 1,5 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Al adelantar a ciclistas en ascensos prolongados, ¿es aconsejable aumentar la separación lateral por encima de la mínima establecida por la norma?",
+        "respuestas": {
+            "1": "No; de hecho, es aconsejable reducir la separación lateral al mínimo posible.",
+            "2": "Sí, pero solo en vías con más de un carril para cada sentido de la circulación.",
+            "3": "Sí, ya que debido al esfuerzo su trayectoria puede ser oscilante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Una motocicleta adelanta a un turismo en carretera. ¿Qué distancia lateral debe dejar?",
+        "respuestas": {
+            "1": "No hay distancia mínima obligatoria.",
+            "2": "2 metros o más.",
+            "3": "1,5 metros o más."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Los conductores de vehículos, ¿en qué vías están obligados a realizar un cambio completo de carril durante los adelantamientos a ciclistas?",
+        "respuestas": {
+            "1": "En vías interurbanas con un carril para cada sentido de la circulación.",
+            "2": "En todas las vías, con independencia del número de carriles por sentido que tengan.",
+            "3": "En todas las vías con más de un carril para el mismo sentido de circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Es correcto el adelantamiento que efectúa el turismo a la bicicleta?",
+        "respuestas": {
+            "1": "No, porque al dejar demasiada separación tiene que ocupar el carril de sentido contrario.",
+            "2": "Sí, porque deja la separación adecuada y ocupa el carril contiguo.",
+            "3": "No, porque está prohibido rebasar la línea continua para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Si se encuentra con un ciclista circulando en sentido contrario, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Avisar al ciclista con el claxon para que se aparte al arcén.",
+            "2": "No iniciar ni continuar un adelantamiento.",
+            "3": "Hacer destellos con la luz de largo alcance para avisarle de su presencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Al adelantar a un peatón, es obligatorio dejar una separación lateral mínima de 1,50 metros cuando circule...",
+        "respuestas": {
+            "1": "por poblado, exclusivamente.",
+            "2": "en vías interurbanas, solamente.",
+            "3": "por cualquier vía, fuera o dentro de poblado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Con cuál de los siguientes vehículos debe dejar una distancia lateral de seguridad de, al menos, 1,5 metros, cuando adelante con su vehículo?",
+        "respuestas": {
+            "1": "Ciclomotor.",
+            "2": "Vehículo agrícola.",
+            "3": "Cuadriciclo ligero."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Fuera de poblado, ¿qué separación lateral debe dejar el conductor de una motocicleta con respecto a un vehículo al que está adelantando?",
+        "respuestas": {
+            "1": "Una distancia no inferior a 1,50 metros.",
+            "2": "Una distancia no superior a 1,5 metros.",
+            "3": "Una distancia proporcional a la velocidad de circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Se debe dejar una separación lateral mínima de 1,50 metros cuando se adelante fuera de poblado...",
+        "respuestas": {
+            "1": "a vehículos de dos ruedas o a vehículos pesados.",
+            "2": "a peatones, animales o a vehículos de dos ruedas o de tracción animal.",
+            "3": "a cualquier tipo de vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El conductor de un vehículo, ¿cómo deberá adelantar a un ciclista cuando circule por una vía con dos carriles para su sentido de la marcha?",
+        "respuestas": {
+            "1": "Ocupando parte del carril contiguo y dejando una distancia lateral de, al menos, 1,5 metros.",
+            "2": "Cambiando por completo de carril y dejando una distancia lateral de, al menos, 1,5 metros.",
+            "3": "Ocupando parte o la totalidad del carril contiguo y dejando una distancia lateral de, al menos, 1,5 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Se puede adelantar a los ciclistas?",
+        "respuestas": {
+            "1": "Sí, si se puede realizar sin peligro, aunque tenga que invadir el sentido contrario.",
+            "2": "Sí, únicamente si lo hace sin invadir el sentido contrario.",
+            "3": "No, ya que lo prohíbe la línea continua."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En una vía con dos carriles para el mismo sentido, el conductor de un turismo, ¿cuándo está obligado a cambiar completamente de carril y circular por el de su izquierda?",
+        "respuestas": {
+            "1": "Cuando adelante a ciclos o ciclomotores.",
+            "2": "Solo cuando adelante a ciclos.",
+            "3": "Cuando adelante a cualquier vehículo que circule por el arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Al adelantar a un turismo, ¿qué separación lateral debe respetar?",
+        "respuestas": {
+            "1": "Una distancia de 1,5 metros como mínimo.",
+            "2": "Una distancia proporcional a la velocidad y al tipo de calzada.",
+            "3": "Una distancia proporcional a la anchura del turismo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Es obligatorio finalizar un adelantamiento reincorporándose al carril derecho...",
+        "respuestas": {
+            "1": "lo más cerca posible del vehículo adelantado.",
+            "2": "de forma repentina y con las luces de emergencia encendidas.",
+            "3": "de forma gradual y sin obstaculizar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Cuando se finalice un adelantamiento, ¿hay que reincorporarse al carril derecho inmediatamente?",
+        "respuestas": {
+            "1": "Sí, como norma general.",
+            "2": "No, si se circula a la velocidad máxima permitida de la vía.",
+            "3": "No, si no se obstaculiza a los vehículos que circulan detrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Entre las conductas de riesgo más comunes que cometen los peatones está...",
+        "respuestas": {
+            "1": "cruzar la vía de manera reglamentaria.",
+            "2": "respetar los semáforos pero no los pasos para peatones.",
+            "3": "no situarse en las calzadas o en los arcenes correctamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Estas señales indican peligro por la proximidad de...",
+        "respuestas": {
+            "1": "un estrechamiento.",
+            "2": "curva a la izquierda.",
+            "3": "curvas y la prohibición de adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En esta autopista, ¿cuándo se puede circular por el arcén?",
+        "respuestas": {
+            "1": "Nunca.",
+            "2": "Cuando haya muchos vehículos circulando.",
+            "3": "Cuando por emergencia o avería se circule a velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Marcas blancas y rojas de la calzada, ¿qué indican?",
+        "respuestas": {
+            "1": "Una zona reservada para el estacionamiento de camiones.",
+            "2": "Una zona reservada para la salida de competiciones de coches.",
+            "3": "Una zona reservada para frenado de emergencia, donde no puedo parar ni estacionar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "De los siguientes, ¿cuál es un síntoma característico de la aparición de la fatiga durante la conducción?",
+        "respuestas": {
+            "1": "Se distingue mejor la información relevante de la irrelevante.",
+            "2": "La disminución en el número de correcciones de la dirección.",
+            "3": "El incremento de la agudeza visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿De qué color son las marcas viales que señalizan tramos de obras?",
+        "respuestas": {
+            "1": "Amarillo.",
+            "2": "Blanco.",
+            "3": "Naranja."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En vías interurbanas con tres o más carriles para el mismo sentido de la marcha, un conjunto de vehículos de más de 7 metros, ¿podrá utilizar el carril inmediato al derecho?",
+        "respuestas": {
+            "1": "Sí, si las circunstancias del tráfico o la vía lo aconsejan y no entorpece la marcha de otro vehículo que le siga.",
+            "2": "No, sólo puede circular por el carril derecho.",
+            "3": "Sí, en cualquier caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cuáles son los daños que cubre el seguro obligatorio al causante de un accidente?",
+        "respuestas": {
+            "1": "Los daños del vehículo del causante.",
+            "2": "Los daños del otro vehículo.",
+            "3": "Los daños de los dos vehículos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "una calzada de sentido único y tres carriles.",
+            "2": "una calzada con tres carriles en la que está prohibido el desplazamiento lateral.",
+            "3": "una calzada con tres carriles en la que está prohibido el cambio de dirección."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Como norma general, los ocupantes de un vehículo deben entrar al mismo por...",
+        "respuestas": {
+            "1": "cualquier lado, siempre que no se entorpezca a otros usuarios.",
+            "2": "el lado más alejado del borde de la vía y con el vehículo parado.",
+            "3": "el lado más próximo al borde de la vía y con el vehículo inmovilizado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Es recomendable realizar un mantenimiento frecuente del sistema de alumbrado del vehículo?",
+        "respuestas": {
+            "1": "Sí, porque circular con una iluminación deficiente incrementa la fatiga visual del conductor y el riesgo de accidente.",
+            "2": "Sí, por lo que es obligatorio realizar revisiones mensuales.",
+            "3": "No, solamente cuando tenga que someterse a la inspección técnica reglamentaria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Fuera de poblado, deberán circular siempre por su derecha...",
+        "respuestas": {
+            "1": "todo grupo de peatones dirigido por una persona.",
+            "2": "los peatones, pero en poblado.",
+            "3": "todos los peatones."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El conductor del turismo amarillo...",
+        "respuestas": {
+            "1": "circula por un carril reversible.",
+            "2": "no puede utilizar el carril por el que circula.",
+            "3": "debe llevar al menos dos ocupantes para utilizar el carril por el que circula."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si va a adelantar y el vehículo que circula delante ha encendido el intermitente izquierdo, manifestando su intención de adelantar, ¿quién tiene preferencia en el adelantamiento?",
+        "respuestas": {
+            "1": "El conductor del vehículo que ya ha encendido el intermitente.",
+            "2": "El que circule a mayor velocidad.",
+            "3": "El que inicie antes el desplazamiento lateral."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "La velocidad inadecuada, el alcohol y las enfermedades, ¿se consideran factores de riesgo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "La velocidad inadecuada y el alcohol sí, pero las enfermedades no.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si a través del espejo retrovisor observa al vehículo policial que se ve en la fotografía, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detener el vehículo inmediatamente.",
+            "2": "Aumentar la velocidad, ya que me está indicando que voy despacio.",
+            "3": "Detener el vehículo en el lado derecho, delante del vehículo policial, sin provocar riesgos a los demás usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Este agente con los brazos extendidos obliga a detenerse...",
+        "respuestas": {
+            "1": "a todos los usuarios que se le acerquen desde cualquier dirección que corte la indicada por sus brazos.",
+            "2": "a los conductores de vehículos que se acerquen por detrás, únicamente.",
+            "3": "solo a los conductores que se aproximen de frente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Influye la velocidad en el campo visual del conductor?",
+        "respuestas": {
+            "1": "Sí, el campo visual disminuye al aumentar la velocidad.",
+            "2": "No.",
+            "3": "Sí, el campo visual se amplía al aumentar la velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En general, bajo los efectos de la cocaína...",
+        "respuestas": {
+            "1": "aumenta la capacidad de concentración del conductor.",
+            "2": "disminuye la capacidad de concentración del conductor.",
+            "3": "se percibe mejor el entorno y se toman decisiones más seguras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La maniobra de marcha atrás debe efectuarse...",
+        "respuestas": {
+            "1": "con la máxima precaución.",
+            "2": "advirtiéndolo previamente con la señal de emergencia.",
+            "3": "lo más rápido posible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Los accidentes de tráfico, ¿son una de las principales causas de lesiones?",
+        "respuestas": {
+            "1": "No, pero son una de las principales causas de mortalidad.",
+            "2": "Sí, y también son una de las principales causas de mortalidad.",
+            "3": "No, y tampoco son una de las principales causas de mortalidad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Una señal de balizamiento consistente en una luz roja fija, indica que...",
+        "respuestas": {
+            "1": "a partir de ella, hay que reducir la velocidad.",
+            "2": "la calzada está totalmente cerrada al tráfico.",
+            "3": "hay que detenerse hasta que se encienda la luz verde."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un conductor que circula con su vehículo bajo los efectos de las drogas...",
+        "respuestas": {
+            "1": "pone en riesgo a los usuarios de la vía que le rodean.",
+            "2": "pone en riesgo solamente su propia vida.",
+            "3": "asume menos riesgos que un conductor que no consume drogas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Cuando se padece una alergia respiratoria y se tiene una crisis de estornudos, la capacidad del conductor para mantener la concentración en el tráfico...",
+        "respuestas": {
+            "1": "es la misma que cuando no estornuda.",
+            "2": "aumenta.",
+            "3": "disminuye."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En un viaje es aconsejable planificar...",
+        "respuestas": {
+            "1": "la hora de salida y la de llegada.",
+            "2": "el itinerario más corto posible.",
+            "3": "los descansos que se van a realizar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Es obligatorio obedecer esta señal con fondo amarillo?",
+        "respuestas": {
+            "1": "Sí, haya o no obreros trabajando.",
+            "2": "No.",
+            "3": "Sí, pero sólo cuando haya obreros trabajando."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Puede adelantar al vehículo blanco por la derecha?",
+        "respuestas": {
+            "1": "Sí, porque es una autovía.",
+            "2": "No, está prohibido.",
+            "3": "Sí, porque circula incorrectamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Cómo debe hacerse la incorporación a una vía de uso público desde un camino exclusivamente privado?",
+        "respuestas": {
+            "1": "A una velocidad que permita detenerse en el acto.",
+            "2": "A la velocidad máxima permitida en la vía a la que se va a incorporar.",
+            "3": "Lentamente, cediendo el paso solo a los vehículos que se acerquen por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Cómo debe colocarse la carga que se transporta en un vehículo?",
+        "respuestas": {
+            "1": "Suelta, de modo que se desplace por el interior del vehículo.",
+            "2": "Ocultando los dispositivos de alumbrado del vehículo.",
+            "3": "De forma que no comprometa la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si por necesidades de la circulación, un vehículo queda inmovilizado en el interior de un paso inferior, el conductor, entre otras medidas, deberá...",
+        "respuestas": {
+            "1": "abandonar el vehículo y dirigirse al refugio más próximo.",
+            "2": "apagar todos los sistemas eléctricos del vehículo.",
+            "3": "mantener encendidas las luces de posición y apagar el motor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

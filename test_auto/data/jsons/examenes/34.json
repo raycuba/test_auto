@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Tiene permitido una motocicleta estacionar en una zona delimitada por marcas viales azules?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Sí, pero sólo si la motocicleta es de dos ruedas.",
+            "3": "No, el estacionamiento sólo está permitido a turismos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Arcén con resalto.",
+            "2": "Calzada con pavimento irregular.",
+            "3": "Calzada con obras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Los Agentes de la autoridad y el personal de obras, ¿están obligados a utilizar dispositivos retrorreflectantes que permitan distinguirlos a una distancia mínima de 150 metros?",
+        "respuestas": {
+            "1": "Sí, pero sólo de noche.",
+            "2": "Sí, siempre.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una persona mayor de edad, ¿puede transportar a un pasajero en una bicicleta que, por construcción, no puede ser ocupada por más de una persona?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Solo si el conductor pedalea levantado y el pasajero va sentado en el sillín.",
+            "3": "Sí, a un menor de hasta siete años en un asiento adicional homologado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "La luz rotativa de color amarillo auto que llevan los vehículos especiales, ¿les concede prioridad frente a los demás vehículos?",
+        "respuestas": {
+            "1": "No, solo señaliza su situación en la vía.",
+            "2": "Sí.",
+            "3": "Solo cuando circulen con ella encendida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Un conductor se encuentra situado en el carril derecho de esta calzada, ¿puede seguir de frente?",
+        "respuestas": {
+            "1": "Sí, puede girar a la derecha o continuar de frente.",
+            "2": "Sí, porque no existe una señal vertical que prohíba seguir de frente.",
+            "3": "No, está obligado a girar a la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Para evitar un posible accidente en poblado, ¿cómo advertirá su presencia al conductor de otro vehículo que pretende incorporarse a la circulación?",
+        "respuestas": {
+            "1": "Mediante el uso simultáneo del claxon y de las luces de emergencia.",
+            "2": "Utilizando la luz de largo alcance y el claxon de forma simultánea.",
+            "3": "Utilizando de forma intermitente los alumbrados de corto y largo alcance sin deslumbrar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En un conductor novel, ¿es más probable que aparezca antes la fatiga que en un conductor experto?",
+        "respuestas": {
+            "1": "Sí, porque todavía no tiene automatizados los procesos implicados en la conducción.",
+            "2": "No, los conductores expertos se fatigan con mayor facilidad.",
+            "3": "Sólo si el conductor experto ha superado los sesenta años de edad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Estas señales, sobre una carretera convencional, indican salida inmediata hacia...",
+        "respuestas": {
+            "1": "la población indicada.",
+            "2": "una autopista o autovía.",
+            "3": "otra carretera convencional."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Esta señal de advertencia de peligro indica la proximidad de...",
+        "respuestas": {
+            "1": "un resalto o badén en la vía.",
+            "2": "una obstrucción en la calzada.",
+            "3": "una zona de la vía en la que se estrecha la calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Con esta señal, ¿está permitido utilizar con su turismo el carril de la derecha?",
+        "respuestas": {
+            "1": "Sí, si no está ocupado por ningún ciclo.",
+            "2": "Sí, utilizando el contiguo para adelantar.",
+            "3": "No, ese carril está reservado sólo para ciclos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En una carretera convencional, ¿a qué velocidad deben ir los animales conducidos en rebaño?",
+        "respuestas": {
+            "1": "Al paso.",
+            "2": "A la mitad de la mínima permitida en la vía por la que transiten.",
+            "3": "Al galope."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Un camión de 3.400 kg de MMA dedicado al transporte de mercancías, ¿podrá ser sometido a una inspección técnica aleatoria en carretera?",
+        "respuestas": {
+            "1": "Sí, y se podrá inspeccionar también la sujeción de la carga.",
+            "2": "Sólo si el camión no tiene en vigor la inspección técnica periódica.",
+            "3": "No; las inspecciones técnicas sólo se pueden realizar en una estación ITV."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Una de las técnicas de visión en la conducción preventiva consiste en...",
+        "respuestas": {
+            "1": "mirar a lo lejos, a los lados y por los retrovisores.",
+            "2": "acostumbrarse a los deslumbramientos.",
+            "3": "instalar espejos panorámicos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué indica la luz de posición de un vehículo?",
+        "respuestas": {
+            "1": "Que el vehículo está circulando.",
+            "2": "El lugar que ocupa el vehículo en la calzada y su anchura.",
+            "3": "Que el vehículo está parado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuál es, como norma general, la velocidad máxima a la que le está permitido circular a un turismo por una carretera convencional?",
+        "respuestas": {
+            "1": "80 km/h.",
+            "2": "100 km/h.",
+            "3": "90 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "La flecha verde está iluminada. Si quiere girar a la derecha, ¿tiene preferencia de paso?",
+        "respuestas": {
+            "1": "No, porque la luz roja me prohíbe girar.",
+            "2": "Sí, porque la flecha verde me obliga a girar.",
+            "3": "No, porque la flecha verde me permite pasar, pero debo ceder el paso al vehículo que se aproxima."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Entre otras precauciones, ¿de qué debe asegurarse el conductor de un vehículo que tenga que ceder el paso antes de continuar su marcha?",
+        "respuestas": {
+            "1": "Basta con que el conductor que tiene la prioridad haya visto su vehículo.",
+            "2": "Que no obliga al conductor que tiene la prioridad a variar bruscamente su velocidad.",
+            "3": "Que el conductor que tiene la prioridad ha visto su vehículo completamente detenido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "La mayoría de los accidentes de tráfico se deben...",
+        "respuestas": {
+            "1": "al factor humano.",
+            "2": "al estado de la vía.",
+            "3": "al estado del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Hasta el 1 de enero del 2026, en caso de no disponer del dispositivo luminoso V-16, el conductor de un turismo averiado colocará un solo triangulo de preseñalización de peligro...",
+        "respuestas": {
+            "1": "en calzadas de dos sentidos.",
+            "2": "en calzadas de sentido único o de más de tres carriles",
+            "3": "en todo tipo de calzadas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Los días laborales, la mayor parte de los accidentes de tráfico con víctimas se producen...",
+        "respuestas": {
+            "1": "al ir o al volver del trabajo.",
+            "2": "entre medianoche y las tres de la madrugada.",
+            "3": "al ponerse el sol y al amanecer."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si existe gravilla en la calzada, ¿qué se debe hacer para evitar la rotura del parabrisas?",
+        "respuestas": {
+            "1": "Aumentar la separación con los vehículos que nos preceden.",
+            "2": "Aumentar la velocidad para disminuir los efectos del impacto.",
+            "3": "Nada, porque si el parabrisas está limpio se reduce el riesgo de rotura por gravilla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Para realizar una conducción eficiente y reducir el consumo de combustible, ¿dónde se debe colocar la carga en un turismo siempre que sea posible?",
+        "respuestas": {
+            "1": "En los asientos traseros.",
+            "2": "En la baca o en un cofre portaequipajes.",
+            "3": "En el maletero."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Está permitido realizar una parada delante de un vado señalizado correctamente?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo mientras suben o bajan pasajeros del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Las motocicletas, ciclomotores o vehículos de tres ruedas, ¿pueden arrastrar un remolque o semirremolque?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, incluso podrán transportar personas en el remolque.",
+            "3": "Sí, pero solo durante el día."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Si un agente de tráfico, desde su vehículo, le ordena detenerse mediante el encendido de un dispositivo con una luz amarilla intermitente hacia delante, ¿dónde deberá hacerlo?",
+        "respuestas": {
+            "1": "En el lado derecho de la calzada, detrás del vehículo policial.",
+            "2": "Donde no genere mayores riesgos ni molestias para el resto de usuarios.",
+            "3": "En el lado izquierdo de la calzada, delante del vehículo policial."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "la existencia de una vía para peatones y ciclos segregada del tráfico motorizado.",
+            "2": "que el acceso está prohibido a ciclos.",
+            "3": "la intersección con una vía ciclista."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "A un turismo, ¿le está permitido circular si tiene roto el espejo retrovisor exterior izquierdo?",
+        "respuestas": {
+            "1": "Sí, porque el retrovisor exterior izquierdo no es obligatorio.",
+            "2": "Solo si el vehículo tiene espejo retrovisor interior.",
+            "3": "No, cuando el conductor no pueda ver la circulación por detrás del vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si debido a la lluvia intensa, en una carretera interurbana no se distingue un vehículo de color negro a 50 metros de distancia, ¿es posible circular con el alumbrado de largo alcance encendido?",
+        "respuestas": {
+            "1": "Sólo puede encender la luz de cruce y la antiniebla delantera.",
+            "2": "No, está prohibido.",
+            "3": "Sí, porque la vía está insuficientemente iluminada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Tiene usted que ceder el paso al vehículo que se incorpora a la circulación?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque ya está señalizando la maniobra.",
+            "3": "Sí, porque se incorpora por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

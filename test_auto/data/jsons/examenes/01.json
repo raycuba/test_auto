@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Los sistemas de seguridad pasiva incluyen...",
+        "respuestas": {
+            "1": "alumbrado, neumáticos, frenos y suspensión.",
+            "2": "frenos, neumáticos, airbags y cinturones de seguridad.",
+            "3": "cinturones de seguridad, airbags, apoyacabezas y casco."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué puede ocurrir si, al atravesar un charco de agua, los frenos se mojan?",
+        "respuestas": {
+            "1": "Que pueden perder temporalmente su eficacia.",
+            "2": "Que se estropean y deben cambiarse las zapatas o pastillas.",
+            "3": "Que se reduce la distancia de frenado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "De los siguientes factores, ¿cuál favorece la aparición de la fatiga al volante?",
+        "respuestas": {
+            "1": "Conducir un vehículo con defectos en la dirección o en la suspensión.",
+            "2": "Conducir un vehículo con un cuadro de mandos bien diseñado.",
+            "3": "Circular a una velocidad adecuada por una vía en buen estado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Cuántos espejos retrovisores debe llevar, como mínimo, un turismo?",
+        "respuestas": {
+            "1": "4.",
+            "2": "2.",
+            "3": "3."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Una de las principales causas de accidente en personas jóvenes es...",
+        "respuestas": {
+            "1": "la falta de reflejos.",
+            "2": "el exceso de velocidad.",
+            "3": "la falta de confianza en su capacidad de conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Cómo se denominan los costes de pérdida de vidas, de capacidad productiva y el sufrimiento físico o psicológico que tienen lugar como consecuencia de un accidente de tráfico?",
+        "respuestas": {
+            "1": "Costes sanitarios.",
+            "2": "Costes materiales.",
+            "3": "Costes humanos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En caso de niebla espesa, ¿qué alumbrado es obligatorio llevar encendido para poder circular con un turismo?",
+        "respuestas": {
+            "1": "La luz de posición, la de corto alcance y la antiniebla trasera.",
+            "2": "La luz de posición, la de corto alcance y la antiniebla delantera.",
+            "3": "La luz de posición, la de corto alcance y la antiniebla tanto la delantera como la trasera."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Qué puede hacer para evitar los accidentes debidos al sueño o a la fatiga?",
+        "respuestas": {
+            "1": "Conducir más rápido para que la conducción sea más distraída.",
+            "2": "Prestar atención a los signos y síntomas del sueño, a la fatiga, y parar a descansar.",
+            "3": "Circular por vías desconocidas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Referente a los sistemas avanzados de ayuda a la conducción o ADAS, ¿cómo funciona el sistema LDW o “side assist”?",
+        "respuestas": {
+            "1": "Mantiene automáticamente una distancia constante con el vehículo que circula por delante.",
+            "2": "Alerta e incluso corrige la trayectoria al detectar un cambio de carril motivado por una distracción.",
+            "3": "Analiza los objetos de delante y, si existe posibilidad de atropello, frena."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Le está permitido circular con un turismo si por sus ventanillas laterales sobresale la carga que lleve en el interior del vehículo, como una escalera?",
+        "respuestas": {
+            "1": "Sí, señalizando debidamente la carga.",
+            "2": "Solo si la carga no sobresale más de 30 centímetros.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En este puesto de peaje, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Pasar sin detenerse porque no hay barrera.",
+            "2": "Pasar sin detenerse porque la flecha está verde.",
+            "3": "Detenerse en el puesto de control porque lo indica la señal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Si el sistema de navegación GPS es portátil, ¿qué debe hacer el conductor?",
+        "respuestas": {
+            "1": "Circular por el carril derecho a velocidad reducida para introducir los datos del destino.",
+            "2": "Colocarlo a una altura correcta y sin que entorpezca la visión de la carretera.",
+            "3": "Seguir siempre sus instrucciones, aunque estén en contradicción con la señalización."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En el ámbito del tráfico, ¿a qué se le llama grupos vulnerables?",
+        "respuestas": {
+            "1": "A las personas que fallecen en accidente de tráfico sin ser conductores.",
+            "2": "A los grupos de personas con mayor probabilidad de sufrir un accidente.",
+            "3": "A los menores de edad que sufren heridas graves en un accidente de tráfico."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En esta carretera convencional con arcén transitable, ¿por dónde debe circular un ciclomotor?",
+        "respuestas": {
+            "1": "Por el centro de la calzada o por el arcén de la derecha.",
+            "2": "Por la calzada, lo más cerca posible del borde derecho.",
+            "3": "Por el arcén de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Durante los adelantamientos, los conductores de turismos, ¿pueden superar la velocidad máxima permitida en el tramo de vía por el que circulen?",
+        "respuestas": {
+            "1": "Sí, cuando circulen por carretera convencional fuera de poblado.",
+            "2": "No, está prohibido.",
+            "3": "Sí, siempre que tengan que circular por el carril de sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Un ciclomotor y un turismo llegan al mismo tiempo a un estrechamiento en el que no está señalizada la prioridad de paso. ¿Qué vehículo pasará primero?",
+        "respuestas": {
+            "1": "El ciclomotor.",
+            "2": "El que tenga una menor masa máxima autorizada.",
+            "3": "El turismo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En la medida de lo posible, todo usuario de la vía implicado en un accidente de circulación deberá...",
+        "respuestas": {
+            "1": "trasladar a los heridos en su vehículo antes de la llegada de la ayuda sanitaria.",
+            "2": "cambiar de sitio los objetos que ayuden a determinar la responsabilidad.",
+            "3": "comunicar su identidad a las personas implicadas en el accidente que se lo pidan."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si no existe espacio reservado para peatones, las personas que van en silla de ruedas, ¿podrán desplazarse por el arcén?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Solo en vías urbanas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En una calzada con los dos sentidos separados por una línea continua, ¿está permitido girar a la izquierda?",
+        "respuestas": {
+            "1": "Sí, cuando no se comprometa la seguridad de ningún usuario de la vía.",
+            "2": "Solo dentro de poblado.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "El conductor de una motocicleta que va a girar a la izquierda, ¿cómo debe señalizar la maniobra, si para ello emplea el brazo izquierdo?",
+        "respuestas": {
+            "1": "Con el brazo extendido horizontalmente y la palma de la mano hacia arriba.",
+            "2": "Con el brazo extendido horizontalmente y la palma de la mano hacia atrás.",
+            "3": "Con el brazo extendido horizontalmente y la palma de la mano hacia abajo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Una línea discontinua con trazos muy juntos, ¿qué indica?",
+        "respuestas": {
+            "1": "La proximidad de un carril para tráfico lento.",
+            "2": "La proximidad de un tramo peligroso.",
+            "3": "Un carril especial."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Si lleva a un pasajero en una motocicleta, debe tener en cuenta...",
+        "respuestas": {
+            "1": "la distancia de frenado aumenta.",
+            "2": "la distancia de frenado disminuye.",
+            "3": "la conducción debe ser más rápida."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si en su ciclomotor lleva como pasajero a un menor debe...",
+        "respuestas": {
+            "1": "utilizar un sistema de retención infantil homologado.",
+            "2": "utilizar el asiento correspondiente detrás del conductor.",
+            "3": "ir sentado a horcajadas entre el conductor y el manillar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Al salir de una zona privada para incorporarse a la circulación, ¿se debe ceder el paso?",
+        "respuestas": {
+            "1": "Sí, a todos los vehículos que circulen por la vía a la que se accede.",
+            "2": "No, porque tiene prioridad sobre todos los vehículos que circulen por la vía a la que se accede.",
+            "3": "Sí, pero solo a los vehículos que vengan por la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "De las siguientes obligaciones, ¿cuál corresponde al conductor de un vehículo?",
+        "respuestas": {
+            "1": "Asegurarse que las placas de matrícula no presentan obstáculos que impidan su lectura.",
+            "2": "Someter el vehículo a las inspecciónes técnicas obligatorias que le correspondan.",
+            "3": "Contratar y mantener en vigor un seguro de responsabilidad civil."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "El conductor de una motocicleta, que lleva una persona en el asiento trasero...",
+        "respuestas": {
+            "1": "debe utilizar el casco protector y aconsejar al acompañante que lo utilice.",
+            "2": "debe utilizar el casco protector y será responsable de que lo utilice el acompañante.",
+            "3": "debe utilizar el casco protector y será responsable de que lo utilice el acompañante, pero sólo en vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Un conductor que tenga un resultado positivo en una prueba de detección de alcoholemia...",
+        "respuestas": {
+            "1": "pierde 2 puntos de su permiso de conducir.",
+            "2": "pierde entre 4 y 6 puntos de su permiso de conducir.",
+            "3": "solo puede ser sancionado con una multa de hasta 600 euros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Un ciclomotor de dos ruedas está obligado a llevar...",
+        "respuestas": {
+            "1": "sólo el espejo retrovisor derecho.",
+            "2": "sólo el espejo retrovisor izquierdo.",
+            "3": "dos espejos retrovisores, uno en cada lado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Una zona para realizar acampadas.",
+            "2": "Una zona de frenado de emergencia.",
+            "3": "Una salida en autopista o autovía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En vías urbanas, ¿cuál es el tipo de accidente con víctimas más frecuente en el que se ven implicadas las furgonetas?",
+        "respuestas": {
+            "1": "Atropello a peatones.",
+            "2": "Colisión lateral y frontolateral.",
+            "3": "Salida de la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

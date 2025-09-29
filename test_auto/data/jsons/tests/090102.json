@@ -1,0 +1,167 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Entre la dotación obligatoria que debe llevar un turismo, ¿es obligatorio un equipo homologado de extinción de incendios, adecuado a las condiciones de uso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo si el turismo tiene más de cinco plazas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué equipamiento, entre otros, debe llevar un conjunto de vehículos no agrícolas cuando esté circulando?",
+        "respuestas": {
+            "1": "Una rueda de repuesto para el remolque o semirremolque.",
+            "2": "Dos chalecos reflectantes de alta visibilidad.",
+            "3": "Un equipo homologado de extinción de incendios, adecuado y en condiciones de uso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El conductor de un camión, ¿está obligado a llevar un chaleco reflectante en su vehículo?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sólo si circula habitualmente por vías interurbanas.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En un vehículo mixto adaptable, ¿es obligatorio llevar un chaleco reflectante?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, pero es recomendable.",
+            "3": "Sólo cuando se destine al transporte de personas y no de mercancías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Es obligatorio llevar un extintor de incendios en condiciones de uso, en un turismo destinado a uso privado?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo cuando el turismo tenga más de 5 plazas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Si su turismo arrastra un remolque, ¿está obligado a llevar rueda de repuesto del remolque?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si el remolque no es ligero."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Un camión de más de 3.500 kilogramos de masa máxima autorizada destinado al servicio público debe llevar siempre...",
+        "respuestas": {
+            "1": "un extintor de incendios.",
+            "2": "un extintor de incendios y al menos un calzo adecuado para el vehículo.",
+            "3": "un calzo adecuado para el vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Un turismo con remolque, ¿es obligatorio que lleve una rueda de repuesto del remolque?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, cuando el remolque no es ligero.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si arrastra con su turismo un remolque ligero, ¿está obligado a llevar entre sus accesorios un equipo homologado de extinción de incendios en condiciones de uso?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo cuando circule por vías interurbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Los chalecos reflectantes de alta visibilidad, ¿deben estar homologados?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No es obligatorio, pero sí recomendable.",
+            "3": "Solo si son de color naranja; los amarillos no necesitan estar homologados."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "El conductor de un turismo utilizará un chaleco reflectante de alta visibilidad cuando salga del vehículo y ocupe...",
+        "respuestas": {
+            "1": "la calzada o el arcén de todo tipo de vías, tanto urbanas como interurbanas.",
+            "2": "la calzada o el arcén de las vias interurbanas.",
+            "3": "la calzada de las vías interurbanas, pero no cuando ocupe el arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Si sufre una avería y tiene que salir de su vehículo, ¿en cuál de los siguientes casos debe utilizar el chaleco reflectante?",
+        "respuestas": {
+            "1": "Al ocupar la calzada en vías urbanas.",
+            "2": "Al ocupar el arcén en vías interurbanas.",
+            "3": "Solamente al ocupar la calzada o el arcén en autopistas y autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué ocurre cuando se deja el chaleco reflectante expuesto a la luz?",
+        "respuestas": {
+            "1": "Nada, la luz no daña el material.",
+            "2": "Que pierde sus propiedades reflectantes.",
+            "3": "Que cambia de color, aunque mantiene sus propiedades reflectantes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si va a prestar ayuda en un accidente, respecto al uso del chaleco reflectante, debe saber que:",
+        "respuestas": {
+            "1": "Hay que ponérselo antes de salir del vehículo.",
+            "2": "Su uso solo es obligatorio en zona urbana.",
+            "3": "Su uso no es obligatorio en caso de accidente al ser una situación de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Durante el día, un conductor que ocupe la calzada, ¿está obligado a ponerse el chaleco reflectante?",
+        "respuestas": {
+            "1": "Sí, en vías interurbanas.",
+            "2": "No, si la visibilidad es buena.",
+            "3": "Sí, en toda clase de vías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    }
+]

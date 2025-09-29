@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si cambia alguno de los datos que aparecen en el permiso de conducción, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Actualizar los datos en la próxima renovación.",
+            "2": "No debe hacer nada, no es necesario hacer ningún trámite.",
+            "3": "Comunicarlo a la Jefatura de Tráfico correspondiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Los conductores con un permiso de conducción de antigüedad inferior a un año, ¿tienen que cumplir alguna limitación de velocidad especial solo por el hecho de ser noveles?",
+        "respuestas": {
+            "1": "Sí; no podrán superar los 100 km/h, cuando circulen por autopistas o autovías.",
+            "2": "Sí; no podrán superar los 80 km/h, cuando circulen por vías interurbanas.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Si tiene su permiso B desde hace más de un año, y ahora obtiene el de la clase A2, ¿está obligado a llevar la placa L en su motocicleta?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, durante un año, en la parte delantera.",
+            "3": "Sí, durante un año, en la parte trasera."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Un conductor con un permiso de conducción de antigüedad inferior a un año, ¿está obligado a llevar la señal de la imagen si su vehículo tiene las lunas tintadas?",
+        "respuestas": {
+            "1": "Sí, en la parte trasera izquierda del vehículo, en sitio visible.",
+            "2": "No, ya que con el vidrio tintado no se ve la señal.",
+            "3": "Sí, en la parte trasera interior del vehículo, aunque no se vea por el vidrio tintado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si se declara la pérdida de vigencia del permiso de conducir a un conductor novel, al recuperar el permiso, ¿deberá llevar éste, la señal de la imagen?",
+        "respuestas": {
+            "1": "Solo si no ha pasado más de un año natural desde la obtención del permiso.",
+            "2": "No, en ningún caso.",
+            "3": "Sí, ya que no computa el periodo de pérdida de vigencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Un conductor novel está obligado a llevar una placa de color verde con una \"L\" en blanco en su interior, ¿qué dimensiones debe tener esta placa?",
+        "respuestas": {
+            "1": "25 centímetros de ancho por 30 centímetros de alto.",
+            "2": "19,50 centímetros de alto por 15 centímetros de ancho.",
+            "3": "50 centímetros por 50 centímetros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si un conductor pierde su saldo total de puntos, ¿puede perder la vigencia de su permiso de conducción?",
+        "respuestas": {
+            "1": "Sí, una vez notificada la resolución de la declaración de pérdida de vigencia.",
+            "2": "No, el permiso solo pierde su vigencia cuando caduca.",
+            "3": "Sí, la vigencia se pierde automáticamente cuando el saldo es de 0 puntos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Qué consecuencias tiene la pérdida del saldo de puntos asignado al titular de un permiso de conducir?",
+        "respuestas": {
+            "1": "La pérdida de vigencia del permiso.",
+            "2": "La baja definitiva del vehículo.",
+            "3": "La suspensión del permiso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Qué documentos relativos al vehículo debe llevar consigo un conductor de una motocicleta?",
+        "respuestas": {
+            "1": "La tarjeta de inspección técnica y el permiso de circulación.",
+            "2": "La tarjeta de inspección técnica, solamente.",
+            "3": "El permiso de circulación, solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El conductor de un vehículo está obligado a mostrar a los agentes de la autoridad que se lo soliciten...",
+        "respuestas": {
+            "1": "únicamente el permiso de circulación.",
+            "2": "solamente la tarjeta de inspección técnica.",
+            "3": "el permiso de circulación y la tarjeta de inspección técnica."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Además del permiso de conducción, ¿qué otra documentación debe llevar el conductor de un turismo?",
+        "respuestas": {
+            "1": "No es obligatorio llevar ningún documento más.",
+            "2": "El permiso de circulación y la tarjeta ITV.",
+            "3": "El permiso de circulación, solamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué documento acredita la matriculación de un turismo y autoriza su circulación por las vías públicas?",
+        "respuestas": {
+            "1": "El certificado del seguro obligatorio.",
+            "2": "El permiso de circulación.",
+            "3": "La tarjeta de inspección técnica."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si vende su vehículo, ¿debe comunicarlo a la Jefatura de Tráfico?",
+        "respuestas": {
+            "1": "No, es el nuevo titular el que tiene que comunicar la compra.",
+            "2": "Solo si el nuevo titular no tiene su residencia en España.",
+            "3": "Sí, en un plazo de 10 días."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Si desea conocer la fecha de matriculación de un vehículo, consultará...",
+        "respuestas": {
+            "1": "el distintivo de la ITV del vehículo.",
+            "2": "el permiso de conducción.",
+            "3": "el permiso de circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Es necesario renovar el permiso de circulación?",
+        "respuestas": {
+            "1": "Sí, cada cuatro años.",
+            "2": "Sí, cuando el vehículo cambie de titular.",
+            "3": "No, es un documento que nunca se renueva."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El permiso de circulación es obligatorio para los remolques y semirremolques...",
+        "respuestas": {
+            "1": "que tengan una MMA. no superior a 750 kg.",
+            "2": "que tengan una MMA. superior a 750 kg.",
+            "3": "cualquiera que sea su MMA."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El titular de un vehículo, ¿está obligado a notificar su venta en la Jefatura de Tráfico correspondiente?",
+        "respuestas": {
+            "1": "No, la obligación corresponde al comprador.",
+            "2": "Sí, en el plazo 10 días.",
+            "3": "Sí, pero sólo de los turismos y las motocicletas, en el plazo de 10 días."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Las motocicletas que se pueden conducir con el permiso de conducción de la clase A1, ¿están obligadas a llevar placa de matrícula?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sólo si llevan sidecar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Cuántas placas de matrícula debe llevar una motocicleta?",
+        "respuestas": {
+            "1": "Una sola placa en la parte posterior, en posición vertical o casi vertical.",
+            "2": "Dos placas, una en la parte delantera y otra en la parte posterior.",
+            "3": "Una sola placa en la parte delantera, en posición vertical o casi vertical."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Los remolques y semirremolques, ¿deben tener tarjeta de inspección técnica?",
+        "respuestas": {
+            "1": "Sí, todos.",
+            "2": "Sí, pero únicamente los no ligeros.",
+            "3": "No, es suficiente con la del vehículo que los arrastra."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Qué documento acredita que un vehículo reúne las condiciones técnicas necesarias para circular?",
+        "respuestas": {
+            "1": "El recibo del impuesto de vehículos de tracción mecánica.",
+            "2": "La tarjeta ITV.",
+            "3": "El certificado del seguro y el último recibo del pago de la prima."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué documento tienen que llevar todos los remolques?",
+        "respuestas": {
+            "1": "El permiso de circulación, solamente.",
+            "2": "La tarjeta ITV y el permiso de circulación.",
+            "3": "La tarjeta ITV, solamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si su turismo ha pasado favorablemente la primera ITV, ¿cuándo tiene que pasar la próxima inspección?",
+        "respuestas": {
+            "1": "Dentro de 2 años.",
+            "2": "Dentro de 4 años.",
+            "3": "Al año siguiente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Una furgoneta con una antigüedad de más de 10 años, ¿con qué frecuencia debe pasar la inspección técnica periódica?",
+        "respuestas": {
+            "1": "Bienal.",
+            "2": "Cada cuatro años.",
+            "3": "Semestral."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Una furgoneta de MMA inferior a 3.500 kg, tiene cuatro años de antigüedad; ¿cuándo debe pasar su próxima inspección técnica periódica (ITV)?",
+        "respuestas": {
+            "1": "En dos años.",
+            "2": "Al año siguiente.",
+            "3": "En seis meses."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Las motocicletas con más de cinco años de antigüedad deben pasar la inspección técnica periódica (ITV)...",
+        "respuestas": {
+            "1": "cada año.",
+            "2": "cada dos años.",
+            "3": "cada cinco años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Un turismo de nueva matriculación de uso privado, ¿cuándo deberá pasar su primera inspección técnica periódica (ITV)?",
+        "respuestas": {
+            "1": "A los 3 años a contar desde la fecha de expedición de la tarjeta de inspección técnica.",
+            "2": "A los 5 años a contar desde la fecha de matriculación.",
+            "3": "A los 4 años a contar desde la fecha de matriculación"
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Acaba de comprar un turismo nuevo, ¿cuándo debe presentarlo a la primera inspección técnica reglamentaria?",
+        "respuestas": {
+            "1": "A los cuatro años, a contar desde la fecha de compra.",
+            "2": "A los dos años, a contar desde la fecha de matriculación.",
+            "3": "A los cuatro años, a contar desde la fecha de matriculación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Un camión con una MMA de 2.500 kg y una antigüedad de 7 años está obligado a pasar inspección técnica...",
+        "respuestas": {
+            "1": "cada dos años.",
+            "2": "anualmente.",
+            "3": "cada seis meses."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Cuándo debe pasar una motocicleta su primera inspección técnica periódica?",
+        "respuestas": {
+            "1": "A los cinco años de antigüedad.",
+            "2": "A los cuatro años de antigüedad.",
+            "3": "A los seis años de antigüedad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

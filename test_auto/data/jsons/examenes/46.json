@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Un agente de circulación ordena reanudar la marcha con ayuda de un silbato, ¿cómo serán los toques?",
+        "respuestas": {
+            "1": "Cortos y frecuentes.",
+            "2": "No se utiliza el silbato para este tipo de órdenes.",
+            "3": "Largos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El consumo de drogas de abuso o ilegales, ¿puede mejorar el tiempo de reacción del conductor?",
+        "respuestas": {
+            "1": "Sí; el consumo de cocaína mejora el tiempo de reacción.",
+            "2": "No; el consumo de drogas altera negativamente el tiempo de reacción.",
+            "3": "Sí; siempre que se consuman con el estómago lleno."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En este tramo de vía de visibilidad reducida, ¿está permitido realizar un cambio de sentido?",
+        "respuestas": {
+            "1": "Sí, cuando no hay circulación en sentido contrario.",
+            "2": "Sí, señalizando la maniobra convenientemente.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Qué vehículos tienen permitido circular por un carril habilitado, por razones de fluidez, en sentido contrario al habitual?",
+        "respuestas": {
+            "1": "Automóviles y vehículos con remolque hasta 750 kg de MMA.",
+            "2": "Automóviles que superen los 3.500 kg de MMA y motocicletas.",
+            "3": "Sólo turismos y motocicletas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si por obras en la vía, se ha abierto un carril en sentido contrario al habitual, ¿puede circular por este carril un vehículo mixto?",
+        "respuestas": {
+            "1": "Sí, pero sólo cuando transporte pasajeros.",
+            "2": "Sí.",
+            "3": "No, porque sólo pueden circular turismos y motocicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Un conductor obtiene el permiso de la clase B justo un año después de haber obtenido el de la clase A2; ¿cuál será la tasa máxima de alcohol que se le permitirá para poder conducir?",
+        "respuestas": {
+            "1": "0,5 gramos de alcohol por litro de sangre.",
+            "2": "0,3 gramos de alcohol por litro de sangre en los dos próximos años.",
+            "3": "0,3 gramos de alcohol por litro en sangre durante un año."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Al estacionar un vehículo en una vía urbana suficientemente iluminada, ¿qué alumbrado dejará encendido?",
+        "respuestas": {
+            "1": "El alumbrado de posición o el de estacionamiento, si se trata de una travesía.",
+            "2": "El alumbrado de posición.",
+            "3": "Ninguno."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Cargar un vehículo con más carga de la autorizada...",
+        "respuestas": {
+            "1": "no influye para nada en la seguridad vial.",
+            "2": "influye, especialmente, en la aceleración, frenado y estabilidad del vehículo.",
+            "3": "solo afecta a los neumáticos, por lo que se deberá incrementar su presión."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Esta señal indica que los carriles sobre los que están situadas las señales de velocidad mínima...",
+        "respuestas": {
+            "1": "sólo puede utilizarlos si circula a una velocidad inferior a la indicada.",
+            "2": "son para vehículos rápidos, mientras que el carril situado más a la derecha es para vehículos lentos.",
+            "3": "sólo puede utilizarlos si circula a una velocidad igual o superior a la indicada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Un vehículo prioritario, ¿tiene prioridad de paso sobre los demás usuarios de la vía en una intersección?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, siempre.",
+            "3": "Sólo cuando circule en servicio de urgencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Al aproximarse a un autobús en situación de parada, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical.",
+            "2": "Ninguna si no vienen vehículos en sentido contrario.",
+            "3": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué indican estos paneles?",
+        "respuestas": {
+            "1": "La presencia de una curva y su sentido.",
+            "2": "Prohíben el paso a la zona que delimitan.",
+            "3": "La presencia de una curva en la que se están realizando obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta autopista está saturada; a los vehículos del carril derecho, ¿les está permitido circular a mayor velocidad que los del carril izquierdo?",
+        "respuestas": {
+            "1": "No, porque está prohibido adelantar por la derecha.",
+            "2": "Sí, en este caso no se considera que los vehículos del carril derecho estén adelantando.",
+            "3": "Sí, salvo a los camiones, que tendrán que ajustar su velocidad a la de los vehículos del carril izquierdo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Cuando conduce una motocicleta, debe tener en cuenta que...",
+        "respuestas": {
+            "1": "cuanto mayor es la velocidad, hay mayor dificultad para mantener el equilibrio.",
+            "2": "es menos estable y más frágil que el resto de los vehículos.",
+            "3": "es más visible que otros automóviles."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El conductor de un turismo, ¿qué tasa de alcohol no podrá superar si la antigüedad de su primer permiso o licencia de conducción es inferior a 2 años?",
+        "respuestas": {
+            "1": "0,10 miligramos de alcohol por litro de aire expirado.",
+            "2": "0,05 miligramos de alcohol por litro de aire expirado.",
+            "3": "0,15 miligramos de alcohol por litro de aire expirado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "El conductor de un cuadriciclo ligero que dispone de cinturón de seguridad está obligado a utilizarlo...",
+        "respuestas": {
+            "1": "sólo en vías interurbanas.",
+            "2": "sólo en vías urbanas.",
+            "3": "tanto en vías urbanas e interurbanas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Los conductores jóvenes, en general, ¿evalúan peor los riesgos de la circulación?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, lo que reduce la posibilidad de sufrir un accidente de tráfico.",
+            "3": "Sí, lo que aumenta la posibilidad de sufrir un accidente de tráfico."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En esta intersección con un semáforo en amarillo intermitente, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detener el vehículo.",
+            "2": "Extremar la precaución y, en su caso, ceder el paso a ambos lados.",
+            "3": "Continuar con precaución, el semáforo en amarillo intermitente exime de cumplir la señal vertical."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si existen dudas sobre las indicaciones del navegador GPS y éste le dirige a una vía de acceso prohibido, lo más recomendable es que...",
+        "respuestas": {
+            "1": "el criterio del conductor prevalezca sobre las indicaciones del navegador.",
+            "2": "el conductor vuelva a introducir los datos del destino sin detener el vehículo.",
+            "3": "el conductor siga las indicaciones del dispositivo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En general, un conductor que circula bajo los efectos del LSD...",
+        "respuestas": {
+            "1": "tiene una fuerte sensación de fatiga y sueño.",
+            "2": "sobrevalora sus capacidades al volante.",
+            "3": "puede sufrir alucinaciones y alteraciones emocionales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En general, cambiar con frecuencia las horas de sueño o despertarse varias veces mientras se duerme, son circunstancias que...",
+        "respuestas": {
+            "1": "impiden la aparición de la somnolencia o de la fatiga durante la conducción.",
+            "2": "facilitan la concentración del conductor en vías monótonas.",
+            "3": "favorecen la aparición de la somnolencia al volante."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Arrojar un cigarro por la ventanilla de un turismo, ¿es una infracción?",
+        "respuestas": {
+            "1": "Sí, y además conlleva la pérdida de puntos.",
+            "2": "Sí, pero no conlleva la pérdida de puntos.",
+            "3": "No es una infracción, pero no se debe hacer."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En una intersección regulada con esta señal, ¿está permitido girar a la derecha?",
+        "respuestas": {
+            "1": "No, es obligatorio girar a la izquierda o seguir de frente.",
+            "2": "Sí, es la única dirección permitida.",
+            "3": "Sí, aunque también se puede girar a la izquierda o seguir de frente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Un turismo circula a 40 km/h por una travesía insuficientemente iluminada, ¿qué alumbrado debe llevar?",
+        "respuestas": {
+            "1": "El alumbrado de posición solamente.",
+            "2": "El alumbrado de posición y el de carretera.",
+            "3": "El alumbrado de posición y el de cruce."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En caso de “aquaplaning”, ¿qué debe hacer para no perder el control del vehículo?",
+        "respuestas": {
+            "1": "No frenar a fondo y desacelerar hasta que el vehículo recupere la tracción.",
+            "2": "Pisar con fuerza el acelerador para eliminar el agua de los neumáticos.",
+            "3": "Girar el volante a la izquierda con suavidad para corregir la trayectoria."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Cómo puede reducir la velocidad de su vehículo?",
+        "respuestas": {
+            "1": "Solo con el sistema de frenado.",
+            "2": "Solo con el motor.",
+            "3": "Tanto con el sistema de frenado como con el motor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En los cambios de carril en un mismo sentido, ¿quién tiene prioridad?",
+        "respuestas": {
+            "1": "El vehículo que circula por el carril que se pretende ocupar.",
+            "2": "El vehículo que realiza el cambio de carril.",
+            "3": "Siempre los turismos sobre el resto de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿A qué velocidad máxima tiene permitido circular un ciclomotor por esta carretera convencional con un carril para cada sentido de la circulación?",
+        "respuestas": {
+            "1": "60 kilómetros por hora.",
+            "2": "45 kilómetros por hora.",
+            "3": "80 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Montar neumáticos con un código de velocidad distinto al que recomienda el fabricante, ¿está permitido?",
+        "respuestas": {
+            "1": "Sí, siempre que sea superior al recomendado.",
+            "2": "No, está prohibido.",
+            "3": "Sí, en cualquier caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Estos vehículos circulan por un carril habilitado en sentido contrario al habitual. ¿Pueden desplazarse al carril normal de circulación?",
+        "respuestas": {
+            "1": "Sí, siempre que al hacerlo, no derriben los conos que delimitan ese carril.",
+            "2": "Sí, pero sólo para adelantar.",
+            "3": "No, ni siquiera para adelantar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

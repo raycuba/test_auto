@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Antes de iniciar un adelantamiento, el conductor está obligado a comprobar que...",
+        "respuestas": {
+            "1": "el vehículo que circula delante nos avisa con señales acústicas de la posibilidad de hacerlo.",
+            "2": "la calzada dispone de más de un carril para su sentido de la circulación.",
+            "3": "su vehículo dispone de velocidad suficiente para realizar la maniobra."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Las situaciones de tráfico excesivamente complejas favorecen la distracción del conductor al no poder recoger o asimilar toda la información relevante; un ejemplo de ello es...",
+        "respuestas": {
+            "1": "cuando se circula por una autovía con el navegador o GPS.",
+            "2": "cuando un peatón cruza por un paso con el semáforo en rojo.",
+            "3": "cuando existe una gran acumulación de señales, vehículos y peatones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué sistema reduce el riesgo de bloqueo de las ruedas en caso de frenazo brusco?",
+        "respuestas": {
+            "1": "El ABS.",
+            "2": "El servofreno.",
+            "3": "La tracción total."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Al acercarse a un mercado, ¿qué precauciones se deben tomar?",
+        "respuestas": {
+            "1": "Hacer señales acústicas para indicar nuestra presencia.",
+            "2": "Moderar la velocidad y si fuera preciso, detener el vehículo.",
+            "3": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Como norma general, ¿está permitido adelantar en los pasos a nivel?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si se hacen señales acústicas y ópticas antes de adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Después de adelantar al turismo y al camión, el turismo verde desea seguir adelantando a otros vehículos, ¿debe regresar antes al carril derecho?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sí, si molesta a otros conductores que circulan por detrás a más velocidad.",
+            "3": "No, en autopistas no es obligatorio regresar al carril derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si se encuentra con un motorista accidentado, ¿debe quitarle el casco de protección?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Solo si el motorista está consciente.",
+            "3": "Sí, lo antes posible para facilitar la respiración."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Cuando se consume alcohol, ¿se producen alteraciones en la visión?",
+        "respuestas": {
+            "1": "Sí, puede aparecer la visión túnel.",
+            "2": "No, solamente afecta a la capacidad motora.",
+            "3": "Sí, pero solamente con tasas de alcohol por encima de las permitidas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Este vehículo tiene las luces blancas encendidas; ¿qué indican?",
+        "respuestas": {
+            "1": "Que tiene puesta la marcha atrás.",
+            "2": "Que va a girar a la izquierda.",
+            "3": "Que va a empezar a circular."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Si se va a incorporar a una vía utilizando el carril de aceleración, ¿qué deberá comprobar antes de empezar a acelerar para alcanzar una velocidad adecuada a la vía?",
+        "respuestas": {
+            "1": "Que puede incorporarse sin poner en peligro a los usuarios que circulan por la vía.",
+            "2": "Que los usuarios que circulan por la vía lo hacen a velocidad adecuada.",
+            "3": "Que los usuarios que circulan por la vía se han dado cuenta de su presencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Si circula detrás de un vehículo voluminoso que quiere girar a la derecha, ¿qué debe tener en cuenta?",
+        "respuestas": {
+            "1": "Que el vehículo voluminoso, antes de girar, probablemente se desplazará hacia la izquierda.",
+            "2": "Que el vehículo voluminoso no reducirá su velocidad.",
+            "3": "Que el vehículo voluminoso se acercará lo máximo posible a la derecha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Esta marca amarilla prohíbe...",
+        "respuestas": {
+            "1": "únicamente estacionar.",
+            "2": "parar y estacionar.",
+            "3": "únicamente parar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Los límites de velocidad que se establecen para una vía, se fijan en función de...",
+        "respuestas": {
+            "1": "criterios económicos, fundamentalmente.",
+            "2": "su trazado y del volumen del tráfico que vaya a soportar, entre otros factores.",
+            "3": "su trazado y del número de curvas, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El peso de un turismo y de su carga es superior a la masa máxima autorizada que figura en la ficha técnica del vehículo, ¿está permitido circular en estas condiciones?",
+        "respuestas": {
+            "1": "Solo si no se transportan personas, aparte del conductor.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El tráfico está congestionado y prevé que se va a quedar detenido sobre el paso para peatones; ¿debe entrar en el paso?",
+        "respuestas": {
+            "1": "No, porque se obstaculiza el paso a los peatones.",
+            "2": "Solo si no hay ningún peatón con intención de cruzar por el paso.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Una embarazada, ¿debe llevar puesto el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sí, es obligatorio.",
+            "2": "No, no es obligatorio.",
+            "3": "Sí, pero sólo en vías interurbanas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué debe hacer para que el vehículo tenga un mejor agarre sobre la calzada?",
+        "respuestas": {
+            "1": "Inflar los neumáticos por encima de la presión recomendada por el fabricante.",
+            "2": "Cuidar que la profundidad del dibujo del neumático nunca sea inferior a 1,6 mm.",
+            "3": "Utilizar neumáticos radiales en las ruedas delanteras y diagonales en las traseras."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Para evitar la contaminación acústica, es aconsejable que los conductores de motocicletas...",
+        "respuestas": {
+            "1": "cuiden que el tubo de escape y el silenciador estén siempre en buen estado.",
+            "2": "circulen con el escape libre.",
+            "3": "cuiden el silenciador, pero no el tubo de escape, ya que éste no influye en la emisión de ruidos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Circula por una autovía y sufre una avería que le obliga a llevar una velocidad anormalmente reducida, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Encender el alumbrado de cruce y continuar la marcha hasta llegar al destino.",
+            "2": "No detenerse en ningún caso.",
+            "3": "Circular hasta la primera salida por la que pueda abandonar la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Una motocicleta adelanta a un turismo en carretera. ¿Qué distancia lateral debe dejar?",
+        "respuestas": {
+            "1": "No hay distancia mínima obligatoria.",
+            "2": "2 metros o más.",
+            "3": "1,5 metros o más."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Si una vía se diseña para circular a una velocidad máxima de 80 km/h, circular a una velocidad superior...",
+        "respuestas": {
+            "1": "no afecta a las condiciones de seguridad.",
+            "2": "afecta a las condiciones de seguridad, aumentando el riesgo de accidente.",
+            "3": "afecta a la seguridad, pero sólo si el conductor es novel."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Los niños de hasta 10 años, ¿son especialmente vulnerables en caso de atropello?",
+        "respuestas": {
+            "1": "Solo en caso de que los atropelle un camión o un autobús.",
+            "2": "No, los niños no son un grupo de riesgo o vulnerable en caso de atropello.",
+            "3": "Sí, por su baja estatura suelen golpearse en la cabeza o en partes vitales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Qué sanción conlleva la utilización de dispositivos de intercomunicación no autorizados en las pruebas de obtención de un permiso de conducción con el fin de cometer fraude?",
+        "respuestas": {
+            "1": "Multa de 200 euros y la prohibición de presentarse a las pruebas en el plazo de seis meses.",
+            "2": "Multa de 500 euros y la prohibición de presentarse a las pruebas en el plazo de tres meses.",
+            "3": "Multa de 500 euros y la prohibición de presentarse a las pruebas en el plazo de seis meses."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Puede perder puntos de su saldo si conduce un turismo con un menor, de 1,20 metros de estatura, con el sistema de retención infantil sin abrochar o mal abrochado?",
+        "respuestas": {
+            "1": "Sí, es una infracción que supone la pérdida de 4 puntos del saldo del conductor.",
+            "2": "Sí, es una infracción que supone la pérdida de 2 puntos del saldo del conductor.",
+            "3": "No; aunque es una infracción, no supone la pérdida de puntos para el conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Un conjunto de vehículos, cuya longitud es de 7,30 metros, circula por una vía con tres carriles por sentido de la circulación, ¿qué carriles puede utilizar?",
+        "respuestas": {
+            "1": "Solamente el de la derecha.",
+            "2": "Cualquiera de ellos indistintamente.",
+            "3": "El de la derecha y el inmediato únicamente cuando las circunstancias del tráfico o de la vía lo aconsejen."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Cuando se realizan trayectos largos, ¿es recomendable parar y descansar un rato?",
+        "respuestas": {
+            "1": "No, porque se alarga el tiempo de viaje de forma innecesaria y aumenta la fatiga.",
+            "2": "Solo si el trayecto discurre principalmente por autovías o autopistas.",
+            "3": "Sí, 20 o 30 minutos cada 2 horas de conducción o cada 200 kilómetros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En carretera desea adelantar a otro vehículo. ¿Cómo puede avisarle?",
+        "respuestas": {
+            "1": "Con las luces en ráfaga o con señales acústicas.",
+            "2": "Con el intermitente únicamente.",
+            "3": "Con las señales acústicas únicamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Las circunstancias personales como el estrés, ¿pueden influir en los efectos del alcohol?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, sólo dependen de la cantidad y el tipo de alcohol ingerido.",
+            "3": "No, el alcohol sólo afecta a las características físicas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "¿Por dónde debe pasar la cinta torácica del cinturón de seguridad?",
+        "respuestas": {
+            "1": "Sobre la clavícula y por el centro del pecho.",
+            "2": "Por la pelvis.",
+            "3": "Por el hombro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Circula con su turismo por esta carretera convencional, ¿cuál es la velocidad máxima permitida?",
+        "respuestas": {
+            "1": "90 km/h.",
+            "2": "100 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

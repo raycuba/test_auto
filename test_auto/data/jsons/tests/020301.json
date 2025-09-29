@@ -1,0 +1,57 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Si el conductor de un vehículo va a desplazarse lateralmente invadiendo otro carril...",
+        "respuestas": {
+            "1": "dispone de la prioridad sobre los vehículos que circulan por el otro carril.",
+            "2": "debe respetar la prioridad de los vehículos que circulan por el otro carril.",
+            "3": "tendrá prioridad sobre otros vehículos si existe carril de aceleración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En los cambios de carril en un mismo sentido, ¿quién tiene prioridad?",
+        "respuestas": {
+            "1": "El vehículo que circula por el carril que se pretende ocupar.",
+            "2": "El vehículo que realiza el cambio de carril.",
+            "3": "Siempre los turismos sobre el resto de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En un cambio de carril, ¿qué vehículo tiene preferencia de paso?",
+        "respuestas": {
+            "1": "El vehículo que cambia de carril, si circula a gran velocidad.",
+            "2": "El vehículo que cambia de carril, en cualquier caso.",
+            "3": "El vehículo que ya circulaba por el carril."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "La señalización luminosa para indicar el cambio de carril, ¿cuándo deberá concluir?",
+        "respuestas": {
+            "1": "Una vez haya rebasado al vehículo adelantado.",
+            "2": "Cuando compruebe que los demás usuarios han percibido la señalización.",
+            "3": "Cuando el vehículo haya adoptado la nueva trayectoria."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Como norma general, ¿cómo debe avisar de su intención de cambiar de carril?",
+        "respuestas": {
+            "1": "Con los indicadores de dirección.",
+            "2": "Con las luces de frenado.",
+            "3": "Con el claxon."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

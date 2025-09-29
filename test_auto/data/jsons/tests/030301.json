@@ -1,0 +1,134 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Los paneles de mensaje variable, ¿pueden utilizarse para dar instrucciones de obligado cumplimiento?",
+        "respuestas": {
+            "1": "No, sólo pueden usarse para advertir de posibles peligros.",
+            "2": "No, son meramente informativos.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En un paso a nivel, una semibarrera móvil en movimiento...",
+        "respuestas": {
+            "1": "obliga a detenerse.",
+            "2": "no obliga a detenerse hasta que no esté atravesada en la vía en posición horizontal.",
+            "3": "obliga a extremar la precaución, pero no a detenerse si está subiendo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué le indica la señal?",
+        "respuestas": {
+            "1": "Que, por obras, está cortado un carril.",
+            "2": "Que la calzada está totalmente cerrada al tráfico.",
+            "3": "Que está prohibido estacionar en la zona."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Una señal de balizamiento consistente en una luz roja fija, indica que...",
+        "respuestas": {
+            "1": "a partir de ella, hay que reducir la velocidad.",
+            "2": "la calzada está totalmente cerrada al tráfico.",
+            "3": "hay que detenerse hasta que se encienda la luz verde."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Estas señales de balizamiento indican que...",
+        "respuestas": {
+            "1": "hay que tomar obligatoriamente la salida inmediata que está a la derecha.",
+            "2": "solamente es utilizable el carril derecho.",
+            "3": "la próxima curva es especialmente peligrosa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En una zona de obras se encuentra un panel direccional provisional, ¿qué indica?",
+        "respuestas": {
+            "1": "Advierte del peligro por obras.",
+            "2": "La presencia de una curva y su dirección.",
+            "3": "Prohíbe el paso e informa sobre el sentido de la circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué le indica la señal?",
+        "respuestas": {
+            "1": "Prohíbe el paso y me informa del sentido de la circulación, no pudiendo atravesar la línea que forman los conos.",
+            "2": "Prohíbe el paso y me informa del sentido de la circulación pudiendo atravesar la línea que forman los conos si quiero adelantar.",
+            "3": "Me indica un peligro y me informa del sentido de la circulación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Los paneles direccionales provisionales, ¿qué indican?",
+        "respuestas": {
+            "1": "Que la calzada está cerrada al tráfico permanentemente.",
+            "2": "Que es un carril reversible.",
+            "3": "Prohíben el paso e informan del sentido de la circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Qué indican esta serie de luces amarillas intermitentes?",
+        "respuestas": {
+            "1": "Prohíben el paso a través de la línea imaginaria que las une.",
+            "2": "Permiten pasar con precaución a través de la línea imaginaria que las une.",
+            "3": "Indican que la calzada está totalmente cerrada al tráfico."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Los conos colocados en la calzada, ¿qué indican?",
+        "respuestas": {
+            "1": "El sentido de la circulación.",
+            "2": "Prohíben atravesar la línea real o imaginaria que los une.",
+            "3": "Permiten atravesar la línea real o imaginaria que los une, pero con precaución."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Respecto a la señalización circunstancial y de balizamiento, ¿cuál de los siguientes son dispositivos de barrera y por tanto, prohíben el paso a través de la línea real o imaginaria que los une?",
+        "respuestas": {
+            "1": "Los conos",
+            "2": "Los captafaros horizontales.",
+            "3": "Los hitos de vértice."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué indican estos paneles?",
+        "respuestas": {
+            "1": "La presencia de una curva y su sentido.",
+            "2": "Prohíben el paso a la zona que delimitan.",
+            "3": "La presencia de una curva en la que se están realizando obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

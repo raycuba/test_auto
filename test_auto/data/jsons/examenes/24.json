@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal indica...",
+        "respuestas": {
+            "1": "que a la izquierda hay una calzada sin salida.",
+            "2": "zona de frenado de emergencia.",
+            "3": "que está prohibido girar a la izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Qué indica la señal?",
+        "respuestas": {
+            "1": "Cambio de sentido a distinto nivel a 300 metros.",
+            "2": "Cambio de sentido al mismo nivel a 300 metros.",
+            "3": "Cambio de dirección al mismo nivel a 300 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Es de día y va a atravesar un tramo con nubes no densas de polvo que disminuyen sensiblemente la visibilidad. ¿Qué alumbrado debe utilizar, además del de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera y trasera.",
+            "2": "Ninguno, es suficiente el alumbrado de posición.",
+            "3": "La luz antiniebla delantera o la luz de corto o largo alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Cuando no utiliza la baca del vehículo, ¿es aconsejable quitarla?",
+        "respuestas": {
+            "1": "Es igual, porque la baca no influye en el consumo.",
+            "2": "Sí, porque sin baca ahorro carburante.",
+            "3": "No, porque la baca aumenta la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Envejecer, ¿puede afectar a las capacidades necesarias para conducir con seguridad?",
+        "respuestas": {
+            "1": "Sí, debido al deterioro físico y mental que produce el paso del tiempo.",
+            "2": "Sí, de forma positiva, ya que mejora las capacidades necesarias para la conducción.",
+            "3": "No, el envejecimiento no altera las capacidades que afectan a la conducción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "A un peatón de edad avanzada, ¿le puede afectar el exceso de ruido en el ambiente?",
+        "respuestas": {
+            "1": "Sólo si camina sin prestar la menor atención al entorno y al tráfico.",
+            "2": "Sí, lo que le puede impedir captar y oír si se acerca un vehículo.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Para evitar posibles lesiones, la cinta abdominal del cinturón de seguridad debe situarse...",
+        "respuestas": {
+            "1": "en el abdomen.",
+            "2": "debajo del abdomen.",
+            "3": "por encima del abdomen."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cuándo es obligatorio utilizar la luz de emergencia?",
+        "respuestas": {
+            "1": "Cuando se reduzca la velocidad en carretera.",
+            "2": "Cuando se estacione el vehículo en doble fila.",
+            "3": "Cuando se inmovilice el vehículo por emergencia dentro de la vía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si cambia de domicilio, ¿tiene obligación de comunicarlo a la Jefatura de Tráfico?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, pero lo comunicaré cuando caduque la validez del permiso de conducción.",
+            "3": "Sí, debo comunicar el nuevo domicilio en un plazo de 15 días."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La señal indica...",
+        "respuestas": {
+            "1": "desnivel a lo largo de la vía en el lado derecho.",
+            "2": "vehículo accidentado.",
+            "3": "una zona con baches y en obras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Los ciclistas están exentos de llevar casco cuando circulen...",
+        "respuestas": {
+            "1": "por vías interurbanas.",
+            "2": "por pendientes descendentes.",
+            "3": "en condiciones extremas de calor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "indica que el estacionamiento tiene duración limitada, y se debe indicar la hora de inicio del estacionamiento.",
+            "2": "indica que no se puede estacionar ni parar en el lado de la calzada donde se encuentre la señal.",
+            "3": "indica que no se puede estacionar en el lado de la calzada donde se encuentre la señal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "A la vista de la señalizacion existente en la calzada, ¿puede realizar una parada?",
+        "respuestas": {
+            "1": "No, está prohibido parar y estacionar.",
+            "2": "Sí, está permitido parar, pero no estacionar.",
+            "3": "Sí, está permitido parar y estacionar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Durante el día, ¿debe señalizar la situación en la vía de su vehículo si se queda inmovilizado por una avería en el arcén de una carretera convencional?",
+        "respuestas": {
+            "1": "Sí, con el dispositivo de preseñalización de peligro y la señal de emergencia.",
+            "2": "Sí, únicamente con los triángulos de preseñalización de peligro.",
+            "3": "No, en el arcén no es necesario señalizarlo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El conductor del turismo de color blanco, ¿debe respetar la señal de Stop cuando llegue al cruce?",
+        "respuestas": {
+            "1": "Sí, pero sólo si sigue de frente.",
+            "2": "Sí, debe respetar las marcas viales existentes.",
+            "3": "No, porque la señal horizontal sólo es para los que giren a la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Por qué en una carretera convencional es importante respetar la velocidad máxima fijada en cada tramo de vía?",
+        "respuestas": {
+            "1": "Porque al tener los dos sentidos de circulación juntos en la misma calzada, el riesgo de colisión es mayor.",
+            "2": "Porque el asfalto en las carreteras convencionales es de peor calidad y hay muchos baches.",
+            "3": "Porque al tener calzadas diferenciadas para cada sentido, el riesgo de colisión frontal es mayor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Para el buen mantenimiento del sistema de frenos, ¿qué se debe hacer?",
+        "respuestas": {
+            "1": "Engrasar los discos periódicamente.",
+            "2": "Revisar el nivel del líquido de frenos.",
+            "3": "Pisar a fondo el pedal de freno para comprobar su eficacia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Bajo los efectos del alcohol, el tiempo de reacción...",
+        "respuestas": {
+            "1": "aumenta.",
+            "2": "disminuye.",
+            "3": "no se ve afectado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Los conos de la fotografía indican que se ha habilitado...",
+        "respuestas": {
+            "1": "un carril reversible.",
+            "2": "un carril VAO.",
+            "3": "un carril adicional circunstancial."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En caso de lluvia se debe circular con precaución porque...",
+        "respuestas": {
+            "1": "se reduce la visibilidad.",
+            "2": "se reduce la distancia de frenado.",
+            "3": "aumentará la adherencia de los neumáticos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Esta señal significa intervalo...",
+        "respuestas": {
+            "1": "aconsejado de velocidades, siempre que las condiciones sean favorables.",
+            "2": "aconsejado de velocidades, aunque las condiciones sean desfavorables.",
+            "3": "obligatorio de velocidades, siempre que las condiciones sean favorables."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué indican las siguientes señales?",
+        "respuestas": {
+            "1": "Que a 200 metros hay un resalto o badén en la vía o pavimento en mal estado.",
+            "2": "Proximidad a 200 metros de un canal de agua.",
+            "3": "La distancia mínima de seguridad que deben guardar entre sí los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "A los peatones que utilicen monopatines o patines en ningún caso les está permitido...",
+        "respuestas": {
+            "1": "ser arrastrados por otros vehículos.",
+            "2": "circular por el arcén de una travesía.",
+            "3": "circular a paso de persona por las aceras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal indica la dirección y sentido que los vehículos...",
+        "respuestas": {
+            "1": "tienen la obligación de seguir.",
+            "2": "pueden seguir de forma opcional.",
+            "3": "tienen prohibido seguir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una carretera de tres carriles de circulación y doble sentido, ¿para qué se utiliza el carril central?",
+        "respuestas": {
+            "1": "Como un carril de sentido contrario a la circulación.",
+            "2": "Para realizar adelantamientos y giros a la izquierda.",
+            "3": "Para la circulación en cualquier sentido."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En los camiones de menos de 3.500 kg de MMA, ¿qué ocupantes están obligados a ponerse el cinturón de seguridad?",
+        "respuestas": {
+            "1": "El conductor y los pasajeros de los asientos delanteros.",
+            "2": "Ninguno.",
+            "3": "El conductor solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Al aproximarse a niños o ancianos...",
+        "respuestas": {
+            "1": "se adoptarán las precauciones necesarias para no ponerles en peligro.",
+            "2": "se les avisará con señales acústicas.",
+            "3": "se detendrá siempre el vehículo para cederles el paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "La fatiga, ¿provoca lentitud y falta de precisión en los movimientos?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, por lo cual la conducción se hace más peligrosa.",
+            "3": "No, la fatiga sólo produce calambres."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Circula con su motocicleta sobre la calzada mojada de la imagen; en caso de frenada, esta situación provocará...",
+        "respuestas": {
+            "1": "una disminución de la distancia de reacción.",
+            "2": "que no aumente la distancia de detención.",
+            "3": "un aumento de la distancia de frenado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Si por accidente u otra emergencia un vehículo quedara inmovilizado en una autovía y fuese necesario solicitar ayuda, los ocupantes...",
+        "respuestas": {
+            "1": "podrán transitar por la calzada.",
+            "2": "no podrán transitar por la calzada.",
+            "3": "deberán permanecer en todo momento en el interior del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

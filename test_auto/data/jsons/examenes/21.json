@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "La monotonía y disminución de la atención, es un factor de peligro, que suele presentarse con mayor frecuencia, cuando se circula por...",
+        "respuestas": {
+            "1": "carreteras convencionales.",
+            "2": "autopista y autovía.",
+            "3": "vías urbanas y travesías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Si circula con su motocicleta por una zona especialmente deslizante, ¿qué precauciones debe tomar?",
+        "respuestas": {
+            "1": "Frenar en la zona deslizante para controlar mejor la trayectoria.",
+            "2": "Acelerar para pasar por la zona deslizante en el menor tiempo posible.",
+            "3": "Reducir la velocidad y mantener la motocicleta en posición vertical."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Esta señal indica el lugar a partir del cual...",
+        "respuestas": {
+            "1": "termina la obligación de circular, al menos, a 30 km/h.",
+            "2": "comienza la obligación de circular, a más, a 30 km/h.",
+            "3": "termina la recomendación de circular, a más, a 30 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿En cuál de las siguientes situaciones está prohibido utilizar la luz de largo alcance?",
+        "respuestas": {
+            "1": "Al circular por túneles insuficientemente iluminados.",
+            "2": "Cuando el vehículo está parado o estacionado.",
+            "3": "Para avisar a otros usuarios de un posible peligro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Un turismo con el distintivo ambiental de la imagen, clasificado como ECO, ¿está autorizado a circular por el carril VAO si su único ocupante es el conductor?",
+        "respuestas": {
+            "1": "No, salvo que por sus paneles de mensaje variable se autorice su acceso.",
+            "2": "Sí, aunque no lleve el distintivo adhesivo en el parabrisas.",
+            "3": "Sí, siempre que lleve el distintivo adhesivo en el parabrisas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Qué debe hacer un conductor si observa que por detrás de su vehículo se acerca un vehículo que circula en servicio de urgencia?",
+        "respuestas": {
+            "1": "Apartarse o, si fuera preciso, detenerse para facilitar el paso.",
+            "2": "Seguir circulando con normalidad, sin adoptar ninguna medida.",
+            "3": "Acelerar para ir abriendo paso al vehículo en servicio de urgencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Con el permiso de conducción de la clase B, ¿se puede conducir una motocicleta de 125 centímetros cúbicos?",
+        "respuestas": {
+            "1": "Sí, se puede conducir cualquier tipo de motocicleta en toda Europa.",
+            "2": "Sólo por España y cuando la antigüedad del permiso supere los tres años.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Escalón lateral.",
+            "2": "Obstáculos en la calzada.",
+            "3": "Peligro por muelle o corriente de agua."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "El conductor de este turismo pretende seguir recto pero los vehículos situados detrás de él quieren girar a la derecha, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Seguir de frente sin esperar a que cambie el semáforo.",
+            "2": "Esperar a que el semáforo cambie para seguir recto.",
+            "3": "Girar a la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Un conductor, ¿está obligado a colaborar en las pruebas de detección de emisión de gases contaminantes de su vehículo?",
+        "respuestas": {
+            "1": "Sí, pero únicamente cuando pase la ITV.",
+            "2": "No, únicamente está obligado a colaborar en las pruebas de alcoholemia.",
+            "3": "Sí, están obligados todos los conductores de vehículos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Si sufre una avería y tiene que salir de su vehículo, ¿en cuál de los siguientes casos debe utilizar el chaleco reflectante?",
+        "respuestas": {
+            "1": "Al ocupar la calzada en vías urbanas.",
+            "2": "Al ocupar el arcén en vías interurbanas.",
+            "3": "Solamente al ocupar la calzada o el arcén en autopistas y autovías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "En esta situación de aglomeración, ¿podrá circular por el arcén?",
+        "respuestas": {
+            "1": "No, está prohibido.",
+            "2": "Sí, si tiene prisa.",
+            "3": "Sí, para descongestionar el tráfico."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Qué consecuencias tiene la pérdida del saldo de puntos asignado al titular de un permiso de conducir?",
+        "respuestas": {
+            "1": "La pérdida de vigencia del permiso.",
+            "2": "La baja definitiva del vehículo.",
+            "3": "La suspensión del permiso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "La luneta térmica de la ventanilla posterior del vehículo, ¿qué función tiene?",
+        "respuestas": {
+            "1": "Eliminar el hielo y el vaho que se pueden formar por circunstancias climatológicas adversas.",
+            "2": "Producir calor para el mejor confort de los pasajeros de los asientos traseros.",
+            "3": "Evitar la rotura de la luneta posterior que refuerzan los filamentos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Está permitido parar o estacionar en un paso para peatones y en sus proximidades?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "En el paso para peatones se puede parar y, en sus proximidades, se puede parar y estacionar.",
+            "3": "En el paso para peatones, no; pero en sus proximidades, sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Cuál de los siguientes factores hace que aumente la fatiga mientras se conduce?",
+        "respuestas": {
+            "1": "Las congestiones de tráfico y las retenciones prolongadas.",
+            "2": "Llevar una temperatura adecuada en el interior del vehículo.",
+            "3": "Los asientos ergonómicos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En condiciones de mala visibilidad, ¿qué debe hacer un conductor ante la presencia de ciclistas en la vía?",
+        "respuestas": {
+            "1": "Circular lo más cerca posible del borde derecho de la calzada al adelantarles.",
+            "2": "Hacer señales acústicas al llegar a su altura para advertir de su presencia.",
+            "3": "Extremar la precaución para reducir el riesgo de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Para cambiar de dirección a la izquierda, ¿dónde debe dejar el centro de la intersección?",
+        "respuestas": {
+            "1": "A la derecha.",
+            "2": "A la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En esta intersección sin señalizar se encuentra con un ciclista, ¿debe cederle el paso?",
+        "respuestas": {
+            "1": "Sí, porque se aproxima por la derecha.",
+            "2": "No, porque los vehículos de motor tienen preferencia sobre los ciclos de dos ruedas.",
+            "3": "Sí, porque los vehículos de dos ruedas siempre tienen preferencia en los cruces."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+        "respuestas": {
+            "1": "no debemos conducir hasta pasada al menos una hora de habernos medicado.",
+            "2": "se pierde información del entorno y el conductor puede tardar en detectar sucesos importantes.",
+            "3": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Las motocicletas con más de cinco años de antigüedad deben pasar la inspección técnica periódica (ITV)...",
+        "respuestas": {
+            "1": "cada año.",
+            "2": "cada dos años.",
+            "3": "cada cinco años."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Un turismo con remolque ligero, ¿puede circular por un carril abierto a la circulación en sentido contrario al habitual?",
+        "respuestas": {
+            "1": "Sí, cuando haya sido abierto por razones de fluidez de la circulación.",
+            "2": "Sí, cuando haya sido abierto por obras en la calzada.",
+            "3": "Sí, siempre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si padece una alergia respiratoria estacional, para circular con mayor seguridad en la época del año en que sus síntomas aparecen con más fuerza, es aconsejable...",
+        "respuestas": {
+            "1": "conducir con las ventanillas cerradas.",
+            "2": "aumentar la dosis de medicamento.",
+            "3": "conducir al amanecer o al atardecer, que es cuando hay menos polen en el ambiente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Esta señal...",
+        "respuestas": {
+            "1": "advierte que debo circular con precaución por congestión del tráfico.",
+            "2": "indica peligro por la aproximación a un paso estrecho y debe ir en fila.",
+            "3": "prohibe entrar en esta vía por congestión de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una vía de doble sentido un vehículo va a girar a la izquierda, ¿debe facilitar el adelantamiento por la derecha a los demás vehículos?",
+        "respuestas": {
+            "1": "Sí, arrimándose todo lo posible al lado izquierdo de la calzada.",
+            "2": "Sí, arrimándose a la izquierda de su carril todo lo posible, pero sin obstaculizar a los vehículos que circulen en sentido contrario.",
+            "3": "No, ya que deben adelantar por la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Por encima de la línea de borde de la derecha, ¿puede circular?",
+        "respuestas": {
+            "1": "Sí, porque es una línea continua de borde de calzada.",
+            "2": "Sí, porque no vienen vehículos en sentido contrario.",
+            "3": "No, porque no debo circular sobre la línea ni por el arcén."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿A qué velocidad máxima puede circular por una autopista un turismo que arrastra un remolque ligero?",
+        "respuestas": {
+            "1": "A 90 km/h.",
+            "2": "A 120 km/h.",
+            "3": "A 100 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Cuando por la velocidad a la que circulen puedan ser adelantados sin riesgo y aunque la línea sea continua, un turismo podrá invadir el sentido contrario para adelantar a...",
+        "respuestas": {
+            "1": "motocicletas.",
+            "2": "bicicletas.",
+            "3": "vehículos pesados que circulan lentamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Un menor de estatura inferior a 135 centímetros podrá viajar excepcionalmente en el asiento delantero de un turismo cuando...",
+        "respuestas": {
+            "1": "el sistema de retención infantil esté orientado hacia delante y el airbag esté desactivado.",
+            "2": "el vehículo no disponga de cinturones de seguridad.",
+            "3": "todos los asientos traseros estén ocupados por otros menores con sistemas de retención infantil."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Debido a una avería, circula por una autopista a una velocidad que dificulta la circulación de otros usuarios, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Inmovilizar siempre el vehículo en el arcén.",
+            "2": "Circular por el carril derecho.",
+            "3": "Circular por el arcén y abandonar la vía por la primera salida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

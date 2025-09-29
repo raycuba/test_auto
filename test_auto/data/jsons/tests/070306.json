@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Qué sistemas de seguridad pueden perder eficacia si no se lleva abrochado el cinturón de seguridad?",
+        "respuestas": {
+            "1": "La suspensión y los amortiguadores.",
+            "2": "Los airbag y los reposacabezas.",
+            "3": "Los frenos y el ABS."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Respecto a los sistemas de seguridad pasiva, ¿qué relación existe entre el airbag y el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Son sistemas incompatibles; con el cinturón puesto se debe desconectar el airbag.",
+            "2": "Son sistemas complementarios, no se puede sustituir uno por otro.",
+            "3": "El airbag es un sistema de seguridad que sustituye al cinturón."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En caso de accidente, si los ocupantes del vehículo no utilizan el cinturón de seguridad, ¿es eficaz el airbag?",
+        "respuestas": {
+            "1": "No; además puede provocar graves lesiones.",
+            "2": "Sí.",
+            "3": "Sólo es eficaz el airbag frontal, pero no el de las plazas traseras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Medida desde la parte del cuerpo más cercana, ¿cuál es la distancia ideal a la que debe colocarse del volante para, en caso de accidente, evitar el impacto directo del airbag?",
+        "respuestas": {
+            "1": "Inferior a 10 centímetros.",
+            "2": "Unos 25 centímetros.",
+            "3": "Unos 5 centímetros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En los vehículos con airbag frontal, el conductor, ¿debe utilizar el cinturón de seguridad?",
+        "respuestas": {
+            "1": "No, no es necesario ya que el airbag lo sustituye.",
+            "2": "No, ya que en caso de accidente, las lesiones serán más graves.",
+            "3": "Sí, ya que el airbag complementa al cinturón de seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Cuándo debe desactivar el airbag frontal de un asiento?",
+        "respuestas": {
+            "1": "Cuando en ese asiento instale un dispositivo de retención para niños orientado hacia atrás.",
+            "2": "Cuando en ese asiento viaje una mujer embarazada.",
+            "3": "En ningún caso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Qué tipo de molestias o lesiones provoca frecuentemente el latigazo cervical?",
+        "respuestas": {
+            "1": "Rotura de las costillas, encharcamiento pulmonar y dolor cervical.",
+            "2": "Fracturas en las piernas, dolor abdominal y contractura muscular.",
+            "3": "Contractura muscular, disminución de la movilidad del cuello y vértigos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Antes de iniciar la marcha, ¿es conveniente regular la altura de los reposacabezas de los asientos que vayan ocupados?",
+        "respuestas": {
+            "1": "No, lo aconsejable es que vayan pegados al asiento.",
+            "2": "Solo se debe regular el del conductor para que vaya cómodo con la cabeza apoyada.",
+            "3": "Sí, para reducir el riesgo de sufrir una lesión cervical en caso de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿En qué tipo de accidentes es más frecuente que se produzca el latigazo cervical?",
+        "respuestas": {
+            "1": "En las salidas de la vía, siendo la lesión más frecuente en este tipo de accidentes.",
+            "2": "En las colisiones por alcance.",
+            "3": "En los atropellos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Cómo se debe regular adecuadamente la altura del apoyacabezas?",
+        "respuestas": {
+            "1": "El borde debe quedar situado entre el límite inferior de la cabeza y la altura de los ojos.",
+            "2": "En función de la comodidad del conductor.",
+            "3": "El borde debe quedar situado entre el límite superior de la cabeza y la altura de los ojos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Cómo se podrían haber evitado algunos esguinces cervicales severos provocados por los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Regulando, adecuadamente el reposacabezas.",
+            "2": "Evitando el efecto submarino.",
+            "3": "Mediante la colocación de airbags de cortina."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "De los siguientes sistemas de seguridad pasiva, ¿cuál tiene como finalidad evitar o reducir el riesgo de lesiones en el cuello en caso de colisión?",
+        "respuestas": {
+            "1": "Los frenos ABS.",
+            "2": "El reposacabezas.",
+            "3": "El cinturón de seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Además de estar regulado a la altura idónea, ¿qué separación debe existir entre el reposacabezas y la cabeza para que sea eficaz?",
+        "respuestas": {
+            "1": "La mínima posible y nunca superior a 4 centímetros.",
+            "2": "La máxima posible y nunca inferior a 5 centímetros.",
+            "3": "Superior a 10 centímetros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Qué tipo de lesiones puede provocar el mal uso del reposacabezas?",
+        "respuestas": {
+            "1": "Ninguna, es un elemento de seguridad pasiva.",
+            "2": "Lesiones cervicales.",
+            "3": "Ninguna, es un elemento de seguridad activa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El reposacabezas, ¿cómo debe colocarse?",
+        "respuestas": {
+            "1": "A la altura del cuello.",
+            "2": "Lo más alto posible para que no moleste.",
+            "3": "A la altura de la cabeza."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Los reposacabezas sirven fundamentalmente para...",
+        "respuestas": {
+            "1": "proteger el cuello en caso de accidente.",
+            "2": "apoyar la cabeza y evitar la aparición de la fatiga en el cuello.",
+            "3": "instalar reproductores de vídeo para los ocupantes de los asientos traseros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Es recomendable regular y adaptar los reposacabezas del vehículo a la constitución física de los ocupantes?",
+        "respuestas": {
+            "1": "Sí, pero sólo en vías urbanas.",
+            "2": "Sí, porque es un elemento de seguridad que puede evitar lesiones en la zona cervical.",
+            "3": "No es necesario porque es sólo un elemento de confort."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Es recomendable llevar regulados adecuadamente los reposacabezas en todos los asientos de un turismo?",
+        "respuestas": {
+            "1": "Sí; es un elemento de seguridad pasiva que puede evitar lesiones cervicales graves.",
+            "2": "No; es un elemento de confort que provoca lesiones graves en caso de accidente.",
+            "3": "Solo es importante llevar regulado el del conductor porque el resto son decorativos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿A qué altura debe quedar la parte central del reposacabezas?",
+        "respuestas": {
+            "1": "A la altura del cuello.",
+            "2": "A la altura de los ojos.",
+            "3": "Es indiferente la altura del reposacabezas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La regulación adecuada de los reposacabezas disminuye la posibilidad de sufrir...",
+        "respuestas": {
+            "1": "el efecto submarino.",
+            "2": "un latigazo cervical.",
+            "3": "fatiga o somnolencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En caso de accidente, ¿qué tipo de reposacabezas es más efectivo?",
+        "respuestas": {
+            "1": "El reposacabezas activo, que se acopla a la cabeza de manera automática.",
+            "2": "El reposacabezas activo es tan efectivo como el pasivo.",
+            "3": "El reposacabezas pasivo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El casco, ¿se puede incluir entre los elementos de seguridad?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, de seguridad pasiva.",
+            "3": "Sí, únicamente de la seguridad activa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En un casco, ¿es importante la ventilación?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Es importante en verano, el resto del año es indiferente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El casco debe cambiarse cuando...",
+        "respuestas": {
+            "1": "cambie de motocicleta.",
+            "2": "los colores hayan pasado de moda.",
+            "3": "sufra algún golpe ya que puede haberse dañado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En caso de accidente con una motocicleta, el casco de protección...",
+        "respuestas": {
+            "1": "evita la rotura de los huesos de la clavícula.",
+            "2": "evita la abrasión de la cara o de la cabeza al arrastrarse por el pavimento.",
+            "3": "posibilita que la energía del impacto se concentre en una parte concreta de la cabeza."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "El color del casco de protección de un motorista, ¿puede influir en su seguridad?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, los de colores claros o brillantes hacen más visible al motorista.",
+            "3": "Sí, los de colores oscuros absorben mejor los impactos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Al comprar un casco de motorista, sabremos que se ha comprobado su resistencia ante un impacto, su estructura y los materiales con los que está fabricado si...",
+        "respuestas": {
+            "1": "el logo de la marca está bien visible.",
+            "2": "se vende en una tienda especializada.",
+            "3": "está homologado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué protege un casco integral?",
+        "respuestas": {
+            "1": "Únicamente la parte trasera del cráneo.",
+            "2": "Sólo la parte superior del cráneo.",
+            "3": "La cara y la cabeza."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En un casco de protección de motorista, ¿qué tipo de pantalla es la más recomendable?",
+        "respuestas": {
+            "1": "Una pantalla antivaho.",
+            "2": "Una pantalla oscura.",
+            "3": "Una pantalla polarizada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Al elegir un casco para conducir una motocicleta, ¿qué debe tener en cuenta?",
+        "respuestas": {
+            "1": "Que no se pueda sacar de la cabeza estando desabrochado.",
+            "2": "Que tenga buena ventilación para que no se empañe.",
+            "3": "Que “baile” en la cabeza al moverlo con la mano de un lado a otro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

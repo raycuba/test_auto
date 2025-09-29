@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El nivel de aceite del motor, ¿cómo se debe comprobar?",
+        "respuestas": {
+            "1": "Con el motor caliente.",
+            "2": "Con el motor funcionando.",
+            "3": "Con el motor apagado y frío."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Cómo podemos evitar el atropello de ciclistas?",
+        "respuestas": {
+            "1": "Avisando de nuestra presencia con el claxon cuando estemos cerca.",
+            "2": "Extremando la precaución ante malas situaciones meteorológicas, como lluvia o viento.",
+            "3": "Adelantándoles rápidamente, incluso cuando vienen ciclistas en sentido contrario."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Las señales acústicas, ¿se pueden utilizar para evitar un posible accidente?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, en cualquier tipo de vía.",
+            "3": "Sí, pero sólo en vías estrechas con muchas curvas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si presencia un accidente de tráfico y va a ayudar mientras llegan los servicios de emergencia, ¿debe mover a los heridos?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, cuando no puedan salir por su propio pie del vehículo.",
+            "3": "No, salvo que sea imprescindible por su seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Los accidentes de tráfico generan costes...",
+        "respuestas": {
+            "1": "materiales, sanitarios, administrativos y humanos.",
+            "2": "materiales y sanitarios solamente.",
+            "3": "administrativos, materiales y sanitarios, pero no humanos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En una autopista con hielo en el pavimento, ¿está permitido circular a 40 km/h?",
+        "respuestas": {
+            "1": "Sí, pero debe circular por el arcén para no entorpecer a los vehículos que circulen más rápido.",
+            "2": "Sí, porque se trata de una circunstancia especial.",
+            "3": "No, porque es una velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si una nube de polvo disminuye sensiblemente la visibilidad, ¿qué alumbrado debe utilizar, además de la luz de posición?",
+        "respuestas": {
+            "1": "La luz antiniebla delantera y trasera y, la luz de largo alcance.",
+            "2": "La luz antiniebla trasera y la luz de corto o largo alcance.",
+            "3": "La luz antiniebla delantera o la luz de corto o largo alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En esta vía, ¿a qué velocidad máxima le está permitido circular a un turismo con remolque?",
+        "respuestas": {
+            "1": "A 100 km/h.",
+            "2": "A 80 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Quién es el responsable de pasar la ITV a un turismo?",
+        "respuestas": {
+            "1": "El titular del vehículo.",
+            "2": "El conductor habitual.",
+            "3": "El tomador del seguro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El vehículo de la imagen circula con la señal luminosa V-2, ¿de qué tipo de vehículo se trata?",
+        "respuestas": {
+            "1": "Un vehículo especial, y la luz indica su posición en la vía.",
+            "2": "Un vehículo especial circulando en situación de emergencia.",
+            "3": "Un vehículo con una anchura superior a 2,55 metros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En general, una persona que se encuentra bajo los efectos del estrés conduce de manera...",
+        "respuestas": {
+            "1": "menos temeraria.",
+            "2": "más temeraria.",
+            "3": "más segura."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Se considera conductor a la persona...",
+        "respuestas": {
+            "1": "que conduce a pie un ciclo o ciclomotor de dos ruedas.",
+            "2": "que maneja el volante de un vehículo cuando circula en prácticas.",
+            "3": "que maneja el mecanismo de dirección o va al mando de un vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Tomar chicles o caramelos, ¿reduce la tasa de alcoholemia?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo si los chicles o los caramelos son sin azúcar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Cuál de los siguientes líquidos, en caso de perderse totalmente, podría provocar un accidente?",
+        "respuestas": {
+            "1": "El líquido de frenos.",
+            "2": "El anticongelante.",
+            "3": "El líquido de la batería."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Todas las enfermedades, ¿son igual de peligrosas para la conducción?",
+        "respuestas": {
+            "1": "No, algunos trastornos neurológicos y mentales son especialmente peligrosos.",
+            "2": "Sí, todas las enfermedades son igual de peligrosas.",
+            "3": "No; las enfermedades crónicas no son peligrosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si el resultado de la inspección técnica de su vehículo es desfavorable, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Dar de baja el vehículo temporalmente, hasta que se subsanen los defectos.",
+            "2": "Dirigirse inmediatamente a otra estación ITV, para contrastar el resultado.",
+            "3": "Reparar los defectos observados y pasar una nueva revisión."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Peligro por la proximidad de un tramo de vía en obras.",
+            "2": "Peligro por la proximidad a una zona con desprendimientos frecuentes.",
+            "3": "Peligro por la proximidad de una zona en la que se realizan tareas agrícolas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Existen sistemas de ayuda a la conducción que mejoren la visibilidad del conductor en aquellas zonas donde pueda tener dificultades de visión a la hora de maniobrar?",
+        "respuestas": {
+            "1": "Sí, como la cámara de visión trasera.",
+            "2": "No, aunque algunos sistemas emiten señales acústicas si hay riesgo de colisión.",
+            "3": "Sí, como el control de crucero, adaptativo o temporal."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "El vehículo verde reduce su velocidad porque el adelantamiento que está haciendo el vehículo blanco es peligroso; ¿es correcto el comportamiento del vehículo verde?",
+        "respuestas": {
+            "1": "No, el vehículo verde no debe variar su velocidad.",
+            "2": "Sólo si detrás del vehículo verde no circula otro vehículo.",
+            "3": "Sí, para que el vehículo blanco vuelva cuanto antes a la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
+        "respuestas": {
+            "1": "Las luces de posición, que podrá sustituir por las de estacionamiento.",
+            "2": "Ninguno, ya que es un estacionamiento dentro de poblado.",
+            "3": "Las luces de largo alcance y las luces de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "El conductor de una motocicleta que sufre una caída procurará...",
+        "respuestas": {
+            "1": "deslizarse por el suelo lo más relajadamente posible hasta quedar detenido.",
+            "2": "levantarse antes de haberse detenido totalmente, para evitar ser golpeado contra el suelo.",
+            "3": "rodar el cuerpo rápidamente para provocar mayor rozamiento y detenerse lo antes posible."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Cómo debe colocar su vehículo al parar o estacionar?",
+        "respuestas": {
+            "1": "Es indiferente, siempre que pare el motor y accione el freno de estacionamiento.",
+            "2": "De manera que permita la mejor utilización del espacio disponible.",
+            "3": "Colocando el vehículo en paralelo a la vía, siempre."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Puede utilizar de forma simultánea la luz de carretera con la de corto alcance o cruce?",
+        "respuestas": {
+            "1": "Solo en vías urbanas.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si circula sobre un pavimento mojado y al realizar una frenada observa que los frenos de su vehículo fallan, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Utilizar con precaución el freno de mano de forma suave y progresiva hasta detener el vehículo.",
+            "2": "Utilizar el freno de motor, introduciendo marchas largas.",
+            "3": "Pisar a fondo el pedal del freno, accionando el embrague al mismo tiempo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En general, los conductores con problemas de estrés...",
+        "respuestas": {
+            "1": "son más agresivos.",
+            "2": "sufren menos distracciones.",
+            "3": "tiene una menor sensación de fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Tomando las debidas precauciones, ¿por dónde podrá circular una persona que empuje con las manos una bicicleta cuando su tránsito por la acera sea un estorbo para los demás peatones?",
+        "respuestas": {
+            "1": "Por el arcén o por la calzada.",
+            "2": "Por la calzada, pero en ningún caso por el arcén.",
+            "3": "Por el arcén, pero en ningún caso por la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En una zona de circulación así señalizada, ¿está permitido el estacionamiento de vehículos?",
+        "respuestas": {
+            "1": "Sí, en cualquier caso.",
+            "2": "Sí, pero solamente en los lugares designados por señales o por marcas.",
+            "3": "No, ya que se trata de una zona de circulación exclusivamente peatonal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Se ve obligado a trasladar en su turismo a un herido. ¿Debe respetar las normas de circulación?",
+        "respuestas": {
+            "1": "Sí, pero sólo las que regulan las intersecciones.",
+            "2": "No, sólo debe respetar las señales de los Agentes.",
+            "3": "Sí, y asegurarse de que no pone en peligro a otros usuarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El sistema antibloqueo de frenos ABS...",
+        "respuestas": {
+            "1": "hace que el vehículo mantenga su trayectoria.",
+            "2": "reduce la distancia de frenado en todos los casos.",
+            "3": "permite mantener el control sobre la dirección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Está permitido circular sobre las marcas viales del centro de la calzada?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, porque son discontinuas.",
+            "3": "Sí, porque es un tramo recto y hay seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

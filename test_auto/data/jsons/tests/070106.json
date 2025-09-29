@@ -1,0 +1,299 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "¿Cuál de los siguientes problemas suele afectar a las personas mayores como peatones?",
+        "respuestas": {
+            "1": "Los bordillos de las aceras están demasido bajos, dificultando el cruce de las calles.",
+            "2": "Pueden no distinguir bien los colores de los semáforos en las vías más anchas.",
+            "3": "Tienen mayor capacidad de reacción ante cualquier imprevisto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "A un peatón de edad avanzada, ¿le puede afectar el exceso de ruido en el ambiente?",
+        "respuestas": {
+            "1": "Sólo si camina sin prestar la menor atención al entorno y al tráfico.",
+            "2": "Sí, lo que le puede impedir captar y oír si se acerca un vehículo.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿En qué situación suelen tener menos accidentes las personas mayores como peatones?",
+        "respuestas": {
+            "1": "Cuando van solas.",
+            "2": "Cuando van distraídas hablando con otra persona mayor.",
+            "3": "Cuando van acompañando a niños y son responsables de ellos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Las personas mayores, ¿pueden tener problemas como peatones, especialmente cuando van solas, convirtiéndose en un grupo de riesgo o vulnerable en el tráfico?",
+        "respuestas": {
+            "1": "Sí, pueden tener problemas de orientación lo que da lugar a distracciones.",
+            "2": "No, las personas mayores no son un grupo de riesgo como peatones.",
+            "3": "Sólo si las calzadas son muy anchas y precisan de bastón para desplazarse."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Cuál es uno de los problemas que, debido al deterioro de las aptitudes psicofísicas, encuentran muchas personas mayores como peatones en las vías públicas?",
+        "respuestas": {
+            "1": "Los bordillos de las aceras están al mismo nivel que la calzada.",
+            "2": "No aprecian bien la velocidad a la que se acercan los vehículos.",
+            "3": "Tienen mayor capacidad de orientación, sobre todo en calles que no conocen bien."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Hay que prestar una atención especial a los niños?",
+        "respuestas": {
+            "1": "No, porque no representan ningún peligro.",
+            "2": "Sí, porque son especialmente vulnerables a los accidentes de tráfico.",
+            "3": "Solo en vías urbanas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los niños de hasta 10 años, ¿son especialmente vulnerables en caso de atropello?",
+        "respuestas": {
+            "1": "Solo en caso de que los atropelle un camión o un autobús.",
+            "2": "No, los niños no son un grupo de riesgo o vulnerable en caso de atropello.",
+            "3": "Sí, por su baja estatura suelen golpearse en la cabeza o en partes vitales."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Como peatones, los niños de entre 6 y 10 años son especialmente vulnerables debido a que en caso de atropello el mayor daño se produce habitualmente en...",
+        "respuestas": {
+            "1": "las rodillas.",
+            "2": "las extremidades inferiores.",
+            "3": "la cabeza o en partes vitales del cuerpo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Como peatones, los niños menores de 10 años son especialmente vulnerables, entre otras razones, porque su campo visual es...",
+        "respuestas": {
+            "1": "menor que el de los adultos.",
+            "2": "igual que el de los adultos.",
+            "3": "mayor que el de los adultos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La mayoría de los atropellos a niños se produce...",
+        "respuestas": {
+            "1": "al término de la jornada escolar.",
+            "2": "al inicio de la jornada escolar.",
+            "3": "durante los fines de semana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "El campo visual de los niños es limitado debido a...",
+        "respuestas": {
+            "1": "su baja estatura.",
+            "2": "su falta de atención.",
+            "3": "su escaso desarrollo del sentido de la vista, principalmente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Conforme a los estudios de accidentalidad, ¿cuáles son las principales causas de atropellos a niños?",
+        "respuestas": {
+            "1": "Sus imprudencias, su desconocimiento de las normas y sus limitaciones de vista y oído.",
+            "2": "La falta de señalización en áreas escolares y la inexperiencia de los conductores.",
+            "3": "La velocidad excesiva y la fabricación de vehículos cada vez más lesivos para el peatón."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Por qué razón, entre otras, los niños menores de 10 años son especialmente vulnerables como peatones?",
+        "respuestas": {
+            "1": "Porque en caso de atropello, el golpe suele producirse en la cabeza.",
+            "2": "Porque conocen las normas de tráfico, pero no las suelen respetar.",
+            "3": "Porque su campo visual es mayor que el de los adultos y tienen mejor visión periférica."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Por qué los niños, como peatones, sufren accidentes fundamentalmente entre los 6 y los 10 años y predominantemente en zona urbana?",
+        "respuestas": {
+            "1": "Por las imprudencias, únicamente.",
+            "2": "Debido a su baja estatura y también presentan un sistema auditivo inmaduro.",
+            "3": "Por el desconocimiento de la normativa, únicamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "En vías con varios carriles, hacer gestos para que crucen la calzada.",
+            "2": "Prestar atención al salir de un garaje, sobre todo si es en rampa.",
+            "3": "Tocar el claxon al pasar por su lado para advertirles de nuestra presencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Muchos atropellos a peatones se producen...",
+        "respuestas": {
+            "1": "en autopistas.",
+            "2": "cuando los vehículos circulan marcha atrás.",
+            "3": "durante la noche."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Cómo se puede evitar el atropello a peatones?",
+        "respuestas": {
+            "1": "Haciéndoles exageradas y estridentes señales acústicas.",
+            "2": "Invitándoles con señas a que crucen la calzada.",
+            "3": "Extremando la precaución al aproximarse a un autobús parado."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué comportamiento debe evitar como conductor para disminuir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "Utilizar gafas de sol, para evitar deslumbramientos al amanecer y al atardecer.",
+            "2": "Estacionar sobre la acera.",
+            "3": "Reducir la velocidad al adelantar a un autobús del que están bajando pasajeros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Para evitar el atropello de peatones, los conductores deben...",
+        "respuestas": {
+            "1": "indicarles que pueden pasar con la mano o haciendo señales con las luces.",
+            "2": "prestar especial atención a los peatones que utilizan el móvil, porque pueden ir distraídos.",
+            "3": "avisarles con el claxon de su presencia, aún cuando utilicen los pasos para peatones."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Respecto al uso del teléfono móvil, es recomendable...",
+        "respuestas": {
+            "1": "prestar especial atención a los peatones que circulan hablando por el teléfono móvil.",
+            "2": "marcar el número rápidamente, para no perder trayectoria.",
+            "3": "no detener el vehículo si la conversación va a durar menos de un minuto."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En un paso de peatones, ¿hay que hacer señales a los peatones para que crucen la calzada?",
+        "respuestas": {
+            "1": "No, porque los demás conductores pueden no haberse dado cuenta de su presencia.",
+            "2": "Sí, pero sólo si van a cruzar por él.",
+            "3": "Sí, porque así los peatones pueden cruzar con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+        "respuestas": {
+            "1": "Circular lo más cerca posible de la acera o de los vehículos estacionados.",
+            "2": "Moderar la velocidad en zonas donde puede haber aglomeración de personas.",
+            "3": "Indicarles que crucen la calzada en vías con varios carriles."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Cómo se puede evitar el atropello a peatones?",
+        "respuestas": {
+            "1": "Invitándoles con señales a que crucen la calzada.",
+            "2": "Moderando la velocidad, sobre todo en ciudad.",
+            "3": "Haciéndoles exageradas y estridentes señales acústicas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Para evitar atropellos a peatones hay que tener especial cuidado...",
+        "respuestas": {
+            "1": "cuando se circula por una autopista o autovía.",
+            "2": "siempre que se realiza una maniobra.",
+            "3": "al circular marcha atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Puede circular por la calzada de una vía urbana con un vehículo de movilidad personal?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "Sí, excepto por travesías y túneles urbanos.",
+            "3": "No, debo circular por la acera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Un vehículo de movilidad personal, ¿puede circular por vías interurbanas?",
+        "respuestas": {
+            "1": "Sí, siempre que tengan arcén suficiente.",
+            "2": "Si, si existe un carril segregado del tráfico motorizado.",
+            "3": "No, solo pueden circular por vías urbanas y travesías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Un vehículo de movilidad personal, ¿puede circular por vías interurbanas?",
+        "respuestas": {
+            "1": "Sí, siempre que tengan arcén suficiente.",
+            "2": "No.",
+            "3": "No, solo pueden circular por vías urbanas y travesías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

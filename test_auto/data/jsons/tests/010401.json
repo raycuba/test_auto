@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En esta vía, ¿a qué velocidad máxima le está permitido circular a un turismo con remolque?",
+        "respuestas": {
+            "1": "A 100 km/h.",
+            "2": "A 80 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El titular de esta vía ha fijado la velocidad para determinados vehículos en 100 km/h. ¿A qué velocidad máxima puede circular una autocaravana de 3.000 kg de MMA?",
+        "respuestas": {
+            "1": "A 80 km/h.",
+            "2": "A 90 km/h.",
+            "3": "A 100 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una autovía, ¿a qué velocidad máxima está permitido circular a un turismo con un remolque de 700 kg de MMA?",
+        "respuestas": {
+            "1": "A 80 km/h.",
+            "2": "A 100 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular un automóvil que arrastra un remolque por una carretera convencional?",
+        "respuestas": {
+            "1": "45 km/h.",
+            "2": "40 km/h.",
+            "3": "35 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular una autocaravana de 3.000 kg de MMA por una autopista?",
+        "respuestas": {
+            "1": "80 km/h.",
+            "2": "60 km/h.",
+            "3": "50 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En esta carretera, para adelantar al camión, ¿a qué velocidad puede circular como máximo el turismo?",
+        "respuestas": {
+            "1": "A 140 km/h.",
+            "2": "A 90 km/h.",
+            "3": "A 120 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿A qué velocidad máxima puede circular por una autopista un turismo que arrastra un remolque ligero?",
+        "respuestas": {
+            "1": "A 90 km/h.",
+            "2": "A 120 km/h.",
+            "3": "A 100 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Cuál es la velocidad máxima a la que puede circular un turismo en esta autovía?",
+        "respuestas": {
+            "1": "120 km/h.",
+            "2": "120 km/h, pudiendo rebasarla en 20 km/h para adelantar.",
+            "3": "100 km/h, pudiendo alcanzar los 120 km/h para adelantar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Con una motocicleta de hasta 125 centímetros cúbicos, ¿a qué velocidad máxima puede circular por una autovía?",
+        "respuestas": {
+            "1": "A 90 kilómetros por hora.",
+            "2": "A 80 kilómetros por hora.",
+            "3": "A 120 kilómetros por hora."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En autovía, ¿a qué velocidad máxima puede circular un turismo?",
+        "respuestas": {
+            "1": "A 120 km/h y a 140 km/h para adelantar.",
+            "2": "A 120 km/h.",
+            "3": "A 100 km/h y a 120 km/h para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿A qué velocidad máxima le está permitido circular por una autovía a un vehículo de tipo pick-up?",
+        "respuestas": {
+            "1": "A 100 km/h.",
+            "2": "A 120 km/h.",
+            "3": "A 90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Circula con su turismo por esta carretera convencional, ¿cuál es la velocidad máxima permitida?",
+        "respuestas": {
+            "1": "90 km/h.",
+            "2": "100 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En una carretera convencional con tres carriles para cada uno de los sentidos y separación física de los mismos, ¿a qué velocidad máxima le está permitido circular a un turismo para adelantar?",
+        "respuestas": {
+            "1": "90 km/h.",
+            "2": "140 km/h.",
+            "3": "120 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Cuál es la velocidad máxima a la que está permitido circular por esta carretera convencional con un pick-up?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cuál es, como norma general, la velocidad máxima a la que le está permitido circular a un turismo por una carretera convencional?",
+        "respuestas": {
+            "1": "80 km/h.",
+            "2": "100 km/h.",
+            "3": "90 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "En una autovía, el límite de velocidad para una motocicleta es de...",
+        "respuestas": {
+            "1": "120 km/h, pudiéndose superar en 20 km/h para adelantar.",
+            "2": "120 km/h.",
+            "3": "100 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Cuál es la velocidad máxima de un furgón de hasta 3.500 kg en autopista?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Le está permitido circular con un turismo a más de 90 km/h por esta carretera convencional?",
+        "respuestas": {
+            "1": "No, salvo para adelantar, caso en que podrá alcanzar los 110 km/h.",
+            "2": "Sí, cuando la circulación sea fluida.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Cuál es la velocidad máxima permitida en esta vía para un camión de 3.500 kg de MMA?",
+        "respuestas": {
+            "1": "90 kilómetros por hora.",
+            "2": "80 kilómetros por hora.",
+            "3": "70 kilómetros por hora."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "La velocidad máxima para un vehículo mixto adaptable en autopista es...",
+        "respuestas": {
+            "1": "120 km/h.",
+            "2": "100 km/h.",
+            "3": "90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En autopista, ¿a qué velocidad máxima puede circular una motocicleta?",
+        "respuestas": {
+            "1": "120 km/h, pudiendo alcanzar 140 km/h para adelantar.",
+            "2": "120 km/h.",
+            "3": "100 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En esta vía, ¿cuál es la velocidad máxima permitida para un turismo, si no pretende adelantar?",
+        "respuestas": {
+            "1": "110 km/h.",
+            "2": "90 km/h.",
+            "3": "120 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si circula con una motocicleta por una carretera convencional con dos carriles para cada sentido, ¿qué velocidad máxima le está permitido alcanzar para adelantar a otro vehículo?",
+        "respuestas": {
+            "1": "120 km/h.",
+            "2": "80 km/h.",
+            "3": "90 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En una autopista, ¿cuál es la velocidad máxima a la que está permitido circular a una furgoneta que transporta mercancías?",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "120 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En una carretera convencional sin arcenes, la velocidad máxima para un furgón es...",
+        "respuestas": {
+            "1": "80 km/h.",
+            "2": "90 km/h.",
+            "3": "110 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular una furgoneta por una autopista?",
+        "respuestas": {
+            "1": "60 km/h.",
+            "2": "50 km/h.",
+            "3": "45 km/h."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "En autopistas y autovías, ¿qué vehículos pueden superar la velocidad máxima permitida para adelantar?",
+        "respuestas": {
+            "1": "Los turismos y las motocicletas únicamente.",
+            "2": "No puede superarla ningún vehículo.",
+            "3": "Solamente las motocicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "El titular de esta vía ha fijado la velocidad máxima para determinados vehículos en 100 km/h. ¿A qué velocidad máxima puede circular un automóvil que arrastra un remolque?",
+        "respuestas": {
+            "1": "90 km/h.",
+            "2": "100 km/h.",
+            "3": "80 km/h."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En vías fuera de poblado, ¿cuál es la velocidad máxima a la que le está permitido circular a una autocaravana de 3.000 kg de MMA?",
+        "respuestas": {
+            "1": "90 km/h en autopistas y autovías y 80 en carretera convencional.",
+            "2": "120 km/h en autopistas y autovías y 90 en carretera convencional.",
+            "3": "100 km/h en autopistas y autovías y 80 en carretera convencional."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En autopista, un camión que arrastra un remolque ligero puede adelantar como máximo a...",
+        "respuestas": {
+            "1": "100 km/h.",
+            "2": "90 km/h.",
+            "3": "120 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

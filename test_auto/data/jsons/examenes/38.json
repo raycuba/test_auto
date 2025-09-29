@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En caso de producirse un incendio en el interior de un túnel, ¿qué medida de seguridad, entre otras, adoptará el conductor?",
+        "respuestas": {
+            "1": "Dejará arrancado el motor de su vehículo y abandonará el túnel.",
+            "2": "Apagará el motor del vehículo y permanecerá en su interior.",
+            "3": "Apartará su vehículo a la derecha para dejar paso a los servicios de emergencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En un poblado, ¿está permitido usar las advertencias acústicas?",
+        "respuestas": {
+            "1": "Sí, exclusivamente para evitar un accidente.",
+            "2": "No.",
+            "3": "Sí, para evitar un accidente o avisar a los demás usuarios de que se realiza un servicio de urgencia."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "En una zona de obras se encuentra un panel direccional provisional, ¿qué indica?",
+        "respuestas": {
+            "1": "Advierte del peligro por obras.",
+            "2": "La presencia de una curva y su dirección.",
+            "3": "Prohíbe el paso e informa sobre el sentido de la circulación."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Al incorporarse a una autopista por un carril de aceleración, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Acelerar; los vehículos que circulan por la autopista deben ceder el paso.",
+            "2": "Acelerar hasta alcanzar la velocidad máxima permitida de la vía.",
+            "3": "Ceder el paso e incorporarse a una velocidad adecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "En una motocicleta, ¿cuánto puede sobresalir, por su parte delantera y por la posterior, la carga transportada?",
+        "respuestas": {
+            "1": "Nada por delante y hasta 0,25 metros por detrás.",
+            "2": "Nada, no puede sobresalir la carga ni por delante ni por detrás.",
+            "3": "Hasta 0,25 metros tanto por delante como por detrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿Puede circular con su motocicleta por un carril bus señalizado con línea longitudinal continua?",
+        "respuestas": {
+            "1": "Solo para adelantar y durante el recorrido indispensable.",
+            "2": "Sí, cuando la circulación sea muy densa.",
+            "3": "No, con carácter general."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Es conveniente colocar el soporte para un navegador GPS cerca del lugar en el que se encuentra instalado un airbag?",
+        "respuestas": {
+            "1": "No, si puede obstaculizar su despliegue.",
+            "2": "Sí, si así el conductor ve mejor la pantalla.",
+            "3": "Sólo si el navegador GPS está apagado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En este cruce, ¿puede pasar cuando se enciende la luz verde?",
+        "respuestas": {
+            "1": "Sí, siempre, porque tengo preferencia.",
+            "2": "Sí, pero debo esperar hasta poder pasar sin bloquearlo.",
+            "3": "Sí, pero debo ceder el paso a los vehículos de la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Quién debe usar los cinturones de seguridad en un autobús?",
+        "respuestas": {
+            "1": "El conductor solamente.",
+            "2": "Además del conductor, los pasajeros de más de 3 años de edad.",
+            "3": "Todos los pasajeros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una intersección un vehículo parece que va a incumplir la prioridad de paso, ¿qué puede hacer para anticiparse a un posible peligro?",
+        "respuestas": {
+            "1": "Continuar la marcha, porque en caso de accidente la culpa será del otro conductor.",
+            "2": "Acelerar para llegar antes a la intersección que el otro vehículo.",
+            "3": "Colocar el pie en el pedal de freno, sin presionarlo por si es necesario frenar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "La obligación de dejar espacio suficiente para permitir el adelantamiento no será aplicable...",
+        "respuestas": {
+            "1": "donde esté prohibido el adelantamiento.",
+            "2": "en vías con un único carril para cada sentido.",
+            "3": "en carreteras convencionales."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Cuando se realiza una inmovilización para parar o estacionar deberá utilizarse el indicador de dirección...",
+        "respuestas": {
+            "1": "del lado izquierdo.",
+            "2": "correspondiente al lado en el que se pare o estacione.",
+            "3": "del lado derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Cuando la carga sobresale de un vehículo, ¿es obligatorio señalizarla con el panel de la imagen?",
+        "respuestas": {
+            "1": "No, excepto para los vehículos destinados al transporte de mercancías.",
+            "2": "Solo es obligatorio si la carga sobresale por la parte trasera.",
+            "3": "Sí, para todo tipo de vehículos, pero solo cuando la carga sea indivisible."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Para contaminar lo menos posible es recomendable...",
+        "respuestas": {
+            "1": "mantener siempre la misma velocidad.",
+            "2": "utilizar lo menos posible el transporte público.",
+            "3": "mantener la velocidad lo más uniforme posible evitando acelerones y frenazos innecesarios."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Estaciona en el arcén de una travesía insuficientemente iluminada, ¿qué luces debe dejar encendidas?",
+        "respuestas": {
+            "1": "Ninguna.",
+            "2": "Las luces de posición o las de estacionamiento.",
+            "3": "Las luces de corto alcance y las de emergencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué produce más distracciones en la conducción?",
+        "respuestas": {
+            "1": "Escuchar la radio.",
+            "2": "Usar el teléfono móvil.",
+            "3": "Observar las señales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Este pictograma incluido en el envase de un medicamento, ¿permite la conducción de vehículos mientras dure el tratamiento con el mismo?",
+        "respuestas": {
+            "1": "Sí, aunque advierte de posibles efectos secundarios que afectan a la conducción.",
+            "2": "Sí, indica que el medicamento no tiene efectos secundarios negativos para la conducción.",
+            "3": "No, su ingesta es incompatible con la conducción de vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Esta señal indica vía reservada...",
+        "respuestas": {
+            "1": "a motocicletas y prohibición de entrada a los demás usuarios.",
+            "2": "a ciclomotores y prohibición de entrada a los demás usuarios.",
+            "3": "a ciclos y ciclomotores."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Quién debe realizar las actuaciones de soporte vital básico a las víctimas de un accidente?",
+        "respuestas": {
+            "1": "El personal especializado, siempre.",
+            "2": "Estas actuaciones siempre deben realizarse en un hospital.",
+            "3": "El personal especializado, salvo que la persona que le auxilie esté totalmente seguro de conocerlas y poder realizarlas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "¿Está permitido señalizar una maniobra con el brazo?",
+        "respuestas": {
+            "1": "Sí, pero debe ser visible por los demás usuarios.",
+            "2": "No, se señaliza únicamente con los intermitentes.",
+            "3": "Sí, pero es obligatorio utilizar a la vez los intermitentes."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Cuando nieva y la capa de nieve no es muy alta, ¿es recomendable circular sobre las marcas dejadas por otros vehículos?",
+        "respuestas": {
+            "1": "Sí, siempre que con el paso de los vehículos se haya deshelado esa zona.",
+            "2": "No, siempre se conseguirá mayor adherencia al circular sobre nieve compacta.",
+            "3": "Solo si la capa de nieve que existe en el fondo de las marcas, está helada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "La luz antiniebla trasera deberá utilizarse en caso de...",
+        "respuestas": {
+            "1": "nubes densas de humo.",
+            "2": "heladas nocturnas.",
+            "3": "frenada brusca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Un herido tiene quemaduras. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Limpiar la herida.",
+            "2": "Quitarle la ropa pegada a la quemadura.",
+            "3": "Tapar la quemadura con gasas húmedas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Circulando a 100 km/h se rompe el freno de pie. ¿Cómo se puede detener el vehículo?",
+        "respuestas": {
+            "1": "Con el freno de mano solamente.",
+            "2": "Pisando varias veces el pedal del embrague y el pedal del freno.",
+            "3": "Poniendo velocidades más cortas y al final con el freno de mano."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Las advertencias acústicas se pueden utilizar...",
+        "respuestas": {
+            "1": "para advertir el propósito de adelantar únicamente dentro de poblado.",
+            "2": "en vías anchas con pocas curvas.",
+            "3": "en vías estrechas con muchas curvas."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Peligro debido a que la vía desemboca en un muelle o en una corriente de agua.",
+            "2": "Peligro por desbordamiento de un rio.",
+            "3": "Peligro por la proximidad de un puente móvil."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El nivel de atención de un conductor, ¿disminuye cuando utiliza el teléfono móvil?",
+        "respuestas": {
+            "1": "Solo si no utiliza un sistema de manos libres o si escribe un mensaje de texto.",
+            "2": "Sí, aunque utilice un dispositivo de manos libres.",
+            "3": "No; hablar por teléfono no afecta a la atención del conductor."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Se considera que un vehículo estacionado perturba gravemente la circulación cuando...",
+        "respuestas": {
+            "1": "la distancia entre el vehículo y el borde opuesto de la calzada sea inferior a cinco metros.",
+            "2": "estacione en medianas, isletas u otros elementos de canalización del tráfico.",
+            "3": "estacione en una zona reservada a carga y descarga, fuera de las horas de utilización."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si tiene que descargar su vehículo dentro de la vía pública, debe hacerlo...",
+        "respuestas": {
+            "1": "depositando la mercancía en la zona peatonal más próxima.",
+            "2": "lo más rápidamente posible, evitando ruidos y molestias innecesarias.",
+            "3": "sin que sea necesario respetar las normas sobre paradas o estacionamientos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Qué ocurre cuando se deja el chaleco reflectante expuesto a la luz?",
+        "respuestas": {
+            "1": "Nada, la luz no daña el material.",
+            "2": "Que pierde sus propiedades reflectantes.",
+            "3": "Que cambia de color, aunque mantiene sus propiedades reflectantes."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Conducir con calor, ¿puede favorecer la aparición del sueño?",
+        "respuestas": {
+            "1": "Sí, sobre todo después de las comidas.",
+            "2": "Sí, sobre todo si se lleva conectado el aire acondicionado para combatirlo.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El calor excesivo en el interior del vehículo, ¿puede aumentar el riesgo en la conducción?",
+        "respuestas": {
+            "1": "Sí, porque favorece la aparición de fatiga.",
+            "2": "No, porque el exceso de calor favorece la concentración al volante.",
+            "3": "Sólo si el conductor no lleva ropa ligera y circula con las ventanillas cerradas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Bajo los efectos del calor es posible que...",
+        "respuestas": {
+            "1": "aumente el tiempo de reacción y la agresividad.",
+            "2": "aumente el tiempo de reacción y disminuya la agresividad.",
+            "3": "disminuya el tiempo de reacción y aumente la agresividad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Si circula con el aire acondicionado encendido y hace demasiado frío, el tiempo de reacción...",
+        "respuestas": {
+            "1": "aumenta.",
+            "2": "disminuye.",
+            "3": "no se ve afectado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "La distracción es el factor de riesgo en la conducción que...",
+        "respuestas": {
+            "1": "cada vez tiene menos incidencia en la accidentalidad.",
+            "2": "causa uno de cada tres accidentes mortales.",
+            "3": "provoca accidentes con heridos, pero no con víctimas mortales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+        "respuestas": {
+            "1": "Pisa el pedal de freno en lugar del acelerador.",
+            "2": "Tarda más tiempo en reaccionar ante una situación de riesgo.",
+            "3": "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Los accidentes a causa de las distracciones son...",
+        "respuestas": {
+            "1": "inevitables.",
+            "2": "esporádicos.",
+            "3": "cada vez más frecuentes."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Al distraerse, el conductor...",
+        "respuestas": {
+            "1": "tarda menos tiempo en recibir la información necesaria para conducir con seguridad.",
+            "2": "tarda más tiempo en recibir la información necesaria para conducir con seguridad.",
+            "3": "no necesita información de la vía ni del entorno para conducir con seguridad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Las distracciones al volante...",
+        "respuestas": {
+            "1": "no causan accidentes.",
+            "2": "causan muy pocos accidentes.",
+            "3": "causan una gran cantidad de accidentes."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Un conductor, ¿se puede distraer si viaja con niños en los asientos traseros y éstos están alborotando?",
+        "respuestas": {
+            "1": "Sí, ya que posiblemente no estará concentrado en la conducción.",
+            "2": "No, al conductor no le afecta lo que sucede en los asientos traseros",
+            "3": "Sólo si los niños no llevan un sistema de retención adecuado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Los accidentes causados por una distracción son más frecuentes en...",
+        "respuestas": {
+            "1": "jóvenes entre 18-25 años y los mayores de 70 años.",
+            "2": "noveles.",
+            "3": "mayores de 65 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La monotonía y disminución de la atención, es un factor de peligro, que suele presentarse con mayor frecuencia, cuando se circula por...",
+        "respuestas": {
+            "1": "carreteras convencionales.",
+            "2": "autopista y autovía.",
+            "3": "vías urbanas y travesías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En general, si se conduce por una vía con un entorno monótono y hay poco tráfico, lo más normal es que...",
+        "respuestas": {
+            "1": "tarde más en aparecer la somnolencia.",
+            "2": "el conductor se distraiga con mayor facilidad.",
+            "3": "el conductor se mantenga más concentrado."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Los accidentes de tráfico producidos por distracción del conductor son más frecuentes...",
+        "respuestas": {
+            "1": "cuando el conductor va solo.",
+            "2": "cuando el conductor va acompañado.",
+            "3": "de noche."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿Cuándo se producen más distracciones al volante?",
+        "respuestas": {
+            "1": "Los meses de verano, en los trayectos de ocio.",
+            "2": "Los días laborables, en zona urbana.",
+            "3": "Los días laborables, en zona interurbana."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "La mayor parte de las distracciones del conductor se relacionan con...",
+        "respuestas": {
+            "1": "su estado psicofísico y su comportamiento.",
+            "2": "factores externos, como la vía y su entorno.",
+            "3": "la disposición de los mandos en el vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El entorno y comportamiento del conductor, ¿puede producir distracciones?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sí, aunque solo cuando se conduce por autopista o autovía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "La vía, su entorno y el propio vehículo, ¿pueden favorecer la aparición de distracciones al volante?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "La vía y su entorno sí, pero el propio vehículo no favorece la aparición de distracciones.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si mientras conducimos tenemos una fuerte discusión, lo más recomendable es...",
+        "respuestas": {
+            "1": "aumentar la velocidad para llegar lo antes posible a nuestro destino.",
+            "2": "parar en un lugar permitido y no continuar la marcha hasta estar más tranquilo.",
+            "3": "parar en una cafetería y tomar un medicamento relajante con una taza de té."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Un conductor, ¿se puede distraer si come o bebe mientras conduce?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Comer sí puede provocar que el conductor se distraiga, pero beber no."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "¿Es aconsejable fumar mientras se está conduciendo?",
+        "respuestas": {
+            "1": "Solo si el conductor es fumador habitual, porque relaja.",
+            "2": "No, puede provocar distracciones en el conductor.",
+            "3": "Sí, fumar un cigarrillo aumenta la capacidad de concentración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "Para conducir de forma segura, el conductor debe...",
+        "respuestas": {
+            "1": "utilizar cascos o auriculares cuando hable por teléfono mientras circula.",
+            "2": "utilizar preferentemente el carril izquierdo de circulación.",
+            "3": "centrar toda su atención en la tarea de la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "De los siguientes factores, ¿cuáles favorecen las distracciones durante la conducción; una de las causas más importantes de accidente de tráfico?",
+        "respuestas": {
+            "1": "Mirar por el espejo retrovisor y conducir un vehículo con cambio manual.",
+            "2": "La falta de experiencia y llevar el móvil apagado.",
+            "3": "El estrés, el consumo de alcohol y la fatiga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Intentar expulsar un insecto del vehículo mientras se conduce, ¿es peligroso?",
+        "respuestas": {
+            "1": "Sí, porque puede distraer al conductor.",
+            "2": "Sólo si el insecto es una abeja o una avispa.",
+            "3": "No, porque se tarda menos de un segundo en expulsarlo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Mirar un cartel publicitario situado en el entorno de la vía, ¿puede distraer al conductor de un vehículo?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo si se circula de noche y el cartel está iluminado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Qué produce más distracciones en la conducción?",
+        "respuestas": {
+            "1": "Escuchar la radio.",
+            "2": "Usar el teléfono móvil.",
+            "3": "Observar las señales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Tomar un medicamento, ¿puede favorecer las distracciones al volante?",
+        "respuestas": {
+            "1": "No.",
+            "2": "No, salvo psicotrópicos como el cannabis.",
+            "3": "Sí, puede provocar efectos en la capacidad de concentración."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer al conductor?",
+        "respuestas": {
+            "1": "Solo si las emisoras de radio no están guardadas en memoria.",
+            "2": "No.",
+            "3": "Sí, aumentando el riesgo de accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Leer un periódico o mirar un mapa mientras se circula, ¿es un riesgo para la conducción?",
+        "respuestas": {
+            "1": "Leer un periódico sí, pero mirar un mapa no.",
+            "2": "Sí.",
+            "3": "Únicamente si se aparta la mirada de la carretera más de dos segundos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La edad avanzada, ¿puede ser un factor que favorezca la distracción al volante?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, siempre.",
+            "3": "Sí, si no se toman las debidas precauciones."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

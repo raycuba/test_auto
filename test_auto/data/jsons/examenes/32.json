@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En esta vía urbana de sentido único, el conductor del turismo amarillo...",
+        "respuestas": {
+            "1": "debe circular por el carril situado más a su derecha.",
+            "2": "puede utilizar el carril que mejor convenga a su destino.",
+            "3": "una vez elegido un carril, no puede abandonarlo para adelantar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "En una motocicleta, ¿está permitido transportar a un niño entre el manillar y el conductor?",
+        "respuestas": {
+            "1": "Sí, con el correspondiente casco adecuado a su talla.",
+            "2": "Sólo cuando el conductor sea el padre, la madre o el tutor.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El conductor, al circular marcha atrás para estacionar, ¿debe llevar puesto el cinturón de seguridad?",
+        "respuestas": {
+            "1": "Solo podrá quitárselo si es taxista o repartidor.",
+            "2": "Sí, debe llevarlo abrochado hasta que el vehículo esté inmovilizado.",
+            "3": "No, no es obligatorio."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En un tramo de vía de doble sentido, si no va a adelantar, ¿en qué caso deberá guardar una distancia mínima de 50 metros con el vehículo de delante?",
+        "respuestas": {
+            "1": "Cuando circule a la velocidad máxima genérica permitida para la vía.",
+            "2": "Cuando conduzca un conjunto de vehículos de más de 10 metros de longitud.",
+            "3": "Cuando conduzca un camión de 3.000 kilos de MMA."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Cuáles son los principales grupos vulnerables en el tráfico?",
+        "respuestas": {
+            "1": "Únicamente, los grupos que van a pie.",
+            "2": "Sólo los niños y las personas mayores.",
+            "3": "Los niños, los jóvenes y las personas mayores."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En vía urbana, las personas que circulan por la calzada o por el arcén empujando un ciclomotor de dos ruedas, ¿por qué lado están obligados a circular?",
+        "respuestas": {
+            "1": "por su derecha.",
+            "2": "por su izquierda.",
+            "3": "indistintamente por su derecha o por su izquierda."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Si en un estrechamiento sin señalizar llegan a la vez un turismo y un vehículo de tracción animal; ¿cuál de los dos vehículos tendrá preferencia de paso?",
+        "respuestas": {
+            "1": "El que tenga que dar marcha atrás una mayor distancia.",
+            "2": "El vehículo de tracción animal.",
+            "3": "El turismo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "Que hay un área de descanso.",
+            "2": "Que hay un hotel.",
+            "3": "Que hay una parada de autobús."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Una parada obstaculiza gravemente la circulación cuando...",
+        "respuestas": {
+            "1": "se efectúa en una parada de transporte público señalizada y delimitada.",
+            "2": "obstaculiza el acceso normal a un inmueble de personas o animales.",
+            "3": "se efectúa en doble fila."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En esta vía saturada, los vehículos del carril derecho van más rápido que los del carril izquierdo, ¿se considera adelantamiento?",
+        "respuestas": {
+            "1": "Sí, al ser una autovía se considera adelantamiento.",
+            "2": "No, ya que la velocidad de circulación depende de la del vehículo de delante.",
+            "3": "Solo cuando se adelante a vehículos pesados."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Conforme a las estadísticas de accidentalidad, ¿cuál es una de las infracciones más habituales cometidas por los conductores en accidentes de tráfico con víctimas?",
+        "respuestas": {
+            "1": "Circular en sentido contrario o por lugar prohibido.",
+            "2": "Adelantar en lugar prohibido.",
+            "3": "No mantener la distancia de seguridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Qué luces debe utilizar para circular de noche por una travesía?",
+        "respuestas": {
+            "1": "Las de posición y las de corto alcance.",
+            "2": "Las de posición y las de largo alcance.",
+            "3": "Las de posición solamente."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "¿Está permitido circular con una lámina adhesiva que impida la correcta visión del conductor a través de la ventanilla posterior?",
+        "respuestas": {
+            "1": "Sí, siempre que el vehículo disponga de retrovisor izquierdo.",
+            "2": "Solo cuando el vehículo lleve un espejo retrovisor exterior a cada lado.",
+            "3": "No, en ningún caso."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Las primeras lluvias hacen más resbaladizas las carreteras porque...",
+        "respuestas": {
+            "1": "las primeras gotas son más densas y provocan peor drenaje.",
+            "2": "el volumen de precipitación inicial se concentra en determinadas zonas formándose grandes charcos.",
+            "3": "el agua se mezcla con la suciedad, aceite y otras materias que hay en el asfalto, creando una capa resbaladiza en la superficie de la carretera."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Factores como la fatiga, el consumo de alcohol o la lluvia, ¿influyen en la accidentalidad?",
+        "respuestas": {
+            "1": "No, ya que los accidentes son impredecibles y sólo dependen del azar.",
+            "2": "Sí, son factores de riesgo que aumentan la probabilidad de sufrir un accidente.",
+            "3": "Sólo si se conduce un vehículo con más de diez años de antigüedad."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Los conductores de vehículos destinados al servicio público, como taxis o VTC, ¿qué tasa de alcohol no podrán superar cuando circulen por vías abiertas al tráfico en general?",
+        "respuestas": {
+            "1": "0,15 gramos de alcohol por litro de sangre.",
+            "2": "0,25 gramos de alcohol por litro de sangre.",
+            "3": "0,30 gramos de alcohol por litro de sangre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué debe hacer un conductor que sufre un deslumbramiento ocasionado por las luces de un vehículo que circula en sentido contrario?",
+        "respuestas": {
+            "1": "Acelerar para que el tiempo de deslumbramiento sea el menor posible.",
+            "2": "Encender las luces largas para aumentar la visibilidad.",
+            "3": "Reducir la velocidad lo necesario, incluso hasta detener el vehículo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En caso de padecer una enfermedad crónica, es fundamental...",
+        "respuestas": {
+            "1": "modificar el tratamiento cuando se vaya a conducir.",
+            "2": "abandonar el tratamiento cuando se vaya a conducir.",
+            "3": "consultar siempre al médico sobre los efectos y riesgos del tratamiento para la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿A qué se denomina distancia de reacción?",
+        "respuestas": {
+            "1": "A la distancia recorrida desde que se ve un peligro hasta que se actúa sobre los mandos del vehículo.",
+            "2": "A la distancia recorrida desde que se comienza a frenar hasta que se detiene el vehículo.",
+            "3": "A la distancia que debe dejarse entre dos vehículos cuando van circulando uno detrás del otro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En esta autovía hay mucha niebla. ¿Se puede circular a menos de 60 km/h?",
+        "respuestas": {
+            "1": "No, porque es una vía para circulación rápida.",
+            "2": "No, en autovía nunca se debe circular a menos de la velocidad mínima permitida.",
+            "3": "Sí, porque con la niebla se debe moderar la velocidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En una autopista un conductor circula por el carril izquierdo porque acaba de adelantar, ¿debe regresar inmediatamente al carril derecho?",
+        "respuestas": {
+            "1": "Solo si se convierte en un obstáculo para los vehículos que le siguen.",
+            "2": "No, cuando no le siga ningún vehículo, aunque el carril derecho esté libre.",
+            "3": "Sí, si el carril derecho está libre y las condiciones de la circulación lo permiten."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "El alcohol, la fatiga y la velocidad excesiva, ¿de qué factor de riesgo forman parte?",
+        "respuestas": {
+            "1": "Del factor vía y entorno.",
+            "2": "Del factor humano.",
+            "3": "Del factor vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En un turismo de nueve plazas, incluida la del conductor, ¿pueden viajar nueve menores de edad?",
+        "respuestas": {
+            "1": "No, porque se supera el número de plazas autorizado.",
+            "2": "Solo si los niños son menores de de 12 años.",
+            "3": "Sí, siempre que el conductor sea su padre, madre o tutor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Vía pública calificada de atención preferente.",
+            "2": "Calzada en la que se debe ceder el paso a los vehículos que se aproximen por la derecha.",
+            "3": "Calzada con prioridad de paso en las intersecciones sobre los vehículos que circulen por otra calzada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El conductor que efectúe un adelantamiento...",
+        "respuestas": {
+            "1": "puede rebasar la velocidad máxima fijada para las autopistas y autovías en 20 km/h.",
+            "2": "debe mantener una velocidad moderada, sin importar el tiempo que emplee en el adelantamiento.",
+            "3": "debe circular a una velocidad notoriamente superior a la del vehículo que pretende adelantar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Se estima que de cada 100 siniestros, los debidos al factor humano son...",
+        "respuestas": {
+            "1": "entre 70 y 90.",
+            "2": "entre 10 y 35.",
+            "3": "entre 4 y 13."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Esta señal prohíbe...",
+        "respuestas": {
+            "1": "la parada los días impares, en el lado de la calzada en que está situada la señal.",
+            "2": "la parada y el estacionamiento.",
+            "3": "el estacionamiento los días pares, en el lado de la calzada en que está situada la señal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Sobre los railes de tranvías, ¿qué está prohibido?",
+        "respuestas": {
+            "1": "Circular.",
+            "2": "Estacionar, aunque está permitida la parada.",
+            "3": "Parar y estacionar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El conductor del vehículo rojo, ¿tiene alguna obligación?",
+        "respuestas": {
+            "1": "Sí; deberá facilitar, en la medida de lo posible, la incorporación del vehículo verde.",
+            "2": "Sí, deberá detenerse para que el vehículo verde pueda incorporarse.",
+            "3": "No tiene ninguna obligación."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Los peatones, ¿tienen los mismos derechos que los conductores para utilizar las vías públicas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Sólo en las calles residenciales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    }
+]

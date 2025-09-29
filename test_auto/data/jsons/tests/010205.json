@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Los vehículos para personas con movilidad reducida, si no existe vía o parte de ella que les esté especialmente destinada...",
+        "respuestas": {
+            "1": "pueden circular por autovía.",
+            "2": "pueden circular por autopista.",
+            "3": "deben circular por el arcén, siempre que sea transitable y suficiente"
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "El carril bici está cortado por obras; ¿por dónde debe circular el ciclista a partir de su cierre?",
+        "respuestas": {
+            "1": "Por la calzada o por la acera, es indistinto.",
+            "2": "Por la calzada.",
+            "3": "Por la acera."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Circula con un turismo por una autovía con tráfico muy denso, ¿está permitido circular por el arcén para tomar la siguiente salida?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, para facilitar la fluidez.",
+            "3": "Sí, encendiendo las luces de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "¿Circula correctamente el tractor agrícola de 2.500 kg de MMA?",
+        "respuestas": {
+            "1": "Sí, porque al no superar los 3.500 kg de MMA debe circular por el arcén.",
+            "2": "No, porque estos vehículos deben circular siempre por la calzada.",
+            "3": "Sí, pero sólo si está averiado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Como norma general, una motocicleta, ¿puede circular por el arcén?",
+        "respuestas": {
+            "1": "No, debe circular por la calzada.",
+            "2": "Sí, pero no puede hacerlo en paralelo con otros vehículos.",
+            "3": "Sí, pero solo si su cilindrada es igual o inferior a 125 c.c."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "El arcén de la derecha es transitable y suficiente. ¿Qué vehículos deben circular por él, como norma general?",
+        "respuestas": {
+            "1": "Los ciclos, ciclomotores y vehículos para personas de movilidad reducida.",
+            "2": "Los vehículos con MMA no superior a 3.500 kg que circulen a velocidad anormalmente reducida.",
+            "3": "Los vehículos especiales con MMA superior a 3.500 kg."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando las razones de seguridad lo permitan, los conductores de bicicletas, ¿podrán abandonar el arcén y circular por la parte de la calzada que necesiten?",
+        "respuestas": {
+            "1": "Sí, en pendientes prolongadas con curvas.",
+            "2": "Sí, en los descensos prolongados con curvas.",
+            "3": "No, deberán circular por el arcén en todo momento."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En esta vía, ¿por dónde debe circular un ciclomotor?",
+        "respuestas": {
+            "1": "Por la calzada, lo más cerca posible del borde derecho.",
+            "2": "Por el centro del carril derecho.",
+            "3": "Un ciclomotor no puede circular por esta vía, ya que no tiene arcén."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Este ciclista...",
+        "respuestas": {
+            "1": "debería circular lo más cerca posible del eje central de la calzada.",
+            "2": "no debería circular por esa vía, pues no tiene arcén.",
+            "3": "circula correctamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "En una calzada con arcén transitable y suficiente, ¿por dónde circulará un vehículo de acompañamiento de ciclistas?",
+        "respuestas": {
+            "1": "Por el arcén.",
+            "2": "Por el centro de la calzada.",
+            "3": "Por el carril derecho para proteger a los ciclistas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Cuándo se debe circular por el arcén en una autovía?",
+        "respuestas": {
+            "1": "Cuando se vaya a salir de la misma.",
+            "2": "Cuando por avería o emergencia se circule a menos de 60 km/h y se entorpezca la circulación de otros usuarios.",
+            "3": "Cuando la circulación sea muy densa."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Debido a una avería, circula por una autopista a una velocidad que dificulta la circulación de otros usuarios, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Inmovilizar siempre el vehículo en el arcén.",
+            "2": "Circular por el carril derecho.",
+            "3": "Circular por el arcén y abandonar la vía por la primera salida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Si debido a una avería, un turismo circula a velocidad anormalmente reducida, sin interrumpir la circulación, ¿por dónde debe circular?",
+        "respuestas": {
+            "1": "Por el arcén, obligatoriamente.",
+            "2": "No podrá seguir circulando, en ningún caso.",
+            "3": "Por la parte derecha de la calzada sin invadir el arcén."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En esta autopista, ¿cuándo se puede circular por el arcén?",
+        "respuestas": {
+            "1": "Nunca.",
+            "2": "Cuando haya muchos vehículos circulando.",
+            "3": "Cuando por emergencia o avería se circule a velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En caso de emergencia circula a velocidad anormalmente reducida, ¿qué vehículos deben circular por el arcén?",
+        "respuestas": {
+            "1": "Únicamente los camiones.",
+            "2": "Solo los turismos.",
+            "3": "Los vehículos cuya MMA, no exceda de 3.500 kilogramos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Cuando debido a una avería un turismo circula por una autopista a velocidad anormalmente reducida, ¿por dónde lo hará?",
+        "respuestas": {
+            "1": "Por el carril derecho y, si perturba gravemente la circulación, debe circular por el arcén.",
+            "2": "Por el arcén para no ser un obstáculo.",
+            "3": "Por el carril derecho, siempre."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "A un turismo, ¿le está permitido circular por el arcén de una autopista?",
+        "respuestas": {
+            "1": "No, en ningún caso.",
+            "2": "No, salvo cuando por razones de emergencia circule a velocidad anormalmente reducida y pueda ser un obstáculo.",
+            "3": "Sí, si va a abandonar la vía por un carril de deceleración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "En una autopista en caso de avería, ¿está permitido que circule por el arcén izquierdo?",
+        "respuestas": {
+            "1": "Sí, cuando el vehículo haya sufrido la avería circulando por el carril izquierdo.",
+            "2": "No, porque está prohibido que los turismos circulen por el arcén.",
+            "3": "No, se debe circular por el carril o el arcén de la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En una vía interurbana, el conductor de un ciclomotor, ¿puede adelantar a un tractor agrícola que circula por el arcén?",
+        "respuestas": {
+            "1": "Sí, en todo caso.",
+            "2": "No, los vehículos que circulan por el arcén no se pueden adelantar.",
+            "3": "Solo si el recorrido en paralelo no supera los 200 metros o los 15 segundos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Como norma general, las bicicletas, ¿pueden circular en posición paralela en columna de a dos?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Solo en autovías y siempre que no invadan la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Los ciclomotores, ¿pueden circular por el arcén en columna de a dos?",
+        "respuestas": {
+            "1": "Sí, de forma excepcional cuando el arcén sea transitable y suficiente.",
+            "2": "Sí, siempre.",
+            "3": "No, nunca."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En tramos con suficiente visibilidad y sin formar aglomeración, ¿podrán los ciclistas circular en columna de a dos, pegándose a la derecha?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, siempre circularan por el arcén.",
+            "3": "No, siempre circularan en fila de a uno."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿A qué vehículos les está permitido circular por el arcén en posición paralela, en columna de a dos, cuando éste sea transitable?",
+        "respuestas": {
+            "1": "A todos aquellos que, por construcción sean de dos ruedas.",
+            "2": "A las bicicletas y a los ciclomotores.",
+            "3": "A las bicicletas, a los ciclomotores y a las motocicletas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "En esta vía, ¿qué distancia es obligatorio dejar con el vehículo que circula delante, al que no se pretende adelantar?",
+        "respuestas": {
+            "1": "La distancia de seguridad solamente.",
+            "2": "La distancia de seguridad y la que permita a los demás adelantar.",
+            "3": "50 metros."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Todo conductor de un vehículo que circule detrás de otro está obligado a dejar entre ambos, como mínimo...",
+        "respuestas": {
+            "1": "un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él.",
+            "2": "una distancia de 50 metros.",
+            "3": "una distancia que permita a los vehículos que le sigan adelantarlo con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Para evitar colisionar con el vehículo que circula delante, ¿qué es lo más importante?",
+        "respuestas": {
+            "1": "Que el vehículo disponga de ABS.",
+            "2": "Circular a una velocidad constante.",
+            "3": "Mantener una distancia frontal de seguridad suficiente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "A la hora de determinar la distancia de seguridad con el vehículo que circula delante, debe tener en cuenta...",
+        "respuestas": {
+            "1": "la velocidad de circulación, exclusivamente.",
+            "2": "la velocidad y las condiciones de adherencia y frenado.",
+            "3": "las características del vehículo que circula delante."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "En una carretera, ¿qué vehículos deben guardar una separación mínima de 50 metros?",
+        "respuestas": {
+            "1": "Los turismos.",
+            "2": "Todos los camiones.",
+            "3": "Los conjuntos de vehículos de más de 10 metros de longitud."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "En un tramo de vía de doble sentido, si no va a adelantar, ¿en qué caso deberá guardar una distancia mínima de 50 metros con el vehículo de delante?",
+        "respuestas": {
+            "1": "Cuando circule a la velocidad máxima genérica permitida para la vía.",
+            "2": "Cuando conduzca un conjunto de vehículos de más de 10 metros de longitud.",
+            "3": "Cuando conduzca un camión de 3.000 kilos de MMA."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En esta vía de doble sentido, el conductor de un conjunto de vehículos de 11 metros de longitud, ¿qué separación debe dejar con el vehículo de delante si no pretende adelantar?",
+        "respuestas": {
+            "1": "50 metros.",
+            "2": "La que en caso de frenado brusco, permita detenerse sin colisionar.",
+            "3": "100 metros."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

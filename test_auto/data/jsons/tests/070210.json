@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Buscar una dirección en el navegador GPS durante la conducción, ¿puede ser peligroso?",
+        "respuestas": {
+            "1": "Sólo si el navegador GPS se encuentra muy alejado del asiento del conductor.",
+            "2": "No, porque ayuda a conducir con mayor seguridad.",
+            "3": "Sí, porque el conductor se distrae."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Para evitar riesgos, ¿cuándo se debe buscar la ruta a seguir en un navegador GPS?",
+        "respuestas": {
+            "1": "Mientras se circula, pero siempre en zona urbana.",
+            "2": "Antes de iniciar la marcha.",
+            "3": "Al detenerse en un cruce regulado por semáforo o por una señal de stop."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Fumar mientras se conduce...",
+        "respuestas": {
+            "1": "está prohibido.",
+            "2": "es recomendable, porque ayuda a mantener la atención.",
+            "3": "no es recomendable, porque puede afectar a la atención en la conducción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Fumar mientras conduce, ¿puede afectar a la conducción?",
+        "respuestas": {
+            "1": "No, y además relaja.",
+            "2": "Sí, porque distrae y se pierde capacidad de maniobra.",
+            "3": "Sólo si se fuma en pipa, pero los cigarrillos no afectan."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Si fuma mientras conduce un vehículo, debe saber que...",
+        "respuestas": {
+            "1": "está prohibido.",
+            "2": "su nivel de atención puede verse alterado.",
+            "3": "es obligatorio mantener las ventanillas cerradas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Fumar al volante, ¿cómo afecta a la conducción?",
+        "respuestas": {
+            "1": "Provoca somnolencia.",
+            "2": "Aumenta la capacidad de reacción.",
+            "3": "Inutiliza una de las manos y genera problemas de visión a causa del humo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Fumar mientras conduce, ¿qué efecto puede producir en la conducción?",
+        "respuestas": {
+            "1": "Disminuye la capacidad de concentración.",
+            "2": "Aumenta la agresividad al volante.",
+            "3": "Provoca una mayor resistencia a la fatiga."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "¿Es aconsejable fumar mientras se conduce?",
+        "respuestas": {
+            "1": "Sí, siempre.",
+            "2": "Sí, para las personas que fuman habitualmente, porque relaja.",
+            "3": "No, puede provocar distracciones en el conductor."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Fumar al volante...",
+        "respuestas": {
+            "1": "es una conducta que puede interferir en la conducción y provocar un accidente.",
+            "2": "relaja y proporciona serenidad al fumador, lo que repercute positivamente en la conducción.",
+            "3": "es la principal causa de distracción durante la conducción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Fumar, mientras conduce, puede provocar...",
+        "respuestas": {
+            "1": "un aumento de la capacidad de atención.",
+            "2": "distracciones y problemas de visión a causa del humo.",
+            "3": "somnolencia."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "El consumo de drogas de abuso o ilegales, ¿puede alterar la percepción del riesgo?",
+        "respuestas": {
+            "1": "Sí, aumenta y el conductor percibe mejor las situaciones de riesgo.",
+            "2": "Sí, disminuye y el conductor percibe peor las situaciones de riesgo.",
+            "3": "No, el consumo de drogas no altera la percepción del riesgo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "El consumo de alcohol durante la comida, aunque sea en cantidades pequeñas, ¿afecta a la conducción?",
+        "respuestas": {
+            "1": "Sí, los movimientos del conductor al volante son más rápidos.",
+            "2": "Sí, altera la concentración y aumenta el tiempo de reacción.",
+            "3": "No, porque la comida contrarresta los efectos negativos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "El consumo de alcohol, ¿es una de las principales causas que explican los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Sí, pero solo está presente en los accidentes que sufren los conductores noveles.",
+            "2": "Sí.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "El conductor que ha tomado alcohol...",
+        "respuestas": {
+            "1": "no valora sus efectos, como norma general.",
+            "2": "normalmente es consciente de sus efectos.",
+            "3": "conduce con más precaución, como norma general."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Bajo los efectos del alcohol, el tiempo de reacción...",
+        "respuestas": {
+            "1": "aumenta.",
+            "2": "disminuye.",
+            "3": "no se ve afectado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Cuando se consume alcohol, ¿se producen alteraciones en la visión?",
+        "respuestas": {
+            "1": "Sí, puede aparecer la visión túnel.",
+            "2": "No, solamente afecta a la capacidad motora.",
+            "3": "Sí, pero solamente con tasas de alcohol por encima de las permitidas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "El consumo de alcohol, aunque sea en pequeñas cantidades...",
+        "respuestas": {
+            "1": "no deteriora la capacidad para conducir.",
+            "2": "deteriora la capacidad para conducir.",
+            "3": "deteriora la capacidad para conducir sólo si se mezcla con alguna droga ilegal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El consumo de alcohol, ¿afecta a la capacidad visual del conductor?",
+        "respuestas": {
+            "1": "Sí, aumenta su capacidad visual.",
+            "2": "Sí, disminuye su capacidad visual.",
+            "3": "No, no se ve afectada su capacidad visual."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En general, un conductor que se encuentra bajo los efectos del alcohol...",
+        "respuestas": {
+            "1": "suele tener un comportamiento agresivo e imprudente.",
+            "2": "suele tener un comportamiento cortes y respetuoso con las normas.",
+            "3": "es menos sensible a los cambios de luz y a los deslumbramientos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Uno de los efectos que el alcohol produce en el conductor...",
+        "respuestas": {
+            "1": "la ampliación del campo visual.",
+            "2": "la disminución de la distancia de frenado.",
+            "3": "la menor percepción del riesgo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "El alcohol, ¿influye en el proceso de toma de decisiones del conductor?",
+        "respuestas": {
+            "1": "No, sólo influye en la capacidad de percepción y atención.",
+            "2": "No, no supone ningún tipo de alteración para el conductor.",
+            "3": "Sí, por ejemplo, alterando la percepción del entorno del tráfico."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "En general, bajo los efectos del alcohol los conductores...",
+        "respuestas": {
+            "1": "perciben peor las señales de tráfico.",
+            "2": "perciben mejor las luces de los semáforos.",
+            "3": "distinguen mejor las luces de los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Si un conductor consume bebidas alcohólicas con frecuencia, ¿aumenta la probabilidad de que, con el tiempo, termine sufriendo un accidente?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "Únicamente si consume bebidas destiladas.",
+            "3": "No, si tiene experiencia en la conducción."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Cuando se conduce bajo los efectos del alcohol...",
+        "respuestas": {
+            "1": "se aprecian de forma incorrecta las distancias y la velocidad de circulación.",
+            "2": "mejora la apreciación de las distancias y de la velocidad de circulación.",
+            "3": "mejora la apreciación de las distancias, pero no se valora correctamente la velocidad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "El consumo de alcohol produce alteraciones en el comportamiento; bajo sus efectos...",
+        "respuestas": {
+            "1": "el conductor suele tener un exceso de seguridad en sí mismo.",
+            "2": "mejora el nivel de atención del conductor en situaciones complejas.",
+            "3": "aumenta el campo visual del conductor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En general, un conductor bajo los efectos del alcohol...",
+        "respuestas": {
+            "1": "es menos sensible a los deslumbramientos.",
+            "2": "es más sensible a los deslumbramientos.",
+            "3": "percibe mejor las distancias y las velocidades."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "El consumo de alcohol, ¿deteriora las capacidades para conducir con seguridad?",
+        "respuestas": {
+            "1": "No, el consumo de alcohol ayuda a mantener la concentración al volante.",
+            "2": "Sí, aunque la tasa de alcoholemia sea inferior al límite legal.",
+            "3": "Sí, pero sólo si la tasa de alcoholemia es superior al límite legal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Qué alteración provoca con mayor frecuencia el consumo de alcohol en el comportamiento del conductor?",
+        "respuestas": {
+            "1": "Respuestas impulsivas y agresivas ante los demás conductores.",
+            "2": "Disminución del tiempo de reacción.",
+            "3": "Mayor facilidad para percibir los semáforos y las señales luminosas."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "El consumo de alcohol, en general, ¿reduce la capacidad de atención del conductor, favoreciendo las distracciones?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, especialmente en situaciones complejas.",
+            "3": "Solo cuando la tasa de alcoholemia supera a la máxima permitida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "En general, un conductor que se encuentra bajo los efectos del alcohol...",
+        "respuestas": {
+            "1": "coordina mejor sus movimientos.",
+            "2": "coordina sus movimientos con mayor dificultad.",
+            "3": "coordina sus movimientos con mayor rapidez."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    }
+]

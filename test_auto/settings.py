@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'test_auto.apps.main',
+    'test_auto.apps.examenes',
+    'test_auto.apps.tests',
 ]
 
 MIDDLEWARE = [
@@ -117,8 +119,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
+STATICFILES_DIRS = [BASE_DIR / "test_auto" / "static"]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# JSONs Data Path
+JSONS_DATA_PATH = BASE_DIR / "test_auto" / "data" / "jsons"

@@ -1,0 +1,222 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "Esta señal, ¿qué indica?",
+        "respuestas": {
+            "1": "El lugar a partir del cual rigen las normas de comportamiento en la circulación relativas a poblado.",
+            "2": "Un lugar de interés general en la vía.",
+            "3": "El lugar a partir del cual la vía entra en el término municipal indicado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Después de la señal, ¿puede circular a más de 50 km/h?",
+        "respuestas": {
+            "1": "Sí, si las circunstancias lo permiten.",
+            "2": "No, porque la señal lo prohíbe.",
+            "3": "Sí, al adelantar a otros vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "¿Qué indican las siguientes señales?",
+        "respuestas": {
+            "1": "Que a 200 metros hay un resalto o badén en la vía o pavimento en mal estado.",
+            "2": "Proximidad a 200 metros de un canal de agua.",
+            "3": "La distancia mínima de seguridad que deben guardar entre sí los vehículos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "El panel bajo la señal indica...",
+        "respuestas": {
+            "1": "la longitud del tramo peligroso o sujeto a prescripción.",
+            "2": "la distancia al comienzo del peligro o prescripción.",
+            "3": "la extensión del peligro o prescripción a ambos lados de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "La distancia que falta para llegar a un stop.",
+            "2": "La longitud en la que existe el peligro.",
+            "3": "Que a 4,25 kilómetros hay un peligro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Este panel, ¿qué indica?",
+        "respuestas": {
+            "1": "La longitud en que existe pavimento en mal estado.",
+            "2": "La longitud en que existe el peligro.",
+            "3": "La distancia desde el lugar donde está la señal a aquél en que comienza el peligro."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Este panel, colocado bajo una señal de prohibición, indica...",
+        "respuestas": {
+            "1": "la distancia al comienzo de la prohibición.",
+            "2": "la distancia en que se aplica la prohibición en el sentido de la flecha.",
+            "3": "la distancia en que se aplica la prohibición a ambos lados de la calzada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Esta señalización, le indica la distancia...",
+        "respuestas": {
+            "1": "al lugar donde tiene que ceder el paso en la próxima intersección.",
+            "2": "a la próxima intersección regulada por una señal de ceda el paso.",
+            "3": "a la que se encuentra la señal de detención obligatoria de la próxima intersección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "¿Qué indica este panel bajo la señal de ceda el paso?",
+        "respuestas": {
+            "1": "El lugar en el que hay que detenerse en la próxima intersección.",
+            "2": "El sitio exacto donde hay que ceder el paso en la próxima intersección.",
+            "3": "La distancia a la que se encuentra la señal de stop en la próxima intersección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "Este panel, colocado bajo la señal de ceda el paso, indica la distancia...",
+        "respuestas": {
+            "1": "al final de la prescripción.",
+            "2": "a la que se encuentra la señal de ceda el paso de la próxima intersección.",
+            "3": "a la que se encuentra la señal de detención obligatoria o stop de la próxima intersección."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Qué indica esta señal?",
+        "respuestas": {
+            "1": "Que el itinerario que sigue de frente tiene prioridad.",
+            "2": "Que el itinerario que sigue el ramal de la derecha tiene prioridad.",
+            "3": "Que el itinerario que sigue el ramal de la izquierda tiene prioridad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Este panel con esta señal prohíbe...",
+        "respuestas": {
+            "1": "el giro a la derecha a todos los vehículos.",
+            "2": "el giro a la derecha a vehículos con remolque.",
+            "3": "la circulación de vehículos con remolque"
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Esta señalización recomienda circular a 70 kilómetros por hora...",
+        "respuestas": {
+            "1": "en cualquier caso.",
+            "2": "sólo cuando está lloviendo.",
+            "3": "sólo cuando las condiciones meteorológicas y ambientales sean favorables."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "¿Qué significan estas señales?",
+        "respuestas": {
+            "1": "Que en caso de niebla, no puede superar la velocidad indicada.",
+            "2": "Que no puede superar la velocidad indicada si la calzada está inundada.",
+            "3": "Que cuando llueve no puede superar la velocidad indicada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "Este panel colocado debajo de una señal vertical...",
+        "respuestas": {
+            "1": "es complementario de la señal vertical e indica niebla.",
+            "2": "advierte al conductor de condiciones adversas como nieve, niebla o lluvia.",
+            "3": "advierte de la presencia de una señalización."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Dónde puede encontrar estos paneles?",
+        "respuestas": {
+            "1": "Encima de una señal vertical.",
+            "2": "Bajo una señal vertical.",
+            "3": "Antes de una señal vertical."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "¿Qué significa esta señal?",
+        "respuestas": {
+            "1": "Avisa de que puede haber hielo en la calzada.",
+            "2": "Que se aproxima a una zona con nieve en la calzada.",
+            "3": "Que en caso de nieve no puede superar la velocidad indicada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Situado en una señal, ¿qué indica este pictograma?",
+        "respuestas": {
+            "1": "Que el alcance de la señalización se refiere a vehículos híbridos.",
+            "2": "Que el alcance de la señalización se refiere a vehículos eléctricos.",
+            "3": "Que el alcance de la señalización se refiere a vehículos Diésel."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Esta señal indica la situación de...",
+        "respuestas": {
+            "1": "un extintor de incendios y un teléfono de emergencia en un apartadero.",
+            "2": "una salida de emergencia.",
+            "3": "un puesto de socorro."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En un túnel, esta señal indica...",
+        "respuestas": {
+            "1": "la dirección y distancia a una salida de emergencia.",
+            "2": "la situación de un teléfono de emergencia.",
+            "3": "la situación de una salida de emergencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    }
+]

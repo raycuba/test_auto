@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En una vía urbana de doble sentido de circulación, ¿en qué lado estacionará su motocicleta?",
+        "respuestas": {
+            "1": "En el lado izquierdo.",
+            "2": "En el lado derecho.",
+            "3": "En el lado derecho o izquierdo indistintamente."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Un menor de 12 años, ¿puede viajar de pasajero en una motocicleta?",
+        "respuestas": {
+            "1": "No, tiene que tener más de 12 años.",
+            "2": "Sí, siempre que sea mayor de 7 años, y el conductor sea su padre, madre, tutor o persona autorizada.",
+            "3": "No, salvo que mida más de 150 cm."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "Nada más producirse un accidente, antes de atender a las víctimas hay que...",
+        "respuestas": {
+            "1": "avisar a la policía.",
+            "2": "organizar a los servicios de urgencia.",
+            "3": "proteger y señalizar la zona del accidente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Circula por el carril izquierdo y se enciende el aspa roja. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Cambiar de carril rápidamente.",
+            "2": "Detenerme debajo del aspa roja.",
+            "3": "Detenerme en el próximo cruce."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Al auxiliar a una víctima de un accidente de tráfico, ¿debe darle alimentos o bebidas?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, si lo piden.",
+            "3": "Alimentos no, pero bebidas sí."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Para circular con seguridad debe haber un espacio suficiente...",
+        "respuestas": {
+            "1": "por detrás, por delante y en los laterales.",
+            "2": "por delante, únicamente.",
+            "3": "sólo a los lados."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "Cuando una señal imponga la obligación de detenerse, ¿hasta cuándo no se podrá reanudar la marcha?",
+        "respuestas": {
+            "1": "Hasta que no se cumpla la obligación establecida por la señal.",
+            "2": "Hasta pasado un tiempo prudencial, que no será inferior a diez segundos.",
+            "3": "Hasta que no estén detenidos los vehículos que se acerquen por detrás."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En una frenada de emergencia con ABS, si el pedal de freno vibra debe...",
+        "respuestas": {
+            "1": "soltar el pedal para no bloquear las ruedas.",
+            "2": "pisar el pedal de forma intermitente.",
+            "3": "seguir frenando a fondo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Estas marcas viales, ¿qué indican?",
+        "respuestas": {
+            "1": "Un paso para peatones y ciclistas.",
+            "2": "Un paso para ciclistas.",
+            "3": "Un paso obligatorio para vehículos de dos ruedas."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "La Organización Mundial de la Salud (OMS) considera que los accidentes de tráfico...",
+        "respuestas": {
+            "1": "no dejan secuelas ni a las víctimas ni a sus familiares y amigos.",
+            "2": "son un problema prioritario de salud pública en todo el mundo.",
+            "3": "no son un problema de salud pública sino de educación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Circulando en terreno llano y uniforme, al soltar el volante observa que el vehículo se desvía hacia una lado, ¿a qué puede ser debido?",
+        "respuestas": {
+            "1": "A que las ruedas de un mismo eje no tienen la misma presión de aire.",
+            "2": "A que los neumáticos del eje delantero y los del eje trasero son del mismo tipo.",
+            "3": "A que el nivel del líquido de frenos está debajo del mínimo recomendado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Circular a velocidad excesiva, ¿influye en la capacidad de anticipación del conductor ante una situación de peligro?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí.",
+            "3": "Solo cuando se circula por una vía saturada."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "La densidad del trafico en zona urbana produce frecuentes zonas de incertidumbre, por lo que el conductor de una motocicleta deberá:",
+        "respuestas": {
+            "1": "Advertir su presencia a los demás usuarios accionando la luz de carretera.",
+            "2": "Prever y anticiparse a los posibles comportamientos de los demás usuarios.",
+            "3": "Aumentar la velocidad para salir cuanto antes de esta situación."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "En caso de lluvia o charcos en la calzada, ¿por qué se debe reducir la velocidad a aquella que permita a los neumáticos desalojar bien el agua y pisar terreno firme?",
+        "respuestas": {
+            "1": "Para evitar que se humedezcan los frenos.",
+            "2": "Para evitar un desgaste innecesario del dibujo de los neumáticos.",
+            "3": "Para eliminar el riesgo de aquaplaning."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "El conductor de un vehículo que pretende incorporarse a la circulación está obligado a...",
+        "respuestas": {
+            "1": "poner el intermitente, únicamente.",
+            "2": "seguir siempre las indicaciones de otra persona.",
+            "3": "cerciorarse previamente de que puede hacerlo sin peligro."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Una de las causas más significativas de los accidentes de tráfico es...",
+        "respuestas": {
+            "1": "circular por debajo de la velocidad mínima.",
+            "2": "la velocidad inadecuada.",
+            "3": "la velocidad anormalmente reducida."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "De los siguientes factores, ¿cuáles favorecen las distracciones durante la conducción; una de las causas más importantes de accidente de tráfico?",
+        "respuestas": {
+            "1": "Mirar por el espejo retrovisor y conducir un vehículo con cambio manual.",
+            "2": "La falta de experiencia y llevar el móvil apagado.",
+            "3": "El estrés, el consumo de alcohol y la fatiga."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "Si un herido tiene una hemorragia en el brazo, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Darle pomada en la herida.",
+            "2": "Taponar la herida y levantarle el brazo.",
+            "3": "Hacer un torniquete, como norma general."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "En una intersección con esta señal, ¿está permitido cambiar el sentido de la marcha?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "En una curva de reducida visibilidad, se debe...",
+        "respuestas": {
+            "1": "frenar en toda la curva.",
+            "2": "circular lo más cerca posible del borde derecho de la calzada.",
+            "3": "pisar el embrague en toda la curva."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Si se puede hacer la maniobra sin riesgo, ¿está permitido adelantar a los ciclistas de la imagen?",
+        "respuestas": {
+            "1": "Sólo está permitido si no se ocupa el carril reservado al sentido contrario.",
+            "2": "No, ya que lo prohíbe la línea continua.",
+            "3": "Sí, aunque tenga que ocupar el carril reservado al sentido contrario."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué debe hacer cuando vaya a adelantar a un ciclista que lleva un pasajero?",
+        "respuestas": {
+            "1": "Aumentar la precaución ya que la bicicleta se puede desestabilizar con mayor facilidad.",
+            "2": "Aumentar la velocidad y circular lo más cerca posible del borde derecho de la calzada.",
+            "3": "Hacer señales acústicas al llegar a su altura para advertir de nuestra presencia."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "El vehículo derivado de turismo está destinado...",
+        "respuestas": {
+            "1": "a transporte de personas.",
+            "2": "a servicios o a transporte exclusivo de mercancías.",
+            "3": "a transporte, simultáneo o no, de personas y mercancías."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "El conductor de un turismo utilizará un chaleco reflectante de alta visibilidad cuando salga del vehículo y ocupe...",
+        "respuestas": {
+            "1": "la calzada o el arcén de todo tipo de vías, tanto urbanas como interurbanas.",
+            "2": "la calzada o el arcén de las vias interurbanas.",
+            "3": "la calzada de las vías interurbanas, pero no cuando ocupe el arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "¿Para qué sirve el carril de aceleración?",
+        "respuestas": {
+            "1": "Para incorporarse lentamente a la vía.",
+            "2": "Para incorporarse a la vía a una velocidad adecuada a las circunstancias de la circulación.",
+            "3": "Para alcanzar 120 km/h antes de incorporarse a la vía."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "¿Dónde debe colocarse para cambiar de dirección a la izquierda en esta vía de doble sentido y tres carriles?",
+        "respuestas": {
+            "1": "En el carril central siempre que esté libre.",
+            "2": "Ceñido al borde izquierdo de la calzada.",
+            "3": "Junto al borde derecho de la calzada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Circula a 90 kilómetros por hora, ¿por qué carril debe hacerlo si encuentra esta señal?",
+        "respuestas": {
+            "1": "Por el carril izquierdo porque circula a más de 70 km/h.",
+            "2": "Por el carril derecho, siempre que sea posible.",
+            "3": "Por el carril que más convenga a su destino."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Si un vehículo lleva rueda de repuesto y no dispone de sistema alternativo al cambio de las ruedas, es obligatorio...",
+        "respuestas": {
+            "1": "que la rueda de repuesto tenga un neumático resistente a los pinchazos.",
+            "2": "llevar las herramientas necesarias para el cambio de ruedas.",
+            "3": "que la rueda de repuesto sea de uso temporal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Cuando la luz de marcha atrás esté averiada, ¿cómo debe indicar que va a dar marcha atrás?",
+        "respuestas": {
+            "1": "Advirtiéndolo con el claxon.",
+            "2": "Moviendo el brazo de arriba abajo.",
+            "3": "Con el brazo extendido y la palma de la mano hacia atrás."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "El conductor de una motocicleta, ¿es conveniente que lleve botas?",
+        "respuestas": {
+            "1": "Únicamente en invierno.",
+            "2": "Solamente en verano.",
+            "3": "Sí, siempre."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "El vehículo rojo, ¿debe apartarse a la derecha cuando termine el adelantamiento?",
+        "respuestas": {
+            "1": "Sí, para no obstaculizar al vehículo que le sigue.",
+            "2": "No, porque existe un carril a la izquierda que está libre.",
+            "3": "No, puede seguir circulando por el carril central."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "¿Se pueden evitar los accidentes de tráfico?",
+        "respuestas": {
+            "1": "Sí, en general son sucesos predecibles.",
+            "2": "No, se deben al azar.",
+            "3": "Solo si se mejora el estado de las vías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "De día es obligatorio encender el alumbrado que corresponda...",
+        "respuestas": {
+            "1": "cuando se circule por pasos inferiores o tramos de vía afectados por la señal túnel.",
+            "2": "sólo cuando existan condiciones que disminuyan la visibilidad.",
+            "3": "cuando se circule por carriles para VAO."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Vehículo es todo aparato...",
+        "respuestas": {
+            "1": "apto para circular por las vías públicas.",
+            "2": "que está en la vía pública.",
+            "3": "que sólo tiene un motor."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Los accidentes de tráfico, ¿son una de las causas principales de mortalidad?",
+        "respuestas": {
+            "1": "No.",
+            "2": "Sí, especialmente entre las personas de la tercera edad.",
+            "3": "Sí, especialmente entre los jóvenes."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "Con el permiso de conducción de la clase B, ¿se puede conducir un automóvil de más de 3.500 kilogramos de masa máxima autorizada?",
+        "respuestas": {
+            "1": "Sí, cuando el permiso tenga una antigüedad superior a 3 años.",
+            "2": "Sí, siempre que su masa máxima autorizada no supere los 4.250 kilogramos.",
+            "3": "No, como norma general."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "En autopista, ¿a qué velocidad máxima puede circular una motocicleta?",
+        "respuestas": {
+            "1": "120 km/h, pudiendo alcanzar 140 km/h para adelantar.",
+            "2": "120 km/h.",
+            "3": "100 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "En una autopista de tres carriles, el carril derecho está libre, ¿por qué carril debe circular?",
+        "respuestas": {
+            "1": "Por el derecho, como norma general.",
+            "2": "Por el central siempre, si la autopista está dentro de poblado.",
+            "3": "Por el izquierdo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "Si debido a una emergencia, un conductor se ve obligado a inmovilizar su vehículo en una autopista, ¿puede hacerlo en la mediana?",
+        "respuestas": {
+            "1": "No, en ningún caso se debe dejar inmovilizado el vehículo en la mediana.",
+            "2": "Solo si fuera preciso y de forma excepcional para no obstaculizar la circulación.",
+            "3": "No, siempre se debe dejar inmovilizado el vehículo en el arcén derecho."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿Está correctamente inmovilizada esta furgoneta?",
+        "respuestas": {
+            "1": "Sí, ya que ha encendido las luces de emergencia y permite el paso.",
+            "2": "No, entre la furgoneta y la marca continua hay una distancia inferior a 3 metros.",
+            "3": "Sólo si se trata de una parada y el conductor está en su puesto."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "¿Pueden influir otros factores en un accidente, cuando las condiciones climatológicas son adversas?",
+        "respuestas": {
+            "1": "Sí, el mal estado de la vía, únicamente.",
+            "2": "No.",
+            "3": "Sí, el conductor, si conduce a una velocidad inadecuada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "Circula con su turismo por una carretera en la que aparece esta señal de restricción con un panel de color amarillo que nos indica que no se permite circular a...",
+        "respuestas": {
+            "1": "camiones de MMA menor de 3.500 kg ni conjuntos de vehículos.",
+            "2": "cualquier vehículo de más de 3.500 kg.",
+            "3": "camiones de MMA mayor de 3.500 kg ni vehículos articulados."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Como norma general, ¿cómo se denomina el tramo de carretera que discurre por poblado?",
+        "respuestas": {
+            "1": "Autovía.",
+            "2": "Carretera convencional.",
+            "3": "Travesía."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Un vehículo de dos ruedas que, por construcción desarrolla una velocidad máxima superior a 45 kilómetros por hora, es...",
+        "respuestas": {
+            "1": "una motocicleta.",
+            "2": "un ciclomotor.",
+            "3": "una bicicleta."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En general, un conductor que se encuentra bajo los efectos del alcohol...",
+        "respuestas": {
+            "1": "suele tener un comportamiento agresivo e imprudente.",
+            "2": "suele tener un comportamiento cortes y respetuoso con las normas.",
+            "3": "es menos sensible a los cambios de luz y a los deslumbramientos."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "¿Qué vehículos pueden circular por un carril de sentido contrario al habitual, como norma general?",
+        "respuestas": {
+            "1": "Turismos y motocicletas.",
+            "2": "Turismos, con o sin remolque, y motocicletas.",
+            "3": "Cualquier vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "En un paso de peatones, ¿hay que hacer señales a los peatones para que crucen la calzada?",
+        "respuestas": {
+            "1": "No, porque los demás conductores pueden no haberse dado cuenta de su presencia.",
+            "2": "Sí, pero sólo si van a cruzar por él.",
+            "3": "Sí, porque así los peatones pueden cruzar con seguridad."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El cruce de un paso a nivel debe realizarse...",
+        "respuestas": {
+            "1": "muy rápidamente para no coincidir con el tren.",
+            "2": "muy despacio y con la luz de cruce encendida para que nos vea el conductor del tren.",
+            "3": "sin demora y tras comprobar que no hay riesgo de quedarse detenido en la vía del tren."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Si el conductor de un vehículo va a desplazarse lateralmente invadiendo otro carril...",
+        "respuestas": {
+            "1": "dispone de la prioridad sobre los vehículos que circulan por el otro carril.",
+            "2": "debe respetar la prioridad de los vehículos que circulan por el otro carril.",
+            "3": "tendrá prioridad sobre otros vehículos si existe carril de aceleración."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "El consumo de cannabis afecta al comportamiento del conductor porque...",
+        "respuestas": {
+            "1": "aumenta su nivel de atención.",
+            "2": "disminuye la somnolencia.",
+            "3": "aumenta su tiempo de reacción."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "En un carril reservado para uso exclusivo del transporte público urbano, ¿se puede estacionar?",
+        "respuestas": {
+            "1": "Sí, se puede parar y estacionar.",
+            "2": "Sólo fuera del horario de servicio.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "La depresión, ¿puede afectar a la conducción?",
+        "respuestas": {
+            "1": "Sí, cuesta más trabajo mantener la atención necesaria, por ejemplo.",
+            "2": "No, en ningún caso.",
+            "3": "La depresión no afecta, pero si la medicación que se consume para tratarla."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "¿Es obligatorio señalizar la incorporación a la circulación cuando no exista desplazamiento lateral?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sí, únicamente en poblado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si realiza con su motocicleta un giro muy cerrado a una velocidad lenta, ¿qué precaución debe tener?",
+        "respuestas": {
+            "1": "No frenar con el freno delantero porque la rueda puede bloquearse y producirse una caída.",
+            "2": "A esa velocidad tan lenta no es necesario tomar ninguna precaución.",
+            "3": "Debe compensar el efecto giroscópico con el peso del cuerpo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Al circular con un turismo, ¿qué debe hacer para reducir la probabilidad de verse involucrado en un accidente con un vehículo de dos ruedas?",
+        "respuestas": {
+            "1": "No respetar la distancia lateral de seguridad.",
+            "2": "No respetar la distancia frontal de seguridad.",
+            "3": "Circular en paralelo el menor tiempo posible."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "En esta vía, ¿cuál es la velocidad máxima permitida para un turismo, si no pretende adelantar?",
+        "respuestas": {
+            "1": "110 km/h.",
+            "2": "90 km/h."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Al llegar a una intersección, la única señal que observa es una marca transversal discontinua en su carril, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "No franquear esa marca en ningún caso.",
+            "2": "No franquear esa marca si hay que ceder el paso por aplicación de las normas de prioridad.",
+            "3": "Detenerse obligatoriamente ante esa marca."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "¿Por qué tipo de vías tienen prohibida la circulación los ciclomotores?",
+        "respuestas": {
+            "1": "Por todas las vías situadas fuera de poblado.",
+            "2": "Por las autopistas y autovías.",
+            "3": "Por las carreteras convencionales sin arcén."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Si se ve obligado a realizar una frenada de emergencia, ¿es conveniente pisar el pedal del freno a fondo y mantener la máxima presión hasta el final?",
+        "respuestas": {
+            "1": "Únicamente si el vehículo dispone de sistema ABS.",
+            "2": "Sí, en cualquier caso.",
+            "3": "No."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "Como norma general, ¿en qué asientos deberá instalar los sistemas de retención infantil que están obligados a utilizar los menores de edad de estatura inferior a 135 centímetros?",
+        "respuestas": {
+            "1": "En el asiento delantero si está orientado hacia atrás, en los demás casos en los asientos traseros.",
+            "2": "En el asiento delantero.",
+            "3": "En los asientos traseros."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

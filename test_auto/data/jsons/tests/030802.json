@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "La señal horizontal de la imagen, ¿a qué obliga?",
+        "respuestas": {
+            "1": "A detenerse siempre.",
+            "2": "A ceder el paso a todos los vehículos.",
+            "3": "A girar a la izquierda."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "Estas marcas viales, ¿qué indican?",
+        "respuestas": {
+            "1": "Que debo ceder el paso y después cambiar al carril de la derecha.",
+            "2": "Que debo detenerme siempre y después girar a la derecha.",
+            "3": "Que puedo hacer un cambio de sentido."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "El conductor del turismo de color blanco, ¿debe respetar la señal de Stop cuando llegue al cruce?",
+        "respuestas": {
+            "1": "Sí, pero sólo si sigue de frente.",
+            "2": "Sí, debe respetar las marcas viales existentes.",
+            "3": "No, porque la señal horizontal sólo es para los que giren a la izquierda."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "En esta intersección con señal de STOP y buena visibilidad, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Detenerse siempre una vez superada la línea transversal.",
+            "2": "Seguir circulando sin detenerse, porque no viene ningún vehículo de frente.",
+            "3": "Detenerse siempre ante la línea transversal."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "¿Dónde debe detenerse en este cruce?",
+        "respuestas": {
+            "1": "Inmediatamente antes del cruce, aun cuando rebase la línea de detención.",
+            "2": "Ante la línea de detención, sin rebasarla.",
+            "3": "Ante la señal."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "¿A qué vehículos afecta esta señal?",
+        "respuestas": {
+            "1": "Sólo a los vehículos de motor.",
+            "2": "A todos los vehículos que circulen por esta calzada.",
+            "3": "A los que están circulando por el carril donde está situada la marca vial."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "¿Cuándo termina la limitación de velocidad que impone esta señal?",
+        "respuestas": {
+            "1": "Cuando encuentre una señal de fin de prohibiciones.",
+            "2": "Al rebasar el siguiente cruce.",
+            "3": "Cuando salga de la travesía."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "A la vista de esta señalización, ¿está permitido circular por el carril derecho a 90 kilómetros por hora?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, lo prohíbe la señal.",
+            "3": "No, porque no hay señal que lo indique."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "La señal de velocidad máxima pintada sobre un carril, ¿qué indica?",
+        "respuestas": {
+            "1": "Prohibido circular a más de 60 kilómetros por hora en todos los carriles.",
+            "2": "Prohibido circular a más de 60 kilómetros por hora en ese carril.",
+            "3": "Prohibido circular a más de 60 kilómetros por hora para los vehículos que van a girar a la derecha."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "¿En cuál de las siguientes circunstancias termina la limitación de velocidad que indica esta marca vial?",
+        "respuestas": {
+            "1": "Cuando supere la línea transversal blanca que hay delante de ella.",
+            "2": "Cuando me acerque a la salida del poblado y no haya viviendas cerca.",
+            "3": "Cuando encuentre otra señal de velocidad máxima distinta."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "Un conductor se encuentra situado en el carril derecho de esta calzada, ¿puede seguir de frente?",
+        "respuestas": {
+            "1": "Sí, puede girar a la derecha o continuar de frente.",
+            "2": "Sí, porque no existe una señal vertical que prohíba seguir de frente.",
+            "3": "No, está obligado a girar a la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "La flecha pintada sobre el carril derecho, ¿qué indica cuando se circula sobre él?",
+        "respuestas": {
+            "1": "Obliga a seguir la dirección de la flecha.",
+            "2": "Obliga a seguir la dirección de la flecha, aunque permite ir en otra dirección si no hay peligro.",
+            "3": "No obliga, solo informa de la dirección a seguir."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "Las flechas de selección de carril...",
+        "respuestas": {
+            "1": "aconsejan seguir las direcciones indicadas por las flechas.",
+            "2": "obligan a seguir la dirección o las direcciones indicadas, pero si la señalización lo permite autorizan el cambio de carril.",
+            "3": "obligan a seguir las direcciones indicadas por las flechas, prohibiendo siempre el cambio de carril."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Circula por el carril derecho y el semáforo está verde. ¿Qué debe hacer?",
+        "respuestas": {
+            "1": "Girar a la derecha o girar a la izquierda.",
+            "2": "Girar a la izquierda o continuar de frente.",
+            "3": "Girar a la derecha o continuar de frente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "En este cruce, ¿qué indican las flechas del carril izquierdo?",
+        "respuestas": {
+            "1": "Me informan, no me obligan.",
+            "2": "Me obligan a girar a la izquierda.",
+            "3": "Me obligan a girar a la izquierda o continuar recto."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Este turismo, ¿puede seguir recto?",
+        "respuestas": {
+            "1": "Sí porque las líneas que delimitan el carril son discontinuas.",
+            "2": "Sí, cuando el semáforo principal se ponga verde.",
+            "3": "No, porque desde el carril donde está situado tiene obligación de girar a la derecha."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Las flechas pintadas en la calzada...",
+        "respuestas": {
+            "1": "indican la dirección del ramal de la próxima salida.",
+            "2": "anuncian la proximidad de una línea continua.",
+            "3": "señalizan que el carril en el que están situadas termina próximamente."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "¿Qué indican las flechas pintadas en la calzada?",
+        "respuestas": {
+            "1": "Que el carril en el que están situadas termina próximamente.",
+            "2": "La dirección del ramal de la próxima salida.",
+            "3": "La proximidad de una línea continua."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "Circula por el carril izquierdo. ¿Qué le indica la flecha?",
+        "respuestas": {
+            "1": "Que se permite la circulación en paralelo.",
+            "2": "Que está cerca la próxima salida.",
+            "3": "Que debe incorporarse cuanto antes al carril derecho."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Las letras \"P\" y \"N\" pintadas en la calzada, una a cada lado de un aspa, ¿qué indican?",
+        "respuestas": {
+            "1": "La proximidad de un paso a nivel con o sin barreras.",
+            "2": "Peligro por la proximidad de un paso a nivel con barreras.",
+            "3": "Peligro por la proximidad de un paso a nivel sin barreras."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "La inscripción \"BUS\" dentro de un carril indica que es...",
+        "respuestas": {
+            "1": "una zona de la vía reservada sólo a turismos y autobuses.",
+            "2": "un carril reservado para la circulación de autobuses.",
+            "3": "un carril destinado al estacionamiento de autobuses."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Qué indica la marca de color blanco de la derecha?",
+        "respuestas": {
+            "1": "La existencia de un carril reservado exclusivamente para los autobuses.",
+            "2": "El comienzo de un carril reservado para determinados vehículos.",
+            "3": "El final de un carril reservado para determinados vehículos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "En esta zona cebreada, ¿pueden los conductores circular o pararse sobre ella?",
+        "respuestas": {
+            "1": "No, no pueden circular ni pararse sobre ella.",
+            "2": "Pararse si pueden, pero circular está prohibido.",
+            "3": "Sí, todos los conductores pueden tanto pararse como circular sobre ella."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Si conduce un ciclomotor, ¿le está permitido circular por este cebreado?",
+        "respuestas": {
+            "1": "Sí, porque está obligado a circular por el arcén.",
+            "2": "No, ningún vehículo puede circular por el cebreado.",
+            "3": "Sólo cuando la vía esté saturada."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "Al incorporarse a una autopista, ¿puede pisar la zona de cebreado?",
+        "respuestas": {
+            "1": "Sí, si ya he alcanzado en ese punto la velocidad adecuada para incorporarme a la circulación.",
+            "2": "Sí, para acortar la duración de la maniobra.",
+            "3": "No, está prohibido."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "A la vista de la señalizacion existente en la calzada, ¿puede realizar una parada?",
+        "respuestas": {
+            "1": "No, está prohibido parar y estacionar.",
+            "2": "Sí, está permitido parar, pero no estacionar.",
+            "3": "Sí, está permitido parar y estacionar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "Esta marca amarilla prohíbe...",
+        "respuestas": {
+            "1": "únicamente estacionar.",
+            "2": "parar y estacionar.",
+            "3": "únicamente parar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Si inmoviliza el vehículo junto al borde de esta calzada, ¿incumple alguna norma de circulación?",
+        "respuestas": {
+            "1": "Sí, porque es una zona de carga y descarga y está prohibido cualquier tipo de inmovilización.",
+            "2": "No, ya que esta marca vial no prohíbe parar ni estacionar.",
+            "3": "No, si es para efectuar una parada."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "La marca vial amarilla discontinua, ¿qué prohíbe?",
+        "respuestas": {
+            "1": "Parar y estacionar.",
+            "2": "Estacionar.",
+            "3": "Parar."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "La marca amarilla continua...",
+        "respuestas": {
+            "1": "indica una zona donde la duración del estacionamiento está limitada.",
+            "2": "indica una zona reservada para un uso especial, donde sólo puedo parar.",
+            "3": "indica la zona de la vía donde está prohibido parar y estacionar."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]

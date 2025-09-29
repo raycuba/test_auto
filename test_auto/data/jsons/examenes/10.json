@@ -1,0 +1,332 @@
+[
+    {
+        "numeroPregunta": 1,
+        "pregunta": "En autopistas y autovías, como norma general, ¿es obligatorio circular por el carril derecho?",
+        "respuestas": {
+            "1": "No, porque disponen de más de un carril para cada sentido.",
+            "2": "En las autopistas sí, en las autovías, no.",
+            "3": "Sí, en ambas vías."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 2,
+        "pregunta": "La amortiguación en malas condiciones hace que, en las curvas, el vehículo...",
+        "respuestas": {
+            "1": "pierda estabilidad.",
+            "2": "tienda a seguir recto.",
+            "3": "se desvíe siempre hacia el lado izquierdo en el sentido de la marcha."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 3,
+        "pregunta": "De las indicaciones que realiza este conductor, ¿a cuál debe atender?",
+        "respuestas": {
+            "1": "A ninguna, ya que indica que el vehículo está averiado.",
+            "2": "A la que realiza con el intermitente, porque va a cambiar de carril.",
+            "3": "A la que realiza con el brazo."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 4,
+        "pregunta": "Este tractor de 3.500 kilogramos de MMA, ¿circula correctamente por el arcén?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, debe circular por el carril derecho.",
+            "3": "Sí, pero solo si está averiado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 5,
+        "pregunta": "Un furgón, ¿puede utilizar un carril reversible?",
+        "respuestas": {
+            "1": "Sólo cuando su masa máxima autorizada no sea superior a 3.500 Kilogramos.",
+            "2": "No.",
+            "3": "Sí."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 6,
+        "pregunta": "En un vehículo mixto adaptable, ¿es obligatorio llevar un chaleco reflectante?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No, pero es recomendable.",
+            "3": "Sólo cuando se destine al transporte de personas y no de mercancías."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 7,
+        "pregunta": "El conductor debe...",
+        "respuestas": {
+            "1": "mirar siempre hacia delante.",
+            "2": "observar constantemente lo que sucede en la vía.",
+            "3": "observar únicamente a los conductores que se aproximan por detrás."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 8,
+        "pregunta": "Las señales y placas de la parte trasera del camión, ¿qué indican?",
+        "respuestas": {
+            "1": "Que transporta productos alimenticios.",
+            "2": "Que transporta mercancías peligrosas y que mide más de 12 metros.",
+            "3": "Que su peso y dimensiones son mayores que los normales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 9,
+        "pregunta": "En una vía interurbana, el conductor de un ciclomotor, ¿puede adelantar a un tractor agrícola que circula por el arcén?",
+        "respuestas": {
+            "1": "Sí, en todo caso.",
+            "2": "No, los vehículos que circulan por el arcén no se pueden adelantar.",
+            "3": "Solo si el recorrido en paralelo no supera los 200 metros o los 15 segundos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 10,
+        "pregunta": "El permiso de conducción de la clase A1, ¿autoriza a conducir motocicletas con sidecar?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No.",
+            "3": "Sí, si tiene una antigüedad de 2 años."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 11,
+        "pregunta": "En un vehículo de 5 plazas incluido el conductor, ¿cuántos menores de edad de estatura igual o inferior a 135 centímetros pueden viajar como máximo?",
+        "respuestas": {
+            "1": "3 ya que en ningún caso pueden ocupar el asiento delantero.",
+            "2": "4 siempre que todos utilicen un sistema de retención infantil.",
+            "3": "6 aunque alguno de ellos no utilice un sistema de retención infantil."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 12,
+        "pregunta": "¿Cuándo se deben cambiar las escobillas del limpiaparabrisas?",
+        "respuestas": {
+            "1": "Cada dos años obligatoriamente.",
+            "2": "Cuando las gomas estén dañadas.",
+            "3": "Siempre antes de pasar la inspección técnica del vehículo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 13,
+        "pregunta": "En general, la fatiga produce en el conductor...",
+        "respuestas": {
+            "1": "un aumento de la agudeza visual.",
+            "2": "un aumento de la sensibilidad auditiva.",
+            "3": "visión borrosa y dificultad para enfocar objetos."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 14,
+        "pregunta": "Circula con un turismo que arrastra un remolque de menos de 750 kg de MMA en el que transporta mercancías. En cuanto a la distribución de la carga, ¿debe tomar precauciones especiales?",
+        "respuestas": {
+            "1": "Sí, la carga debe estar bien distribuida e ir bien sujeta para evitar que se desplace y pueda llegar a desestabilizar al vehículo.",
+            "2": "No, salvo que supere la masa máxima autorizada del remolque.",
+            "3": "Sí, debe situarse en la parte trasera del remolque para bajar el centro de gravedad y asegurar la estabilidad del vehículo."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 15,
+        "pregunta": "¿De qué peligro advierte esta señal?",
+        "respuestas": {
+            "1": "De la proximidad de un resalto en la vía.",
+            "2": "De la proximidad de un badén en la vía.",
+            "3": "De la proximidad de una zona en la que el pavimento está en mal estado."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 16,
+        "pregunta": "Si un conductor novel presenta una tasa de alcohol en aire espirado de 0,20 miligramos por litro, el agente de tráfico, ¿le realizará una segunda prueba de alcoholemia?",
+        "respuestas": {
+            "1": "No, para ello debe tener una tasa superior a 0,25 miligramos por litro.",
+            "2": "Sólo si está implicado directamente en un accidente de circulación.",
+            "3": "Sí, para una mayor garantía y a efectos de contraste."
+        },
+        "respuestaCorrecta": 3,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 17,
+        "pregunta": "Esta señal preseñaliza una...",
+        "respuestas": {
+            "1": "vía cerrada a la circulación.",
+            "2": "calzada sin salida.",
+            "3": "vía de sentido único."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 18,
+        "pregunta": "El conductor de este vehículo de tres ruedas provisto de estructura de autoprotección y cinturones de seguridad, conforme a su tarjeta de inspección técnica, ¿debe utilizar casco?",
+        "respuestas": {
+            "1": "Sí, tanto en vías urbanas como en vías interurbanas.",
+            "2": "No, está exento.",
+            "3": "Sí, pero únicamente en carreteras convencionales."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 19,
+        "pregunta": "¿Cómo debe sentarse el pasajero de una motocicleta?",
+        "respuestas": {
+            "1": "De cualquier forma, siempre que vaya cómodo.",
+            "2": "A horcajadas y con los pies apoyados en los reposapiés laterales.",
+            "3": "A horcajadas entre la persona que conduce y el manillar de dirección."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 20,
+        "pregunta": "Esta señal indica el lugar desde donde deja de ser aplicable una anterior señal de...",
+        "respuestas": {
+            "1": "prohibición de adelantamiento.",
+            "2": "velocidad mínima.",
+            "3": "velocidad máxima."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 21,
+        "pregunta": "Ante un motorista accidentado con una hemorragia por la nariz, la actuación correcta es...",
+        "respuestas": {
+            "1": "no realizarle nunca taponamientos.",
+            "2": "retirarle el casco para realizarle un taponamiento.",
+            "3": "colocarle boca arriba para que deje de sangrar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 22,
+        "pregunta": "¿Cuántos espejos retrovisores debe llevar un ciclomotor de dos ruedas?",
+        "respuestas": {
+            "1": "Al menos dos, uno en el lado izquierdo y otro en el derecho.",
+            "2": "Al menos uno en lado izquierdo y opcionalmente otro en el derecho.",
+            "3": "Al menos uno en lado derecho y opcionalmente otro en el izquierdo."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 23,
+        "pregunta": "Al cruzar un arcén por el que circulan peatones en una zona en la que no existe zona peatonal, ¿qué debe hacer?",
+        "respuestas": {
+            "1": "Ceder el paso a los peatones, pues tienen preferencia.",
+            "2": "Avisar a los peatones de su presencia con señales acústicas.",
+            "3": "Continuar circulando, ya que tiene preferencia de paso."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 24,
+        "pregunta": "Para no deslumbrar a otros usuarios deberá...",
+        "respuestas": {
+            "1": "utilizar siempre el alumbrado de largo alcance.",
+            "2": "aumentar la velocidad.",
+            "3": "cambiar el alumbrado de largo por el de corto alcance."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 25,
+        "pregunta": "En un cambio de rasante, ¿está permitido parar o estacionar?",
+        "respuestas": {
+            "1": "Sí, salvo que tenga visibilidad reducida.",
+            "2": "No, en ningún caso.",
+            "3": "Está permitido parar, pero no estacionar."
+        },
+        "respuestaCorrecta": 1,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 26,
+        "pregunta": "Para adelantar a este vehículo...",
+        "respuestas": {
+            "1": "no deben tomarse precauciones especiales.",
+            "2": "es obligatorio esperar a un tramo en el que la calzada esté seca.",
+            "3": "debe tenerse especial cuidado, pues las salpicaduras pueden impedir la visibilidad."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 27,
+        "pregunta": "¿Está permitido estacionar en doble fila?",
+        "respuestas": {
+            "1": "Sí, siempre que el conductor no abandone el vehículo.",
+            "2": "No, en ningún caso.",
+            "3": "Solo cuando la duración del estacionamiento sea inferior a dos minutos."
+        },
+        "respuestaCorrecta": 2,
+        "practica": true
+    },
+    {
+        "numeroPregunta": 28,
+        "pregunta": "Los chalecos reflectantes de alta visibilidad, ¿deben estar homologados?",
+        "respuestas": {
+            "1": "Sí.",
+            "2": "No es obligatorio, pero sí recomendable.",
+            "3": "Solo si son de color naranja; los amarillos no necesitan estar homologados."
+        },
+        "respuestaCorrecta": 1,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 29,
+        "pregunta": "Como norma general, el consumo de alcohol, ¿influye en la distancia de reacción?",
+        "respuestas": {
+            "1": "No, sólo influye en la distancia de frenado.",
+            "2": "Sí, porque afecta al tiempo de reacción.",
+            "3": "Sólo si la tasa de alcohol supera a la máxima permitida para poder conducir."
+        },
+        "respuestaCorrecta": 2,
+        "practica": false
+    },
+    {
+        "numeroPregunta": 30,
+        "pregunta": "¿Debe detenerse ante estas marcas viales?",
+        "respuestas": {
+            "1": "Sí, siempre, para ceder el paso.",
+            "2": "No, ya que no es un paso para peatones ni una marca de detención.",
+            "3": "Sí, cuando pase algún ciclista, porque tiene prioridad de paso."
+        },
+        "respuestaCorrecta": 3,
+        "practica": true
+    }
+]
