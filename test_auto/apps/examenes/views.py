@@ -109,7 +109,7 @@ def pregunta_view(request, examen, numero):
     numeroPreguntaSiguiente = None
 
     try:
-        if numero == -1:
+        if numero == 0:
             pregunta = preguntas[0]  # Primera pregunta
         else:
             #buscar la pregunta con numeroPregunta == numero

@@ -22,7 +22,7 @@
 
         {% for examen in examenes %}
         <div class="col-12 col-md-3">
-            <a href="{% url 'examenes:pregunta_view' examen.name 1 %}" class="btn 
+            <a href="{% url 'examenes:pregunta_view' examen.name 0 %}" class="btn 
                 {% if examen.estado == 'aprobado' %}
                     btn-primary bg-aprobado 
                 {% elif examen.estado == 'desaprobado' %}
