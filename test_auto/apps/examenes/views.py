@@ -4,6 +4,8 @@ from test_auto.settings import JSONS_DATA_PATH
 from pathlib import Path
 import json
 from django.http import Http404
+from django.http import JsonResponse
+
 
 
 # Create your views here.
@@ -27,6 +29,12 @@ def pregunta_view(request, examen, numero):
 
     with open(ruta, encoding="utf-8") as f:
         preguntas = json.load(f)
+        
+    # Añadir a cada pregunta un campo imagen con el numero de la pregunta
+    preguntas = [{**p, "imagen": f"{i+1}.png"} for i, p in enumerate(preguntas)]
+        
+    # quitar los jsons que no tengan la clave "practica"= true
+    preguntas = [p for p in preguntas if p.get("practica", False)]
 
     try:
         pregunta = preguntas[numero]
@@ -41,5 +49,19 @@ def pregunta_view(request, examen, numero):
         "preselected": 1,
     }
     return render(request, "examenes/pregunta.html", contexto)
+
+
+def registrar_respuesta(request):
+    if request.method == "POST":
+        examen = request.POST.get("examen")
+        pregunta = request.POST.get("pregunta")
+        seleccionada = request.POST.get("seleccionada")
+        
+        # Aquí puedes guardar en sesión, base de datos, etc.
+        print(f"Examen: {examen}, Pregunta: {pregunta}, Seleccionada: {seleccionada}")
+        
+        return JsonResponse({"status": "ok", "examen": examen, "pregunta": pregunta, "seleccionada": seleccionada})
+    return JsonResponse({"error": "Método no permitido"}, status=405)
+
 
 
