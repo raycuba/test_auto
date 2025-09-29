@@ -94,16 +94,6 @@ def pregunta_view(request, examen, numero):
     
     respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
     cant_respuestas = respuestasExamen.count()
-    
-    # Verificar en la base de datos si hay una respuesta guardada para este examen y pregunta
-    # Si existe, preseleccionar la respuesta guardada
-    # Si no existe, preseleccionar 0
-    preselected = 0
-    try:
-        respuesta = RespuestaExamen.objects.get(examen=examen, pregunta_numero=numero)
-        preselected = respuesta.respuesta_seleccionada
-    except RespuestaExamen.DoesNotExist:
-        preselected = 0
         
     numeroPreguntaAnterior = None
     numeroPreguntaSiguiente = None
@@ -111,6 +101,7 @@ def pregunta_view(request, examen, numero):
     try:
         if numero == 0:
             pregunta = preguntas[0]  # Primera pregunta
+            numero = pregunta["numeroPregunta"]
         else:
             #buscar la pregunta con numeroPregunta == numero
             pregunta = next(p for p in preguntas if p["numeroPregunta"] == numero)
@@ -128,6 +119,16 @@ def pregunta_view(request, examen, numero):
         completado = total_preguntas == cant_respuestas
     else:
         completado = False
+        
+    # Verificar en la base de datos si hay una respuesta guardada para este examen y pregunta
+    # Si existe, preseleccionar la respuesta guardada
+    # Si no existe, preseleccionar 0
+    preselected = 0
+    try:
+        respuesta = RespuestaExamen.objects.get(examen=examen, pregunta_numero=numero)
+        preselected = respuesta.respuesta_seleccionada
+    except RespuestaExamen.DoesNotExist:
+        preselected = 0
 
     contexto = {
         "pregunta": pregunta,
@@ -142,6 +143,8 @@ def pregunta_view(request, examen, numero):
         "cant_respuestas": cant_respuestas,
         "completado": completado,
     }
+    print(f"contexto: {contexto}")
+    
     return render(request, "examenes/pregunta.html", contexto)
 
 
