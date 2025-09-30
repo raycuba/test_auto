@@ -1,6 +1,6 @@
 {% extends "base/base.html" %}
 
-{% block title %}Examenes - Auto Escuela{% endblock %}
+{% block title %}Tests - Auto Escuela{% endblock %}
 
 {% block content %}
 <style>
@@ -17,7 +17,7 @@
 
 <div class="container">
 
-    <div class="row">
+     <div class="row">
         <div class="col-md-10">
         </div>
         <div class="col-md-2 text-md-end">
@@ -25,25 +25,25 @@
         </div>
     </div>
 
-    <h1 class="text-center display-3 mb-5">Exámenes</h1>
+    <h1 class="text-center display-3 mb-5">Tests</h1>
 
     <div class="row g-3">
 
-        {% for examen in examenes %}
+        {% for test in tests %}
         <div class="col-12 col-md-3">
-            <a href="{% url 'examenes:pregunta_view' examen.name 0 %}" class="btn 
-                {% if examen.estado == 'aprobado' %}
+            <a href="{% url 'tests:pregunta_view' test.name 0 %}" class="btn 
+                {% if test.estado == 'aprobado' %}
                     btn-primary bg-aprobado 
-                {% elif examen.estado == 'desaprobado' %}
+                {% elif test.estado == 'desaprobado' %}
                     btn-danger bg-reprobado
-                {% elif examen.estado == 'incompleto' %}
+                {% elif test.estado == 'incompleto' %}
                     btn-warning bg-parcial
-                {% elif examen.estado == 'no_disponible' %}
+                {% elif test.estado == 'no_disponible' %}
                     btn-secondary bg-no-disponible disabled
                 {% else %}
                     btn-secondary
                 {% endif %} 
-            menu-button">{{ examen.name }}</a>
+            menu-button">{{ test.name }}</a>
         </div>
         {% endfor %}
     </div>

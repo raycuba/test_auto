@@ -71,7 +71,9 @@ def list(request):
             if respuesta and str(respuesta.respuesta_seleccionada) != str(pregunta["respuestaCorrecta"]):
                 incorrectas += 1
         
-        if cant_respuestas == 0:
+        if cant_preguntas == 0:
+            examen['estado'] = 'no_disponible'
+        elif cant_respuestas == 0:
             examen['estado'] = 'sin_hacer'
         elif cant_respuestas < cant_preguntas:
             examen['estado'] = 'incompleto'
@@ -181,6 +183,7 @@ def registrar_respuesta(request):
 
         return JsonResponse({"status": "ok", "examen": examen, "pregunta": pregunta, "seleccionada": seleccionada, "completado": completado})
     return JsonResponse({"error": "Método no permitido"}, status=405)
+
 
 def clean_respuestas(request, examen):
     """
