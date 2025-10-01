@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from test_auto.settings import JSONS_DATA_PATH
+from config.base import JSONS_DATA_PATH
 from pathlib import Path
 import json
 from django.http import Http404
