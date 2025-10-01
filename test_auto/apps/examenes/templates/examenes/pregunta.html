@@ -19,15 +19,32 @@
     <div class="row">
         <div class="col-md-8">
         </div>
-        <div class="col-md-2 text-md-end">
-            <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
-        </div>
-        <div class="col-md-2 text-md-end">
-            <a href="{% url 'examenes:clean_respuestas' examen=examen %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
+        <div class="col-md-4 text-md-end">
+
+            <!-- Botones normales para pantallas medianas en adelante -->
+            <div class="d-none d-md-inline">
+                <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
+                <a href="{% url 'examenes:clean_respuestas' examen=examen %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
+            </div>
+
+            <!-- Menú desplegable tipo "hamburger" para pantallas pequeñas -->
+            <div class="dropdown d-md-none text-end">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="menuBotones" data-bs-toggle="dropdown" aria-expanded="false">
+                    <!-- Hamburger icon -->
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="menuBotones">
+                    <li><a class="dropdown-item" href="{% url 'examenes:list' %}">Volver a Exámenes</a></li>
+                    <li><a class="dropdown-item" href="{% url 'examenes:clean_respuestas' examen=examen %}">Limpiar Respuestas</a></li>
+                </ul>
+            </div>
+
         </div>
     </div>
 
-    <div class="row">
+    <hr>
+
+    <div class="row" id="tituloexamen">
         <h2 class="mb-4">Exámen {{ examen }} - Pregunta {{ indice|add:1 }} de {{ total }}</h2>
     </div>
 
@@ -48,14 +65,14 @@
         </div>
     </div>
 
-    <div class="d-flex justify-content-between mt-4">
+    <div class="d-flex justify-content-between mt-4" id="desplazamientoexamen">
         {% if numeroPreguntaAnterior != None %}
-            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaAnterior %}" class="btn btn-secondary">Anterior</a>
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaAnterior %}#tituloexamen" class="btn btn-secondary">Anterior</a>
         {% else %}
             <span></span>
         {% endif %}
         {% if numeroPreguntaSiguiente != None %}
-            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaSiguiente %}" class="btn btn-primary">Próxima</a>
+            <a href="{% url 'examenes:pregunta_view' examen=examen numero=numeroPreguntaSiguiente %}#tituloexamen" class="btn btn-primary">Próxima</a>
         {% elif completado %}
             <a href="{% url 'examenes:resultado_view' examen=examen %}" class="btn btn-success">Resultados</a>
         {% else %}
@@ -108,6 +125,9 @@
                     resultadoBtn.classList.remove('d-none');
                 }
             });
+
+            // Desplazarse al div con id="desplazamientoexamen"
+            document.getElementById('desplazamientoexamen').scrollIntoView({ behavior: 'smooth' });
         });
 
         // Activar automáticamente si coincide con preselected

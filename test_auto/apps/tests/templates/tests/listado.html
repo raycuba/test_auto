@@ -17,11 +17,26 @@
 
 <div class="container">
 
-     <div class="row">
+    <div class="row">
         <div class="col-md-10">
         </div>
         <div class="col-md-2 text-md-end">
-            <a href="{% url 'home:home' %}" class="btn btn-outline-secondary">Volver al Menú</a>
+
+            <!-- Botón normal para pantallas medianas en adelante -->
+            <div class="d-none d-md-inline">
+                <a href="{% url 'home:home' %}" class="btn btn-outline-secondary">Volver al Menú</a>
+            </div>
+
+            <!-- Menú tipo hamburger para pantallas pequeñas -->
+            <div class="dropdown d-md-none text-end">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="menuBotonPequeno" data-bs-toggle="dropdown" aria-expanded="false">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="menuBotonPequeno">
+                    <li><a class="dropdown-item" href="{% url 'home:home' %}">Volver al Menú</a></li>
+                </ul>
+            </div>
+
         </div>
     </div>
 
@@ -31,7 +46,7 @@
 
         {% for test in tests %}
         <div class="col-12 col-md-3">
-            <a href="{% url 'tests:pregunta_view' test.name 0 %}" class="btn 
+            <a href="{% url 'tests:pregunta_view' test.name 0 %}#titulotest" class="btn 
                 {% if test.estado == 'aprobado' %}
                     btn-primary bg-aprobado 
                 {% elif test.estado == 'desaprobado' %}

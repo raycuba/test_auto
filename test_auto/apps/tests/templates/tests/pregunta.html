@@ -19,15 +19,32 @@
     <div class="row">
         <div class="col-md-8">
         </div>
-        <div class="col-md-2 text-md-end">
-            <a href="{% url 'tests:list' %}" class="btn btn-outline-secondary">Volver a Tests</a>
-        </div>
-        <div class="col-md-2 text-md-end">
-            <a href="{% url 'tests:clean_respuestas' test=test %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
+        <div class="col-md-4 text-md-end">
+
+            <!-- Botones normales para pantallas medianas en adelante -->
+            <div class="d-none d-md-inline">
+                <a href="{% url 'tests:list' %}" class="btn btn-outline-secondary">Volver a Tests</a>
+                <a href="{% url 'tests:clean_respuestas' test=test %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
+            </div>
+
+            <!-- Menú desplegable tipo "hamburger" para pantallas pequeñas -->
+            <div class="dropdown d-md-none text-end">
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="menuBotones" data-bs-toggle="dropdown" aria-expanded="false">
+                    <!-- Hamburger icon -->
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="menuBotones">
+                    <li><a class="dropdown-item" href="{% url 'tests:list' %}">Volver a Tests</a></li>
+                    <li><a class="dropdown-item" href="{% url 'tests:clean_respuestas' test=test %}">Limpiar Respuestas</a></li>
+                </ul>
+            </div>
+
         </div>
     </div>
 
-    <div class="row">
+    <hr>
+
+    <div class="row" id="titulotest">
         <h2 class="mb-4">Test {{ test }} - Pregunta {{ indice|add:1 }} de {{ total }}</h2>
     </div>
 
@@ -48,14 +65,14 @@
         </div>
     </div>
 
-    <div class="d-flex justify-content-between mt-4">
+    <div class="d-flex justify-content-between mt-4" id="desplazamientotest">
         {% if numeroPreguntaAnterior != None %}
-            <a href="{% url 'tests:pregunta_view' test=test numero=numeroPreguntaAnterior %}" class="btn btn-secondary">Anterior</a>
+            <a href="{% url 'tests:pregunta_view' test=test numero=numeroPreguntaAnterior %}#titulotest" class="btn btn-secondary">Anterior</a>
         {% else %}
             <span></span>
         {% endif %}
         {% if numeroPreguntaSiguiente != None %}
-            <a href="{% url 'tests:pregunta_view' test=test numero=numeroPreguntaSiguiente %}" class="btn btn-primary">Próxima</a>
+            <a href="{% url 'tests:pregunta_view' test=test numero=numeroPreguntaSiguiente %}#titulotest" class="btn btn-primary">Próxima</a>
         {% elif completado %}
             <a href="{% url 'tests:resultado_view' test=test %}" class="btn btn-success">Resultados</a>
         {% else %}
