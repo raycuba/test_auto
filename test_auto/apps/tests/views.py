@@ -44,6 +44,9 @@ def load_preguntas(test) -> list:
 
 @login_required
 def list(request):
+    # usuario logueado
+    logged_user = request.user
+    
     # listar los archivos JSON en el directorio especificado JSONS_DATA_PATH / tests ordenados por nombre
     tests_dir = JSONS_DATA_PATH / "tests"
     tests_files = sorted(tests_dir.glob("*.json"), key=lambda f: f.name)
@@ -63,7 +66,7 @@ def list(request):
         cant_preguntas = len(preguntas)
         
         # obtener las respuestas del test de la base de datos
-        respuestasTest = RespuestaTest.objects.filter(test=test_file.name)
+        respuestasTest = RespuestaTest.objects.filter(user=logged_user, test=test_file.name)
         cant_respuestas = respuestasTest.count()
 
         incorrectas = 0
@@ -91,13 +94,13 @@ def list(request):
 
 @login_required
 def pregunta_view(request, test, numero):
-    print(f"Ver Pregunta. Test: {test}, Pregunta: {numero}")
+    # usuario logueado
+    logged_user = request.user
     
     preguntas = load_preguntas(test)
     total_preguntas = len(preguntas)
-    print(f"Preguntas cargadas: {total_preguntas}")
-    
-    respuestasTest = RespuestaTest.objects.filter(test=test)
+
+    respuestasTest = RespuestaTest.objects.filter(user=logged_user, test=test)
     cant_respuestas = respuestasTest.count()
         
     numeroPreguntaAnterior = None
@@ -130,7 +133,7 @@ def pregunta_view(request, test, numero):
     # Si no existe, preseleccionar 0
     preselected = 0
     try:
-        respuesta = RespuestaTest.objects.get(test=test, pregunta_numero=numero)
+        respuesta = RespuestaTest.objects.get(user=logged_user, test=test, pregunta_numero=numero)
         preselected = respuesta.respuesta_seleccionada
     except RespuestaTest.DoesNotExist:
         preselected = 0
@@ -155,6 +158,9 @@ def pregunta_view(request, test, numero):
 
 @login_required
 def registrar_respuesta(request):
+    # usuario logueado
+    logged_user = request.user
+    
     if request.method == "POST":
         test = request.POST.get("test")
         pregunta = request.POST.get("pregunta")
@@ -166,11 +172,12 @@ def registrar_respuesta(request):
         # Guardar la respuesta en la base de datos
         # buscar si ya existe una respuesta para este test y pregunta
         try:
-            respuesta = RespuestaTest.objects.get(test=test, pregunta_numero=pregunta)
+            respuesta = RespuestaTest.objects.get(user=logged_user, test=test, pregunta_numero=pregunta)
             respuesta.respuesta_seleccionada = seleccionada
             respuesta.save()
         except RespuestaTest.DoesNotExist:
             respuesta = RespuestaTest(
+                user=logged_user,
                 test=test,
                 pregunta_numero=pregunta,
                 respuesta_seleccionada=seleccionada
@@ -179,8 +186,8 @@ def registrar_respuesta(request):
             
         preguntas = load_preguntas(test)
         total_preguntas = len(preguntas)
-        
-        respuestasTest = RespuestaTest.objects.filter(test=test)
+
+        respuestasTest = RespuestaTest.objects.filter(user=logged_user, test=test)
         cant_respuestas = respuestasTest.count()
         
         completado = total_preguntas == cant_respuestas
@@ -195,9 +202,11 @@ def clean_respuestas(request, test):
     Elimina todas las respuestas guardadas en la base de datos.
     y redirige a la vista a la pregunta 0 del test "test"
     """
+    # usuario logueado
+    logged_user = request.user
     
     # Eliminar todas las respuestas del test especificado
-    RespuestaTest.objects.filter(test=test).delete()
+    RespuestaTest.objects.filter(user=logged_user, test=test).delete()
 
     return redirect('tests:pregunta_view', test=test, numero=1) # Redirigir a la pregunta 1 del test "test"
 
@@ -207,10 +216,13 @@ def resultado_view(request, test):
     """
     Muestra el resultado del test.
     """
+    # usuario logueado
+    logged_user = request.user
+    
     preguntas = load_preguntas(test)
     total_preguntas = len(preguntas)
-    
-    respuestasTest = RespuestaTest.objects.filter(test=test)
+
+    respuestasTest = RespuestaTest.objects.filter(user=logged_user, test=test)
     cant_respuestas = respuestasTest.count()
     
     correctas = 0

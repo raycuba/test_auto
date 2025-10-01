@@ -44,6 +44,9 @@ def load_preguntas(examen) -> list:
 
 @login_required
 def list(request):
+    # usuario logueado
+    logged_user = request.user
+    
     # listar los archivos JSON en el directorio especificado JSONS_DATA_PATH / examenes ordenados por nombre
     examenes_dir = JSONS_DATA_PATH / "examenes"
     examenes_files = sorted(examenes_dir.glob("*.json"), key=lambda f: f.name)
@@ -63,7 +66,7 @@ def list(request):
         cant_preguntas = len(preguntas)
         
         # obtener las respuestas del examen de la base de datos
-        respuestasExamen = RespuestaExamen.objects.filter(examen=examen_file.name)
+        respuestasExamen = RespuestaExamen.objects.filter(user=logged_user, examen=examen_file.name)
         cant_respuestas = respuestasExamen.count()
 
         incorrectas = 0
@@ -91,12 +94,13 @@ def list(request):
 
 @login_required
 def pregunta_view(request, examen, numero):
-    print(f"Ver Pregunta. Examen: {examen}, Pregunta: {numero}")
-    
+    # usuario logueado
+    logged_user = request.user
+
     preguntas = load_preguntas(examen)
     total_preguntas = len(preguntas)
-    
-    respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+
+    respuestasExamen = RespuestaExamen.objects.filter(user=logged_user, examen=examen)
     cant_respuestas = respuestasExamen.count()
         
     numeroPreguntaAnterior = None
@@ -129,7 +133,7 @@ def pregunta_view(request, examen, numero):
     # Si no existe, preseleccionar 0
     preselected = 0
     try:
-        respuesta = RespuestaExamen.objects.get(examen=examen, pregunta_numero=numero)
+        respuesta = RespuestaExamen.objects.get(user=logged_user, examen=examen, pregunta_numero=numero)
         preselected = respuesta.respuesta_seleccionada
     except RespuestaExamen.DoesNotExist:
         preselected = 0
@@ -154,6 +158,9 @@ def pregunta_view(request, examen, numero):
 
 @login_required
 def registrar_respuesta(request):
+    # usuario logueado
+    logged_user = request.user
+    
     if request.method == "POST":
         examen = request.POST.get("examen")
         pregunta = request.POST.get("pregunta")
@@ -165,11 +172,12 @@ def registrar_respuesta(request):
         # Guardar la respuesta en la base de datos
         # buscar si ya existe una respuesta para este examen y pregunta
         try:
-            respuesta = RespuestaExamen.objects.get(examen=examen, pregunta_numero=pregunta)
+            respuesta = RespuestaExamen.objects.get(user=logged_user, examen=examen, pregunta_numero=pregunta)
             respuesta.respuesta_seleccionada = seleccionada
             respuesta.save()
         except RespuestaExamen.DoesNotExist:
             respuesta = RespuestaExamen(
+                user=logged_user,
                 examen=examen,
                 pregunta_numero=pregunta,
                 respuesta_seleccionada=seleccionada
@@ -178,8 +186,8 @@ def registrar_respuesta(request):
             
         preguntas = load_preguntas(examen)
         total_preguntas = len(preguntas)
-        
-        respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+
+        respuestasExamen = RespuestaExamen.objects.filter(user=logged_user, examen=examen)
         cant_respuestas = respuestasExamen.count()
         
         completado = total_preguntas == cant_respuestas
@@ -195,8 +203,11 @@ def clean_respuestas(request, examen):
     y redirige a la vista a la pregunta 0 del examen "test"
     """
     
+    # usuario logueado
+    logged_user = request.user
+    
     # Eliminar todas las respuestas del examen especificado
-    RespuestaExamen.objects.filter(examen=examen).delete()
+    RespuestaExamen.objects.filter(user=logged_user, examen=examen).delete()
 
     return redirect('examenes:pregunta_view', examen=examen, numero=1) # Redirigir a la pregunta 1 del examen "test"
 
@@ -206,10 +217,13 @@ def resultado_view(request, examen):
     """
     Muestra el resultado del examen.
     """
+    # usuario logueado
+    logged_user = request.user
+    
     preguntas = load_preguntas(examen)
     total_preguntas = len(preguntas)
-    
-    respuestasExamen = RespuestaExamen.objects.filter(examen=examen)
+
+    respuestasExamen = RespuestaExamen.objects.filter(user=logged_user, examen=examen)
     cant_respuestas = respuestasExamen.count()
     
     correctas = 0

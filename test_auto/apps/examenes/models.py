@@ -3,6 +3,7 @@ from django.db import models
 # Create your models here.
 
 class RespuestaExamen(models.Model):
+    user = models.ForeignKey('auth.User', on_delete=models.CASCADE, null=True)    
     examen = models.CharField(max_length=100)
     pregunta_numero = models.IntegerField()
     respuesta_seleccionada = models.CharField(max_length=100)

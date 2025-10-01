@@ -5,5 +5,5 @@ from .models import RespuestaExamen
 
 @admin.register(RespuestaExamen)
 class RespuestaExamenAdmin(admin.ModelAdmin):
-    list_display = ('examen', 'pregunta_numero', 'respuesta_seleccionada')
+    list_display = ('user', 'examen', 'pregunta_numero', 'respuesta_seleccionada')
     search_fields = ('examen',)
