@@ -19,18 +19,6 @@
 {% endcomment %}
 
 <div class="container mt-5">
-
-    <div class="row">
-        <div class="col-md-10">
-        </div>
-        <div class="col-md-2 text-md-end">
-            <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
-        </div>
-    </div>
-
-</div>
-
-<div class="container mt-5">
     <div class="resultado-box 
         {% if aprobada %}
             bg-aprobado
@@ -55,5 +43,17 @@
             {% endif %}
         </h4>
     </div>
+</div>
+
+<div class="container mt-5">
+
+    <div class="row">
+        <div class="col-md-10">
+        </div>
+        <div class="col-md-2 text-md-end">
+            <a href="{% url 'examenes:list' %}" class="btn btn-primary">Volver</a>
+        </div>
+    </div>
+
 </div>
 {% endblock %}
