@@ -125,6 +125,10 @@
                     resultadoBtn.classList.remove('d-none');
                 }
             });
+
+            // Desplazarse al div con id="desplazamientotest"
+            document.getElementById('desplazamientotest').scrollIntoView({ behavior: 'smooth' });
+
         });
 
         // Activar automáticamente si coincide con preselected
