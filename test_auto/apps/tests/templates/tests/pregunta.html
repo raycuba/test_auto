@@ -60,7 +60,26 @@
         </div>
         <div class="col-md-4 text-md-end">
             {% if pregunta.imagen %}
-            <img src="{% static 'tests/' %}{{ test }}/{{ pregunta.imagen }}" class="img-fluid my-3" alt="Imagen relacionada">
+                <!-- Imagen pequeña -->
+                <img src="{% static 'tests/' %}{{ test }}/{{ pregunta.imagen }}" 
+                    class="img-fluid my-3" 
+                    alt="Imagen relacionada" 
+                    style="cursor:pointer;" 
+                    data-bs-toggle="modal" 
+                    data-bs-target="#imagenModal">
+
+                <!-- Modal para mostrar la imagen grande -->
+                <div class="modal fade" id="imagenModal" tabindex="-1" aria-labelledby="imagenModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                    <div class="modal-body p-0">
+                        <img src="{% static 'tests/' %}{{ test }}/{{ pregunta.imagen }}" class="img-fluid" alt="Imagen relacionada">
+                    </div>
+                    </div>
+                </div>
+                </div>
+            {% else %}
+                <img src="{% static 'tests/no-image.png' %}" class="img-fluid my-3" alt="Sin imagen">
             {% endif %}
         </div>
     </div>
