@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'test_auto.apps.main',
     'test_auto.apps.examenes',
     'test_auto.apps.tests',
+    'test_auto.apps.accounts',
 ]
 
 MIDDLEWARE = [
@@ -153,3 +154,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # JSONs Data Path
 JSONS_DATA_PATH = BASE_DIR / "test_auto" / "data" / "jsons"
+
+# Custom User Model
+#AUTH_USER_MODEL = 'accounts.CustomUser'
+LOGIN_URL = 'login'
+LOGIN_REDIRECT_URL = 'home:home'
+LOGOUT_REDIRECT_URL = 'login'

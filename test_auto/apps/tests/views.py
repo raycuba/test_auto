@@ -7,7 +7,7 @@ from django.http import Http404
 from django.http import JsonResponse
 from .models import RespuestaTest
 from django.shortcuts import redirect
-
+from django.contrib.auth.decorators import login_required
 
 # Create your views here.
 
@@ -42,6 +42,7 @@ def load_preguntas(test) -> list:
     return preguntas
 
 
+@login_required
 def list(request):
     # listar los archivos JSON en el directorio especificado JSONS_DATA_PATH / tests ordenados por nombre
     tests_dir = JSONS_DATA_PATH / "tests"
@@ -88,6 +89,7 @@ def list(request):
     return render(request, 'tests/listado.html', {'tests': tests})
 
 
+@login_required
 def pregunta_view(request, test, numero):
     print(f"Ver Pregunta. Test: {test}, Pregunta: {numero}")
     
@@ -151,6 +153,7 @@ def pregunta_view(request, test, numero):
     return render(request, "tests/pregunta.html", contexto)
 
 
+@login_required
 def registrar_respuesta(request):
     if request.method == "POST":
         test = request.POST.get("test")
@@ -186,6 +189,7 @@ def registrar_respuesta(request):
     return JsonResponse({"error": "Método no permitido"}, status=405)
 
 
+@login_required
 def clean_respuestas(request, test):
     """
     Elimina todas las respuestas guardadas en la base de datos.
@@ -198,6 +202,7 @@ def clean_respuestas(request, test):
     return redirect('tests:pregunta_view', test=test, numero=1) # Redirigir a la pregunta 1 del test "test"
 
 
+@login_required
 def resultado_view(request, test):
     """
     Muestra el resultado del test.

@@ -13,6 +13,22 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="/">Auto Escuela</a>
         </div>
+
+        <div class="container-fluid">
+            <ul class="navbar-nav ms-auto">
+                {% if user.is_authenticated %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">{{ user.username }}</a>
+                    </li>
+                    <li class="nav-item">
+                        <form method="post" action="{% url 'logout' %}">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-link">Cerrar sesión</button>
+                        </form>
+                    </li>
+                {% endif %}
+            </ul>
+        </div>
     </nav>
 
     <main class="container py-5">
