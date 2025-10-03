@@ -9,10 +9,11 @@
         height: 100px;
         font-size: 1.8rem;
     }
-    .bg-aprobado { background-color: #28a745; }     /* verde */
+    .bg-excelente { background-color: #28a745; } /* verde */
+    .bg-aprobado { background-color: #ffc107; }     /* amarillo */
     .bg-reprobado { background-color: #dc3545; }     /* rojo */
-    .bg-parcial   { background-color: #ffc107; }     /* amarillo */
-    .bg-no-disponible { background-color: #6c757d; } /* gris */
+    .bg-parcial   { background-color: #007bff; }     /* azul */
+    .bg-no-disponible { background-color: #6c757d; } /* gris */    
 </style>
 
 <div class="container">
@@ -45,21 +46,25 @@
     <div class="row g-3">
 
         {% for examen in examenes %}
-        <div class="col-12 col-md-3">
-            <a href="{% url 'examenes:pregunta_view' examen.name 0 %}#tituloexamen" class="btn 
-                {% if examen.estado == 'aprobado' %}
-                    btn-primary bg-aprobado 
-                {% elif examen.estado == 'desaprobado' %}
-                    btn-danger bg-reprobado
-                {% elif examen.estado == 'incompleto' %}
-                    btn-warning bg-parcial
-                {% elif examen.estado == 'no_disponible' %}
-                    btn-secondary bg-no-disponible disabled
-                {% else %}
-                    btn-secondary
-                {% endif %} 
-            menu-button">{{ examen.name }}</a>
-        </div>
+            {% if examen.estado != 'no_disponible' %}
+                <div class="col-12 col-md-3">
+                    <a href="{% url 'examenes:pregunta_view' examen.name 0 %}#tituloexamen" class="btn 
+                        {% if examen.estado == 'excelente' %}
+                            btn-primary bg-excelente                 
+                        {% elif examen.estado == 'aprobado' %}
+                            btn-primary bg-aprobado 
+                        {% elif examen.estado == 'reprobado' %}
+                            btn-danger bg-reprobado
+                        {% elif examen.estado == 'parcial' %}
+                            btn-warning bg-parcial
+                        {% elif examen.estado == 'no_disponible' %}
+                            btn-secondary bg-no-disponible disabled
+                        {% else %}
+                            btn-secondary
+                        {% endif %} 
+                    menu-button">{{ examen.name }}</a>
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 

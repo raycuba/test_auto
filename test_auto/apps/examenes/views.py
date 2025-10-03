@@ -80,10 +80,12 @@ def list(request):
         elif cant_respuestas == 0:
             examen['estado'] = 'sin_hacer'
         elif cant_respuestas < cant_preguntas:
-            examen['estado'] = 'incompleto'
+            examen['estado'] = 'parcial'
         else:
             if incorrectas > 3:
-                examen['estado'] = 'desaprobado'
+                examen['estado'] = 'reprobado'
+            elif incorrectas == 0:
+                examen['estado'] = 'excelente'
             else:
                 examen['estado'] = 'aprobado'
                 
@@ -237,7 +239,14 @@ def resultado_view(request, examen):
             else:
                 incorrectas += 1
     
-    aprobada = incorrectas <= 3 and cant_respuestas == total_preguntas
+    if cant_respuestas != total_preguntas:
+        estado = 'parcial'
+    elif incorrectas > 3:
+        estado = 'reprobado'
+    elif incorrectas == 0:
+        estado = 'excelente'
+    else:
+        estado = 'aprobado'
     
     contexto = {
         "examen": examen,
@@ -245,7 +254,7 @@ def resultado_view(request, examen):
         "cant_respuestas": cant_respuestas,
         "correctas": correctas,
         "incorrectas": incorrectas,
-        "aprobada": aprobada,
+        "estado": estado,
     }
     print(f"contexto: {contexto}")
     

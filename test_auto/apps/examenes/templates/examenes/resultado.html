@@ -9,9 +9,11 @@
         color: #fff;
         text-align: center;
     }
-    .bg-aprobado { background-color: #28a745; }     /* verde */
+    .bg-excelente { background-color: #28a745; } /* verde */
+    .bg-aprobado { background-color: #ffc107; }     /* amarillo */
     .bg-reprobado { background-color: #dc3545; }     /* rojo */
-    .bg-parcial   { background-color: #ffc107; }     /* amarillo */
+    .bg-parcial   { background-color: #007bff; }     /* azul */
+    .bg-no-disponible { background-color: #6c757d; } /* gris */   
 </style>
 
 {% comment %}
@@ -20,9 +22,11 @@
 
 <div class="container mt-5">
     <div class="resultado-box 
-        {% if aprobada %}
+        {% if estado == 'excelente' %}
+            bg-excelente
+        {% elif estado == 'aprobado' %}
             bg-aprobado
-        {% elif cant_respuestas < total_preguntas %}
+        {% elif estado == 'parcial' %}
             bg-parcial
         {% else %}
             bg-reprobado
@@ -34,12 +38,12 @@
         <p><strong>Fallos:</strong> {{ incorrectas }}</p>
         <hr class="my-4">
         <h4>
-            {% if aprobada %}
+            {% if estado == 'excelente' %}
                 ¡Examen aprobado! Excelente trabajo.
-            {% elif cant_respuestas >= total_preguntas|divisibleby:2 %}
-                Aún no aprobado, pero vas por buen camino.
+            {% elif estado == 'aprobado' %}
+                ¡Examen aprobado! Necesitas repasar más. ¡Ánimo!    
             {% else %}
-                Necesitas repasar más. ¡Ánimo!
+                ¡Examen reprobado! Necesitas repasar más. ¡Ánimo!
             {% endif %}
         </h4>
     </div>
