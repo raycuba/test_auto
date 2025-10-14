@@ -279,7 +279,8 @@
         "pregunta": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
         "respuestas": {
             "1": "Utilizarlo sólo para adelantar a una velocidad máxima de 80 kilómetros por hora.",
-            "2": "No circular por él porque la circulación está prohibida."
+            "2": "No circular por él porque la circulación está prohibida.",
+            "3": "Utilizarlo únicamente cuando así lo indiquen las señales o semáforos."
         },
         "respuestaCorrecta": 3,
         "practica": true
