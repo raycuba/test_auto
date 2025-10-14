@@ -47,7 +47,7 @@
 
         {% for test in tests %}
             {% if test.estado != 'no_disponible' %}
-                <div class="col-12 col-md-3">
+                <div class="col-12 col-md-3" {% if test.next == 'yes' %}id="next"{% endif %}>
                     <a href="{% url 'tests:pregunta_view' test.name 0 %}#titulotest" class="btn 
                         {% if test.estado == 'excelente' %}
                             btn-primary bg-excelente                 

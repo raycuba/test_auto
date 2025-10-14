@@ -47,7 +47,7 @@
 
         {% for examen in examenes %}
             {% if examen.estado != 'no_disponible' %}
-                <div class="col-12 col-md-3">
+                <div class="col-12 col-md-3" {% if examen.next == 'yes' %}id="next"{% endif %}>
                     <a href="{% url 'examenes:pregunta_view' examen.name 0 %}#tituloexamen" class="btn 
                         {% if examen.estado == 'excelente' %}
                             btn-primary bg-excelente                 

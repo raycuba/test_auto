@@ -56,6 +56,7 @@ def list(request):
     
     # Crear una lista con los nombres de los examenes, un campo desaprobado si tienen mas de 3 respuestas incorrectas
     examenes = []
+    next_examen_set = False
     for examen_file in examenes_files:
         examen = {
             "name": examen_file.name,
@@ -74,13 +75,21 @@ def list(request):
             respuesta = respuestasExamen.filter(pregunta_numero=pregunta["numeroPregunta"]).only("respuesta_seleccionada").first()
             if respuesta and str(respuesta.respuesta_seleccionada) != str(pregunta["respuestaCorrecta"]):
                 incorrectas += 1
+                
+        examen['next'] = 'no'
         
         if cant_preguntas == 0:
             examen['estado'] = 'no_disponible'
         elif cant_respuestas == 0:
             examen['estado'] = 'sin_hacer'
+            if not next_examen_set:
+                examen['next'] = 'yes'
+                next_examen_set = True
         elif cant_respuestas < cant_preguntas:
             examen['estado'] = 'parcial'
+            if not next_examen_set:
+                examen['next'] = 'yes'
+                next_examen_set = True
         else:
             if incorrectas > 3:
                 examen['estado'] = 'reprobado'

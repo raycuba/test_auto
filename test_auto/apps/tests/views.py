@@ -56,6 +56,7 @@ def list(request):
     
     # Crear una lista con los nombres de los tests, un campo desaprobado si tienen mas de 3 respuestas incorrectas
     tests = []
+    next_test_set = False
     for test_file in tests_files:
         test = {
             "name": test_file.name,
@@ -74,13 +75,21 @@ def list(request):
             respuesta = respuestasTest.filter(pregunta_numero=pregunta["numeroPregunta"]).only("respuesta_seleccionada").first()
             if respuesta and str(respuesta.respuesta_seleccionada) != str(pregunta["respuestaCorrecta"]):
                 incorrectas += 1
+                
+        test['next'] = 'no'
         
         if cant_preguntas == 0:
             test['estado'] = 'no_disponible'
         elif cant_respuestas == 0:
             test['estado'] = 'sin_hacer'
+            if not next_test_set:
+                test['next'] = 'yes'
+                next_test_set = True
         elif cant_respuestas < cant_preguntas:
             test['estado'] = 'parcial'
+            if not next_test_set:
+                test['next'] = 'yes'
+                next_test_set = True
         else:
             if incorrectas > 3:
                 test['estado'] = 'reprobado'

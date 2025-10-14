@@ -23,7 +23,7 @@
 
             <!-- Botones normales para pantallas medianas en adelante -->
             <div class="d-none d-md-inline">
-                <a href="{% url 'tests:list' %}" class="btn btn-outline-secondary">Volver a Tests</a>
+                <a href="{% url 'tests:list' %}#next" class="btn btn-outline-secondary">Volver a Tests</a>
                 <a href="{% url 'tests:clean_respuestas' test=test %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
             </div>
 
@@ -34,7 +34,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="menuBotones">
-                    <li><a class="dropdown-item" href="{% url 'tests:list' %}">Volver a Tests</a></li>
+                    <li><a class="dropdown-item" href="{% url 'tests:list' %}#next">Volver a Tests</a></li>
                     <li><a class="dropdown-item" href="{% url 'tests:clean_respuestas' test=test %}">Limpiar Respuestas</a></li>
                 </ul>
             </div>

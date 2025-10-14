@@ -23,7 +23,7 @@
 
             <!-- Botones normales para pantallas medianas en adelante -->
             <div class="d-none d-md-inline">
-                <a href="{% url 'examenes:list' %}" class="btn btn-outline-secondary">Volver a Exámenes</a>
+                <a href="{% url 'examenes:list' %}#next" class="btn btn-outline-secondary">Volver a Exámenes</a>
                 <a href="{% url 'examenes:clean_respuestas' examen=examen %}" class="btn btn-outline-secondary">Limpiar Respuestas</a>
             </div>
 
@@ -34,7 +34,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="menuBotones">
-                    <li><a class="dropdown-item" href="{% url 'examenes:list' %}">Volver a Exámenes</a></li>
+                    <li><a class="dropdown-item" href="{% url 'examenes:list' %}#next">Volver a Exámenes</a></li>
                     <li><a class="dropdown-item" href="{% url 'examenes:clean_respuestas' examen=examen %}">Limpiar Respuestas</a></li>
                 </ul>
             </div>
