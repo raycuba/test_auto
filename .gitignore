@@ -11,6 +11,10 @@ __pycache__/
 # Ignore environment variables file
 .env
 
+# excluir archivos de configuración de IDEs
+.vscode/
+.idea/
+
 # Ignore database files
 db.sqlite3
 *.db
