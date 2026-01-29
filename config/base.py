@@ -150,7 +150,7 @@ STORAGES = {
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField' 
 
 # JSONs Data Path
 JSONS_DATA_PATH = BASE_DIR / "test_auto" / "data" / "jsons"
